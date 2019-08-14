@@ -1,0 +1,3 @@
+[Preoperative staging of non-small-cell bronchial carcinoma with PET].
+?
+['Biopsy', 'Carcinoma, Non-Small-Cell Lung/diagnostic imaging/*pathology/surgery', 'Humans', 'Lung Neoplasms/diagnostic imaging/*pathology/surgery', 'Lymph Nodes/diagnostic imaging/pathology', 'Lymphatic Metastasis', 'Neoplasm Staging', 'Prospective Studies', 'Sensitivity and Specificity', '*Tomography, Emission-Computed']

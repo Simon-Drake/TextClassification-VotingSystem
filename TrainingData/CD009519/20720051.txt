@@ -1,0 +1,3 @@
+Functional imaging to differentiate pulmonary carcinoids.
+?
+['Carcinoid Tumor/*diagnosis/diagnostic imaging/*pathology', '*Cell Differentiation', 'Diagnostic Imaging/*methods', 'Humans', 'Lung Neoplasms/*diagnosis/diagnostic imaging/*pathology', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed']

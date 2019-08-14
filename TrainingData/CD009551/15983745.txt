@@ -1,0 +1,3 @@
+Divergent regulation of aflatoxin production at acidic pH by two Aspergillus strains.
+Production of aflatoxins (AF) by Aspergillus flavus and A. parasiticus is known to occur only at acidic pH. Although typical A. flavus isolates produced more AF as the external pH became increasingly acidic, an atypical strain from West Africa produced less. The lower AF production was not well correlated with decreases in expression of the aflatoxin pathway regulatory gene, aflR, or of two other biosynthesis genes.
+['Aflatoxins/*biosynthesis/genetics', 'Aspergillus flavus/genetics/*metabolism', 'Benin', 'Hydrogen-Ion Concentration', 'RNA, Messenger/biosynthesis/genetics', 'Reverse Transcriptase Polymerase Chain Reaction']

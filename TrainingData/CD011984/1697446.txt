@@ -1,0 +1,3 @@
+Gestational age at maternal serum alpha-fetoprotein screening and the detection of Down syndrome.
+?
+['Down Syndrome/*diagnosis', 'Female', 'Fetal Diseases/*diagnosis', 'Gestational Age', 'Humans', 'Pregnancy', '*Prenatal Diagnosis', 'Regression Analysis', 'alpha-Fetoproteins/*analysis']

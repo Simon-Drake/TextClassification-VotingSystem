@@ -1,0 +1,3 @@
+[Prenatal genetic screening: biochemical markers of the first and second quarter].
+?
+['Biomarkers/*blood', 'Down Syndrome/*diagnosis', 'Female', '*Genetic Testing', 'Humans', 'Neural Tube Defects/*diagnosis', 'Pregnancy/*blood', '*Pregnancy Trimester, First', '*Pregnancy Trimester, Second', '*Prenatal Care']

@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHFine-Needle MeSHBronchoscopy MeSHDiagnosis MeSHDifferential MeSHFemale MeSHFollow-UpStudies MeSHGranulom MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMediastinoscopy MeSHMiddleAged MeSHPositron-EmissionTomography MeSHRetrospectiveStudies MeSHThoracicDisease

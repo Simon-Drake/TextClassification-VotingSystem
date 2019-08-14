@@ -1,0 +1,3 @@
+Difficulties in prenatal detection of mosaic trisomy 8.
+?
+['Adult', '*Chromosomes, Human, Pair 8', 'False Negative Reactions', 'Female', 'Humans', 'Male', '*Mosaicism', 'Pregnancy', '*Prenatal Diagnosis', '*Trisomy']

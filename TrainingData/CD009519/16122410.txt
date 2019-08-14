@@ -1,0 +1,3 @@
+[Utility of PET-18FDG in primary tumor site in a patient with cerebral metastases].
+?
+['Adenocarcinoma/complications/*diagnostic imaging/*secondary', 'Aged', 'Alzheimer Disease/complications', 'Bone Neoplasms/diagnostic imaging/secondary', 'Brain Neoplasms/complications/*diagnostic imaging/*secondary', 'Fatal Outcome', 'Female', '*Fluorodeoxyglucose F18', 'Gait Disorders, Neurologic/etiology', 'Humans', 'Lung Neoplasms/complications/*diagnostic imaging', 'Lymphatic Metastasis', 'Mental Disorders/etiology', 'Mesencephalon/*diagnostic imaging/pathology', 'Neoplasms, Unknown Primary/*diagnostic imaging', '*Positron-Emission Tomography', '*Radiopharmaceuticals', 'Thalamus/*diagnostic imaging/pathology']

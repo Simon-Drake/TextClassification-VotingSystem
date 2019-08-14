@@ -1,0 +1,3 @@
+Marked response to both S-1 and pemetrexed in a patient with echinoderm microtubule-associated protein-like 4-anaplastic lymphoma kinase-positive lung adenocarcinoma.
+?
+['Adenocarcinoma/*chemistry/diagnosis/*drug therapy', 'Adult', 'Antimetabolites, Antineoplastic/*therapeutic use', 'Biomarkers, Tumor/*analysis', 'Cell Cycle Proteins/*analysis', 'Drug Combinations', 'Glutamates/*therapeutic use', 'Guanine/*analogs & derivatives/therapeutic use', 'Humans', 'Lung Neoplasms/*chemistry/diagnosis/*drug therapy', 'Male', 'Microtubule-Associated Proteins/*analysis', 'Oxonic Acid/*therapeutic use', 'Pemetrexed', 'Positron-Emission Tomography', 'Receptor Protein-Tyrosine Kinases/*analysis', 'Serine Endopeptidases/*analysis', 'Tegafur/*therapeutic use', 'Treatment Outcome']

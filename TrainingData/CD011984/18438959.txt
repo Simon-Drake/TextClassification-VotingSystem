@@ -1,0 +1,3 @@
+A case of a bloodstained amniotic fluid sample from a pregnant woman with Down syndrome analyzed by QF-PCR after low-speed centrifugation.
+?
+['Adult', 'Amniocentesis/*adverse effects', 'Down Syndrome/diagnosis/*genetics', 'Female', 'Humans', 'Infant, Newborn', 'Male', 'Polymerase Chain Reaction/*methods', 'Pregnancy', 'Term Birth', 'Terminal Repeat Sequences/genetics']

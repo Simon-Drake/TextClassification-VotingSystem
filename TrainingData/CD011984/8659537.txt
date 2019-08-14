@@ -1,0 +1,3 @@
+When does maternal age-dependent trisomy 21 arise relative to meiosis?
+?
+['Adult', 'Down Syndrome/*genetics', 'Female', 'Genetic Markers', 'Heterozygote', 'Homozygote', 'Humans', 'Male', 'Maternal Age', 'Meiosis/*genetics', 'Pregnancy']

@@ -1,0 +1,1 @@
+MeSHAdult MeSHChorionicVilliSampling MeSHChromosomes MeSHHuman MeSHPair8 MeSHFemale MeSHFetalGrowthRetardation MeSHGestationalAge MeSHHumans MeSHInSituHybridization MeSHFluorescence MeSHKaryotyping MeSHMale MeSHMosaicism MeSHPlacenta MeSHPregnancy MeSHTrisomy

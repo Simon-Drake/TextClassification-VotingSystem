@@ -1,0 +1,3 @@
+[Inhibin in pregnancy--a new screening marker for prenatal diagnosis?].
+?
+['Biomarkers/*analysis', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Inhibins/*analysis/physiology', 'Pre-Eclampsia/*diagnosis', 'Pregnancy', 'Pregnancy, Ectopic/*diagnosis', '*Prenatal Diagnosis', 'Trophoblastic Neoplasms/*diagnosis', 'Uterine Neoplasms/*diagnosis']

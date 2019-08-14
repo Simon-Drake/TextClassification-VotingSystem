@@ -1,0 +1,3 @@
+[Some symptoms of malignity in peripheral nodular lung tumors].
+?
+['Adult', 'Branchioma/*diagnostic imaging', 'Carcinoma, Bronchogenic/*diagnostic imaging', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Radiography', 'Tomography']

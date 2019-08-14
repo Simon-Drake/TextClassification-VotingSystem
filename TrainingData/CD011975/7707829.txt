@@ -1,0 +1,3 @@
+Amniotic-fluid cell growth and fetal aneuploidy.
+?
+['Amniotic Fluid/*cytology', '*Aneuploidy', 'Cell Division', 'Cells, Cultured', 'Female', 'Fetal Diseases/*genetics/pathology', 'Gestational Age', 'Humans', 'Pregnancy', 'Prenatal Diagnosis']

@@ -1,0 +1,3 @@
+Aneuploidy screening of preimplantation embryos using comparative genomic hybridization versus fluorescence in situ hybridization techniques.
+?
+['*Aneuploidy', 'Female', 'Humans', '*In Situ Hybridization, Fluorescence', '*Nucleic Acid Hybridization', 'Pregnancy', '*Preimplantation Diagnosis/methods']

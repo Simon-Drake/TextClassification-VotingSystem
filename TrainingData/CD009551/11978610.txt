@@ -1,0 +1,3 @@
+Unusual late onset of X-linked chronic granulomatous disease in an adult woman after unsuspicious childhood.
+?
+['Adult', 'Age of Onset', 'Aspergillosis/diagnosis', 'Aspergillus fumigatus', 'Diagnosis, Differential', 'Female', 'Granulomatous Disease, Chronic/*diagnosis/genetics', 'Humans', 'Membrane Glycoproteins/*genetics', 'Mutation', 'NADPH Oxidase/*genetics', 'Polymerase Chain Reaction', 'Recurrence']

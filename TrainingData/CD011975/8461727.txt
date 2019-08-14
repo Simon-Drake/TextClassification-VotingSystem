@@ -1,0 +1,3 @@
+Analysis of national register of Down's syndrome in England and Wales: trends in prenatal diagnosis, 1989-91.
+?
+['Adult', 'Down Syndrome/*epidemiology/genetics/prevention & control', 'England/epidemiology', 'Female', 'Fetal Diseases/*epidemiology', 'Genetic Testing', 'Humans', 'Maternal Age', 'Pregnancy', 'Pregnancy, High-Risk', 'Prenatal Diagnosis/methods/*utilization', '*Registries', 'Wales/epidemiology']

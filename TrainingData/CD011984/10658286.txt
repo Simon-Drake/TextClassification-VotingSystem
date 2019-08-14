@@ -1,0 +1,3 @@
+Deriving risks of Down's syndrome from nuchal translucency measurements.
+?
+['Anthropometry/*methods', 'Down Syndrome/*diagnostic imaging', 'Female', 'Humans', 'Likelihood Functions', 'Neck/*diagnostic imaging', 'Predictive Value of Tests', 'Pregnancy', 'Reproducibility of Results', 'Risk Factors', 'Ultrasonography, Prenatal/*methods']

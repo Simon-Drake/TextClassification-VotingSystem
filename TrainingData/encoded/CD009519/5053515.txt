@@ -1,0 +1,1 @@
+MeSHBronchialNeoplasm MeSHChondrom MeSHDiagnosis MeSHDifferential MeSHEchinococcosis MeSHPulmonar MeSHHamartom MeSHHumans MeSHLungNeoplasm MeSHNeoplasmMetastasi MeSHRadiography MeSHTomography

@@ -1,0 +1,3 @@
+[Importance and relative value of chest x-ray and lung scintigram for diagnosis and staging of bronchial carcinoma].
+?
+['Biopsy, Needle', 'Bronchial Neoplasms/*diagnosis/pathology', 'Bronchography', 'Bronchoscopy', 'Evaluation Studies as Topic', 'Humans', 'Lung', 'Lung Neoplasms/diagnosis', 'Mediastinal Neoplasms/diagnosis', 'Methods', 'Radiography, Thoracic', 'Radionuclide Imaging', 'Tomography']

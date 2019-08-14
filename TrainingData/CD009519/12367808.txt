@@ -1,0 +1,3 @@
+How to optimize staging in early non-small cell lung cancer.
+?
+['Biopsy, Needle', 'Carcinoma, Non-Small-Cell Lung/diagnostic imaging/*pathology', 'Humans', 'Lung Neoplasms/diagnostic imaging/*pathology', 'Mediastinoscopy', 'Neoplasm Staging/*methods', 'Radiography', 'Tomography, Emission-Computed']

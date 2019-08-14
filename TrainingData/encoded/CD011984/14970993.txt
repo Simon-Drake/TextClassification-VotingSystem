@@ -1,0 +1,1 @@
+MeSHBloodFlowVelocity MeSHCase-ControlStudies MeSHFemale MeSHGestationalAge MeSHHeartRate MeSHFetal MeSHHumans MeSHKaryotyping MeSHNeck MeSHPregnancy MeSHProspectiveStudies MeSHUltrasonography MeSHDoppler MeSHUltrasonography MeSHPrenatal MeSHUmbilicalArteries

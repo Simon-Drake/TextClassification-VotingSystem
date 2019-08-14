@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAspergillu MeSHCellobios MeSHCellulos MeSHDextrin MeSHHalf-Life MeSHHydrogen-IonConcentration MeSHHydrolysis MeSHKinetics MeSHModels MeSHMolecular MeSHMolecularSequenceData MeSHProteinStructure MeSHTertiary MeSHSequenceAlignment MeSHTemperature MeSHTrichoderm MeSHbeta-Glucosidas

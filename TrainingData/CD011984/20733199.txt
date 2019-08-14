@@ -1,0 +1,3 @@
+Importance of minor markers on the second-trimester sonogram.
+?
+['Adult', 'Counseling', 'Down Syndrome/*diagnostic imaging', 'False Positive Reactions', 'Female', 'Heart Defects, Congenital/*diagnostic imaging', 'Humans', 'Patient Acceptance of Health Care', 'Pregnancy', 'Pregnancy Trimester, Second', '*Ultrasonography, Prenatal']

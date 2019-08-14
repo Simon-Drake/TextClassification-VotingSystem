@@ -1,0 +1,3 @@
+Does (124)Iodo-deoxyuridine measure cell proliferation in NSCLC? Initial investigations with PET imaging and radio-metabolite analysis.
+?
+['Carcinoma, Non-Small-Cell Lung/diagnostic imaging/*metabolism', '*Cell Proliferation', 'Humans', 'Idoxuridine/*pharmacokinetics', 'Image Enhancement/methods', 'Iodine Radioisotopes/*pharmacokinetics', 'Lung Neoplasms/diagnostic imaging/*metabolism', 'Metabolic Clearance Rate', 'Pilot Projects', 'Radionuclide Imaging', 'Reproducibility of Results', 'Sensitivity and Specificity']

@@ -1,0 +1,1 @@
+MeSHAdult MeSHAgeDistribution MeSHAged MeSHCase-ControlStudies MeSHChi-SquareDistribution MeSHDentistr MeSHDermatitis MeSHAllergicContac MeSHFemale MeSHGoldAlloy MeSHHumans MeSHIncidence MeSHMale MeSHMiddleAged MeSHPatchTests MeSHProbability MeSHProspectiveStudies MeSHRiskFactors MeSHSeverityofIllnessIndex MeSHSexDistribution MeSHSwede

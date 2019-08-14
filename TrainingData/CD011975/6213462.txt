@@ -1,0 +1,3 @@
+[Genetic counseling and prenatal diagnosis in multiple pregnancy].
+?
+['Adult', 'Amniocentesis', 'Down Syndrome/diagnosis', 'Female', '*Genetic Counseling', 'Humans', 'Male', 'Pregnancy', '*Pregnancy, Multiple', '*Prenatal Diagnosis', 'Twins']

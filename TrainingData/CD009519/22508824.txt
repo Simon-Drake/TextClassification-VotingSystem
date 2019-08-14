@@ -1,0 +1,3 @@
+Remarkable tumor response to crizotinib in a 14-year-old girl with ALK-positive non-small-cell lung cancer.
+?
+['Adenocarcinoma/diagnosis/*drug therapy/genetics/pathology', 'Adolescent', 'Carcinoma, Non-Small-Cell Lung/diagnosis/*drug therapy/genetics/pathology', 'Female', 'Humans', 'Lung Neoplasms/diagnosis/*drug therapy/genetics/pathology', 'Lymphatic Metastasis', 'Mutation', 'Protein Kinase Inhibitors/*therapeutic use', 'Pyrazoles/*therapeutic use', 'Pyridines/*therapeutic use', 'Receptor Protein-Tyrosine Kinases/*genetics', 'Tomography, Emission-Computed', 'Treatment Outcome']

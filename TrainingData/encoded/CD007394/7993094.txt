@@ -1,0 +1,1 @@
+MeSHAflatoxins MeSHAminoAcidSequence MeSHAnthraquinones MeSHAspergillus MeSHBaseSequence MeSHDNA MeSHFungal MeSHGenes MeSHFungal MeSHMolecularSequenceData MeSHTranscription MeSHGenetic MeSHTransformation MeSHBacterial

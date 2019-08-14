@@ -1,0 +1,3 @@
+A long and bumpy road.
+?
+['Adrenal Gland Neoplasms/*secondary', 'Adult', 'Antineoplastic Combined Chemotherapy Protocols/therapeutic use', 'Cardiac Surgical Procedures', 'Echocardiography', 'Female', 'Heart Neoplasms/*diagnosis/drug therapy/*secondary/surgery', 'Humans', 'Leiomyosarcoma/*secondary', 'Lung Neoplasms/*secondary', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed', 'Uterine Neoplasms/*pathology']

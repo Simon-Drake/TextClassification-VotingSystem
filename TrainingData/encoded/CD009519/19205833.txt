@@ -1,0 +1,1 @@
+MeSHAdministration MeSHInhalation MeSHHumans MeSHInjections MeSHIntravenous MeSHIsotopeLabelin MeSHLun MeSHPulmonaryEmbolis MeSHRadiopharmaceutical MeSHTechnetiumTc99mAggregatedAlbumi MeSHTomography MeSHEmission-Computed MeSHSingle-Photo

@@ -1,0 +1,3 @@
+False positive high probability V/Q scan due to malignant obstruction of both pulmonary vein and artery.
+?
+['False Positive Reactions', 'Female', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Middle Aged', 'Perfusion', '*Positron-Emission Tomography', 'Pulmonary Artery/*diagnostic imaging/*pathology', 'Pulmonary Veins/*diagnostic imaging/*pathology', 'Tomography, X-Ray Computed']

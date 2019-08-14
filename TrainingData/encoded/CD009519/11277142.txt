@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAged MeSHColorectalNeoplasm MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHRetrospectiveStudies MeSHRiskFactors MeSHSurvivalRate MeSHTreatmentOutcome

@@ -1,0 +1,3 @@
+Clinical Images: Hippokrates confirmed by positron emission tomography.
+?
+['Adenocarcinoma/diagnostic imaging/surgery', 'Comorbidity', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/diagnostic imaging/surgery', 'Male', 'Middle Aged', 'Osteoarthropathy, Primary Hypertrophic/*diagnostic imaging/epidemiology', 'Periostitis/*diagnostic imaging/epidemiology', 'Positron-Emission Tomography']

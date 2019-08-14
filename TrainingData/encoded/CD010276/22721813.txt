@@ -1,0 +1,1 @@
+MeSHAntineoplasticAgents MeSHPhytogeni MeSHApoptosi MeSHCarcinoma MeSHSquamousCel MeSHCellLine MeSHTumor MeSHCellProliferatio MeSHDNABreaks MeSHDouble-Strande MeSHDNADamag MeSHDose-ResponseRelationship MeSHDrug MeSHHumans MeSHMembranePotential MeSHMitochondria MeSHMouthNeoplasm MeSHPyrone MeSHReactiveOxygenSpecie

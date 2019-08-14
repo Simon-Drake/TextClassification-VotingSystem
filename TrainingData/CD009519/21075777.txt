@@ -1,0 +1,3 @@
+A case of pulmonary typical carcinoid with an extensive oncocytic component showing intense uptake of FDG.
+?
+['Carcinoid Tumor/*diagnostic imaging/metabolism/pathology', 'Fluorodeoxyglucose F18/pharmacokinetics', 'Glucose Transporter Type 1/metabolism', 'Humans', 'Lung Neoplasms/*diagnostic imaging/metabolism/pathology', 'Neoplasm Proteins/metabolism', 'Positron-Emission Tomography', 'Radiopharmaceuticals/pharmacokinetics', 'Tomography, X-Ray Computed']

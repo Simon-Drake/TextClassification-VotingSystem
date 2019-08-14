@@ -1,0 +1,1 @@
+MeSHAdult MeSHBiopsy MeSHNeedle MeSHDrainage MeSHDrugAdministrationSchedule MeSHFemale MeSHFertilityAgents MeSHFemale MeSHFollow-UpStudies MeSHHumans MeSHInjections MeSHIntramuscular MeSHLeuprolide MeSHMenstruationDisturbances MeSHPleurodesis MeSHPneumothorax MeSHRecurrence MeSHTomography MeSHX-RayComputed MeSHTreatmentOutcome

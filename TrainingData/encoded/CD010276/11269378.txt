@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHHumans MeSHMouthMucos MeSHMouthNeoplasm MeSHProcessAssessment(HealthCare) MeSHRetrospectiveStudies MeSHTimeandMotionStudies

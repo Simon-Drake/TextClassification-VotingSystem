@@ -1,0 +1,3 @@
+Screening for fetal trisomy 21: voluntary registration of pregnancy outcome is invalid.
+?
+['Adult', 'Belgium/epidemiology', 'Down Syndrome/*epidemiology', 'Female', 'Humans', 'Mass Screening/*methods', 'Pregnancy', 'Pregnancy Outcome', '*Registries', '*Voluntary Programs']

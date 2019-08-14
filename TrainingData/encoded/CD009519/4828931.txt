@@ -1,0 +1,1 @@
+MeSHBronchiti MeSHCoug MeSHCyst MeSHDiagnosis MeSHDifferential MeSHDyspne MeSHHemoptysi MeSHHumans MeSHInfluenza MeSHHuma MeSHLungAbsces MeSHLungDisease MeSHLungNeoplasm MeSHPneumoni MeSHRadiography MeSHThoracic MeSHRespiratoryFunctionTests MeSHTomography MeSHTuberculosis MeSHPulmonar

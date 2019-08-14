@@ -1,0 +1,1 @@
+MeSHCyst MeSHHumans MeSHInflammation MeSHMagneticResonanceImaging MeSHMout MeSHMouthDisease MeSHMouthFloo MeSHMouthMucos MeSHMouthNeoplasm MeSHNeckMuscle MeSHPhysicalExamination MeSHTomography MeSHX-RayComputed MeSHUltrasonography MeSHDoppler MeSHColor MeSHVascularMalformation

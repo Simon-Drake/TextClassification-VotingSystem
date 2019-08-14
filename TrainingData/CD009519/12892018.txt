@@ -1,0 +1,3 @@
+[Surgical treatment of tumor metastases in the lungs, brain or liver].
+?
+['Brain Neoplasms/*secondary/*surgery', 'Humans', 'Liver Neoplasms/*secondary/*surgery', 'Lung Neoplasms/*secondary/*surgery', 'Prognosis', 'Tomography, Spiral Computed', 'Treatment Outcome']

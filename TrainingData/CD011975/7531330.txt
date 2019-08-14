@@ -1,0 +1,3 @@
+Pregnancy-associated plasma protein A (PAPP-A), a first-trimester screening test for Down syndrome and other chromosomal anomalies.
+?
+['Adult', 'Biomarkers/blood', 'Chromosome Aberrations/blood/*diagnosis', 'Chromosome Disorders', 'Down Syndrome/blood/*diagnosis', 'Female', 'Fetal Diseases/blood/*diagnosis', 'Humans', 'Middle Aged', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy-Associated Plasma Protein-A/*analysis', 'Prenatal Diagnosis/*methods']

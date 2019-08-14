@@ -1,0 +1,3 @@
+SPECT images using 99mTc(V)-DMS in lung metastasis of osteosarcoma.
+Color images of single-photon emission computed tomography (SPECT) using technetium-99m(V) dimercaptosuccinic acid (99mTc(V)-DMS) were demonstrated in a patient with lung metastases from osteosarcoma. SPECT image using 99mTc(V)-DMS could be useful for the detection of lung metastasis from osteosarcoma.
+['Adult', 'Humans', 'Lung Neoplasms/diagnostic imaging/*secondary', 'Male', '*Organotechnetium Compounds', 'Osteosarcoma/diagnostic imaging/*secondary', '*Succimer', '*Sulfhydryl Compounds', 'Technetium Tc 99m Dimercaptosuccinic Acid', '*Tomography, Emission-Computed, Single-Photon']

@@ -1,0 +1,1 @@
+MeSHChromosomeMapping MeSHChromosomes MeSHHuman MeSHPair9 MeSHEndometriosis MeSHFemale MeSHGeneticLinkage MeSHHeterozygote MeSHHumans MeSHLodScore MeSHMicrosatelliteRepeats MeSHPolymorphism MeSHGenetic MeSHReferenceValues MeSHUTP-Hexose-1-PhosphateUridylyltransferase

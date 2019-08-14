@@ -1,0 +1,3 @@
+Fetoscopy and the prenatal diagnosis of chromosomal mosaicism.
+?
+['Female', '*Fetoscopy', 'Humans', 'Infant, Newborn', '*Mosaicism', 'Pregnancy', '*Prenatal Diagnosis', 'Trisomy']

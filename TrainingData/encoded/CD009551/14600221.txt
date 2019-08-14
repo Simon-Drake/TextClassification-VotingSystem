@@ -1,0 +1,1 @@
+MeSHFungalProtein MeSHGeneExpressionRegulation MeSHFungal MeSHIntrons MeSHOpenReadingFrames MeSHPolymeraseChainReaction MeSHRNASplicing MeSHRNA MeSHFunga MeSHRNA MeSHMessenge MeSHTranscription MeSHGenetic MeSHTransformation MeSHGenetic MeSHTrichoderm

@@ -1,0 +1,3 @@
+Extended resections for primary lung cancer with oncological principles.
+?
+['Combined Modality Therapy', 'Disease Progression', 'Humans', 'Lung Neoplasms/diagnosis/*surgery/therapy', 'Mediastinoscopy', 'Neoplasm Staging', 'Pneumonectomy/methods', 'Positron-Emission Tomography', 'Pulmonary Artery/surgery', 'Sternotomy', 'Tomography, X-Ray Computed']

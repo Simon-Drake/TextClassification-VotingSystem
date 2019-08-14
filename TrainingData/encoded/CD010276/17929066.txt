@@ -1,0 +1,1 @@
+MeSHBiomarkers MeSHTumo MeSHBiopsy MeSHCarcinoma MeSHSquamousCel MeSHCellAdhesionMolecule MeSHDiseaseProgression MeSHHumans MeSHMale MeSHMiddleAged MeSHMouthMucos MeSHMouthNeoplasm MeSHNeoplasmRecurrence MeSHLoca

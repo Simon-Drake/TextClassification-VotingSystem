@@ -1,0 +1,3 @@
+The view box.
+?
+['Aged', 'Arteriovenous Fistula/*diagnostic imaging', 'Arteriovenous Malformations/diagnostic imaging', 'Diagnosis, Differential', 'Female', 'Hemangioma/*diagnostic imaging', 'Humans', 'Lung Diseases/*diagnostic imaging', 'Lung Neoplasms/*diagnostic imaging', 'Radiography', 'Tomography']

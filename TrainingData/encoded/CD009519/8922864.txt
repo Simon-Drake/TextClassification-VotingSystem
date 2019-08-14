@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSmallCel MeSHErythrocytes MeSHFalsePositiveReactions MeSHHemangiom MeSHHumans MeSHLiverNeoplasm MeSHLungNeoplasm MeSHTechnetium MeSHTomography MeSHEmission-Computed MeSHSingle-Photon

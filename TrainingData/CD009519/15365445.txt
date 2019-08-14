@@ -1,0 +1,3 @@
+FDG accumulation in inguinal herniation mimicking metastatic disease.
+?
+['Brain Neoplasms/diagnostic imaging/metabolism/secondary', 'Diagnosis, Differential', 'Fluorodeoxyglucose F18/*pharmacokinetics', 'Hernia, Inguinal/*diagnostic imaging/*metabolism', 'Humans', 'Lung Neoplasms/*diagnostic imaging/*metabolism', 'Male', 'Middle Aged', 'Positron-Emission Tomography/methods', 'Radiopharmaceuticals/pharmacokinetics']

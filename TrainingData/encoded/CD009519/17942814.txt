@@ -1,0 +1,1 @@
+MeSHAged MeSHCarcinoma MeSHNon-Small-CellLun MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHLymphNode MeSHLymphaticMetastasis MeSHMale MeSHMediastinum MeSHMiddleAged MeSHPositron-EmissionTomograph MeSHROCCurve MeSHRadiography MeSHRadiopharmaceuticals MeSHRetrospectiveStudies

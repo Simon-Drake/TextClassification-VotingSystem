@@ -1,0 +1,3 @@
+Prenatal diagnosis of mosaic 22q11.2 microdeletion.
+?
+['Adult', '*Chromosomes, Human, Pair 22', 'Female', '*Gene Deletion', 'Gestational Age', 'Heart Defects, Congenital/diagnostic imaging/genetics', 'Humans', 'Male', '*Mosaicism', 'Pregnancy', '*Prenatal Diagnosis', 'Ultrasonography']

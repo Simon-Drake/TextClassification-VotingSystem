@@ -1,0 +1,3 @@
+[Further cases of bronchopulmonary cancers studied by tomography, according to the Frain technic].
+?
+['Carcinoma, Bronchogenic/*diagnostic imaging', 'Humans', 'Lung Neoplasms/*diagnostic imaging', '*Tomography', '*Tomography, X-Ray Computed']

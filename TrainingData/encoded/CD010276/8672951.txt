@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHDiagnosis MeSHDifferential MeSHEndoscopy MeSHFluorescence MeSHHeadandNeckNeoplasm MeSHHumans MeSHLasers MeSHLipNeoplasm MeSHTongueNeoplasm

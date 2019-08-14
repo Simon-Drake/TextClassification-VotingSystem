@@ -1,0 +1,3 @@
+[Lung cancer: what criteria are available to assess the post-treatment response?].
+?
+['Humans', 'Lung/diagnostic imaging/pathology', 'Lung Neoplasms/pathology/*therapy', '*Outcome Assessment (Health Care)', 'Positron-Emission Tomography', 'Reproducibility of Results']

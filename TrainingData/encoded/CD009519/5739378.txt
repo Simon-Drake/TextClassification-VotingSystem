@@ -1,0 +1,1 @@
+MeSHBronch MeSHBronchialDisease MeSHBronchography MeSHForeignBodie MeSHHumans MeSHLungDisease MeSHLungNeoplasm MeSHModels MeSHStructural MeSHTomography

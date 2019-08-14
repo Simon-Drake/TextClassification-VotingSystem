@@ -1,0 +1,1 @@
+MeSHBiomarkers MeSHTumor MeSHBreastNeoplasms MeSHColonicNeoplasms MeSHEndometriosis MeSHHumans MeSHIsoelectricFocusing MeSHIsoenzymes MeSHLungNeoplasms MeSHNeoplasms MeSHSialyltransferases

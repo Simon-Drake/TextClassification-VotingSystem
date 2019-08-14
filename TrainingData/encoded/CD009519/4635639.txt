@@ -1,0 +1,1 @@
+MeSHAdult MeSHBronchialDisease MeSHBronchialNeoplasm MeSHBronchography MeSHDiagnosis MeSHDifferential MeSHFemale MeSHHumans MeSHLungDisease MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHTomography

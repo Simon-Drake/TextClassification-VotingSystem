@@ -1,0 +1,3 @@
+[ASPECTS OF TRACHEO-BRONCHIAL NEOPLASMS STUDIED WITH VARIOUS RADIOLOGICAL TECHNICS].
+?
+['*Adenoma', '*Bronchial Neoplasms', '*Bronchography', '*Bronchoscopy', '*Carcinoma', '*Carcinoma, Basal Cell', '*Carcinoma, Bronchogenic', '*Carcinoma, Squamous Cell', '*Geriatrics', 'Humans', '*Neoplasms', '*Radiography', '*Smoking', '*Tomography', '*Tracheal Neoplasms']

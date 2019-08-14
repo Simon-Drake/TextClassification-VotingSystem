@@ -1,0 +1,3 @@
+Pulmonary clostridium perfringens infection detected by FDG positron emission tomography.
+?
+['Aged', 'Aged, 80 and over', 'Clostridium Infections/*diagnostic imaging', '*Clostridium perfringens', 'Diagnosis, Differential', 'Female', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Diseases/*diagnostic imaging/microbiology', 'Lung Neoplasms/diagnostic imaging', '*Radiopharmaceuticals', '*Tomography, Emission-Computed']

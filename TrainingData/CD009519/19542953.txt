@@ -1,0 +1,3 @@
+Small bowel metastasis from lung cancer detected on FDG PET/CT.
+?
+['Carcinoma, Non-Small-Cell Lung/*diagnostic imaging/secondary', 'Fluorodeoxyglucose F18', 'Humans', 'Intestinal Neoplasms/*diagnostic imaging/secondary', 'Intestine, Small/*diagnostic imaging/pathology', 'Lung Neoplasms/*diagnostic imaging/pathology', 'Male', 'Middle Aged', 'Positron-Emission Tomography', 'Radiopharmaceuticals', 'Tomography, X-Ray Computed']

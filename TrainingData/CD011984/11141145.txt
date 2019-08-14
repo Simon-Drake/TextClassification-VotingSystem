@@ -1,0 +1,3 @@
+Existence and quality of written antenatal screening policies in the United Kingdom: postal survey.
+?
+['Cystic Fibrosis/diagnosis', 'Down Syndrome/diagnosis', 'Female', 'Fetal Diseases/*diagnosis', '*Guideline Adherence', 'Hemoglobinopathies/diagnosis', 'Humans', 'Midwifery', 'Neural Tube Defects/diagnosis', 'Obstetrics/standards', '*Policy Making', 'Pregnancy', 'Prenatal Diagnosis/*standards', '*Quality Assurance, Health Care', 'United Kingdom']

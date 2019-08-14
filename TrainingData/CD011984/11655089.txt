@@ -1,0 +1,3 @@
+Prenatal diagnosis and pregnancy options.
+?
+['Abortion, Eugenic', 'Adoption', '*Congenital, Hereditary, and Neonatal Diseases and Abnormalities', '*Counseling', '*Decision Making', 'Disabled Persons', 'Down Syndrome', '*Genetic Counseling', 'Genetic Diseases, Inborn', '*Guidelines as Topic', 'Health Personnel', 'Humans', 'Labor, Obstetric', 'Parents', 'Patient Care', 'Pregnancy', 'Pregnant Women', '*Prenatal Diagnosis', 'Referral and Consultation', 'Self-Help Groups', 'Social Welfare', 'Stress, Psychological', 'United States']

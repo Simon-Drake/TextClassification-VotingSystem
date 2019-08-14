@@ -1,0 +1,1 @@
+MeSHAdenocarcinoma MeSHBiomarkers MeSHTumor MeSHCervicalIntraepithelialNeoplasia MeSHCervixUteri MeSHCyclin-DependentKinaseInhibitorp16 MeSHFemale MeSHHumans MeSHImmunohistochemistry MeSHKi-67Antigen MeSHProto-OncogeneProteinsc-bcl-2 MeSHUterineCervicalNeoplasms MeSHVimentin

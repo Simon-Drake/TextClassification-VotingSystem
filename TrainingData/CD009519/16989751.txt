@@ -1,0 +1,3 @@
+Hypoxic imaging with 99mTc-HL91 single photon emission computed tomography in advanced nonsmall cell lung cancer.
+?
+['Adult', 'Aged', 'Carcinoma, Non-Small-Cell Lung/*diagnostic imaging/metabolism/radiotherapy', '*Cell Hypoxia', 'Female', 'Humans', 'Lung Neoplasms/*diagnostic imaging/metabolism/radiotherapy', 'Male', 'Middle Aged', '*Organotechnetium Compounds', '*Oximes', '*Tomography, Emission-Computed, Single-Photon']

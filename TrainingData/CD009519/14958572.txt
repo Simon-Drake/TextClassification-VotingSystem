@@ -1,0 +1,3 @@
+[Transverso-axial tomography in pulmonary and bronchial cancer].
+?
+['*Bronchi', '*Bronchial Neoplasms', '*Carcinoma, Bronchogenic', '*Lung Neoplasms', '*Neoplasms', '*Tomography']

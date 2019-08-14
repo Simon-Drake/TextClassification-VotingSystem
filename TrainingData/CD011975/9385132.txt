@@ -1,0 +1,3 @@
+Ultrasonographic screening for fetal aneuploidy.
+?
+['Aneuploidy', 'Chromosome Aberrations/*diagnostic imaging', 'Chromosome Disorders', 'Female', 'Fetus/*abnormalities', 'Humans', 'Neck/*abnormalities/diagnostic imaging/embryology', 'Pregnancy', '*Ultrasonography, Prenatal']

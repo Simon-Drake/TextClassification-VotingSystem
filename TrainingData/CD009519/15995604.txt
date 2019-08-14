@@ -1,0 +1,3 @@
+[The PET medical checkup considered from the viewpoint of radiological protection].
+?
+['England/epidemiology', '*Fluorine Radioisotopes', '*Fluorodeoxyglucose F18', 'Humans', 'Japan/epidemiology', 'Lung Neoplasms/diagnostic imaging', '*Positron-Emission Tomography/standards/statistics & numerical data', 'Radiation Dosage', '*Radiation Protection', 'Safety', 'Tomography, X-Ray Computed']

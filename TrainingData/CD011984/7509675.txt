@@ -1,0 +1,3 @@
+[Initial experiences with the triple test in Austria].
+?
+['Austria', 'Chorionic Gonadotropin/blood', 'Down Syndrome/*diagnosis', 'Estriol/blood', 'Female', 'Humans', 'Infant, Newborn', 'Pregnancy', 'Pregnancy Trimester, Second', '*Prenatal Diagnosis', 'Ultrasonography, Prenatal', 'alpha-Fetoproteins/analysis']

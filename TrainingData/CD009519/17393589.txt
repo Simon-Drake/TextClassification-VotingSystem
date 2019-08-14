@@ -1,0 +1,3 @@
+Lung cancer screening in women. Women seem to have a special vulnerability to lung cancer, whether they smoke or not. Is it time to be tested?
+?
+['Female', 'Humans', 'Lung Neoplasms/*diagnostic imaging/etiology', 'Mass Screening/*methods', 'Risk Factors', 'Smoking/adverse effects', '*Tomography, Spiral Computed']

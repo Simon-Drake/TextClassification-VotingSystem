@@ -1,0 +1,3 @@
+A strategy based on galactomannan antigen detection and PCR for invasive pulmonary aspergillosis following influenza A (H1N1) pneumonia.
+?
+['Antigens, Fungal/*analysis', 'Aspergillus/*isolation & purification', 'Bronchoalveolar Lavage Fluid/*chemistry', 'Female', 'Humans', 'Invasive Pulmonary Aspergillosis/*diagnosis', 'Male', 'Mannans/*analysis']

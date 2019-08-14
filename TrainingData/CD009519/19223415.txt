@@ -1,0 +1,3 @@
+Characterization of hilar and mediastinal foci on 18F-FDG PET: new variables.
+?
+['Algorithms', 'False Positive Reactions', '*Fluorodeoxyglucose F18', 'Humans', 'Image Interpretation, Computer-Assisted', 'Lung Neoplasms/*diagnostic imaging/pathology', 'Lymph Nodes/*diagnostic imaging', 'Mediastinum/*diagnostic imaging', 'Positron-Emission Tomography', 'Tuberculosis, Pulmonary/diagnostic imaging']

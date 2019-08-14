@@ -1,0 +1,3 @@
+Primary intrapulmonary thymoma mimicking lung cancer.
+?
+['Biopsy, Needle', 'Choristoma/*diagnosis/surgery', 'Diagnosis, Differential', 'Follow-Up Studies', 'Humans', 'Lung Diseases/*diagnosis/surgery', 'Lung Neoplasms/diagnosis', 'Male', 'Middle Aged', 'Pneumonectomy/*methods', 'Positron-Emission Tomography', 'Thymoma/*diagnosis/surgery', '*Thymus Gland', 'Thymus Neoplasms/*diagnosis/surgery', 'Tomography, X-Ray Computed']

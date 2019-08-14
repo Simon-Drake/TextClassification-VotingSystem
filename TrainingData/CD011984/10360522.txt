@@ -1,0 +1,3 @@
+Serum hyperglycosylated hCG: a potential screening test for fetal Down syndrome.
+?
+['Case-Control Studies', 'Chorionic Gonadotropin/*blood', 'Down Syndrome/blood/*diagnosis/embryology', 'Female', 'Fetal Diseases/blood/*diagnosis/embryology', 'Humans', 'Pilot Projects', 'Pregnancy', '*Prenatal Diagnosis']

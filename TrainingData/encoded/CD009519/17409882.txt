@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdenocarcinoma MeSHBronchiolo-Alveola MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHLungTransplantation MeSHMale MeSHNeoplasmInvasiveness MeSHNeoplasmStaging MeSHPositron-EmissionTomography MeSHPrognosis MeSHTomography MeSHX-RayComputed

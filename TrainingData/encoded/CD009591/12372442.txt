@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHCytogeneticAnalysis MeSHEndometriosis MeSHFemale MeSHGeneExpressionProfiling MeSHGenomics MeSHHumans MeSHOligonucleotideArraySequenceAnalysis MeSHPolymeraseChainReaction MeSHProteome MeSHResearch

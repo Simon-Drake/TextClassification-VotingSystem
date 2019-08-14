@@ -1,0 +1,3 @@
+Spontaneous pregnancy in a woman with 45,X/47,XXX mosaicism in both serum and germ cell lines. A case report.
+BACKGROUND: This is the first published case report of pregnancy in a women with 45, X/47, XXX mosaicism in both blood and germ cell lines. CASE: The patient conceived, and analysis of ovarian tissue confirmed a karyotype of 45, X/47, XXX. CONCLUSION: Women with a 45, X/47, XXX karyotype in the germ cell line can conceive, as this case demonstrates.
+['Adult', 'Cesarean Section', 'Female', 'Germ Cells', 'Gestational Age', 'Humans', 'Karyotyping', '*Mosaicism', 'Pregnancy', '*Pregnancy Outcome', '*Pregnancy, High-Risk', 'Sex Chromosome Aberrations', 'Turner Syndrome/blood/*diagnosis', 'Ultrasonography, Prenatal/methods']

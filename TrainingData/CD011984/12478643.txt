@@ -1,0 +1,3 @@
+Prenatal diagnosis of iniencephaly and alobar holoprosencephaly with trisomy 13 mosaicism: a case report.
+?
+['Adult', 'Amniocentesis', '*Chromosomes, Human, Pair 13', 'Cytogenetic Analysis', 'Female', 'Holoprosencephaly/*diagnosis/genetics', 'Humans', 'Mosaicism/*genetics', 'Neural Tube Defects/*diagnosis/genetics', 'Pregnancy', '*Prenatal Diagnosis', '*Trisomy', 'Ultrasonography, Prenatal']

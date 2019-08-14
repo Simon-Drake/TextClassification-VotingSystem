@@ -1,0 +1,3 @@
+The new lung cancer staging system: what does it mean?
+Staging now provides the basis for any cancer treatment, determining prognosis and treatment and allowing for comparison of clinical outcomes. Changes in the lung cancer staging system have been implemented to represent our evolving knowledge and expanding diagnostic and therapeutic modalities. Current changes are designed to be minimally disruptive to historical staging systems, but new methods of treatment and better understanding of tumor biology may revolutionize our current staging classification in the future.
+['Humans', 'Lung Neoplasms/diagnostic imaging/mortality/*pathology', '*Neoplasm Staging', 'Survival Analysis', 'Tomography, Emission-Computed']

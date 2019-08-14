@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAminoAcidSubstitution MeSHBaseSequence MeSHCostelloSyndrome MeSHCutisLaxa MeSHDNAMutationalAnalysis MeSHFemale MeSHHumans MeSHInfant MeSHInfant MeSHNewborn MeSHMale MeSHMolecularSequenceData MeSHMosaicism MeSHMutation MeSHPregnancy MeSHProto-OncogeneProteinsp21(ras)

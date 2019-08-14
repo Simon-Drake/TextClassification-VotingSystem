@@ -1,0 +1,3 @@
+Idiopathic pulmonary fibrosis on F-18 FDG positron emission tomography.
+?
+['Aged', 'Carcinoma, Squamous Cell/complications/*diagnostic imaging/secondary', 'Diagnosis, Differential', 'Female', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/secondary', 'Positron-Emission Tomography/*methods', 'Pulmonary Fibrosis/complications/*diagnostic imaging', 'Radiopharmaceuticals', 'Tongue Neoplasms/complications/*diagnostic imaging']

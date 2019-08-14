@@ -1,0 +1,1 @@
+MeSHBreastNeoplasm MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHGammaCameras MeSHHumans MeSHLungNeoplasm MeSHLymphaticMetastasi MeSHNeoplasmMetastasi MeSHRadiopharmaceuticals MeSHTomography MeSHEmission-Computed

@@ -1,0 +1,3 @@
+What can be worse than cerebral tuberculosis? A concomitant [correction of concommitant] Aspergillus infection.
+?
+['Adult', 'Amphotericin B/therapeutic use', 'Antifungal Agents/therapeutic use', 'Antitubercular Agents/therapeutic use', 'Aspergillosis/*complications/drug therapy', 'Aspergillus/immunology/isolation & purification', 'Brain/diagnostic imaging/*pathology', 'Female', 'Humans', 'Immunoglobulin G/blood/cerebrospinal fluid', 'Immunoglobulin M/blood/cerebrospinal fluid', 'Magnetic Resonance Imaging', 'Mycobacterium tuberculosis/isolation & purification', 'Polymerase Chain Reaction', 'Radiography', 'Tuberculosis, Central Nervous System/blood/cerebrospinal fluid/*complications/diagnosis/physiopathology', 'Tuberculosis, Pulmonary/complications/drug therapy']

@@ -1,0 +1,3 @@
+Detection of lung tumor by single-photon emission computed tomographic sestamibi imaging.
+?
+['Adenocarcinoma/*diagnostic imaging', 'Aged', 'Coronary Disease/diagnostic imaging', 'Female', 'Humans', 'Lung Neoplasms/*diagnostic imaging', '*Technetium Tc 99m Sestamibi', '*Tomography, Emission-Computed, Single-Photon']

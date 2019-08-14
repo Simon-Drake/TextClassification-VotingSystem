@@ -1,0 +1,3 @@
+Lung cancer in the native lung after single-lung transplantation.
+?
+['Carcinoma, Non-Small-Cell Lung/diagnosis/*etiology/surgery', 'Female', 'Humans', 'Lung Neoplasms/diagnosis/*etiology/surgery', 'Lung Transplantation/*adverse effects', 'Middle Aged', 'Multimodal Imaging', 'Pneumonectomy', 'Positron-Emission Tomography', 'Reoperation', 'Tomography, X-Ray Computed']

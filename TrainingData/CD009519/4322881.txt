@@ -1,0 +1,3 @@
+[Clinical and roentgenologic characteristics of pulmonary adenomas].
+?
+['Adenocarcinoma, Bronchiolo-Alveolar/*diagnosis/diagnostic imaging', 'Adult', 'Biopsy', 'Bronchography', 'Diagnosis, Differential', 'Female', 'Humans', 'Lung Neoplasms/*diagnosis/diagnostic imaging', 'Male', 'Methods', 'Middle Aged', 'Pneumonia/diagnosis/diagnostic imaging', 'Tomography', 'Tuberculoma/diagnosis', 'Tuberculosis, Pulmonary/diagnosis']

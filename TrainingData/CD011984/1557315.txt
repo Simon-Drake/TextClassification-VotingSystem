@@ -1,0 +1,3 @@
+A further case of mosaic isochromosome 20q detected in amniotic fluid cells.
+?
+['Adult', 'Amniotic Fluid/*cytology', 'Chromosome Aberrations/*diagnosis', 'Chromosome Disorders', '*Chromosomes, Human, Pair 20', 'Female', 'Fetal Blood/cytology', 'Humans', '*Mosaicism', 'Predictive Value of Tests', 'Pregnancy']

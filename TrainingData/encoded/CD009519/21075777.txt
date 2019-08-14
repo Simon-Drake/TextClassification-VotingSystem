@@ -1,0 +1,1 @@
+MeSHCarcinoidTumo MeSHFluorodeoxyglucoseF1 MeSHGlucoseTransporterType MeSHHumans MeSHLungNeoplasm MeSHNeoplasmProtein MeSHPositron-EmissionTomography MeSHRadiopharmaceutical MeSHTomography MeSHX-RayComputed

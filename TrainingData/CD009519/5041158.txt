@@ -1,0 +1,3 @@
+Abnormal lung perfusion in a patient with bronchial adenoma.
+?
+['Adenoma/*diagnosis', 'Adult', 'Albumins', 'Bronchial Neoplasms/*diagnosis', 'Humans', 'Iodine Radioisotopes', 'Lung/diagnostic imaging', 'Male', '*Perfusion', 'Pulmonary Artery/diagnostic imaging', 'Radiography', 'Radionuclide Imaging', 'Tomography']

@@ -1,0 +1,3 @@
+[Pancoast and Tobias syndrome of benign origin].
+?
+['Female', 'Head and Neck Neoplasms/*complications/surgery', 'Horner Syndrome/etiology', 'Humans', 'Lung/diagnostic imaging', 'Middle Aged', 'Neck/diagnostic imaging', 'Neurilemmoma/*complications/surgery', 'Pain/etiology', 'Pancoast Syndrome/*etiology', 'Radiography', 'Scapula', 'Tomography']

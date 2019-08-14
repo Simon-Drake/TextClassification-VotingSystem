@@ -1,0 +1,3 @@
+Update on prenatal diagnosis of true mosaic trisomy 17 in amniocyte cultures.
+?
+['*Amniocentesis', 'Amniotic Fluid/cytology', 'Cells, Cultured', '*Chromosomes, Human, Pair 17', 'Female', 'Humans', '*Mosaicism', 'Pregnancy', '*Trisomy']

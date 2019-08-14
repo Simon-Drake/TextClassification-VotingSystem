@@ -1,0 +1,1 @@
+MeSHChild MeSHFemale MeSHHumans MeSHIodineRadioisotope MeSHPositron-EmissionTomography MeSHRadiationDosage MeSHRadiometr MeSHRadiotherapyPlanning MeSHComputer-Assiste MeSHRetrospectiveStudies MeSHThyroidNeoplasm MeSHTimeFactors

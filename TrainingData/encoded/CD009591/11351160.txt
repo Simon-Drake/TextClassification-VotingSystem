@@ -1,0 +1,1 @@
+MeSHAbdominalPain MeSHAdult MeSHAmpullaofVater MeSHBiopsy MeSHCholangiography MeSHCholangiopancreatography MeSHEndoscopicRetrograde MeSHCommonBileDuctDiseases MeSHDiagnosis MeSHDifferential MeSHEndometriosis MeSHFemale MeSHFever MeSHHumans MeSHTreatmentOutcome

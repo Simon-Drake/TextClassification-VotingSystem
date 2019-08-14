@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHBiops MeSHCarcinomainSit MeSHCarcinoma MeSHSquamousCel MeSHColoringAgents MeSHFemale MeSHHumans MeSHLeukoplakia MeSHOra MeSHLichenPlanus MeSHOra MeSHMale MeSHMiddleAged MeSHMouthMucos MeSHMouthNeoplasm MeSHOralUlce MeSHPredictiveValueofTests MeSHToloniumChloride

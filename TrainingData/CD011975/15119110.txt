@@ -1,0 +1,3 @@
+Prenatal screening for birth defects: an update.
+This article summarizes current second trimester prenatal screening methods, and describes recently developed first trimester screening tools. The advantages and potential pitfalls of first trimester screening are outlined.
+['*Congenital Abnormalities/diagnosis/genetics', 'Down Syndrome/*diagnosis', 'Female', 'Genetic Testing', 'Humans', 'Predictive Value of Tests', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy Trimester, Second', 'Prenatal Diagnosis/*methods', 'Ultrasonography, Prenatal/*trends']

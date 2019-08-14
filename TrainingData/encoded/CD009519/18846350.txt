@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHCarcinoma MeSHSquamousCel MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHLymphaticMetastasi MeSHMale MeSHMediastinum MeSHOrganophosphorusCompounds MeSHOrganotechnetiumCompounds MeSHRadiopharmaceuticals MeSHTomography MeSHEmission-Computed MeSHSingle-Photon

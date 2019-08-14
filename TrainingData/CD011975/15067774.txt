@@ -1,0 +1,3 @@
+[Prenatal diagnosis and screening for Down syndrome. The Danish Society of Medical Genetics].
+?
+['Denmark', 'Down Syndrome/*diagnosis/genetics', 'Female', '*Genetics, Medical', 'Humans', 'Pregnancy', '*Prenatal Diagnosis', 'Risk Factors', 'Societies, Medical']

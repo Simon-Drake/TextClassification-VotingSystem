@@ -1,0 +1,1 @@
+MeSHColon MeSHSigmoid MeSHDiagnosis MeSHDifferential MeSHDiarrhea MeSHEndometriosis MeSHFemale MeSHHumans MeSHIntestinalObstruction MeSHMelena MeSHMiddleAged MeSHPatientCareTeam MeSHSigmoidDiseases MeSHSigmoidoscopy MeSHSpasm

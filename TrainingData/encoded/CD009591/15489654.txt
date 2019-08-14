@@ -1,0 +1,1 @@
+MeSHAdenocarcinoma MeSHClearCell MeSHAntigens MeSHCD15 MeSHBiomarkers MeSHTumor MeSHCarcinoma MeSHEndometrioid MeSHDiagnosis MeSHDifferential MeSHEndodermalSinusTumor MeSHFemale MeSHHumans MeSHImmunohistochemistry MeSHKeratin-7 MeSHKeratins MeSHMucin-1 MeSHOvarianNeoplasms MeSHProto-OncogeneProteinsc-kit MeSHWT1Proteins MeSHalpha-Fetoproteins

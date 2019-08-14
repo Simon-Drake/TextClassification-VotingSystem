@@ -1,0 +1,3 @@
+Karyotyping in symmetrically growth-restricted fetuses.
+?
+['Adult', '*Aneuploidy', 'Female', 'Fetal Growth Retardation/*diagnostic imaging/epidemiology/*genetics', 'Humans', '*Karyotyping', 'Pregnancy', 'Pregnancy Trimester, Second', 'Prenatal Diagnosis/*methods', 'Prevalence', 'Regional Blood Flow/physiology', 'Retrospective Studies', 'Slovenia/epidemiology', 'Ultrasonography', 'Umbilical Arteries/physiology']

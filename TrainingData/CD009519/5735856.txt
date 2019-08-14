@@ -1,0 +1,3 @@
+[Simultaneous bronchotomography in the diagnosis of lung diseases].
+?
+['Adolescent', 'Adult', '*Bronchography', 'Female', 'Humans', 'Inflammation', 'Lung Diseases/*diagnostic imaging', 'Lung Neoplasms/diagnostic imaging', 'Male', 'Methods', 'Middle Aged', 'Pneumonectomy/adverse effects', '*Tomography', 'Tuberculosis, Pulmonary/diagnostic imaging']

@@ -1,0 +1,3 @@
+HCFA's coverage instructions for lung PET. Health Care Financing Administration.
+?
+['Carcinoma, Non-Small-Cell Lung/*diagnostic imaging/economics', 'Centers for Medicare and Medicaid Services (U.S.)', 'Humans', 'Insurance Coverage', 'Lung/*diagnostic imaging', 'Lung Neoplasms/*diagnostic imaging/economics', 'Medicare/*economics', 'Solitary Pulmonary Nodule/*diagnostic imaging/economics', 'Tomography, Emission-Computed/*economics', 'United States']

@@ -1,0 +1,3 @@
+How accurate is a second-trimester prenatal ultrasound in the diagnosis of Down syndrome?
+?
+['Down Syndrome/*diagnostic imaging', 'Evidence-Based Medicine', 'Female', 'Humans', 'Meta-Analysis as Topic', 'Practice Guidelines as Topic', 'Pregnancy', 'Pregnancy Trimester, Second', 'Reproducibility of Results', 'Research Design', 'Ultrasonography, Prenatal/*standards']

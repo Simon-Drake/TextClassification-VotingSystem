@@ -1,0 +1,1 @@
+MeSHAdenocarcinoma MeSHBodyMassIndex MeSHEndometrialNeoplasms MeSHFemale MeSHHumans MeSHNewYork MeSHProportionalHazardsModels MeSHRetrospectiveStudies MeSHRiskFactors MeSHSurvivalAnalysis MeSHTimeFactors

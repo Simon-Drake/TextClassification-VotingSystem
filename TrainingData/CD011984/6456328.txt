@@ -1,0 +1,3 @@
+Prenatal diagnosis and genetic counseling in 21 trisomy: its impact on family planning.
+?
+['Adult', 'Amniocentesis', 'Child', 'Child, Preschool', 'Down Syndrome/*genetics', '*Family Planning Services', 'Female', '*Genetic Counseling', 'Humans', 'Infant', 'Karyotyping', 'Male']

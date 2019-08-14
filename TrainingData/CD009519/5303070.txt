@@ -1,0 +1,3 @@
+[On a case of primary rhabdomyosarcoma of the lung].
+?
+['Adult', 'Bronchography', 'Humans', 'Lung Neoplasms/*diagnostic imaging/*pathology', 'Male', 'Radiography, Thoracic', '*Rhabdomyosarcoma', 'Tomography']

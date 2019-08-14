@@ -1,0 +1,3 @@
+Radiology Rounds. Choroid plexus cysts.
+?
+['Adult', 'Aneuploidy', 'Brain Diseases/diagnostic imaging/genetics', 'Choroid Plexus/*diagnostic imaging', 'Cysts/*diagnostic imaging/genetics', 'Female', 'Fetal Diseases/*diagnostic imaging/genetics', 'Humans', 'Pregnancy', '*Ultrasonography, Prenatal']

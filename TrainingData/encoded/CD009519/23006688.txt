@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAged MeSH80andover MeSHBiopsy MeSHBronchoscopy MeSHDiagnosis MeSHDifferential MeSHFemale MeSHFollow-UpStudies MeSHHumans MeSHImaging MeSHThree-Dimensional MeSHLungNeoplasm MeSHPneumonectomy MeSHPositron-EmissionTomography MeSHTomography MeSHX-RayComputed MeSHVascularMalformation MeSHVascularSurgicalProcedure MeSHVenaCava MeSHSuperio

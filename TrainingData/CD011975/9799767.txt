@@ -1,0 +1,3 @@
+Is prostate-specific antigen a marker for pregnancies affected by Down syndrome?
+?
+['Biomarkers/blood', 'Down Syndrome/*blood/diagnosis', 'Female', 'Humans', 'Luminescent Measurements', 'Pregnancy', 'Pregnancy Trimester, Second', 'Prenatal Diagnosis/*methods', 'Prostate-Specific Antigen/*blood', 'Sensitivity and Specificity']

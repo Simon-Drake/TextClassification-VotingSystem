@@ -1,0 +1,3 @@
+Definition of true and pseudo-mosaicism.
+?
+['Female', 'Humans', '*Mosaicism', 'Pregnancy', '*Prenatal Diagnosis']

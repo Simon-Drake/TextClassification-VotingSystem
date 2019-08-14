@@ -1,0 +1,3 @@
+Down syndrome in sub-Saharan Africa.
+?
+['Adolescent', 'Adult', 'Africa South of the Sahara/epidemiology', 'African Continental Ancestry Group/genetics', 'Child', 'Child, Preschool', 'Down Syndrome/diagnosis/*epidemiology/genetics/pathology/prevention & control', 'European Continental Ancestry Group/genetics', 'Female', 'Fetal Diseases/diagnosis/genetics', 'Heart Defects, Congenital/epidemiology/ethnology/genetics', 'Humans', 'Incidence', 'Infant, Newborn', 'Male', 'Maternal Age', 'Middle Aged', 'Phenotype', 'Pregnancy', 'Prenatal Diagnosis/statistics & numerical data', 'Prevalence']

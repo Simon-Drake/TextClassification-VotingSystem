@@ -1,0 +1,1 @@
+MeSHAlleles MeSHColorVisionDefects MeSHDosageCompensation MeSHGenetic MeSHFactorVIII MeSHFemale MeSHGeneFrequency MeSHGeneticLinkage MeSHGeneticMarkers MeSHHemophiliaA MeSHHeterozygoteDetection MeSHHumans MeSHItaly MeSHMale MeSHModels MeSHGenetic MeSHMutation MeSHPedigree MeSHPrenatalDiagnosis MeSHSexFactors

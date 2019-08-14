@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAspergillusnige MeSHBaseSequence MeSHCellulas MeSHCodon MeSHDN MeSHEnzymeStability MeSHFermentation MeSHMolecularSequenceData MeSHPichi MeSHRecombinantProtein MeSHSequenceAlignment MeSHTransformation MeSHGenetic MeSHbeta-Glucan

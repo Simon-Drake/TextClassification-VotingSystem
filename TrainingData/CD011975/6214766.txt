@@ -1,0 +1,3 @@
+Factors in a woman's decision to undergo genetic amniocentesis for advanced maternal age.
+?
+['Abortion, Therapeutic', 'Adult', 'Amniocentesis/*psychology', 'Decision Making', 'Down Syndrome/diagnosis', 'Female', 'Genetic Counseling', 'Humans', '*Maternal Age', 'Pregnancy', '*Pregnancy, High-Risk', '*Prenatal Diagnosis']

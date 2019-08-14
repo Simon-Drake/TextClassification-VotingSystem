@@ -1,0 +1,3 @@
+Down's syndrome.
+?
+['*Counseling', 'Down Syndrome/*diagnosis', 'Family', 'Humans', '*Prenatal Diagnosis', 'Social Support', 'Stereotyping']

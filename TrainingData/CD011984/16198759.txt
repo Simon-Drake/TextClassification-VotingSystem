@@ -1,0 +1,3 @@
+Prenatal diagnosis.
+?
+['Down Syndrome/*diagnosis', 'False Negative Reactions', 'Female', 'Humans', '*In Situ Hybridization, Fluorescence', '*Karyotyping', 'Pregnancy', '*Prenatal Diagnosis']

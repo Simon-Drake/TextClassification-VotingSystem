@@ -1,0 +1,3 @@
+Ring-shaped FDG uptake in the right lower lung: is it always a tumor?
+?
+['Aged', 'Artifacts', 'Female', '*Fluorodeoxyglucose F18', 'Heart/diagnostic imaging', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', 'Radiopharmaceuticals', '*Tomography, Emission-Computed']

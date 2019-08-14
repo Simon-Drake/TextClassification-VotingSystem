@@ -1,0 +1,3 @@
+[Pulmonary carcinoma in "miller's lung"].
+?
+['Carcinoma, Squamous Cell/*complications', 'Humans', 'Lung Neoplasms/*complications', 'Male', 'Middle Aged', '*Occupational Diseases', 'Radiography', 'Silicosis/*complications/diagnostic imaging', 'Tomography']

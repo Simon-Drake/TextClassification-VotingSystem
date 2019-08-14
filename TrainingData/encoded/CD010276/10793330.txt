@@ -1,0 +1,1 @@
+MeSHAdult MeSHCarcinoma MeSHSquamousCel MeSHCase-ControlStudies MeSHChi-SquareDistribution MeSHCodon MeSHGenes MeSHp5 MeSHGeneticMarkers MeSHHumans MeSHMale MeSHMiddleAged MeSHMouthNeoplasm MeSHPolymeraseChainReactio MeSHSaliv MeSHSequenceAnalysis MeSHDNA

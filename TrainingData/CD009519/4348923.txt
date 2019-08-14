@@ -1,0 +1,3 @@
+Fibrous histiocytoma or xanthoma of the lung with bronchial involvement.
+?
+['*Bronchial Neoplasms/diagnostic imaging/pathology/surgery', 'Female', '*Histiocytoma, Benign Fibrous/diagnostic imaging/pathology/surgery', 'Humans', '*Lung Neoplasms/diagnostic imaging/pathology/surgery', 'Middle Aged', 'Radiography', 'Tomography', '*Xanthomatosis/diagnostic imaging/pathology/surgery']

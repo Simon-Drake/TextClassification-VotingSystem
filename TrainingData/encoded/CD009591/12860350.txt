@@ -1,0 +1,1 @@
+MeSHAbdominalPain MeSHAcuteDisease MeSHAdult MeSHAntineoplasticAgents MeSHHormonal MeSHBreastNeoplasms MeSHCarcinoma MeSHDuctal MeSHBreast MeSHEndometriosis MeSHFemale MeSHHumans MeSHOvarianCysts MeSHPremenopause MeSHSelectiveEstrogenReceptorModulators MeSHTamoxifen

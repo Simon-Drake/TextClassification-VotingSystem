@@ -1,0 +1,3 @@
+Synchronous pulmonary renal cell carcinoma metastases and primary non-small cell lung cancer.
+?
+['Adenocarcinoma/*complications/secondary', 'Aged', 'Carcinoma, Non-Small-Cell Lung/*complications/secondary', 'Carcinoma, Renal Cell/*complications/secondary', 'Female', 'Humans', 'Kidney Neoplasms/*complications/secondary', 'Lung Neoplasms/*complications/pathology', 'Male', 'Middle Aged', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed']

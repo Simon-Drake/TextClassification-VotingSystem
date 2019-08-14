@@ -1,0 +1,3 @@
+Digital clubbing. Demonstration with positron emission tomography.
+Digital clubbing is a classic cutaneous manifestation of pulmonary disease, but its mechanism is unknown. We describe a patient with lung cancer and clubbing in whom positron emission tomography (PET) demonstrated, for the first time, that increased glucose metabolism occurs at the nailbed. PET may contribute to future investigations of digital clubbing.
+['Carcinoma, Squamous Cell/complications/metabolism', 'Female', 'Glucose/*metabolism', 'Humans', 'Lung Neoplasms/complications/metabolism', 'Middle Aged', 'Osteoarthropathy, Secondary Hypertrophic/*diagnostic imaging/etiology/*metabolism', '*Tomography, Emission-Computed']

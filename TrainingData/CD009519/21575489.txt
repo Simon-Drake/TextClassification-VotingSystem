@@ -1,0 +1,3 @@
+[Value of SPECT lung perfusion imaging in the optimization of intensity-modulated radiotherapy for non-small cell lung cancer].
+?
+['Carcinoma, Non-Small-Cell Lung/*diagnostic imaging', 'Humans', 'Lung/diagnostic imaging', 'Lung Neoplasms/*diagnostic imaging', 'Perfusion Imaging', 'Radiotherapy, Intensity-Modulated/methods', 'Tomography, Emission-Computed, Single-Photon/*methods']

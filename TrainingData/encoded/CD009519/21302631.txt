@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHHepatocellula MeSHHumans MeSHLiverNeoplasm MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHNeoplasms MeSHMultiplePrimar MeSHPositron-EmissionTomography MeSHStomachNeoplasm MeSHTomography MeSHX-RayComputed MeSHUrinaryBladderNeoplasm

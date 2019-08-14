@@ -1,0 +1,3 @@
+Bone metastases and lung cancer recurrence on (99m)Tc-depreotide imaging.
+?
+['Bone Neoplasms/*diagnostic imaging/secondary', 'Carcinoma, Non-Small-Cell Lung/*diagnostic imaging/secondary', 'Humans', 'Lung Neoplasms/*diagnostic imaging/pathology', 'Male', 'Middle Aged', 'Neoplasm Recurrence, Local', '*Organotechnetium Compounds', 'Radionuclide Imaging', 'Radiopharmaceuticals', 'Somatostatin/*analogs & derivatives', 'Technetium Tc 99m Sestamibi', 'Thallium Radioisotopes', 'Tomography, X-Ray Computed']

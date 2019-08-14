@@ -1,0 +1,3 @@
+Lung cancer with unusual presentation as a thin-walled cyst in a young nonsmoker.
+?
+['Adenocarcinoma/*pathology/therapy', 'Adult', 'Cysts/*pathology', 'Diagnosis, Differential', 'Fatal Outcome', 'Female', 'Humans', 'Lung Neoplasms/*pathology/therapy', 'Lymphatic Metastasis', 'Mediastinal Neoplasms/*secondary/therapy', 'Positron-Emission Tomography']

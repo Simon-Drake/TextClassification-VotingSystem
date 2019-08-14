@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHColoringAgents MeSHEarlyDiagnosis MeSHHumans MeSHMassScreening MeSHMouthNeoplasm MeSHPrecancerousCondition

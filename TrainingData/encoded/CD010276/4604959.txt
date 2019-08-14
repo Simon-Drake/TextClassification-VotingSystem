@@ -1,0 +1,1 @@
+MeSHAgeFactors MeSHBiopsy MeSHCarcinoma MeSHSquamousCel MeSHCytodiagnosis MeSHGingivalNeoplasm MeSHHumans MeSHMouthFloor MeSHMouthMucosa MeSHMouthNeoplasm MeSHPalatalNeoplasm MeSHSalivaryGlandNeoplasm MeSHTongueNeoplasm

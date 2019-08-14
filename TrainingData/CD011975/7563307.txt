@@ -1,0 +1,3 @@
+Sonographic manifestation and Doppler blood flow study in fetal triploidy syndrome: report of two cases.
+?
+['Abnormalities, Multiple/diagnostic imaging/pathology', 'Adult', '*Aneuploidy', 'Blood Flow Velocity', 'Female', 'Fetal Blood/*diagnostic imaging', 'Fetal Growth Retardation/diagnostic imaging', 'Fetus/*abnormalities', 'Gestational Age', 'Humans', 'Oligohydramnios/diagnostic imaging', 'Pregnancy', 'Pregnancy Trimester, Second', 'Syndrome', '*Ultrasonography, Doppler', '*Ultrasonography, Prenatal', 'Umbilical Arteries/diagnostic imaging']

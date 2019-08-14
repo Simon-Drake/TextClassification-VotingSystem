@@ -1,0 +1,1 @@
+MeSHAdult MeSHBiopsy MeSHFine-Needl MeSHCarcinoma MeSHAdenoidCysti MeSHCellNucleu MeSHChee MeSHColoringAgents MeSHCytodiagnosi MeSHCytoplas MeSHDiagnosis MeSHDifferential MeSHExtracellularSpace MeSHFemale MeSHFluorescentDyes MeSHHumans MeSHMale MeSHMiddleAged MeSHMouthMucos MeSHPalatalNeoplasm MeSHSalivaryGlandNeoplasm MeSHSalivaryGlands MeSHMino

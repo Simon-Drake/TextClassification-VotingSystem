@@ -1,0 +1,3 @@
+Percutaneous needle aspiration biopsy of the lung.
+?
+['Adenocarcinoma, Bronchiolo-Alveolar/diagnosis/diagnostic imaging/pathology', '*Biopsy', 'Fluoroscopy', 'Humans', 'Inhalation', 'Lung Diseases/*pathology', 'Lung Neoplasms/diagnostic imaging/*pathology', 'Methods', 'Outpatient Clinics, Hospital', 'Tomography']

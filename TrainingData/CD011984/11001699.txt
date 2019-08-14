@@ -1,0 +1,3 @@
+Cost-benefit analysis of prenatal diagnosis for Down syndrome using the British or the American approach.
+?
+['Abortion, Eugenic/economics', 'Cost-Benefit Analysis', '*Cross-Cultural Comparison', 'Down Syndrome/diagnosis/*economics', 'Female', 'Humans', 'Infant, Newborn', 'Pregnancy', 'Prenatal Diagnosis/*economics', 'Ultrasonography, Prenatal/economics', 'United Kingdom', 'United States']

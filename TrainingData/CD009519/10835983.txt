@@ -1,0 +1,3 @@
+[Diagnostic value of positron emission tomography (PET) in clinical oncology].
+?
+['Brain Neoplasms/diagnostic imaging', 'Breast Neoplasms/diagnostic imaging', 'Diagnosis, Differential', 'Digestive System Neoplasms/diagnostic imaging', 'Evaluation Studies as Topic', 'Female', 'Fluorodeoxyglucose F18', 'Head and Neck Neoplasms/diagnostic imaging', 'Humans', 'Lung Neoplasms/diagnostic imaging', 'Lymphoma/diagnostic imaging', 'Male', 'Melanoma/diagnostic imaging', 'Neoplasms/*diagnostic imaging', 'Radiopharmaceuticals', '*Tomography, Emission-Computed', 'Urogenital Neoplasms/diagnostic imaging']

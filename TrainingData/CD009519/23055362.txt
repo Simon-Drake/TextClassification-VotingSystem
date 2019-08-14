@@ -1,0 +1,3 @@
+[Personalised treatment of lung cancer].
+?
+['Animals', 'Carcinoma, Non-Small-Cell Lung/*diagnostic imaging/*drug therapy', 'Disease Models, Animal', 'Erlotinib Hydrochloride', 'Humans', 'Lung Neoplasms/*diagnostic imaging/*drug therapy', 'Mice', 'Molecular Targeted Therapy', 'Positron-Emission Tomography/*methods', 'Precision Medicine/*methods', 'Quinazolines/therapeutic use', 'Receptor, Epidermal Growth Factor/antagonists & inhibitors']

@@ -1,0 +1,3 @@
+[Radiologic findings of pulmonary involvement of type B Niemann-Pick disease].
+?
+['Child', 'Female', 'Humans', 'Hyperplasia', 'Lung/*diagnostic imaging/pathology', 'Lung Diseases, Interstitial/*diagnostic imaging/etiology', 'Multiple Pulmonary Nodules/*diagnostic imaging/etiology', 'Niemann-Pick Disease, Type B/*diagnostic imaging', '*Tomography, Spiral Computed']

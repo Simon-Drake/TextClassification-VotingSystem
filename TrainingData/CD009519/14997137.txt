@@ -1,0 +1,3 @@
+EUS staging of primary lung carcinoma: are we ready for it?
+?
+['Biopsy, Needle', 'Carcinoma, Non-Small-Cell Lung/diagnostic imaging/*pathology', 'Endosonography/*standards/trends', 'False Negative Reactions', 'False Positive Reactions', 'Female', 'Forecasting', 'Humans', 'Lung Neoplasms/diagnostic imaging/*pathology', 'Male', 'Neoplasm Invasiveness/pathology', 'Neoplasm Staging/*methods', 'Retrospective Studies', 'Sensitivity and Specificity', 'Tomography, Emission-Computed/methods', 'Tomography, X-Ray Computed']

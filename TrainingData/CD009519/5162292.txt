@@ -1,0 +1,3 @@
+[Post-traumatic pulmonary fibrosis, 29 years old, associated with cancer].
+?
+['Adenocarcinoma/diagnosis', 'Bronchography', 'Humans', 'Lung Injury', 'Lung Neoplasms/complications/*diagnosis', 'Male', 'Middle Aged', 'Pulmonary Fibrosis/complications/*diagnosis', 'Radiography, Thoracic', 'Thoracic Injuries/complications', 'Tomography', 'Wounds, Gunshot/complications']

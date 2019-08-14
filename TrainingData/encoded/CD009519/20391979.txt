@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHBiopsy MeSHFine-Needle MeSHDiagnosis MeSHDifferential MeSHEpithelioidCell MeSHHumans MeSHLun MeSHLungNeoplasm MeSHLymphaticDisease MeSHLymphoma MeSHT-Cell MeSHPeriphera MeSHMale MeSHMiddleAged MeSHPositron-EmissionTomography

@@ -1,0 +1,3 @@
+In vitro fertilization with preimplantation genetic screening.
+?
+['Adult', '*Aneuploidy', 'Chromosome Disorders/diagnosis', 'Cost-Benefit Analysis', 'Female', '*Fertilization in Vitro', '*Genetic Testing/methods', 'Humans', 'Maternal Age', 'Pregnancy', 'Pregnancy Rate', '*Preimplantation Diagnosis/economics']

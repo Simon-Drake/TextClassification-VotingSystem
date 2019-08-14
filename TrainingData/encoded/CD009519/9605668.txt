@@ -1,0 +1,1 @@
+MeSHDiagnosticErrors MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHMelanom MeSHProspectiveStudies MeSHRadiopharmaceuticals MeSHSensitivityandSpecificity MeSHSkinNeoplasm MeSHTomography MeSHEmission-Computed

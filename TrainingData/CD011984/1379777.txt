@@ -1,0 +1,3 @@
+The effect of gestational age on maternal serum alpha-fetoprotein levels in pregnancies with Down syndrome.
+?
+['Down Syndrome/*embryology', 'Female', 'Fetal Diseases', '*Gestational Age', 'Humans', 'Pregnancy/*blood', 'alpha-Fetoproteins/*analysis']

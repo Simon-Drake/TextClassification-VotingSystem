@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHBronchialNeoplasms MeSHCoronaryOcclusio MeSHHeartNeoplasm MeSHHeartRuptur MeSHHumans MeSHMiddleAged MeSHNeoplasmInvasiveness MeSHPericardialEffusio MeSHPositron-EmissionTomography MeSHShock MeSHCardiogeni

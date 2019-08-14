@@ -1,0 +1,3 @@
+[Lung cancer--should positron-emission tomography be used?].
+?
+['Carcinoma, Small Cell/*diagnostic imaging/pathology/therapy', 'Humans', 'Lung Neoplasms/*diagnostic imaging/pathology/therapy', 'Meta-Analysis as Topic', 'Neoplasm Staging', 'Patient Care Planning', '*Tomography, Emission-Computed, Single-Photon/economics/methods']

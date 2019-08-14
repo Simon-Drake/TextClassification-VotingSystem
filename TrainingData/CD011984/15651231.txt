@@ -1,0 +1,3 @@
+Ultrarapid prenatal detection of Down syndrome using real-time multiplex polymerase chain reaction (PCR) in amniotic fluid.
+?
+['Amniotic Fluid/*metabolism', 'Amyloid beta-Protein Precursor', 'Carrier Proteins/genetics', 'Down Syndrome/*diagnosis', 'Female', 'Globins/genetics', 'Humans', 'Polymerase Chain Reaction/*methods', 'Prenatal Diagnosis/*methods', 'Protease Nexins', 'Receptors, Cell Surface']

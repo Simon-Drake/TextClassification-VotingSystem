@@ -1,0 +1,1 @@
+MeSHBreastNeoplasm MeSHCarcinoma MeSHNon-Small-CellLun MeSHDeoxyglucos MeSHFemale MeSHFluorineRadioisotopes MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHMiddleAged MeSHTomography MeSHEmission-Computed

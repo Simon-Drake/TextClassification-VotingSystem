@@ -1,0 +1,3 @@
+Congenital absence of a pedicle in the cervical spine.
+?
+['Adult', 'Cervical Vertebrae/abnormalities/*diagnostic imaging', 'Diagnosis, Differential', 'Female', 'Humans', 'Male', 'Myelography', 'Pancoast Syndrome/diagnostic imaging', 'Spinal Neoplasms/diagnostic imaging', 'Tomography', 'Torsion Abnormality', 'Vertebral Artery']

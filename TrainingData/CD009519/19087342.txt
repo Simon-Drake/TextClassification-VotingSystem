@@ -1,0 +1,3 @@
+Primary lung tumour visualised by transthoracic echocardiography.
+We present images of a rare case where a primary lung tumour was visualised by transthoracic echocardiography. The patient was a 78-year-old male where Chest X-ray had revealed a tumour-suspected structure in the left lung. Both transthoracic echocardiography and combined PET/CT images showed a large tumour located close to the heart. Fine-needle biopsy showed non-small cell lung cancer.
+['Aged', 'Echocardiography/*methods', 'Humans', 'Incidental Findings', 'Lung/*diagnostic imaging', 'Lung Neoplasms/*diagnostic imaging', 'Male']

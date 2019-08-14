@@ -1,0 +1,3 @@
+Rapid prenatal diagnosis of aneuploidies.
+?
+['*Aneuploidy', 'Cytogenetic Analysis/*methods', 'Female', 'Humans', 'Polymerase Chain Reaction/methods', 'Pregnancy', 'Prenatal Diagnosis/*methods', 'Sensitivity and Specificity']

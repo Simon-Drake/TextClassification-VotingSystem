@@ -1,0 +1,3 @@
+Screening of trisomy 21.
+?
+['Adolescent', 'Adult', 'Biomarkers/blood', 'Chorionic Gonadotropin/blood', 'Diagnostic Errors', 'Down Syndrome/blood/diagnosis/*prevention & control', 'Estriol/blood', 'Female', 'Humans', 'Mass Screening', 'Maternal-Fetal Exchange', 'Pregnancy', 'Prenatal Diagnosis', 'Prospective Studies', 'alpha-Fetoproteins/analysis']

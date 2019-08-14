@@ -1,0 +1,3 @@
+State of the art lecture: mediastinal EUS.
+?
+['Biopsy, Fine-Needle/*methods', 'Carcinoma, Non-Small-Cell Lung/*pathology', '*Endosonography', 'Humans', 'Lung Neoplasms/diagnostic imaging/*pathology', 'Lymphatic Metastasis', 'Mediastinoscopy', 'Mediastinum/*diagnostic imaging/*pathology', 'Neoplasm Invasiveness', 'Neoplasm Staging/*methods', 'Positron-Emission Tomography', 'Sarcoidosis, Pulmonary/diagnostic imaging/pathology', 'Sensitivity and Specificity', 'Tomography, X-Ray Computed']

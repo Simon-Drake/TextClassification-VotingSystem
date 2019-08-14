@@ -1,0 +1,1 @@
+MeSHClinicalCompetence MeSHDownSyndrome MeSHFemale MeSHGestationalAge MeSHHumans MeSHLikelihoodFunctions MeSHNuchalTranslucencyMeasurement MeSHPregnancy MeSHPregnancyTrimester MeSHFirst MeSHProbability MeSHQualityControl

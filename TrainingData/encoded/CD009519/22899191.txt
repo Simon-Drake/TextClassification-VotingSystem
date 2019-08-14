@@ -1,0 +1,1 @@
+MeSHAdenocarcinoma MeSHBronchiolo-Alveola MeSHAged MeSHBiologicalTransport MeSHFluorodeoxyglucoseF1 MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMultimodalImaging MeSHNeoplasms MeSHMultiplePrimar MeSHNeoplasms MeSHSquamousCel MeSHPositron-EmissionTomography MeSHTomography MeSHX-RayComputed

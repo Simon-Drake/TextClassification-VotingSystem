@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdult MeSHAged MeSHFemale MeSHFollow-UpStudies MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMassScreenin MeSHMiddleAged MeSHTimeFactors MeSHTomography MeSHSpiralCompute MeSHTreatmentOutcome

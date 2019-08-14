@@ -1,0 +1,3 @@
+First trimester spontaneous resolution of megacystis in a Down syndrome fetus.
+?
+['Abortion, Eugenic', 'Adult', 'Down Syndrome/diagnostic imaging/*physiopathology', 'Female', 'Fetal Diseases/diagnostic imaging', 'Humans', 'Pregnancy', 'Pregnancy Trimester, First', 'Remission, Spontaneous', 'Ultrasonography, Prenatal', 'Urinary Bladder Diseases/diagnostic imaging/*physiopathology']

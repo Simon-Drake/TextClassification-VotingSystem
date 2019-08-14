@@ -1,0 +1,3 @@
+[Attitude of patients to prenatal diagnosis based on the example of families with Down's syndrome children].
+?
+['*Attitude to Health', 'Down Syndrome/*diagnosis', 'Female', 'Fetal Diseases/*diagnosis', 'Genetic Counseling', 'Humans', 'Patient Acceptance of Health Care', 'Pregnancy', '*Prenatal Diagnosis']

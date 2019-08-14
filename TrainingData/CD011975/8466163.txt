@@ -1,0 +1,3 @@
+Elevated levels of maternal serum inhibin immunoreactivity in second trimester pregnancies affected by Down's syndrome.
+?
+['Adult', 'Biomarkers/blood', 'Down Syndrome/*blood/diagnosis/embryology', 'Enzyme-Linked Immunosorbent Assay', 'Female', 'Humans', 'Inhibins/*blood', 'Pregnancy', 'Pregnancy Trimester, Second/*blood', 'Prenatal Diagnosis/methods']

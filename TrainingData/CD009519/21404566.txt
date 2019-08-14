@@ -1,0 +1,3 @@
+[Pulmonary actinomycosis which was clinically suggested lung cancer; report of a case].
+A 57-year-old man had been observed a mass-like shadow on a chest radiograph. One year later, chest computed tomography (CT) revealed the enlargement of the shadow. Positive finding of fluorodeoxyglucose-positron emission tomography (FDG-PET) suspected lung cancer, and lingular segmentectomy was performed. The pathological diagnosis was pulmonary actinomycosis. It is necessary to consider pulmonary actinomycosis is a differential diagnosis of lung cancer.
+['Actinomycosis/*diagnosis', 'Diagnosis, Differential', 'Humans', 'Lung Diseases/*diagnosis', 'Lung Neoplasms/*diagnosis', 'Male', 'Middle Aged']

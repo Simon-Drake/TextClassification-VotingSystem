@@ -1,0 +1,3 @@
+Influence of triple-marker screen risk versus a priori risk in decision for amniocentesis in women of advanced maternal age.
+?
+['*Amniocentesis', 'Biomarkers/*blood', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Maternal Age', 'Pregnancy', 'Pregnancy, High-Risk', '*Prenatal Diagnosis', 'Risk Factors']

@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSmallCel MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHIncidentalFindings MeSHLipom MeSHLungNeoplasm MeSHMiddleAged MeSHMuscleNeoplasm MeSHNeoplasms MeSHAdiposeTissu MeSHPositron-EmissionTomograph MeSHRadiopharmaceuticals

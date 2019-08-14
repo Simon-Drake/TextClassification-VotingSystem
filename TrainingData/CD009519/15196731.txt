@@ -1,0 +1,3 @@
+Nodules, CT-scans and PET-scans: a good partnership.
+?
+['Diagnosis, Differential', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging', '*Radiopharmaceuticals', 'Sensitivity and Specificity', '*Tomography, Emission-Computed', '*Tomography, X-Ray Computed']

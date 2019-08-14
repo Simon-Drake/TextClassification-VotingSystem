@@ -1,0 +1,3 @@
+[PET-CT-guided radiotherapy for non-small cell lung cancer].
+?
+['Carcinoma, Non-Small-Cell Lung/diagnostic imaging/pathology/*radiotherapy', 'Humans', 'Lymphatic Metastasis', 'Positron-Emission Tomography/*methods', 'Radiotherapy Planning, Computer-Assisted', 'Tomography, X-Ray Computed/*methods']

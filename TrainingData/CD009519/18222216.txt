@@ -1,0 +1,3 @@
+Sentinel node mapping in lung cancer: the Holy Grail?
+?
+['Female', 'Fluorodeoxyglucose F18', 'Humans', 'Intraoperative Care/methods', 'Lung Neoplasms/*pathology/surgery', 'Lymph Nodes/diagnostic imaging/*pathology/surgery', 'Male', '*Positron-Emission Tomography', 'Predictive Value of Tests', 'Preoperative Care/methods', 'Prognosis', '*Radiopharmaceuticals', 'Sensitivity and Specificity', 'Sentinel Lymph Node Biopsy/*methods']

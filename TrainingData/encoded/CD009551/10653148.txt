@@ -1,0 +1,1 @@
+MeSHAspergillusnige MeSHCyclicAMP-DependentProteinKinase MeSHFermentation MeSHGeneExpression MeSHGenes MeSHFunga MeSHIsoenzyme MeSHOsmoticPressure MeSHReverseTranscriptasePolymeraseChainReaction MeSHTemperature

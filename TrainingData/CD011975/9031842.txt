@@ -1,0 +1,3 @@
+The diagnostic value of the triple test in the diagnosis of Down's syndrome.
+?
+['Amniocentesis', 'Chorionic Gonadotropin/blood', 'Down Syndrome/*diagnosis', 'Estriol/blood', 'Female', 'Humans', 'Maternal Age', 'Pregnancy', 'Prenatal Diagnosis/*methods', 'alpha-Fetoproteins/analysis']

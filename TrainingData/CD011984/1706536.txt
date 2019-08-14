@@ -1,0 +1,3 @@
+Prenatal screening for open neural tube defects, Down's syndrome, and other major fetal disorders.
+?
+['Adult', 'Amniotic Fluid/chemistry', 'Blood Chemical Analysis', 'Down Syndrome/*diagnosis/epidemiology', 'Female', 'Gestational Age', 'Humans', 'Maternal Age', 'Neural Tube Defects/*diagnosis/epidemiology', 'Pregnancy', '*Prenatal Diagnosis', 'Risk Factors', 'alpha-Fetoproteins/analysis']

@@ -1,0 +1,3 @@
+Prenatal ultrasound evaluation now possible in first trimester. Nuchal translucency thickness can spot Down's syndrome.
+?
+['Down Syndrome/*diagnostic imaging', 'Female', 'Humans', 'Infant, Newborn', 'Neck/diagnostic imaging', 'Pregnancy', 'Pregnancy Trimester, First', 'Sensitivity and Specificity', '*Ultrasonography, Prenatal']

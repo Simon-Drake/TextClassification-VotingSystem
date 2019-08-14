@@ -1,0 +1,3 @@
+Uptake of F-18 FDG by a hiatal hernia.
+?
+['Aged', 'Aged, 80 and over', 'Diagnosis, Differential', '*Fluorodeoxyglucose F18/pharmacokinetics', 'Hernia, Hiatal/*diagnostic imaging/metabolism', 'Humans', 'Lung Neoplasms/diagnostic imaging', 'Male', 'Radiography', 'Radiopharmaceuticals/pharmacokinetics', 'Tomography, Emission-Computed']

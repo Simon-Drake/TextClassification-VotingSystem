@@ -1,0 +1,1 @@
+MeSHAdenom MeSHAdult MeSHBronchialNeoplasm MeSHBronchography MeSHBronchoscopy MeSHCarcinoidTumo MeSHCarcinoma MeSHAdenoidCysti MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPneumonectomy MeSHTomography

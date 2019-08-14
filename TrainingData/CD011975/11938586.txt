@@ -1,0 +1,3 @@
+[Arguments for providing serum screening for Down syndrome for all pregnant women].
+?
+['Age Factors', 'Down Syndrome/blood/*diagnosis', 'Female', 'Humans', '*Mass Screening', 'Pregnancy', 'Prevalence', 'Sensitivity and Specificity', 'Serologic Tests/*methods']

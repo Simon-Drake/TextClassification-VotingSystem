@@ -1,0 +1,1 @@
+MeSHAged MeSHBoneNeoplasm MeSHCarcinoma MeSHSquamousCel MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHIleu MeSHIntestinalNeoplasm MeSHIntestine MeSHSmall MeSHLungNeoplasm MeSHLymphNodeExcision MeSHMale MeSHPneumonectomy MeSHPositron-EmissionTomography MeSHRadiopharmaceuticals MeSHTomography MeSHX-RayComputed

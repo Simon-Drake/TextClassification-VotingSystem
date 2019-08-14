@@ -1,0 +1,3 @@
+Stillbirths, sudden infant deaths, and long-QT syndrome: puzzle or mosaic, the pieces of the Jigsaw are being fitted together.
+?
+['Adult', 'Amino Acid Substitution', 'Emergencies', 'Female', 'Fetal Death/*etiology/genetics', 'Fetal Diseases/genetics/physiopathology', 'Fetal Heart/physiopathology', 'Genetic Testing', 'Heart Block/embryology/etiology', 'Humans', 'Infant', 'Infant, Newborn', 'Long QT Syndrome/embryology/epidemiology/*genetics', 'Models, Biological', '*Mosaicism', 'Mutation, Missense', 'NAV1.5 Voltage-Gated Sodium Channel', 'Neonatal Screening', 'Point Mutation', 'Pregnancy', '*Pregnancy Outcome', 'Recurrence', 'Sodium Channels/deficiency/*genetics', 'Sudden Infant Death/epidemiology/*genetics']

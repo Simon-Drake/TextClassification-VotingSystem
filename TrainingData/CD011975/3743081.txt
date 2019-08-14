@@ -1,0 +1,3 @@
+Chorionic villi sampling: point of view of the medical geneticist.
+?
+['Adult', 'Chorionic Villi/*ultrastructure', '*Chromosome Aberrations', 'Female', 'Genetics, Medical', 'Humans', 'Male', 'Mosaicism', 'Pregnancy', 'Prenatal Diagnosis/*methods', 'Trisomy']

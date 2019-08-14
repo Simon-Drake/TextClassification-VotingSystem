@@ -1,0 +1,1 @@
+MeSHAdult MeSHArthrography MeSHArthroscopy MeSHAthleticInjurie MeSHDiagnosis MeSHDifferential MeSHFemale MeSHHumans MeSHJointDisease MeSHMale MeSHNeurologicExamination MeSHPhysicalExamination MeSHRadionuclideImaging MeSHSprainsandStrain MeSHTomography MeSHX-RayComputed MeSHWristInjurie MeSHWristJoin

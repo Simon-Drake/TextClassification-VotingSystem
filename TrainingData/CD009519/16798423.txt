@@ -1,0 +1,3 @@
+Target contouring protocol for 3D conformal radiotherapy in lung cancer.
+?
+['Algorithms', 'Diagnosis, Computer-Assisted', 'Female', 'Humans', 'Lung/*diagnostic imaging', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Mediastinum/diagnostic imaging', 'Radiotherapy, Conformal/*standards', 'Software', 'Tomography, Emission-Computed/methods', 'Tomography, X-Ray Computed/methods/*standards']

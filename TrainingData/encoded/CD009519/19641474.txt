@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHBiomarkers MeSHTumo MeSHCarcinoma MeSHLargeCel MeSHCarcinoma MeSHNon-Small-CellLun MeSHCarcinoma MeSHSquamousCel MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHNeoplasmStaging MeSHPositron-EmissionTomography MeSHPrognosis MeSHRadiopharmaceuticals MeSHRemissionInduction

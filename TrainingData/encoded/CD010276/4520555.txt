@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSquamousCel MeSHCellNucleus MeSHCytodiagnosis MeSHDNA MeSHNeoplas MeSHHumans MeSHJawNeoplasm MeSHMouthNeoplasm MeSHTuberculosis MeSHOra

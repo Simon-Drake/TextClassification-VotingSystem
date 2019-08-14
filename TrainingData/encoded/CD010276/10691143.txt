@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSquamousCel MeSHColor MeSHDentalPlaqu MeSHFemale MeSHFluorescence MeSHGranulom MeSHHumans MeSHLeukoplakia MeSHOra MeSHMale MeSHMiddleAged MeSHMouthDisease MeSHMouthMucos MeSHMouthNeoplasm MeSHNeoplasmStaging MeSHOralUlce MeSHPhotography MeSHTongu MeSHUltravioletRays

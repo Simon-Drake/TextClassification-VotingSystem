@@ -1,0 +1,3 @@
+Translocation Down syndrome.
+Cytogenetic investigations carried on 1021 cases of Down syndrome revealed translocation in 46 cases. The most frequent was of t(14;21) and t(21;21) types. Most of the translocation DS cases (n = 31) were born to younger mother's (< 25 years), when compared to pure trisomy 21 DS cases. Parental karyotypes, family history and parental ages has helped us greatly in offering genetic counseling, prenatal diagnosis and estimating the risk for the next conception.
+['Chromosomes, Human, Pair 21/genetics', 'Down Syndrome/epidemiology/*genetics', 'Female', 'Genetic Counseling', 'Humans', 'India/epidemiology', 'Male', 'Maternal Age', 'Paternal Age', 'Pregnancy, High-Risk', '*Translocation, Genetic']

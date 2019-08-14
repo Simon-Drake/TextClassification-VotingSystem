@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdolescent MeSHAdult MeSHAged MeSHCarcinoma MeSHSmallCel MeSHCarcinoma MeSHSquamousCel MeSHChild MeSHChild MeSHPreschool MeSHFemale MeSHHumans MeSHInfant MeSHLun MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHOrganophosphorusCompounds MeSHOrganotechnetiumCompounds MeSHRadiopharmaceuticals MeSHTomography MeSHEmission-Computed MeSHSingle-Photo

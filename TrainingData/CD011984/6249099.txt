@@ -1,0 +1,3 @@
+Genetic disorders of male sexual differentiation.
+?
+['17-Hydroxysteroid Dehydrogenases/deficiency', '3-Oxo-5-alpha-Steroid 4-Dehydrogenase/metabolism', 'Aneuploidy', 'Chorionic Gonadotropin/metabolism', 'Disorders of Sex Development/classification/*genetics', 'Female', 'Genitalia, Male/embryology', 'Gonadal Dysgenesis/classification/genetics', 'Heterozygote Detection', 'Humans', 'Klinefelter Syndrome/genetics', 'Male', 'Phenotype', 'Prenatal Diagnosis', 'Receptors, Androgen/metabolism', 'Sex Chromosome Aberrations/classification', 'Testis/embryology', 'Testosterone/metabolism', 'X Chromosome', 'XYY Karyotype', 'Y Chromosome']

@@ -1,0 +1,3 @@
+Down syndrome: current stage of cytogenetic epidemiology.
+?
+['Adult', 'Down Syndrome/diagnosis/epidemiology/*genetics', 'Female', 'Humans', 'Infant, Newborn', 'Male', 'Maternal Age', 'Middle Aged', 'Paternal Age', 'Pregnancy', 'Prenatal Diagnosis', 'Risk', 'Sex Ratio', 'Translocation, Genetic']

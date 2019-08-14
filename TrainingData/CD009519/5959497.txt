@@ -1,0 +1,3 @@
+[Initial radiological aspects of hilar bronchial carcinoma].
+?
+['Bronchial Neoplasms/*diagnostic imaging', 'Humans', 'Male', 'Middle Aged', 'Radiography', 'Tomography']

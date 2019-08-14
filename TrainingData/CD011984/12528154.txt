@@ -1,0 +1,3 @@
+Staying the course.
+?
+['Aneuploidy', 'Female', 'Humans', 'Nasal Bone/*abnormalities/diagnostic imaging', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy Trimester, Second', 'Sensitivity and Specificity', 'Trisomy', '*Ultrasonography, Prenatal']

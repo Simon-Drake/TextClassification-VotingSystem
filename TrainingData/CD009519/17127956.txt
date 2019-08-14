@@ -1,0 +1,3 @@
+[Surgeon plays probably a pivotal role in the management of bronchial carcinoma].
+?
+['Biopsy', 'Bronchoscopy', 'Carcinoma, Non-Small-Cell Lung/diagnosis/diagnostic imaging/pathology/*surgery', 'Humans', 'Lung/pathology', 'Lung Neoplasms/diagnosis/diagnostic imaging/mortality/pathology/*surgery', 'Magnetic Resonance Imaging', 'Neoplasm Staging', 'Patient Selection', 'Pneumonectomy', 'Positron-Emission Tomography', 'Prognosis', 'Radiography, Abdominal', 'Radiography, Thoracic', 'Respiratory Function Tests', 'Time Factors', 'Tomography, X-Ray Computed']

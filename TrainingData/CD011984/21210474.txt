@@ -1,0 +1,3 @@
+A model for a new pyramid of prenatal care based on the 11 to 13 weeks' assessment.
+?
+['Aneuploidy', 'Congenital Abnormalities/diagnosis', 'Female', 'Fetal Macrosomia/diagnosis', 'Fetal Weight', '*Gestational Age', 'Health Policy', 'Humans', 'Pregnancy', 'Pregnancy Complications/diagnosis/prevention & control', 'Prenatal Care/methods/*trends', 'Prenatal Diagnosis/methods/*trends', 'United Kingdom']

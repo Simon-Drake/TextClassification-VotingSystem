@@ -1,0 +1,3 @@
+Serum screening for Down's syndrome. National policy would ensure consistency.
+?
+['Counseling', 'Down Syndrome/*diagnosis', 'Female', 'Fetal Diseases/*diagnosis', 'Health Policy', 'Humans', 'Pregnancy', '*Prenatal Diagnosis', 'State Medicine', 'United Kingdom']

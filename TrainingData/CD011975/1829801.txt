@@ -1,0 +1,3 @@
+Sonographically measured nuchal skinfold thickness as a screening tool for Down syndrome: results of a prospective clinical trial.
+?
+['Down Syndrome/*diagnostic imaging', 'Female', 'Humans', 'Infant, Newborn', 'Neck', 'Pregnancy', '*Skinfold Thickness', '*Ultrasonography, Prenatal']

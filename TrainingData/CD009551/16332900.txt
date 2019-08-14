@@ -1,0 +1,3 @@
+An aflatoxin biosynthesis cluster gene encodes a novel oxidase required for conversion of versicolorin a to sterigmatocystin.
+Disruption of the aflatoxin biosynthesis cluster gene aflY (hypA) gave Aspergillus parasiticus transformants that accumulated versicolorin A. This gene is predicted to encode the Baeyer-Villiger oxidase necessary for formation of the xanthone ring of the aflatoxin precursor demethylsterigmatocystin.
+['Aflatoxins/biosynthesis/*genetics', 'Anthraquinones/*metabolism', 'Bacteria/genetics/*metabolism', 'Base Sequence', 'DNA Primers', 'Fungi/genetics/*metabolism', '*Multigene Family', 'Polymerase Chain Reaction/methods', 'Sterigmatocystin/*biosynthesis']

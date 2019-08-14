@@ -1,0 +1,3 @@
+[Prenatal diagnosis of Down syndrome].
+?
+['Denmark', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Practice Guidelines as Topic', 'Pregnancy', '*Prenatal Diagnosis']

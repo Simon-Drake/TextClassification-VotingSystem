@@ -1,0 +1,3 @@
+Radiation therapy of changes secondary to lung cancer and pneumonectomy on bone and Tc-99m depreotide imaging.
+?
+['Bone Marrow/*diagnostic imaging/metabolism/*radiation effects', 'Carcinoma, Bronchogenic/diagnostic imaging/radiotherapy/surgery', 'Humans', 'Lung Neoplasms/*diagnostic imaging/*radiotherapy/surgery', 'Male', 'Middle Aged', 'Neoplasms, Squamous Cell/radiotherapy/secondary/surgery', '*Organotechnetium Compounds/pharmacokinetics', 'Pneumonectomy', 'Radiation Injuries/*diagnostic imaging', 'Radionuclide Imaging', 'Radiopharmaceuticals/pharmacokinetics', 'Somatostatin/*analogs & derivatives/pharmacokinetics', 'Spine/diagnostic imaging/metabolism/radiation effects', 'Sternum/*diagnostic imaging/metabolism/radiation effects']

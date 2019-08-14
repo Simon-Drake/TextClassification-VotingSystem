@@ -1,0 +1,3 @@
+[Diagnosis of operability of broncho-pulmonary cancer by transverse-axial tomography].
+?
+['*Bronchi', '*Bronchial Neoplasms', '*Lung Neoplasms', '*Neoplasms', '*Tomography']

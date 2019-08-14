@@ -1,0 +1,3 @@
+The future of medicine from the standpoint of the practising paediatrician.
+?
+['Child', 'Down Syndrome/diagnosis/genetics/prevention & control', 'Female', 'Fetal Diseases/diagnosis/genetics/prevention & control', 'Forecasting', 'Genetic Testing', 'Glucosephosphate Dehydrogenase Deficiency/diagnosis/genetics/prevention & control', 'Humans', 'Infant', 'Infant, Newborn', 'Male', 'Pediatrics/*trends', 'Pregnancy', 'Prenatal Diagnosis', 'Preventive Medicine/trends', 'Singapore', 'alpha-Thalassemia/diagnosis/genetics', 'beta-Thalassemia/diagnosis/genetics/prevention & control']

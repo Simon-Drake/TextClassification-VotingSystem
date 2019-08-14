@@ -1,0 +1,3 @@
+Middle lobectomy after pneumonectomy.
+A 59-year-old man underwent a successful middle lobectomy to treat metastasis from a pulmonary adenocarcinoma resected previously by left pneumonectomy.
+['Adenocarcinoma/pathology/secondary/*surgery', 'Humans', 'Lung Neoplasms/pathology/secondary/*surgery', 'Male', 'Middle Aged', '*Pneumonectomy', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed']

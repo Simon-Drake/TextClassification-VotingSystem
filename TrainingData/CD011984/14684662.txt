@@ -1,0 +1,3 @@
+Fetal origin of the GATA1 mutation in identical twins with transient myeloproliferative disorder and acute megakaryoblastic leukemia accompanying Down syndrome.
+?
+['Amino Acid Sequence', 'Base Sequence', 'DNA Mutational Analysis', 'DNA, Complementary/genetics', 'DNA-Binding Proteins/*genetics', 'Down Syndrome/*complications', 'Erythroid-Specific DNA-Binding Factors', 'Female', 'GATA1 Transcription Factor', 'Humans', 'Infant, Newborn', 'Leukemia, Megakaryoblastic, Acute/*complications/*genetics', 'Molecular Sequence Data', '*Mutation', 'Myeloproliferative Disorders/*complications/congenital/*genetics', 'Transcription Factors/*genetics']

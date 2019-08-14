@@ -1,0 +1,3 @@
+Concurrence of sarcoidosis and lung cancer: a diagnostic dilemma.
+?
+['Aged', 'Diagnosis, Differential', 'Humans', 'Lung Neoplasms/complications/*diagnosis', 'Male', 'Positron-Emission Tomography', 'Sarcoidosis, Pulmonary/complications/*diagnosis', 'Tomography, X-Ray Computed']

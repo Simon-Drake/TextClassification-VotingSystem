@@ -1,0 +1,1 @@
+MeSHAnimals MeSHBoneMarrow MeSHCandidiasis MeSHCellCount MeSHColony-FormingUnitsAssay MeSHFemale MeSHImmunity MeSHInnate MeSHLeukocytes MeSHMononuclear MeSHMacrophageColony-StimulatingFactor MeSHMacrophages MeSHMale MeSHMice MeSHMice MeSHInbredBALBC MeSHMice MeSHInbredDBA MeSHRadioimmunoassay MeSHSurvivalRate

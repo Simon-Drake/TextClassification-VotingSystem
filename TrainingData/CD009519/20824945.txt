@@ -1,0 +1,3 @@
+[Molecular imaging].
+?
+['Adenocarcinoma/*diagnostic imaging/pathology', 'Humans', 'Lung Neoplasms/*diagnostic imaging/pathology', 'Male', 'Middle Aged', 'Neoplasm Staging', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed']

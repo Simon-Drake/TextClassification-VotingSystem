@@ -1,0 +1,3 @@
+Combined use of 68Ga-DOTATATE and 18F-FDG PET/CT to localize a bronchial carcinoid associated with ectopic ACTH syndrome.
+?
+['ACTH Syndrome, Ectopic/*diagnostic imaging/etiology', 'Aged', 'Carcinoid Tumor/complications/diagnostic imaging/secretion', 'Carcinoma, Bronchogenic/complications/*diagnostic imaging/secretion', 'Drug Combinations', 'Female', 'Fluorodeoxyglucose F18/*administration & dosage', 'Humans', 'Lung Neoplasms/complications/*diagnostic imaging/secretion', 'Organometallic Compounds/*administration & dosage', 'Pituitary ACTH Hypersecretion/diagnostic imaging/etiology', 'Radionuclide Imaging']

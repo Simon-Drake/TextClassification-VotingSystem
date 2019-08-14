@@ -1,0 +1,3 @@
+18F-2-Deoxy-d-Glucose positron emission tomography-computed tomography in lung cancer.
+?
+['Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/pathology', 'Neoplasm Staging', 'Positron-Emission Tomography/*methods', 'Radiopharmaceuticals', 'Tomography, X-Ray Computed/*methods']

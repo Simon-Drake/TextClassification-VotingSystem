@@ -1,0 +1,3 @@
+Radiographic pneumonitis patterns and low pulmonary toxicity after helical tomotherapy.
+?
+['Adult', 'Aged', 'Diagnosis, Differential', 'Female', 'Humans', 'Lung Neoplasms/*radiotherapy', 'Male', 'Middle Aged', 'Radiation Pneumonitis/*diagnostic imaging', 'Radiotherapy Dosage', 'Radiotherapy, Intensity-Modulated', 'Retrospective Studies', 'Tomography, Spiral Computed/*methods']

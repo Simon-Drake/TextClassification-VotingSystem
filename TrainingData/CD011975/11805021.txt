@@ -1,0 +1,3 @@
+Novel real-time quantitative PCR test for trisomy 21.
+?
+['Amniotic Fluid/cytology', 'Amyloid/genetics', 'DNA/analysis', 'Down Syndrome/*diagnosis', 'Humans', 'Polymerase Chain Reaction', 'Prenatal Diagnosis/*methods']

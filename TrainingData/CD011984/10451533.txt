@@ -1,0 +1,3 @@
+Low maternal serum PAPP-A and fetal viability.
+?
+['Down Syndrome/*blood/*diagnostic imaging', 'Female', '*Fetal Viability', 'Humans', 'Predictive Value of Tests', 'Pregnancy', 'Pregnancy Outcome', 'Pregnancy Trimester, First', 'Pregnancy-Associated Plasma Protein-A/analysis/*deficiency', 'Prospective Studies', 'Time Factors', 'Ultrasonography']

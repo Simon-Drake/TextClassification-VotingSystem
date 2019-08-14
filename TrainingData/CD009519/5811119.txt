@@ -1,0 +1,3 @@
+[Differential diagnosis of the so-called "bronchial aspergilloma"].
+?
+['Aspergillosis/*diagnosis/diagnostic imaging', 'Bronchial Diseases/*diagnosis/diagnostic imaging', 'Bronchial Neoplasms/diagnosis', 'Diagnosis, Differential', 'Echinococcosis, Pulmonary/diagnosis', 'Humans', 'Lung Diseases/diagnosis/diagnostic imaging', 'Male', 'Middle Aged', 'Radiography', 'Solitary Pulmonary Nodule/*etiology', 'Tomography']

@@ -1,0 +1,3 @@
+Positron emission tomography detection of metastatic penile squamous cell carcinoma.
+?
+['Carcinoma, Squamous Cell/*diagnostic imaging/*secondary/surgery', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/diagnostic imaging/secondary', 'Lymph Nodes/*diagnostic imaging', 'Lymphatic Metastasis', 'Male', 'Middle Aged', 'Neoplasm Recurrence, Local', 'Penile Neoplasms/*pathology/surgery', 'Penis/surgery', 'Radiopharmaceuticals', '*Tomography, Emission-Computed', 'Tomography, X-Ray Computed']

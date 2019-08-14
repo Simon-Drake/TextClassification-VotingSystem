@@ -1,0 +1,3 @@
+Positron emission tomography in intussusception of colon cancer, where computed tomography failed.
+?
+['Aged', 'Carcinoma, Small Cell/secondary', 'Colonic Neoplasms/*complications/diagnostic imaging', 'Humans', 'Intussusception/*diagnostic imaging/etiology', 'Lung Neoplasms/pathology', 'Lymph Nodes', 'Male', 'Neoplasms, Multiple Primary/*diagnostic imaging', 'Sensitivity and Specificity', '*Tomography, Emission-Computed', '*Tomography, X-Ray Computed']

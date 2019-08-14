@@ -1,0 +1,3 @@
+Recurrence of lung cancer after radiofrequency ablation detected by PET/CT and contrast enhanced CT scan.
+?
+['Adenocarcinoma/*diagnostic imaging/surgery', 'Aged, 80 and over', 'Catheter Ablation', 'Female', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/surgery', 'Neoplasm Recurrence, Local/*diagnostic imaging', 'Positron-Emission Tomography/*methods', 'Radiographic Image Enhancement', 'Radiopharmaceuticals', '*Tomography, X-Ray Computed']

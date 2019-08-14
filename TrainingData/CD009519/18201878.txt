@@ -1,0 +1,3 @@
+[Endobronchial schwannoma in a child. A case report].
+Intrathoracic neurogenic tumors are rare and interest primarily the mediastinum. Their endobronchial localization is exceptional, a fortiori in the child. The authors report a case of endobronchial benign schwannoma in a 11 year-old-child treated by pneumonectomy.
+['Biopsy', 'Bronchi/pathology', '*Bronchial Neoplasms/diagnostic imaging/pathology/surgery', 'Child', 'Female', 'Follow-Up Studies', 'Humans', '*Neurilemmoma/diagnostic imaging/pathology/surgery', 'Pneumonectomy', 'Prognosis', 'Thoracotomy', 'Time Factors', 'Tomography, Spiral Computed', 'Tomography, X-Ray Computed']

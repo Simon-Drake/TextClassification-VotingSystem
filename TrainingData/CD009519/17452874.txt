@@ -1,0 +1,3 @@
+Paraneoplastic ACTH secretion: bronchial carcinoid overlooked by planar indium-111 pentetreotide scintigraphy and accurately localized by SPECT/CT acquisition.
+?
+['Adrenocorticotropic Hormone/*secretion', 'Adult', 'Carcinoid Tumor/*metabolism', 'Cell Differentiation', 'Cushing Syndrome/*diagnosis/*diagnostic imaging', 'Humans', 'Indium Radioisotopes', 'Lung Neoplasms/*metabolism', 'Male', 'Radiopharmaceuticals', 'Somatostatin/analogs & derivatives', 'Tomography, Emission-Computed, Single-Photon/methods', 'Tomography, X-Ray Computed/methods']

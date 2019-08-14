@@ -1,0 +1,1 @@
+MeSHAdult MeSHAllergens MeSHAntibodies MeSHFungal MeSHAntigens MeSHFungal MeSHAspergillosis MeSHAspergillusfumigatus MeSHCysticFibrosis MeSHFemale MeSHHumans MeSHImmunoglobulinE MeSHImmunoglobulinG MeSHMale MeSHMannans MeSHProspectiveStudies MeSHReal-TimePolymeraseChainReaction MeSHSkinTests MeSHSputum MeSHYoungAdult

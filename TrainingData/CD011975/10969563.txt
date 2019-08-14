@@ -1,0 +1,3 @@
+[Patients with Down syndrome do not need tears].
+?
+['Abortion, Therapeutic/psychology', 'Decision Making', 'Diseases in Twins', 'Down Syndrome/*diagnosis', 'Humans', 'Infant', 'Infant, Newborn', 'Male', 'Parents/psychology', 'Prenatal Diagnosis/psychology']

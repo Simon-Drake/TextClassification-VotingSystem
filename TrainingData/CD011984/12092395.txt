@@ -1,0 +1,3 @@
+[Antenatal screening methods for chromosome 21 trisomy].
+?
+['Down Syndrome/*diagnosis/epidemiology', 'Female', 'Humans', 'Mass Screening/*methods', 'Pregnancy', 'Prenatal Diagnosis/*methods', 'Sensitivity and Specificity', 'Time Factors']

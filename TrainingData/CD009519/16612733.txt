@@ -1,0 +1,3 @@
+[Massive cerebral air embolism after computerized tomography guided lung biopsy].
+?
+['Adenocarcinoma, Follicular/pathology/*secondary', 'Aged', 'Biopsy, Needle/*adverse effects', 'Carotid Artery, Internal/diagnostic imaging', 'Cerebral Infarction/diagnostic imaging', 'Embolism, Air/*diagnostic imaging', 'Follow-Up Studies', 'Humans', 'Intracranial Embolism/*diagnostic imaging', 'Lung/*pathology', 'Lung Neoplasms/pathology/*secondary', 'Male', 'Pneumothorax/diagnostic imaging', 'Postoperative Complications/*diagnostic imaging', '*Surgery, Computer-Assisted', 'Thyroid Neoplasms/*pathology', '*Tomography, Spiral Computed', 'Vertebral Artery/diagnostic imaging']

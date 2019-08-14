@@ -1,0 +1,1 @@
+MeSHAmyloidosis MeSHBiopsy MeSHBronchialDiseases MeSHBronchoscopy MeSHDiagnosis MeSHDifferential MeSHHumans MeSHLungDiseases MeSHLungNeoplasms MeSHNeoplasmMetastasis MeSHPathology MeSHPneumonectomy MeSHRadiography MeSHThoracic MeSHTomography

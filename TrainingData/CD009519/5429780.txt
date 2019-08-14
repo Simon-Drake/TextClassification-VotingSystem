@@ -1,0 +1,3 @@
+[Adenocarcinoma in adolescence].
+?
+['Adenocarcinoma/*pathology', 'Adolescent', 'Humans', 'Lung Neoplasms/*pathology', 'Male', 'Pneumonectomy', 'Tomography']

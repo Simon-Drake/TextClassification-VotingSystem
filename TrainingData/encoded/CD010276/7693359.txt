@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSquamousCel MeSHCellAdhesion MeSHCollagen MeSHFibronectins MeSHFlowCytometry MeSHGlycoproteins MeSHHumans MeSHIntegrin MeSHKeratinocyte MeSHLaminin MeSHMouthNeoplasm MeSHTumorCells MeSHCultured MeSHVitronectin

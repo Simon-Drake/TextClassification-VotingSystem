@@ -1,0 +1,3 @@
+AFP screening and Down syndrome.
+?
+['Down Syndrome/blood/*diagnosis', 'Female', 'Humans', 'Pregnancy', 'Risk', 'alpha-Fetoproteins/*analysis']

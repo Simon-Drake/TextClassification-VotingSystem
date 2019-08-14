@@ -1,0 +1,3 @@
+Metastatic gastric cancer from squamous cell lung carcinoma.
+?
+['Aged', 'Carcinoma, Squamous Cell/diagnostic imaging/pathology/*secondary', 'Fluorodeoxyglucose F18', 'Humans', '*Lung Neoplasms/diagnostic imaging', 'Male', 'Multimodal Imaging', 'Positron-Emission Tomography', 'Radiopharmaceuticals', 'Stomach Neoplasms/diagnostic imaging/pathology/*secondary', 'Tomography, X-Ray Computed']

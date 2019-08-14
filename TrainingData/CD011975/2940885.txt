@@ -1,0 +1,3 @@
+[Importance of direct echographic control in performing prenatal diagnosis].
+?
+['Adult', 'Amniocentesis/methods', 'Amnion/pathology', 'Biopsy, Needle/methods', 'Chorion/pathology', 'Chromosome Aberrations/diagnosis', 'Chromosome Disorders', 'Down Syndrome/diagnosis', 'Evaluation Studies as Topic', 'Female', 'Humans', 'Pregnancy', 'Prenatal Diagnosis/*methods', '*Ultrasonography']

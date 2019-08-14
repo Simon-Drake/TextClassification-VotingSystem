@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHBronchoscopy MeSHCarcinoma MeSHSquamousCel MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHNeoplasmInvasiveness MeSHNeoplasmStaging MeSHPositron-EmissionTomography MeSHRussi

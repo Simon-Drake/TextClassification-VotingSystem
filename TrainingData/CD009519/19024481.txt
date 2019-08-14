@@ -1,0 +1,3 @@
+[Research development of MDCT perfusion imaging on solitary pulmonary nodules].
+Differentiation between benign and malignant solitary pulmonary nodules remains significant and a challenge to thoracic radiologists. Multi-detector row computed tomography (MDCT) could provide both anatomical and physiological information of pulmonary nodules. Recently, MDCT perfusion imaging has sparked new interest in the noninvasive assessment of pulmonary neoplasm. In this paper, we reviewed the progress of perfusion imaging of solitary pulmonary nodules by MDCT.
+['Diagnosis, Differential', 'Humans', 'Lung/*blood supply', 'Lung Diseases/diagnostic imaging', 'Lung Neoplasms/*diagnostic imaging', 'Tomography, Spiral Computed/*methods', 'Tuberculosis, Pulmonary/*diagnostic imaging']

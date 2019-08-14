@@ -1,0 +1,3 @@
+[MEDIASTINAL INVOLVEMENT IN PRIMARY CANCER OF THE LUNG].
+?
+['*Electrocardiography', 'Humans', '*Lung Neoplasms', '*Mediastinum', 'Neoplasms/*diagnosis', '*Neurologic Manifestations', '*Radiography, Thoracic', '*Tomography', '*Tomography, X-Ray Computed']

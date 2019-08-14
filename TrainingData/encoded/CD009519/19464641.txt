@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAged MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHMagneticResonanceImaging MeSHMandibularNeoplasm MeSHPositron-EmissionTomography MeSHTemporomandibularJoin MeSHTemporomandibularJointDisorder MeSHTomography MeSHX-RayComputed

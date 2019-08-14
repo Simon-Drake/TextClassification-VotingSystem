@@ -1,0 +1,1 @@
+MeSHAdenosineTriphosphatase MeSHAdult MeSHCase-ControlStudies MeSHCellCount MeSHCellMovement MeSHChi-SquareDistribution MeSHFemale MeSHHumans MeSHImmunoenzymeTechniques MeSHLangerhansCell MeSHLichenPlanus MeSHOra MeSHMale MeSHMouthMucos MeSHStatistics MeSHNonparametric MeSHYoungAdult

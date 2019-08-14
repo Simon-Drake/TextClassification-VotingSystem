@@ -1,0 +1,3 @@
+Maternal serum free beta hCG screening.
+?
+['Chorionic Gonadotropin/*blood', 'Chorionic Gonadotropin, beta Subunit, Human', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Mass Screening', 'Peptide Fragments/*blood', 'Pregnancy', '*Prenatal Diagnosis']

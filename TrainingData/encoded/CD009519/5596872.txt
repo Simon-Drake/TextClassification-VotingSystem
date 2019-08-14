@@ -1,0 +1,1 @@
+MeSHAdult MeSHBronchi MeSHBronchialNeoplasm MeSHBronchography MeSHBronchoscopy MeSHCarcinoma MeSHSquamousCel MeSHChild MeSHDiagnosis MeSHDifferential MeSHFemale MeSHForeignBodie MeSHHumans MeSHMale MeSHMethods MeSHMiddleAged MeSHPneumonectomy MeSHTomography

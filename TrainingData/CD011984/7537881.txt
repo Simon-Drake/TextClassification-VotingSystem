@@ -1,0 +1,3 @@
+Down's syndrome screening: value of using free beta-hCG.
+?
+['Chorionic Gonadotropin/*blood', 'Chorionic Gonadotropin, beta Subunit, Human', 'Down Syndrome/*diagnosis', 'False Positive Reactions', 'Female', 'Humans', 'Peptide Fragments/*blood', 'Pregnancy', '*Prenatal Diagnosis', 'Reference Values']

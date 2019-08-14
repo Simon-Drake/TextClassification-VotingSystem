@@ -1,0 +1,3 @@
+Prenatal trisomy 20 mosaicism: origin in fetal kidney cells?
+?
+['Amniotic Fluid/cytology', '*Chromosomes, Human, 19-20', 'Female', 'Humans', 'Kidney/abnormalities/*cytology', '*Mosaicism', 'Pregnancy', '*Prenatal Diagnosis', '*Trisomy']

@@ -1,0 +1,3 @@
+[Isolated cavitary pulmonary nodule and positron emission tomography].
+?
+['Diagnosis, Differential', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/diagnostic imaging', 'Predictive Value of Tests', 'Solitary Pulmonary Nodule/*diagnostic imaging', '*Tomography, Emission-Computed']

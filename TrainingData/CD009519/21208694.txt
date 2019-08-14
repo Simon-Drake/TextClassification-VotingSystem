@@ -1,0 +1,3 @@
+[Casual finding of a pituitary adenoma in a PET-CT study].
+?
+['Adenocarcinoma/diagnostic imaging/secondary', 'Aged', 'Cerebellar Neoplasms/diagnostic imaging/secondary', 'Diagnosis, Differential', 'Humans', '*Incidental Findings', 'Lung Neoplasms', 'Male', 'Neoplasms, Second Primary/*diagnostic imaging', 'Pituitary Neoplasms/*diagnostic imaging/secondary', '*Positron-Emission Tomography', '*Tomography, X-Ray Computed']

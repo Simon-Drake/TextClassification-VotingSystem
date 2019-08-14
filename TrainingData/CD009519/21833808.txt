@@ -1,0 +1,3 @@
+Airway migration of lung fiducial marker after autologous blood-patch injection.
+?
+['Aged', '*Blood Transfusion, Autologous', 'Combined Modality Therapy', 'Female', 'Fiducial Markers/*adverse effects', 'Foreign-Body Migration/*diagnostic imaging', 'Humans', 'Lung Neoplasms/diagnostic imaging/drug therapy/*radiotherapy', 'Multimodal Imaging', 'Positron-Emission Tomography', 'Radiography, Interventional', 'Radiography, Thoracic', 'Tomography, X-Ray Computed']

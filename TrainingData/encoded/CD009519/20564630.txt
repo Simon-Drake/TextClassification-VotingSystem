@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAged MeSHDisease-FreeSurvival MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHNeoplasmInvasiveness MeSHPhantoms MeSHImaging MeSHPositron-EmissionTomograph MeSHTomography MeSHX-RayComputed

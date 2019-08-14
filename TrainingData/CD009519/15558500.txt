@@ -1,0 +1,3 @@
+Introduction. Non-small cell lung cancer: some important questions to be solved.
+?
+['Carcinoma, Non-Small-Cell Lung/*diagnostic imaging/*therapy', 'Clinical Trials as Topic', 'Combined Modality Therapy', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/*therapy', 'Radiopharmaceuticals', 'Tomography, Emission-Computed']

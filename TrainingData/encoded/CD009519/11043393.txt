@@ -1,0 +1,1 @@
+MeSHBreastNeoplasm MeSHColorectalNeoplasm MeSHFemale MeSHFluorodeoxyglucoseF1 MeSHHeadandNeckNeoplasm MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMelanom MeSHNeoplasmStaging MeSHNeoplasm MeSHOvarianNeoplasm MeSHRadiopharmaceutical MeSHSkinNeoplasm MeSHTomography MeSHEmission-Compute

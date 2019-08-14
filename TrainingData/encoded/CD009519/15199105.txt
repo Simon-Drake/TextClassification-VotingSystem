@@ -1,0 +1,1 @@
+MeSHCase-ControlStudies MeSHHumans MeSHLungNeoplasm MeSHMassScreenin MeSHRadiationDosage MeSHRandomizedControlledTrialsasTopic MeSHResearchDesign MeSHTomography MeSHSpiralComputed MeSHTomography MeSHX-RayComputed MeSHUnitedStates

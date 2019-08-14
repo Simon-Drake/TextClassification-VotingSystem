@@ -1,0 +1,3 @@
+Pseudolymphoma of the lung: Benign pulmonary nodule with elevated fluorodeoxyglucose uptake.
+?
+['Aged', 'Carcinoma, Bronchogenic/diagnostic imaging', 'Diagnosis, Differential', '*Fluorine Radioisotopes', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Diseases/*diagnostic imaging', 'Lung Neoplasms/diagnostic imaging', 'Male', 'Pseudolymphoma/*diagnostic imaging', 'Radionuclide Imaging', '*Radiopharmaceuticals']

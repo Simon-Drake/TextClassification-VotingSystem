@@ -1,0 +1,1 @@
+MeSHAdult MeSHBiopsy MeSHBodyMassIndex MeSHDiseaseProgression MeSHElasticityImagingTechnique MeSHFattyLive MeSHFemale MeSHHumans MeSHLive MeSHLiverCirrhosi MeSHMale MeSHNon-alcoholicFattyLiverDisease MeSHReproducibilityofResults MeSHRiskFactors

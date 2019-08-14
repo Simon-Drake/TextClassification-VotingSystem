@@ -1,0 +1,3 @@
+Safety of amniocentesis.
+?
+['Adult', 'Amniocentesis/*adverse effects', 'Attitude', 'Down Syndrome/diagnosis', 'Female', 'Fetal Diseases/diagnosis', 'Humans', 'Infant, Newborn', 'Maternal Age', 'Pregnancy', 'Pregnancy, High-Risk', 'Risk', 'Safety']

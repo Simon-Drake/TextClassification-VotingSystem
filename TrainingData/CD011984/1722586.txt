@@ -1,0 +1,3 @@
+[Prenatal screening for trisomy 21 in maternal blood. Focus].
+?
+['Amniocentesis', 'Chorionic Gonadotropin/analysis', 'Down Syndrome/*blood', 'Estriol/analysis', 'Ethics, Medical', 'Female', '*Genetic Markers', 'Humans', 'Maternal Age', 'Pregnancy', 'Pregnancy Trimester, Second', 'Pregnancy, High-Risk', 'Risk', 'alpha-Fetoproteins/analysis']

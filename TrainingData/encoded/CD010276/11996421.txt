@@ -1,0 +1,1 @@
+MeSHAlcoholDrinkin MeSHDiagnosis MeSHDifferential MeSHHumans MeSHMassScreening MeSHMedicalHistoryTaking MeSHMouthNeoplasm MeSHPhysicalExamination MeSHPrecancerousCondition MeSHRiskFactors MeSHTobacc

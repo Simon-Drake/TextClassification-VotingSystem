@@ -1,0 +1,3 @@
+Positron emission tomography use and stage migration in lung cancer: a false sense of accomplishment?
+?
+['Carcinoma, Non-Small-Cell Lung/*pathology', 'Female', 'Humans', 'Lung Neoplasms/*pathology', 'Male', 'Positron-Emission Tomography/*methods']

@@ -1,0 +1,3 @@
+Overestimation of the prognostic significance of SUV measurement by positron emission tomography for non-small-cell lung cancer.
+?
+['Biomarkers/analysis', 'Carcinoma, Non-Small-Cell Lung/*diagnostic imaging/mortality/pathology', 'Female', 'Fluorodeoxyglucose F18/*pharmacokinetics', 'Humans', 'Lung Neoplasms/*diagnostic imaging/mortality/pathology', 'Male', 'Neoplasm Staging', '*Positron-Emission Tomography', 'Prognosis', 'Sensitivity and Specificity', 'Survival Analysis']

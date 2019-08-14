@@ -1,0 +1,3 @@
+Prospective screening for Down syndrome using maternal serum AFP.
+?
+['Down Syndrome/*diagnosis', 'Female', 'Humans', 'Maternal Age', 'Pregnancy', '*Prenatal Diagnosis', 'alpha-Fetoproteins/*analysis']

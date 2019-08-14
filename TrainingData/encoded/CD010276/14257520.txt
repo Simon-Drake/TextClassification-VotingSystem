@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHCytodiagnosis MeSHDiagnosis MeSHOral MeSHHumans MeSHMaxillaryNeoplasms MeSHMouthNeoplasms MeSHNeoplasm MeSHPharyngealNeoplasms MeSHTongueNeoplasms MeSHTonsillarNeoplasms

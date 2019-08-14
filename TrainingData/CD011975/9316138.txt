@@ -1,0 +1,3 @@
+Congenital deficiency of AFP and Down syndrome screening.
+?
+['Adult', 'Amniocentesis', 'Amniotic Fluid/chemistry', 'Down Syndrome/blood/*diagnosis/epidemiology', 'Female', 'Fetal Diseases/blood/*diagnosis/epidemiology', 'Genetic Testing/*methods', 'Humans', 'Karyotyping', 'Pregnancy/*blood', 'Risk Factors', 'alpha-Fetoproteins/analysis/*deficiency']

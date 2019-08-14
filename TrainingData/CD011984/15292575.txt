@@ -1,0 +1,3 @@
+An isolated echogenic heart focus is a low-level risk marker for Down syndrome.
+?
+['Adult', '*Amniocentesis', 'Bayes Theorem', 'Down Syndrome/*diagnosis', 'Female', 'Fetal Heart/*abnormalities/*diagnostic imaging', 'Humans', 'Likelihood Functions', 'Mass Screening/methods/statistics & numerical data', 'Pregnancy', 'Risk Assessment', 'Risk Factors', 'Sample Size', 'Ultrasonography']

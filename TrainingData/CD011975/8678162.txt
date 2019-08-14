@@ -1,0 +1,3 @@
+Screening should not be compared with diagnosis.
+?
+['Adult', '*Aneuploidy', '*Chromosome Aberrations', 'Female', 'Humans', '*Mass Screening', 'Maternal Age', 'Pregnancy', 'Pregnancy, High-Risk']

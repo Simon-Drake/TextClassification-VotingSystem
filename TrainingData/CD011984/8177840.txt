@@ -1,0 +1,3 @@
+45,X/46,XX/47,XXX phenotype.
+?
+['Adult', 'Female', 'Humans', 'Male', '*Mosaicism', '*Phenotype', 'Pregnancy', '*Prenatal Diagnosis', 'Sex Chromosome Aberrations/*diagnosis', '*X Chromosome']

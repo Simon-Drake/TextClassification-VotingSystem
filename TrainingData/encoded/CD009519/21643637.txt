@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHDiagnosis MeSHDifferential MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHRadiography MeSHThoracic MeSHSarcoma MeSHSynovia MeSHThoracicNeoplasm MeSHTomography MeSHX-RayCompute

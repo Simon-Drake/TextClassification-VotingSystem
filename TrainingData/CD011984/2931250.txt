@@ -1,0 +1,3 @@
+Cytogenetics update for pediatricians.
+?
+['Abnormalities, Multiple/genetics', 'Chromosome Aberrations/blood/*genetics', 'Chromosome Banding/methods', 'Chromosome Deletion', 'Chromosome Disorders', 'Down Syndrome/blood', 'Fragile X Syndrome/genetics', '*Genetic Counseling', 'Humans', 'Karyotyping', 'Mosaicism', 'Phenotype', 'Polyploidy', 'Prenatal Diagnosis', 'Sex Chromosome Aberrations/diagnosis', 'Translocation, Genetic', 'Trisomy']

@@ -1,0 +1,3 @@
+[Tomobronchography and tomography with transverse spread in the diagnosis of bronchial tree lesions].
+?
+['Bronchial Diseases/*diagnostic imaging', 'Bronchial Neoplasms/*diagnostic imaging', 'Bronchography', 'Child', 'Contrast Media', 'Humans', 'Lung/diagnostic imaging', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Tomography', 'Trachea/diagnostic imaging', 'Tuberculosis, Pulmonary/*diagnostic imaging']

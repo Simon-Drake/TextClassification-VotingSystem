@@ -1,0 +1,3 @@
+[Indications for chromosome analysis].
+?
+['Abortion, Spontaneous/genetics', 'Adolescent', 'Adult', 'Child', 'Child, Preschool', 'Chromosome Aberrations/*diagnosis', 'Chromosome Disorders', 'Chromosome Mapping', 'Down Syndrome/genetics', 'Female', 'Humans', 'Infant', 'Infant, Newborn', '*Karyotyping', 'Klinefelter Syndrome/genetics', 'Male', 'Mutation', 'Phenotype', 'Pregnancy', 'Prenatal Diagnosis/methods', 'Risk', 'Sex Chromosome Aberrations/genetics', 'Turner Syndrome/genetics', 'XYY Karyotype/genetics']

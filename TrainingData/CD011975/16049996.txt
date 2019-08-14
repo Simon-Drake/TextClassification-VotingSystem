@@ -1,0 +1,3 @@
+Prenatally detected trisomy 20 mosaicism and genetic counseling.
+?
+['*Chromosomes, Human, Pair 20', 'Genetic Counseling/*standards', 'Humans', 'Karyotyping', '*Mosaicism', 'Prenatal Diagnosis', 'Risk Factors', 'Trisomy/*diagnosis']

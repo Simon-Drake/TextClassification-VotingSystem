@@ -1,0 +1,1 @@
+MeSHCellLine MeSHTumor MeSHFluorescein-5-isothiocyanat MeSHFluorescence MeSHFluorescentAntibodyTechnique MeSHHSP70Heat-ShockProtein MeSHHumans MeSHImaging MeSHThree-Dimensional MeSHInhibitorofApoptosisProtein MeSHLasers MeSHMouthNeoplasm MeSHQuantumDots MeSHStainingandLabeling

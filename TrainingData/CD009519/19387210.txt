@@ -1,0 +1,3 @@
+Dual primary subclavicular angiosarcoma and lung cancer imaging with C-11 acetate PET and FDG PET.
+?
+['*Acetates', 'Adenocarcinoma/*diagnostic imaging', 'Aged', 'Carbon Radioisotopes', 'Female', '*Fluorodeoxyglucose F18', 'Hemangiosarcoma/*diagnostic imaging', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Neoplasms, Multiple Primary/*diagnostic imaging', 'Positron-Emission Tomography', 'Radiopharmaceuticals', 'Tomography, X-Ray Computed', 'Uterine Cervical Neoplasms/*diagnostic imaging']

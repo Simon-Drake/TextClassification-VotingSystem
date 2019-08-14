@@ -1,0 +1,3 @@
+Counseling and screening for chromosomal abnormalities.
+?
+['*Counseling', 'Down Syndrome/*diagnosis', 'Female', 'Genetic Testing/statistics & numerical data/*trends', 'Humans', 'Pregnancy', 'Prenatal Diagnosis/*trends']

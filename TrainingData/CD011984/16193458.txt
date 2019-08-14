@@ -1,0 +1,3 @@
+Uterine lavage in prenatal screening for aneuploidy in continuing pregnancies.
+?
+['Adult', '*Aneuploidy', 'Cervix Uteri', 'Female', 'Fetus/*cytology', 'Gestational Age', 'Humans', 'Middle Aged', 'Pregnancy', 'Prenatal Diagnosis/*methods', '*Therapeutic Irrigation', 'Uterus/*cytology']

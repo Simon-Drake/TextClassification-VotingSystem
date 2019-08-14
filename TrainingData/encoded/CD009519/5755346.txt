@@ -1,0 +1,1 @@
+MeSHBronchography MeSHChronicDisease MeSHDiagnosis MeSHDifferential MeSHFemale MeSHHumans MeSHLungDisease MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPneumoni MeSHTomography

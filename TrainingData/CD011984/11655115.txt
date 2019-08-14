@@ -1,0 +1,3 @@
+Attitudes toward maternal serum screening in Chinese women with positive results.
+?
+['Amniocentesis', '*Attitude', 'Data Collection', 'Decision Making', '*Down Syndrome', 'Female', '*Genetic Counseling', '*Genetic Testing', 'Health Knowledge, Attitudes, Practice', 'Humans', '*Pregnancy', '*Pregnant Women', '*Prenatal Diagnosis', 'Taiwan', 'Women', '*alpha-Fetoproteins']

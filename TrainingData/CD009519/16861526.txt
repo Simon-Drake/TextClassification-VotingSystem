@@ -1,0 +1,3 @@
+"A system for the clinical staging of lung cancer"--a commentary.
+?
+['Humans', 'Lung Neoplasms/*pathology', 'Neoplasm Staging/*methods/standards', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed']

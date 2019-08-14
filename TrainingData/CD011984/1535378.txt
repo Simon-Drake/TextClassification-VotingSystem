@@ -1,0 +1,3 @@
+Fertility in a male with trisomy 21.
+?
+['Chorionic Villi Sampling', 'Down Syndrome/*physiopathology', 'Female', '*Fertility', 'Humans', 'Karyotyping', 'Male', 'Pregnancy']

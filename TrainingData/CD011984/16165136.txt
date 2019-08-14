@@ -1,0 +1,3 @@
+Benefits and pitfalls of prenatal screening in a twin pregnancy.
+?
+['Adult', 'Cystic Fibrosis/*diagnosis/genetics', 'Diseases in Twins/*diagnosis/genetics', 'Down Syndrome/*diagnosis', 'Female', 'Fetal Diseases/*diagnosis/genetics', 'Genetic Counseling', 'Genetic Testing', 'Humans', 'Male', 'Pregnancy', 'Pregnancy Trimester, First', '*Pregnancy, Multiple', '*Prenatal Diagnosis', 'Twins']

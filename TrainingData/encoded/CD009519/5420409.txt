@@ -1,0 +1,1 @@
+MeSHAsthm MeSHBronchialNeoplasm MeSHBronchiti MeSHCarcinom MeSHCommonCol MeSHDiagnosis MeSHDifferential MeSHFemale MeSHHumans MeSHMale MeSHPneumoni MeSHRadiography MeSHTomography MeSHTrachealNeoplasm

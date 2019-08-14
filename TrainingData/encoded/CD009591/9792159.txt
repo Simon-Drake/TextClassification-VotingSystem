@@ -1,0 +1,1 @@
+MeSHAdnexalDiseases MeSHAdult MeSHAged MeSHAntigens MeSHNeoplasm MeSHBiomarkers MeSHTumor MeSHDiagnosis MeSHDifferential MeSHFemale MeSHHumans MeSHKeratin-19 MeSHKeratins MeSHMiddleAged MeSHOvarianNeoplasms MeSHPelvicInflammatoryDisease MeSHPrognosis MeSHRetrospectiveStudies MeSHSensitivityandSpecificity

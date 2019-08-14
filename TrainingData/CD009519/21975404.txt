@@ -1,0 +1,3 @@
+Metabolic pattern of glomic tumor by F-18 FDG PET/CT.
+?
+['Female', 'Fluorodeoxyglucose F18/*pharmacokinetics', 'Glomus Tumor/*diagnostic imaging/*metabolism', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Middle Aged', '*Multimodal Imaging', '*Positron-Emission Tomography', '*Tomography, X-Ray Computed']

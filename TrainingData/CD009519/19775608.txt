@@ -1,0 +1,3 @@
+The multidisciplinarity of stage III non-small cell lung cancer.
+?
+['Biopsy, Needle', 'Bronchoscopy/methods', 'Carcinoma, Non-Small-Cell Lung/*pathology/surgery', 'Decision Making', 'False Negative Reactions', 'False Positive Reactions', 'Humans', 'Lung Neoplasms/*pathology/surgery', 'Lymph Node Excision', 'Lymphatic Metastasis', 'Mediastinoscopy/methods', 'Neoplasm Staging/*methods', 'Patient Care Team', 'Positron-Emission Tomography', 'Prognosis', 'Tomography, X-Ray Computed/methods']

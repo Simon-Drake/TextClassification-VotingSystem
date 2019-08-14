@@ -1,0 +1,3 @@
+Prenatal diagnosis of mosaic ring chromosome 9.
+?
+['Abnormalities, Multiple/diagnosis/*genetics', 'Adult', 'Amniocentesis', 'Chromosomes, Human, Pair 9/*genetics', 'Female', 'Humans', '*Mosaicism', 'Pregnancy', '*Ring Chromosomes']

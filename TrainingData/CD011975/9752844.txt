@@ -1,0 +1,3 @@
+Prenatal DNA diagnosis of Down's syndrome by PCR.
+?
+['Down Syndrome/*diagnosis', 'Female', 'Humans', '*Polymerase Chain Reaction/economics', 'Pregnancy', 'Prenatal Diagnosis/economics/*methods']

@@ -1,0 +1,3 @@
+[Benign and malignant solitary pulmonary nodules--PET/CT for differential diagnosis].
+?
+['Adult', 'Aged', 'Aged, 80 and over', 'Female', 'Fluorodeoxyglucose F18', 'Humans', 'Image Processing, Computer-Assisted', 'Lung Diseases/*diagnostic imaging/pathology', 'Lung Neoplasms/diagnostic imaging/pathology', 'Male', 'Middle Aged', '*Positron-Emission Tomography', 'ROC Curve', 'Radiopharmaceuticals', 'Retrospective Studies', '*Tomography, X-Ray Computed']

@@ -1,0 +1,3 @@
+[Unusual primary tumor of the heart: a malignant hemangiopericytoma].
+?
+['Female', 'Heart Atria/pathology', '*Heart Neoplasms/diagnosis/pathology', '*Hemangiopericytoma/diagnosis/pathology', 'Humans', 'Liver/pathology', 'Liver Neoplasms/diagnosis/pathology', 'Lung Neoplasms/diagnosis', 'Middle Aged', 'Neoplasm Metastasis', 'Tomography']

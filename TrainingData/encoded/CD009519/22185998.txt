@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHPancreaticDucta MeSHHumans MeSHLungNeoplasm MeSHLymphaticMetastasi MeSHMale MeSHMiddleAged MeSHMultimodalImaging MeSHPancreaticNeoplasms MeSHPositron-EmissionTomography MeSHTomography MeSHX-RayComputed

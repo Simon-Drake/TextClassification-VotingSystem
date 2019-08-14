@@ -1,0 +1,3 @@
+[Clinico-statistical data on single-node cancer of the lung].
+?
+['*Adenocarcinoma', 'Adult', 'Aged', 'Bronchography', '*Carcinoma, Squamous Cell', 'Female', 'Histological Techniques', 'Humans', '*Lung Neoplasms', 'Male', 'Middle Aged', 'Radiography, Thoracic', 'Tomography']

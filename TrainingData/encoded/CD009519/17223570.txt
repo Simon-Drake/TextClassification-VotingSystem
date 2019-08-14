@@ -1,0 +1,1 @@
+MeSHAdult MeSHDiagnosis MeSHDifferential MeSHFemale MeSHGranuloma MeSHForeign-Bod MeSHHumans MeSHLungDisease MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHNeoplasmRecurrence MeSHLoca MeSHPneumonectomy MeSHPositron-EmissionTomography MeSHPostoperativeComplication MeSHSuture

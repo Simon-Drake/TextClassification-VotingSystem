@@ -1,0 +1,3 @@
+Law and science. Civil law. Medical negligence.
+?
+['Adult', 'Child', 'Down Syndrome/diagnosis', 'Encephalitis, Viral/diagnosis', 'Female', 'Humans', 'Infant, Newborn', 'Malpractice/*legislation & jurisprudence', 'Military Medicine/legislation & jurisprudence', 'Pregnancy', 'Prenatal Diagnosis', 'United Kingdom']

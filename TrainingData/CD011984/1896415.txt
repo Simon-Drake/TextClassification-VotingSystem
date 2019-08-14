@@ -1,0 +1,3 @@
+Mosaic isochromosome 20q.
+?
+['Amniocentesis', '*Chromosome Aberrations', '*Chromosomes, Human, Pair 20', 'Female', 'Humans', 'Infant, Newborn', 'Male', '*Mosaicism', 'Pregnancy']

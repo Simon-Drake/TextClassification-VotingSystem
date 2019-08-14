@@ -1,0 +1,1 @@
+MeSHAdiposeTissu MeSHBoneMarro MeSHBrainNeoplasm MeSHCarcinoma MeSHNon-Small-CellLun MeSHGlucose-6-Phosphat MeSHHeadandNeckNeoplasm MeSHHumans MeSHLymphaticMetastasis MeSHPositron-EmissionTomograph MeSHThoracicNeoplasm MeSHThyroidGlan MeSHTomography MeSHX-RayCompute MeSHVocalCordParalysi

@@ -1,0 +1,3 @@
+Down syndrome livebirth rate in the eastern part of Switzerland between 1980 and 1996 stays constant in spite of growing numbers of prenatally diagnosed and subsequently terminated cases.
+?
+['Abortion, Legal/*statistics & numerical data', 'Adult', 'Down Syndrome/diagnosis/*epidemiology', 'Female', 'Humans', 'Pregnancy', 'Pregnancy Rate/*trends', 'Prenatal Diagnosis', 'Prevalence', 'Switzerland/epidemiology']

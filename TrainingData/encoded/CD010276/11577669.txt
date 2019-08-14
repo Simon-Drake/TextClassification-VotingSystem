@@ -1,0 +1,1 @@
+MeSHDentalRecords MeSHDentists MeSHDiagnosis MeSHDifferential MeSHFac MeSHFacialDermatose MeSHFacialNeoplasm MeSHHea MeSHHumans MeSHLymphNode MeSHLymphaticDisease MeSHMouthDisease MeSHMouthNeoplasm MeSHNec MeSHPatientCarePlanning MeSHPhysicalExamination

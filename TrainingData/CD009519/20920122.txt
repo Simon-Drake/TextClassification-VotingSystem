@@ -1,0 +1,3 @@
+PET scanning is important in lung cancer; but it has its limitations.
+?
+['Carcinoma, Non-Small-Cell Lung/diagnostic imaging/*pathology', 'Diagnostic Errors', 'Humans', 'Lung Neoplasms/diagnostic imaging/*pathology', 'Neoplasm Staging', '*Positron-Emission Tomography', 'Sensitivity and Specificity', 'Tomography, X-Ray Computed']

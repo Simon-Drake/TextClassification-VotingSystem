@@ -1,0 +1,3 @@
+From Michael to microarrays: 30 years of studying fetal cells and nucleic acids in maternal blood.
+?
+['Aneuploidy', 'Down Syndrome/blood/*diagnosis/genetics', 'Female', 'History, 20th Century', 'History, 21st Century', 'Humans', 'Male', 'Maternal-Fetal Exchange', 'Nucleic Acids/*blood', 'Pregnancy', 'Prenatal Diagnosis/*history/*methods']

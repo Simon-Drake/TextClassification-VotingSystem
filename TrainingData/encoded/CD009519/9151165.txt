@@ -1,0 +1,1 @@
+MeSHAdult MeSHAged MeSHBronchialNeoplasm MeSHCarcinoma MeSHSquamousCel MeSHFemale MeSHHeadandNeckNeoplasm MeSHHumans MeSHLymphaticMetastasis MeSHMale MeSHMiddleAged MeSHNeoplasms MeSHUnknownPrimar MeSHPlasmacytom MeSHTomography MeSHEmission-Compute

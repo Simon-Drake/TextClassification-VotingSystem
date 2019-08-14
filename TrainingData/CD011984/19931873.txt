@@ -1,0 +1,3 @@
+[Ductus venosus is a good rescue marker in the intermediate risk-category after combined screening].
+?
+['Adult', 'Down Syndrome/*diagnosis/genetics', 'Female', 'Genetic Testing/*methods', 'Humans', 'Liver/*blood supply/embryology', 'Pregnancy', 'Pregnancy Trimester, First', 'Reference Values', 'Risk Assessment', 'Risk Factors', 'Umbilical Veins/embryology', 'Vena Cava, Inferior/embryology']

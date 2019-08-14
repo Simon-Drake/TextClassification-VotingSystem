@@ -1,0 +1,3 @@
+The triple test decision.
+?
+['*Algorithms', '*Decision Trees', 'Down Syndrome/*prevention & control', 'Ethics, Medical', 'Female', 'Humans', 'Mass Screening/*methods', 'Pregnancy', 'Prenatal Diagnosis/*methods', 'Sensitivity and Specificity']

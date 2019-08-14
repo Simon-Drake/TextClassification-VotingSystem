@@ -1,0 +1,3 @@
+A woman's right not to choose.
+?
+['Abortion, Therapeutic/*psychology', 'Adult', 'Amniocentesis/psychology', '*Decision Making', 'Down Syndrome/*diagnosis', 'Female', 'Genetic Testing/*psychology', 'Guilt', 'Humans', 'Mothers/*psychology', 'Nurses/psychology', 'Pregnancy']

@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdult MeSHAged MeSHAged MeSH80andover MeSHCarcinoma MeSHLargeCel MeSHCarcinoma MeSHNon-Small-CellLun MeSHCarcinoma MeSHSquamousCel MeSHDiagnosticErrors MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHNeoplasmStaging MeSHPositron-EmissionTomography MeSHRetrospectiveStudies MeSHTomography MeSHX-RayComputed

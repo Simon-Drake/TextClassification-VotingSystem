@@ -1,0 +1,3 @@
+[PRIMARY FIBROSARCOMA OF THE LUNG].
+?
+['*Fibrosarcoma', 'Humans', '*Lung Neoplasms', 'Neoplasms/*radiotherapy/*therapy', '*Pathology', '*Radiography, Thoracic', '*Tomography', '*Tomography, X-Ray Computed']

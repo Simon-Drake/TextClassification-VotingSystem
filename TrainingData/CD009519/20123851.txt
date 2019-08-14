@@ -1,0 +1,3 @@
+Pulmonary inflammatory myofibroblastic tumour with unusual octreoscan uptake: two reports.
+?
+['Adult', 'Female', 'Fibroblasts/pathology', 'Fluorodeoxyglucose F18/pharmacology', 'Humans', 'Immunohistochemistry/methods', 'Inflammation', 'Male', 'Middle Aged', 'Neoplasms, Muscle Tissue/*diagnosis', 'Neuroendocrine Tumors/metabolism', 'Pentetic Acid/pharmacology', 'Somatostatin/analogs & derivatives/chemistry', 'Tomography, X-Ray Computed/*methods']

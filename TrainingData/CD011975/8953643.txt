@@ -1,0 +1,3 @@
+Urinary beta-core-hCG screening in the first trimester.
+?
+['*Aneuploidy', 'Chorionic Gonadotropin, beta Subunit, Human/*urine', 'Down Syndrome/genetics', 'Female', 'Humans', 'Pregnancy', 'Pregnancy Trimester, First', '*Prenatal Diagnosis']

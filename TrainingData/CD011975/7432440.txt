@@ -1,0 +1,3 @@
+Chromosomal mosaicism on amniocentesis: an indication for fetoscopy?
+?
+['Amniocentesis/*standards', 'Female', '*Fetoscopy', 'Humans', 'Infant, Newborn', 'Male', '*Mosaicism', 'Pregnancy', '*Prenatal Diagnosis']

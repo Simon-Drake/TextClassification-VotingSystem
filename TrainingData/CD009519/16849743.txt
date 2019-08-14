@@ -1,0 +1,3 @@
+Selection of patients for surgery after induction chemotherapy for N2 non-small-cell lung cancer.
+?
+['Antineoplastic Combined Chemotherapy Protocols/therapeutic use', 'Carcinoma, Non-Small-Cell Lung/drug therapy/pathology/*surgery', 'Humans', 'Lung Neoplasms/drug therapy/pathology/*surgery', 'Lymph Nodes/diagnostic imaging/*pathology/surgery', 'Lymphatic Metastasis/diagnostic imaging', '*Mediastinoscopy', 'Neoplasm Staging', '*Patient Selection', '*Positron-Emission Tomography', 'Predictive Value of Tests', 'Remission Induction', 'Sensitivity and Specificity', 'Thoracotomy', '*Tomography, X-Ray Computed']

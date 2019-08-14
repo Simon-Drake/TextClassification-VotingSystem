@@ -1,0 +1,3 @@
+Changing pattern of lung cancer and its imaging: (201)Tl SPECT versus [(18)F]FDG PET.
+?
+['Adenocarcinoma, Bronchiolo-Alveolar/*diagnostic imaging', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging', '*Radiopharmaceuticals', '*Thallium Radioisotopes', '*Tomography, Emission-Computed', '*Tomography, Emission-Computed, Single-Photon']

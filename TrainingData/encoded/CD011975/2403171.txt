@@ -1,0 +1,1 @@
+MeSHAdult MeSHBiopsy MeSHChorionicVilliSampling MeSHChromosomeAberrations MeSHChromosomeDisorders MeSHFemale MeSHFetalDiseases MeSHHumans MeSHKaryotyping MeSHPlacenta MeSHPregnancy MeSHPregnancyTrimester MeSHSecond

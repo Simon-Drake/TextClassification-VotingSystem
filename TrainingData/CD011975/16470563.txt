@@ -1,0 +1,3 @@
+Umbilical cord pseudocyst in a fetus with Down syndrome.
+?
+['Abortion, Induced', 'Adult', 'Diagnosis, Differential', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Pregnancy', 'Pregnancy Outcome', 'Pregnancy Trimester, Second', 'Ultrasonography, Doppler, Color', 'Ultrasonography, Prenatal', 'Urachal Cyst/*diagnosis/diagnostic imaging']

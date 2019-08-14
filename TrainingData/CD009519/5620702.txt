@@ -1,0 +1,3 @@
+[Tomography in examining vessels of the lesser circulation in patients with tumors of the lung and mediastinum].
+?
+['Aged', '*Angiography', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Mediastinal Neoplasms/*diagnostic imaging', 'Middle Aged', 'Pulmonary Artery/diagnostic imaging', '*Pulmonary Circulation', 'Pulmonary Veins/diagnostic imaging', 'Time Factors', 'Tomography']

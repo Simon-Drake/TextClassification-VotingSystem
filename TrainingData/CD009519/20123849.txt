@@ -1,0 +1,3 @@
+FDG-PET in diagnostic work-up of pulmonary artery sarcomas.
+?
+['Adult', 'Aged', 'Chronic Disease', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/*pathology/surgery', 'Magnetic Resonance Imaging/methods', 'Male', 'Middle Aged', 'Positron-Emission Tomography/*methods', 'Pulmonary Artery/*diagnostic imaging/*pathology', 'Sarcoma/*diagnostic imaging/*pathology/surgery', 'Thromboembolism', 'Tomography, X-Ray Computed/methods', 'Treatment Outcome']

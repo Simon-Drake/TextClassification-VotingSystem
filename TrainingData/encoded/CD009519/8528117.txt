@@ -1,0 +1,1 @@
+MeSHAdult MeSHElectricImpedance MeSHEmphysem MeSHHumans MeSHImageProcessing MeSHComputer-Assisted MeSHMale MeSHReferenceValues MeSHResidualVolume MeSHTomograph MeSHTomography MeSHX-RayComputed MeSHTotalLungCapacity

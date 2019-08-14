@@ -1,0 +1,1 @@
+MeSHAspergillusnidulan MeSHDebaromyce MeSHFungalProtein MeSHMolecularSequenceData MeSHPolymeraseChainReaction MeSHProtons MeSHSequenceAnalysis MeSHDNA MeSHSequenceHomology MeSHAminoAcid MeSHSymporter MeSHXylos

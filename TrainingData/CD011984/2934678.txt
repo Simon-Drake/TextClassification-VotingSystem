@@ -1,0 +1,3 @@
+[Prenatal ultrasonic diagnosis of a developmental heart defect and Down syndrome].
+?
+['Abnormalities, Multiple/diagnosis', 'Adult', 'Down Syndrome/complications/*diagnosis', 'Female', 'Heart Defects, Congenital/complications/*diagnosis', 'Humans', 'Maternal Age', 'Pregnancy', 'Prenatal Diagnosis', 'Prognosis', '*Ultrasonography']

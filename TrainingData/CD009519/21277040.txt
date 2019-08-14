@@ -1,0 +1,3 @@
+Lung cancer screening: what is the benefit and what do we do about it?
+?
+['*Early Detection of Cancer', 'Humans', 'Lung Neoplasms/*diagnosis', 'Tomography, Spiral Computed']

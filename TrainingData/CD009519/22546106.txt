@@ -1,0 +1,3 @@
+Small cell lung cancer metastasizing to the colon in a colovesicular fistula in the setting of diverticulitis.
+?
+['Aged, 80 and over', 'Colonic Neoplasms/complications/diagnosis/*secondary', 'Colonoscopy', 'Diagnosis, Differential', 'Diverticulitis, Colonic/*complications/diagnosis', 'Female', 'Follow-Up Studies', 'Humans', 'Intestinal Fistula/*complications/diagnosis', 'Lung Neoplasms/*pathology', 'Positron-Emission Tomography', 'Small Cell Lung Carcinoma/diagnosis/*secondary', 'Tomography, X-Ray Computed', 'Urinary Bladder Fistula/*complications/diagnosis']

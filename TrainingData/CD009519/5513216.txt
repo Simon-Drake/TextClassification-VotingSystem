@@ -1,0 +1,3 @@
+[Genuine bronchial lipoma].
+?
+['Bronchial Neoplasms/*diagnostic imaging/etiology/pathology/surgery', 'Humans', 'Lipoma/*diagnostic imaging/etiology/pathology/surgery', 'Male', 'Middle Aged', 'Radiography', 'Tomography']

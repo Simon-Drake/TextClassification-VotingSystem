@@ -1,0 +1,3 @@
+Trisomy 18 and 13 screening: consequences for the Dutch Down syndrome screening programme.
+?
+['Abnormalities, Multiple/*diagnosis/epidemiology/genetics', 'Adult', 'Algorithms', 'Chromosomes, Human, Pair 13/*genetics', 'Chromosomes, Human, Pair 18/*genetics', 'Down Syndrome/*genetics', 'Female', 'Humans', 'Mass Screening/*methods', 'Netherlands/epidemiology', 'Pregnancy', 'Pregnancy Trimester, First', 'Risk Factors', 'Trisomy/*genetics']

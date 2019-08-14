@@ -1,0 +1,1 @@
+MeSHBloodGlucos MeSHDiabetesMellitus MeSHType MeSHFemale MeSHFluorodeoxyglucoseF1 MeSHHumans MeSHInfusionPumps MeSHInsuli MeSHLungNeoplasm MeSHMale MeSHPositron-EmissionTomograph MeSHRetrospectiveStudies MeSHTissueDistribution MeSHWholeBodyImagin

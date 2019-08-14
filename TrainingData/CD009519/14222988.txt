@@ -1,0 +1,3 @@
+[CRITERIA AND METHODS FOR THE DETECTION AND DIAGNOSTIC VERIFICATION OF PRIMARY CANCER OF THE LUNG IN THE ANTITUBERCULOSIS ASSOCIATIONS].
+?
+['Humans', 'Italy', '*Lung Neoplasms', '*Mass Chest X-Ray', 'Neoplasms/*diagnosis', '*Tomography', '*Tomography, X-Ray Computed', '*Voluntary Health Agencies']

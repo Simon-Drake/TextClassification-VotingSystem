@@ -1,0 +1,3 @@
+The current status of clinical PET imaging.
+?
+['Brain Diseases/*diagnostic imaging', 'Brain Neoplasms/diagnostic imaging', 'Breast Neoplasms/diagnostic imaging', 'Coronary Disease/*diagnostic imaging', 'Female', 'Humans', 'Lung Neoplasms/diagnostic imaging', 'Neoplasms/*diagnostic imaging', '*Tomography, Emission-Computed']

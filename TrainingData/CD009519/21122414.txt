@@ -1,0 +1,3 @@
+[Clinicopathological and imaging features of 5 cases of lung sarcomatoid carcinoma and review of the literature].
+?
+['Aged', 'Carcinoma, Squamous Cell/diagnostic imaging/metabolism/pathology/surgery', 'Carcinosarcoma/*diagnostic imaging/metabolism/*pathology/surgery', 'Follow-Up Studies', 'Humans', 'Ki-67 Antigen/metabolism', 'Lung Neoplasms/*diagnostic imaging/metabolism/*pathology/surgery', 'Lymph Node Excision', 'Lymphatic Metastasis', 'Male', 'Middle Aged', 'Neoplasm Recurrence, Local', 'Pneumonectomy', 'Tomography, Spiral Computed', 'Vimentin/metabolism']

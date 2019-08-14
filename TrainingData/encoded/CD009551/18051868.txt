@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAspergillusoryza MeSHBaseSequence MeSHEscherichiacol MeSHGeneticVector MeSHMolecularSequenceData MeSHPolysaccharide-Lyase MeSHRecombinantProtein

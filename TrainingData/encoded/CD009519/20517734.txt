@@ -1,0 +1,1 @@
+MeSHAged MeSHBiopsy MeSHChestPai MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHPleuralEffusio MeSHSarcoma MeSHSynovia MeSHThoracoscopy MeSHWeightLoss

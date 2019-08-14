@@ -1,0 +1,3 @@
+Molecular typing of Aspergillus terreus by random amplification of polymorphic DNA.
+?
+['Aspergillosis/*microbiology', 'Aspergillus/*classification/*genetics/isolation & purification', 'Environmental Microbiology', 'Humans', '*Mycological Typing Techniques', '*Random Amplified Polymorphic DNA Technique']

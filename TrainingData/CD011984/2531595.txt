@@ -1,0 +1,3 @@
+The ethics of using modern technology for detecting Down's syndrome.
+?
+['Abortion, Eugenic', 'Down Syndrome/*diagnosis', '*Ethics, Medical', 'Female', 'Humans', 'Pregnancy', '*Prenatal Diagnosis']

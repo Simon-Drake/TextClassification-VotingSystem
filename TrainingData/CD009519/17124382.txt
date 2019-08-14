@@ -1,0 +1,3 @@
+Intramuscular tumor detected by FDG positron emission tomography scanning following postoperative lung cancer.
+?
+['Carcinoma, Small Cell/pathology/surgery', 'Female', 'Fluorodeoxyglucose F18', 'Humans', 'Incidental Findings', 'Lipoma/*diagnostic imaging/pathology/surgery', 'Lung Neoplasms/pathology/surgery', 'Middle Aged', 'Muscle Neoplasms/*diagnostic imaging/pathology/surgery', 'Neoplasms, Adipose Tissue/*diagnostic imaging/pathology/surgery', 'Positron-Emission Tomography/methods', 'Radiopharmaceuticals']

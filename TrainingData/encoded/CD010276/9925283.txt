@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSquamousCel MeSHHumans MeSHMouthMucos MeSHMouthNeoplasm MeSHNeoplasmProtein MeSHPalatineTonsil MeSHProtein MeSHSpectrometry MeSHFluorescenc MeSHTumorCells MeSHCultured

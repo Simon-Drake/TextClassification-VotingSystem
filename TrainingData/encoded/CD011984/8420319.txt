@@ -1,0 +1,1 @@
+MeSHChromosomes MeSHHuman MeSHPair21 MeSHFemale MeSHFetalDiseases MeSHHumans MeSHKaryotyping MeSHLymphangioma MeSHLymphaticSystem MeSHMosaicism MeSHNeck MeSHPregnancy MeSHPregnancyTrimester MeSHFirst MeSHRemission MeSHSpontaneous MeSHTranslocation MeSHGenetic MeSHTrisomy MeSHUltrasonography MeSHPrenatal

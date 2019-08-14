@@ -1,0 +1,3 @@
+Serial PET scans demonstrate the success and limitations of antiangiogenic treatment in a case of lung adenocarcinoma.
+?
+['Adenocarcinoma/*diagnostic imaging/*drug therapy/therapy', 'Angiogenesis Inhibitors/*therapeutic use', 'Humans', 'Lung Neoplasms/*diagnostic imaging/*drug therapy/therapy', 'Male', 'Middle Aged', 'Positron-Emission Tomography/*methods', 'Time Factors', 'Treatment Outcome']

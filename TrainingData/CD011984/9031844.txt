@@ -1,0 +1,3 @@
+The significance of placental pathology in pregnancies with unexplained abnormal concentrations of MSAFP or MShCG.
+?
+['Chorionic Gonadotropin/*blood', 'Female', 'Humans', 'Ischemia', 'Mosaicism', 'Placenta/blood supply', 'Placenta Diseases/*blood', 'Pregnancy', 'alpha-Fetoproteins/*analysis']

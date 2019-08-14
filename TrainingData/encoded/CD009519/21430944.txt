@@ -1,0 +1,1 @@
+MeSHAdult MeSHBiopsy MeSHDiagnosis MeSHDifferential MeSHFatalOutcome MeSHHumans MeSHLungNeoplasm MeSHLymphaticMetastasis MeSHMale MeSHMelanom MeSHPositron-EmissionTomography MeSHRadiography MeSHThoracic MeSHSkinNeoplasm MeSHTomography MeSHX-RayComputed

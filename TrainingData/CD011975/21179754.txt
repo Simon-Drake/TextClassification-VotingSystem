@@ -1,0 +1,3 @@
+[Determination of maternal serum alpha-fetoprotein and free beta human chorionic gonadotropin in twin pregnancies comparing to single pregnancies in the second trimester].
+?
+['Chorionic Gonadotropin, beta Subunit, Human/*blood', 'Down Syndrome/blood/diagnosis', 'Female', 'Humans', 'Pregnancy', '*Pregnancy, Twin', 'Prenatal Diagnosis', 'alpha-Fetoproteins/*metabolism']

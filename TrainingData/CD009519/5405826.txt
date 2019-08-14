@@ -1,0 +1,3 @@
+[Note on a case of "lymphoma" of the lung].
+?
+['Angiography', 'Female', 'Humans', 'Lung Neoplasms/*diagnosis/pathology', 'Lymphoma/*diagnosis/pathology', 'Middle Aged', 'Radiography, Thoracic', 'Tomography']

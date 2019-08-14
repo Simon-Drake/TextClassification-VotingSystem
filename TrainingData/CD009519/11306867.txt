@@ -1,0 +1,3 @@
+Hypermetabolism of the medial temporal lobe in limbic encephalitis on (18)FDG-PET scan: a case report.
+?
+['Aged', 'Carcinoma, Small Cell/*complications/metabolism', 'Diagnosis, Differential', 'Female', 'Fluorodeoxyglucose F18', 'Humans', 'Limbic Encephalitis/*diagnostic imaging/etiology/*metabolism', 'Lung Neoplasms/*complications/metabolism', 'Memory Disorders/etiology', 'Radiopharmaceuticals', 'Temporal Lobe/*metabolism/pathology', 'Tomography, Emission-Computed/*methods']

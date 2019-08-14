@@ -1,0 +1,3 @@
+An alpha-fetoprotein radioimmunoassay for use in maternal serum screening for Down's syndrome: limitations and improvements.
+?
+['Adult', 'Down Syndrome/*diagnosis', 'Female', 'Fetal Diseases/*diagnosis', 'Humans', 'Pregnancy', '*Prenatal Diagnosis', 'Radioimmunoassay', 'alpha-Fetoproteins/*analysis']

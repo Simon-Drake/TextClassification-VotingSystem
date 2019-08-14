@@ -1,0 +1,3 @@
+A 49-year-old man with concurrent diagnoses of lung cancer, sarcoidosis, and multiple regions of adenopathy on positron emission tomography.
+?
+['Biopsy, Fine-Needle', 'Bronchoscopy/methods', 'Carcinoma, Non-Small-Cell Lung/complications/diagnosis/*diagnostic imaging/therapy', 'Combined Modality Therapy', 'Follow-Up Studies', 'Humans', 'Lung Neoplasms/*diagnosis/therapy', 'Lymphatic Diseases/complications/diagnosis/*diagnostic imaging', 'Male', 'Middle Aged', 'Pancoast Syndrome/complications/diagnosis/*diagnostic imaging/therapy', '*Positron-Emission Tomography', 'Sarcoidosis/complications/*diagnosis/therapy', 'Smoking/adverse effects', 'Tomography, X-Ray Computed']

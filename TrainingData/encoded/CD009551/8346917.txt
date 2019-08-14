@@ -1,0 +1,1 @@
+MeSHBaseSequence MeSHEscherichiacol MeSHIsomerase MeSHMolecularSequenceData MeSHPenicilliu MeSHRecombinantFusionProtein

@@ -1,0 +1,1 @@
+MeSHAged MeSHBiopsy MeSHCase-ControlStudies MeSHDeoxyglucos MeSHDiagnosis MeSHDifferential MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHGlucos MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHSensitivityandSpecificity MeSHTimeFactors MeSHTomography MeSHEmission-Computed

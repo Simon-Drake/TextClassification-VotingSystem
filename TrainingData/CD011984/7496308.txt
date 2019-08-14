@@ -1,0 +1,3 @@
+Decision analysis and screening for Down's syndrome. Not using age specific values invalidates study.
+?
+['Adult', 'Decision Support Techniques', 'Down Syndrome/*prevention & control', 'Female', 'Humans', 'Maternal Age', '*Prenatal Diagnosis', 'Sensitivity and Specificity']

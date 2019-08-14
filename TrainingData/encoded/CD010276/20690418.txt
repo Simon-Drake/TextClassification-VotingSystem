@@ -1,0 +1,1 @@
+MeSHAzoCompounds MeSHCarcinoma MeSHSquamousCel MeSHCellNucleu MeSHCellSize MeSHColoringAgents MeSHCytodiagnosi MeSHCytoplas MeSHEosineYellowish-(YS) MeSHFluorescentDyes MeSHHumans MeSHImageProcessing MeSHComputer-Assiste MeSHKeratinocyte MeSHMouthMucos MeSHMouthNeoplasm MeSHRosanilineDyes MeSHSmokin MeSHSoftware MeSHTobacco MeSHSmokeless

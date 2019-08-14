@@ -1,0 +1,3 @@
+Towards complete endoscopic staging of the mediastinum?
+?
+['Algorithms', 'Biopsy, Needle', 'Carcinoma, Non-Small-Cell Lung/drug therapy/*pathology/secondary', '*Endosonography', 'Humans', 'Lung Neoplasms/*diagnostic imaging/*pathology', 'Lymphatic Metastasis', 'Mediastinoscopy', 'Neoplasm Staging/*methods', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed']

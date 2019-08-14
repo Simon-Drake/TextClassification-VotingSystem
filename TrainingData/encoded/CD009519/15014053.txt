@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHCoug MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPancreaticNeoplasm MeSHTomography MeSHSpiralComputed

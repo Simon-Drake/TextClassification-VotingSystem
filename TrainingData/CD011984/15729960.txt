@@ -1,0 +1,3 @@
+Advanced maternal age and prenatal diagnosis: it's time for individual assessment of genetic risks.
+?
+['Adult', '*Aneuploidy', 'Biomarkers', 'Female', 'Genetic Counseling', '*Genetic Testing', 'Humans', 'Israel', '*Maternal Age', 'Middle Aged', 'Pregnancy', 'Pregnancy Trimesters', '*Prenatal Diagnosis', 'Risk Assessment']

@@ -1,0 +1,1 @@
+MeSHBreastNeoplasm MeSHCytodiagnosis MeSHEpithelialCells MeSHFemale MeSHHumans MeSHMouthMucos MeSHPrecancerousCondition MeSHUterineCervicalErosio MeSHUterineCervicalNeoplasm

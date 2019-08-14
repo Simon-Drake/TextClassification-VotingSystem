@@ -1,0 +1,3 @@
+Screening for Down's syndrome. Serum screening programmes are effective and safe.
+?
+['Adult', 'Biomarkers/blood', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Maternal Age', 'Predictive Value of Tests', 'Pregnancy', 'Pregnancy, High-Risk', 'Prenatal Diagnosis/*methods', 'Ultrasonography, Prenatal']

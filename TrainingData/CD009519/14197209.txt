@@ -1,0 +1,3 @@
+[ATYPICAL MORPHORADIOLOGICAL ASPECTS OF PRIMARY CANCER OF THE LUNG IN THE EARLY EVOLUTIVE STAGE].
+?
+['*Bronchial Neoplasms', '*Carcinoma', '*Carcinoma, Squamous Cell', 'Humans', '*Lung Neoplasms', 'Neoplasms/*diagnosis', '*Pleural Effusion', '*Pulmonary Atelectasis', '*Pulmonary Emphysema', '*Radiography, Thoracic', '*Tomography']

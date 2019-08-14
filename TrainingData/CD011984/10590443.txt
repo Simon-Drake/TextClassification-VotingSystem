@@ -1,0 +1,3 @@
+Fetal loss in Down syndrome pregnancies.
+?
+['Abortion, Spontaneous/*epidemiology', 'Adult', 'Down Syndrome/embryology/*epidemiology', 'Female', 'Gestational Age', 'Humans', 'Models, Statistical', 'Pregnancy', 'Pregnancy Trimester, First', 'Prenatal Diagnosis/standards', 'United Kingdom/epidemiology']

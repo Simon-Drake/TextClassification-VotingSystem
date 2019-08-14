@@ -1,0 +1,1 @@
+MeSHBreastNeoplasms MeSHCarcinoma MeSHSquamousCell MeSHColonicNeoplasms MeSHEndometrialNeoplasms MeSHEndometriosis MeSHFemale MeSHHumans MeSHNeoplasms MeSHMultiplePrimary MeSHOvarianNeoplasms MeSHPoland MeSHRetrospectiveStudies MeSHStomachNeoplasms

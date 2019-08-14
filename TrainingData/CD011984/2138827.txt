@@ -1,0 +1,3 @@
+[Down's syndrome now detected by ultrasonic examination].
+?
+['Down Syndrome/*diagnosis', 'Female', 'Humans', 'Pregnancy', 'Prenatal Diagnosis', '*Ultrasonography']

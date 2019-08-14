@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSquamousCel MeSHCheek MeSHCytodiagnosis MeSHHumans MeSHLeukoplakia MeSHOra MeSHMouthMucos MeSHMouthNeoplasm MeSHPrecancerousCondition MeSHSensitivityandSpecificity

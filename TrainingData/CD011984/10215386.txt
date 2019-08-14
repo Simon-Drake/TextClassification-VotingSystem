@@ -1,0 +1,3 @@
+Antenatal screening. Better understanding of factors influencing uptake is needed.
+?
+['Down Syndrome/diagnosis', 'Female', 'Fetus/abnormalities', 'Humans', 'Informed Consent', 'Patient Acceptance of Health Care', 'Pregnancy', 'Prenatal Diagnosis/*utilization', 'Ultrasonography, Prenatal/utilization']

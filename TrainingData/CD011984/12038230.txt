@@ -1,0 +1,3 @@
+[Arguments for providing blood screening for Down syndrome to all pregnant women].
+?
+['Down Syndrome/blood/*diagnosis/genetics', 'Female', 'Genetic Testing', 'Humans', '*Mass Screening/economics', 'Pregnancy']

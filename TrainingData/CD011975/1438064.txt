@@ -1,0 +1,3 @@
+Shift of the fetal sex ratio in hCG selected pregnancies at risk for Down syndrome.
+?
+['Adult', 'Chorionic Gonadotropin/*blood', 'Down Syndrome/*diagnosis/epidemiology', 'Estradiol/blood', 'Female', 'Humans', 'Maternal Age', 'Predictive Value of Tests', 'Pregnancy/*blood', 'Pregnancy Trimester, Second', '*Prenatal Diagnosis', 'Prospective Studies', 'Risk Factors', 'Sex Ratio']

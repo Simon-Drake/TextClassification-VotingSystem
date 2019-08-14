@@ -1,0 +1,3 @@
+Maternal serum alpha-fetoprotein and ethnic origin.
+?
+['Asia/ethnology', 'England', '*Ethnic Groups', 'Female', 'Humans', 'Pregnancy/*blood', 'alpha-Fetoproteins/*analysis']

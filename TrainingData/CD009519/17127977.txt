@@ -1,0 +1,3 @@
+[Is it possible to diagnose interstitial pneumonia only with lung imaging?].
+?
+['Alveolitis, Extrinsic Allergic/diagnostic imaging', 'Diagnosis, Differential', 'Histiocytosis/diagnostic imaging', 'Humans', 'Lung Diseases, Interstitial/classification/*diagnostic imaging/etiology', 'Lung Neoplasms/diagnostic imaging', 'Lymphangioma/diagnostic imaging', 'Lymphangitis/diagnostic imaging', 'Pneumoconiosis/diagnostic imaging', 'Pulmonary Fibrosis/diagnostic imaging', '*Radiography, Thoracic', 'Sarcoidosis, Pulmonary/diagnostic imaging', 'Tomography, Spiral Computed/methods', '*Tomography, X-Ray Computed/methods']

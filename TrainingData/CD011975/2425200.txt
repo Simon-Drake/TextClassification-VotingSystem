@@ -1,0 +1,3 @@
+Amniotic fluid alpha-fetoprotein levels and trisomy 21.
+?
+['Amniotic Fluid/*analysis', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Pregnancy', '*Prenatal Diagnosis', 'Risk', 'alpha-Fetoproteins/*analysis']

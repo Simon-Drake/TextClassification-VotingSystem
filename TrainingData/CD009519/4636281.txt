@@ -1,0 +1,3 @@
+133 Xenon lung scintigraphy: results in 56 patients with bronchial carcinoma.
+?
+['Adenocarcinoma/*diagnosis', 'Bronchial Neoplasms/*diagnosis/diagnostic imaging', 'Carcinoma, Bronchogenic/*diagnosis', 'Diagnosis, Differential', 'Humans', 'Male', 'Middle Aged', 'Pulmonary Atelectasis/diagnosis', 'Pulmonary Embolism/diagnosis', 'Radiography', '*Radionuclide Imaging', 'Tomography', 'Ventilation-Perfusion Ratio', 'Xenon']

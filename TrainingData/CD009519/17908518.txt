@@ -1,0 +1,3 @@
+Clinical inquiries. What is the best approach to a solitary pulmonary nodule identified by chest x-ray?
+?
+['Biopsy, Fine-Needle', 'Family Practice', 'Humans', 'Lung Neoplasms/*diagnosis/diagnostic imaging/pathology', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed']

@@ -1,0 +1,3 @@
+[SEMEIOLOGICAL ASPECTS OF THE PLEUROPULMONARY LOCALIZATIONS OF SYSTEMIC HISTIOCYTIC SARCOMATOSIS].
+?
+['*Antineoplastic Agents', '*Biopsy', '*Hodgkin Disease', 'Humans', '*Leukemia', '*Leukemia, Lymphoid', '*Leukemia, Myeloid', '*Lung Neoplasms', '*Lymph Nodes', '*Lymphoma', '*Lymphoma, Non-Hodgkin', '*Mediastinal Emphysema', '*Multiple Myeloma', 'Neoplasms/*diagnosis/*radiotherapy', '*Pleural Neoplasms', '*Pneumomediastinum, Diagnostic', '*Radiography, Thoracic', '*Retropneumoperitoneum', '*Sarcoma', '*Tomography']

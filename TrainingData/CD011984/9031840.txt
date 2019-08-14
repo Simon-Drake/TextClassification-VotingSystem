@@ -1,0 +1,3 @@
+Detection of beta-core fragment in second trimester Down's syndrome pregnancies.
+?
+['Chorionic Gonadotropin, beta Subunit, Human/*urine', 'Down Syndrome/*urine', 'Female', 'Humans', 'Pregnancy', '*Prenatal Diagnosis']

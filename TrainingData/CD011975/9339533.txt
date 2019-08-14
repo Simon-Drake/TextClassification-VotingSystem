@@ -1,0 +1,3 @@
+Nuchal translucency measurement and second-trimester biochemical screening for Down's syndrome.
+?
+['Adult', 'Biomarkers/blood', 'Chorionic Gonadotropin/*blood', 'Crown-Rump Length', 'Down Syndrome/*blood/*diagnosis/diagnostic imaging', 'Female', 'Humans', 'Mass Screening/*methods', 'Maternal Age', 'Neck/diagnostic imaging/embryology', 'Pregnancy', 'Pregnancy Trimester, Second', 'Pregnancy Trimester, Third', 'Sensitivity and Specificity', '*Skinfold Thickness', 'Ultrasonography, Prenatal']

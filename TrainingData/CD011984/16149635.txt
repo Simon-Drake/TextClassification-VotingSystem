@@ -1,0 +1,3 @@
+[Human chorionic gonadotropin beta-core fragment (hCGbetacf)].
+?
+['Biomarkers, Tumor/*urine', 'Chorionic Gonadotropin, beta Subunit, Human/*urine', 'Down Syndrome/diagnosis', 'Female', 'Genital Neoplasms, Female/*diagnosis', 'Humans', 'Immunoenzyme Techniques/methods', 'Lung Neoplasms/diagnosis', 'Peptide Fragments/*urine', 'Pregnancy', 'Prenatal Diagnosis', 'Reference Values', 'Specimen Handling', 'Urinary Bladder Neoplasms/diagnosis']

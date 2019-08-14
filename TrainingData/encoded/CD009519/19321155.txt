@@ -1,0 +1,1 @@
+MeSHAdult MeSHAged MeSHBreastNeoplasm MeSHCausality MeSHComorbidity MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHLymphaticDisease MeSHLymphoma MeSHNon-Hodgki MeSHMale MeSHMediastinoscopy MeSHMiddleAged MeSHPositron-EmissionTomography MeSHRetrospectiveStudies MeSHSarcoidosi MeSHTesticularNeoplasm MeSHTomography MeSHX-RayComputed MeSHYoungAdult

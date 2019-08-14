@@ -1,0 +1,3 @@
+Diagnosis and management of the solitary pulmonary nodule.
+?
+['Aged', 'Biopsy', 'Carcinoma, Non-Small-Cell Lung/*diagnosis/surgery', 'Catheter Ablation', 'Female', 'Humans', 'Lung/diagnostic imaging/pathology', 'Lung Neoplasms/*diagnosis/surgery', 'Multimodal Imaging', 'Positron-Emission Tomography', 'Solitary Pulmonary Nodule/*diagnosis/surgery', 'Tomography, X-Ray Computed']

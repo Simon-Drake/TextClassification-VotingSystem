@@ -1,0 +1,3 @@
+Competition for EUS (a) EBUS-TBNA (b) video assisted thoracoscopy.
+?
+['Biopsy, Fine-Needle', 'Bronchoscopy', 'Carcinoma, Non-Small-Cell Lung/diagnostic imaging/*pathology', 'Endoscopes', '*Endosonography', 'Equipment Design', 'Humans', 'Lung Neoplasms/diagnostic imaging/*pathology', 'Lymphatic Metastasis', '*Mediastinoscopy', 'Neoplasm Invasiveness', 'Neoplasm Staging/*methods', 'Positron-Emission Tomography', '*Thoracic Surgery, Video-Assisted', 'Tomography, X-Ray Computed']

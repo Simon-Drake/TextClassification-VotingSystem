@@ -1,0 +1,1 @@
+MeSHAdult MeSHAlgorithms MeSHChromatography MeSHHighPressureLiquid MeSHFemale MeSHHumans MeSHMiddleAged MeSHMouthNeoplasm MeSHOvarianNeoplasm MeSHPrincipalComponentAnalysis MeSHProtein MeSHSpectrometry MeSHFluorescence MeSHUterineCervicalNeoplasm

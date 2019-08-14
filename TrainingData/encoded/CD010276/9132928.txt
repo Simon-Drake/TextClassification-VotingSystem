@@ -1,0 +1,1 @@
+MeSHBodyFluid MeSHDentalAlloy MeSHDentalAmalga MeSHHumans MeSHHypersensitivit MeSHMedicalHistoryTaking MeSHMercur MeSHMouthDisease MeSHOralHygiene MeSHSkinTests

@@ -1,0 +1,3 @@
+Radiology-pathology conference: sclerosing hemangioma of the lung.
+Sclerosing hemangioma (SH) is a relatively rare, benign neoplasm of the lung. Although there are relatively characteristic imaging findings, biopsy remains the definitive diagnostic test. We report the radiology and pathology of a patient with a SH, with emphasis on the computed tomographic and (18)F-fluorodeoxyglucose positron emission tomography findings, and review the literature on this unusual tumor.
+['Adult', 'Female', '*Fluorodeoxyglucose F18', 'Humans', 'Lung/*diagnostic imaging', 'Positron-Emission Tomography/*methods', 'Pulmonary Sclerosing Hemangioma/*diagnosis', 'Radiopharmaceuticals', 'Tomography, X-Ray Computed/*methods']

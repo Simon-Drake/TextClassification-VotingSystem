@@ -1,0 +1,3 @@
+Informed consent to undergo serum screening for Down's syndrome: the gap between policy and practice.
+?
+['Communication', 'Comprehension', 'Counseling', 'Disclosure', 'Down Syndrome/*diagnosis', 'Female', 'Fetal Diseases/*diagnosis', 'Health Knowledge, Attitudes, Practice', 'Health Policy', 'Humans', '*Informed Consent', 'Mothers/psychology', 'Physician-Patient Relations', 'Pregnancy', '*Pregnant Women', 'Prenatal Diagnosis/*psychology']

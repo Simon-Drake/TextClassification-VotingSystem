@@ -1,0 +1,3 @@
+Prostate-specific antigen in prenatal screening for Down's syndrome.
+?
+['Amniotic Fluid/chemistry', 'Down Syndrome/*diagnosis', 'Female', 'Gestational Age', 'Humans', 'Pregnancy', 'Prenatal Diagnosis/*methods', 'Prostate-Specific Antigen/*analysis/blood']

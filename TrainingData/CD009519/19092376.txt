@@ -1,0 +1,3 @@
+Extraosseous myxoid chondrosarcoma with pulmonary and nodal metastases on FDG PET-CT.
+?
+['Aged', 'Chondrosarcoma/*diagnosis/diagnostic imaging/*pathology', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnosis/diagnostic imaging/*secondary', 'Lymphatic Metastasis/*diagnosis/diagnostic imaging', 'Male', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed']

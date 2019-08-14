@@ -1,0 +1,3 @@
+Biochemistry and endocrinology of the Down's syndrome pregnancy.
+?
+['Chorionic Gonadotropin/blood', 'Down Syndrome/*embryology', 'Endocrine Glands/*physiopathology', 'Estriol/blood', 'Female', 'Fetus/*metabolism/physiology', 'Humans', 'Placental Hormones/blood', 'Pregnancy/*blood/physiology', 'alpha-Fetoproteins/metabolism']

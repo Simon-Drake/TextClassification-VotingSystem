@@ -1,0 +1,3 @@
+Prenatal screening for Down syndrome should focus on safety more than cost-effectiveness.
+?
+['Cost-Benefit Analysis', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Pregnancy', '*Prenatal Diagnosis', 'Safety']

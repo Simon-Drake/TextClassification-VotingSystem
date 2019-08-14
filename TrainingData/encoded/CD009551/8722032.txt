@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAspergillu MeSHBaseSequence MeSHFungalProtein MeSHMolecularSequenceData MeSHMycotoxin MeSHProteinStructure MeSHTertiary MeSHRibosome MeSHSequenceHomology MeSHAminoAcid

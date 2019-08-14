@@ -1,0 +1,3 @@
+Trisomy 18 fetuses with cystic hygroma linked to positive maternal serum Down's syndrome Triple test screening result.
+?
+['Abortion, Eugenic', 'Adult', 'Biomarkers/blood', 'Chorionic Gonadotropin/blood', '*Chromosomes, Human, Pair 18', 'Diagnosis, Differential', 'Down Syndrome/*diagnosis', 'Estriol/blood', 'Female', 'Fetus', 'Humans', 'Lymphangioma, Cystic/complications/*diagnosis/genetics', 'Mass Screening/methods', 'Pregnancy', '*Prenatal Diagnosis', 'Trisomy/*diagnosis/*genetics', 'alpha-Fetoproteins/analysis']

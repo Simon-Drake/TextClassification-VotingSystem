@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdult MeSHAged MeSHBrainNeoplasm MeSHCarcinoma MeSHSmallCel MeSHCarcinoma MeSHSquamousCel MeSHDeoxyglucos MeSHFeasibilityStudies MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHodgkinDiseas MeSHHumans MeSHInfant MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHThoracicNeoplasm MeSHTomography MeSHEmission-Compute

@@ -1,0 +1,3 @@
+Current state of second trimester screening for Down's syndrome.
+?
+['Amniocentesis', 'Biomarkers', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Inhibins/*blood', 'Mass Screening', 'Pregnancy', 'Pregnancy Trimester, Second', 'Prenatal Diagnosis/*methods', 'alpha-Fetoproteins/analysis']

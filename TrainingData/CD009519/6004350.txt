@@ -1,0 +1,3 @@
+[Differential diagnosis of hamartochondromas and peripheral cancer of the lung].
+?
+['Adult', 'Chondroma/*diagnostic imaging', 'Diagnosis, Differential', 'Female', 'Hamartoma/diagnosis/*diagnostic imaging', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Middle Aged', 'Radiography', 'Tomography']

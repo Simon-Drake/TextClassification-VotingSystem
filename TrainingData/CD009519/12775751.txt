@@ -1,0 +1,3 @@
+Unusual problems in breast cancer and a rare lung cancer case. Case 4. Primary lymphoepithelioma-like carcinoma of the lung.
+?
+['Aged', 'Carcinoma, Squamous Cell/diagnostic imaging/*pathology/virology', 'China/ethnology', 'Epstein-Barr Virus Infections/complications', 'Female', 'Humans', 'Lung Neoplasms/diagnostic imaging/*pathology/virology', 'Risk Factors', 'Tomography, Emission-Computed', 'United States']

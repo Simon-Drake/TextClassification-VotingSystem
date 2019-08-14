@@ -1,0 +1,3 @@
+[PET - Quo vadis?].
+?
+['Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Radiopharmaceuticals', '*Tomography, Emission-Computed']

@@ -1,0 +1,1 @@
+MeSHBiops MeSHDiagnosis MeSHOra MeSHHumans MeSHMouthDisease MeSHMouthNeoplasm MeSHPatientSelection

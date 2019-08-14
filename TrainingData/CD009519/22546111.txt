@@ -1,0 +1,3 @@
+Epithelial-myoepithelial carcinoma of the lung.
+?
+['Bronchoscopy', 'Carcinoma/*diagnosis/surgery', 'Diagnosis, Differential', 'Follow-Up Studies', 'Humans', 'Lung Neoplasms/*diagnosis/surgery', 'Male', 'Middle Aged', 'Pneumonectomy/*methods', 'Positron-Emission Tomography', 'Robotics/*methods', 'Tomography, X-Ray Computed']

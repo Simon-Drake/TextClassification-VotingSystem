@@ -1,0 +1,1 @@
+MeSHCandidaalbicans MeSHCellLine MeSHGram-NegativeBacteria MeSHGram-PositiveBacteria MeSHHumans MeSHInterleukin-6 MeSHMonocytes MeSHPyrogens MeSHSonication

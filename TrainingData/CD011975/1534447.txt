@@ -1,0 +1,3 @@
+Ultrasonographic screening for trisomy 21.
+?
+['Adult', 'Down Syndrome/*diagnostic imaging', 'Female', 'Humans', 'Pregnancy', '*Ultrasonography, Prenatal']

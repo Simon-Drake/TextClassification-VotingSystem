@@ -1,0 +1,3 @@
+Radiologic-pathologic conference of Children's Hospital Boston: pineal region mass in a neonate.
+Prenatal ultrasound examination of a fetus revealed a pineal region mass. Shortly after birth the baby was evaluated with MRI and ultrasound of the brain. The clinical history and the MRI, operative, and histological findings are presented and discussed.
+['Boston', 'Brain Neoplasms/complications/*diagnosis/surgery', 'Craniotomy', 'Diagnosis, Differential', 'Down Syndrome/complications/diagnosis', 'Female', 'Follow-Up Studies', 'Humans', 'Infant, Newborn', 'Magnetic Resonance Imaging', '*Pineal Gland/diagnostic imaging/pathology', 'Radiography', 'Teratoma/complications/*diagnosis/surgery', 'Ultrasonography, Prenatal']

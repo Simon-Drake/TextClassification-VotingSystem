@@ -1,0 +1,3 @@
+[A rare lung tumor: leiomyosarcoma].
+?
+['Bronchoscopy', 'Humans', 'Leiomyosarcoma/complications/diagnosis/*diagnostic imaging/surgery', 'Lung Neoplasms/complications/diagnosis/*diagnostic imaging/surgery', 'Male', 'Middle Aged', 'Radiography, Thoracic', 'Tomography']

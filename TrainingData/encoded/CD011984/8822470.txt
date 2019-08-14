@@ -1,0 +1,1 @@
+MeSHAdult MeSHBirthWeight MeSHCase-ControlStudies MeSHChildDevelopment MeSHCongenitalAbnormalities MeSHCytoplasm MeSHFemale MeSHFertilizationinVitro MeSHFollow-UpStudies MeSHHumans MeSHInfant MeSHInfant MeSHNewborn MeSHKaryotyping MeSHMale MeSHMicroinjections MeSHOocytes MeSHPregnancy MeSHProspectiveStudies MeSHSafety MeSHSpermatozoa MeSHTriplets MeSHTwins

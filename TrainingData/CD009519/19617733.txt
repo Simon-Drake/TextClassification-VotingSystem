@@ -1,0 +1,3 @@
+Respiratory papillomatosis of lung and F-18 FDG PET-CT.
+?
+['Adult', 'Female', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/complications/*diagnostic imaging', 'Papilloma/complications/*diagnostic imaging', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed']

@@ -1,0 +1,3 @@
+Maternal serum alpha-fetoprotein as screening test for Down syndrome.
+?
+['Adult', 'Amniocentesis', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Maternal Age', 'Pregnancy', 'Pregnancy, High-Risk', '*Pregnant Women', '*Prenatal Diagnosis', 'Risk Assessment', 'alpha-Fetoproteins/*analysis']

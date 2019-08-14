@@ -1,0 +1,3 @@
+Costs of prenatal genetic screening.
+?
+['Diagnostic Errors/*statistics & numerical data', 'Down Syndrome/*diagnosis/epidemiology', '*Editorial Policies', 'Female', 'Humans', 'Incidence', 'Infant, Newborn', 'Pregnancy', 'Prenatal Diagnosis/ethics/*statistics & numerical data']

@@ -1,0 +1,3 @@
+Prenatally diagnosed 45,X/46,XY and normal phenotype.
+?
+['Female', 'Humans', 'Male', '*Mosaicism', 'Phenotype', 'Pregnancy', '*Prenatal Diagnosis', 'Sex Chromosome Aberrations/*diagnosis', '*Y Chromosome']

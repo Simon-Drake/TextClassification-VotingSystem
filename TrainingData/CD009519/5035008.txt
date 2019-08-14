@@ -1,0 +1,3 @@
+[Surgical treatment of bronchial adenomas].
+?
+['Adenoma/pathology/*surgery', 'Adolescent', 'Adult', 'Biopsy', 'Bronchi/pathology', 'Bronchial Neoplasms/pathology/*surgery', 'Bronchography', 'Bronchoscopy', 'Female', 'Follow-Up Studies', 'Humans', 'Male', 'Middle Aged', 'Pneumonectomy', 'Tomography']

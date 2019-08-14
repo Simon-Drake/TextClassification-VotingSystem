@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHBreastNeoplasm MeSHCarcinoma MeSHSquamousCel MeSHColonicNeoplasm MeSHDN MeSHFixative MeSHFlowCytometry MeSHFormaldehyd MeSHHumans MeSHInterphase MeSHLungNeoplasm MeSHNuclearProtein MeSHStainingandLabelin

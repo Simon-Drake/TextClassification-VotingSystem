@@ -1,0 +1,3 @@
+Multiple aneuploidy recurrence risk.
+?
+['Abortion, Eugenic', 'Adult', '*Aneuploidy', 'Female', 'Folic Acid/therapeutic use', 'Humans', 'Pregnancy', 'Prenatal Diagnosis', 'Recurrence', 'Trisomy']

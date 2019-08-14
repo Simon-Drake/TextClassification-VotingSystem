@@ -1,0 +1,3 @@
+[Differential diagnosis of bronchial cancer by bronchotomography].
+?
+['Bronchial Neoplasms/*diagnostic imaging', 'Bronchiectasis/etiology', 'Bronchoscopy', 'Carcinoma, Bronchogenic/*diagnostic imaging', 'Diagnosis, Differential', 'Humans', 'Pulmonary Atelectasis/etiology', 'Radiography', 'Tomography']

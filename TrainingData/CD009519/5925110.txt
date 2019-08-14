@@ -1,0 +1,3 @@
+Laminagraphic studies of the vascular patterns in cancer of the lung with special reference to the "circumscribed" variety.
+?
+['Adult', 'Aged', 'Female', 'Humans', 'Lung Neoplasms/*diagnosis', 'Male', 'Middle Aged', 'Pulmonary Artery/*pathology', 'Pulmonary Veins/*pathology', 'Tomography']

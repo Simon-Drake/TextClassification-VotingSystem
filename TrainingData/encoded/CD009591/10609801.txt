@@ -1,0 +1,1 @@
+MeSHAbdominalPain MeSHDiagnosis MeSHDifferential MeSHFemale MeSHHemorrhage MeSHHumans MeSHLymphoma MeSHLargeB-Cell MeSHDiffuse MeSHMiddleAged MeSHPelvicInflammatoryDisease MeSHPelvicPain MeSHUreteralObstruction MeSHVaginalNeoplasms

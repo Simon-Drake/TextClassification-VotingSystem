@@ -1,0 +1,3 @@
+Prenatal diagnosis of 45,X/46,XY mosaicism in a fetus with asymmetric gonadal dysgenesis.
+An 18 week abortus had been prenatally diagnosed as a 45,X/46,XY mosaic. The fetus was a phenotypic male with glandular hypospadias, a horseshoe kidney and asymmetric gonadal dysgenesis. This case represents a rare instance of prenatally diagnosed 45,X/46,XY mosaicism with an abnormal phenotype.
+['Abortion, Therapeutic', 'Adult', '*Amniocentesis', 'Female', 'Fetal Diseases/*diagnosis', 'Gonadal Dysgenesis/*diagnosis', 'Gonadal Dysgenesis, Mixed/*diagnosis', 'Humans', 'Male', 'Maternal Age', '*Mosaicism', 'Phenotype', 'Pregnancy', 'Pregnancy, High-Risk']

@@ -1,0 +1,3 @@
+Cough and hemoptysis in a middle-aged woman.
+?
+['Adult', 'Biopsy, Needle', 'Bronchoscopy/methods', 'China', 'Combined Modality Therapy', 'Cough/diagnosis/etiology', 'Diagnostic Imaging/*methods', 'Female', 'Follow-Up Studies', 'Hemoptysis/diagnosis/etiology', 'Humans', 'Immunohistochemistry', 'Lung Neoplasms/*diagnosis/therapy', 'Magnetic Resonance Imaging/methods', 'Melanoma/*diagnosis/therapy', 'Neoplasm Recurrence, Local/*pathology', 'Osteoarthritis/complications/*diagnostic imaging/physiopathology', 'Positron-Emission Tomography/methods', 'Tomography, X-Ray Computed']

@@ -1,0 +1,3 @@
+Treatment-related pneumonitis and acute esophagitis in non-small-cell lung cancer patients treated with chemotherapy and helical tomotherapy: in regard to Song et al.
+?
+['Carcinoma, Non-Small-Cell Lung/drug therapy/mortality/pathology/*radiotherapy', 'Combined Modality Therapy/mortality', 'Esophagitis/etiology', 'Humans', 'Karnofsky Performance Status', 'Lung Neoplasms/drug therapy/mortality/pathology/*radiotherapy', 'Patient Selection', 'Radiation Injuries/prevention & control', 'Radiation Pneumonitis/etiology', 'Radiotherapy Dosage', 'Radiotherapy, Intensity-Modulated/adverse effects/mortality', 'Tomography, Spiral Computed/methods', 'Treatment Outcome', 'Tumor Burden']

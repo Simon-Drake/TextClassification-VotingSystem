@@ -1,0 +1,3 @@
+[Direct retrograde azygography].
+?
+['Adult', 'Aged', 'Azygos Vein/*diagnostic imaging/pathology', 'Carcinoma, Bronchogenic/diagnostic imaging', 'Catheterization', 'Contrast Media', 'Esophageal Neoplasms/diagnostic imaging', 'Esophageal Stenosis/diagnostic imaging', 'Esophagus/diagnostic imaging', 'Humans', 'Lung Neoplasms/diagnostic imaging', 'Male', 'Mediastinal Neoplasms/diagnostic imaging', 'Methods', 'Middle Aged', 'Radiography', 'Tomography', 'Valsalva Maneuver']

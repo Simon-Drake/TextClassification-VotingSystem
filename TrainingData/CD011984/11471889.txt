@@ -1,0 +1,3 @@
+Evaluation of effect of analytical imprecision in maternal serum screening for Down's syndrome.
+?
+['Biomarkers/blood', 'Chorionic Gonadotropin, beta Subunit, Human/*blood', 'Confidence Intervals', 'Diagnostic Errors', 'Down Syndrome/*diagnosis/embryology', 'Female', 'Humans', 'Pregnancy/*blood', 'Pregnancy-Associated Plasma Protein-A/*analysis', 'Prenatal Diagnosis/*methods', 'Reproducibility of Results', 'alpha-Fetoproteins/*analysis']

@@ -1,0 +1,3 @@
+[Renal tuberculosis associated with renal epithelioma in a diabetic. Diagnostic difficulties. Abnormal aspect of scintigram].
+?
+['Body Weight', 'Carcinoma, Basal Cell/complications/*diagnosis', 'Cholelithiasis/complications', 'Diabetes Complications', 'Diabetes Mellitus/drug therapy', 'Diabetic Nephropathies/*diagnosis', 'Hematuria/etiology', 'Humans', 'Insulin/therapeutic use', 'Kidney Neoplasms/complications/*diagnosis', 'Lung Neoplasms/*diagnosis', 'Male', 'Middle Aged', '*Radioisotope Renography', 'Suppuration/urine', 'Tomography', 'Tuberculosis, Renal/complications/*diagnosis', 'Urography']

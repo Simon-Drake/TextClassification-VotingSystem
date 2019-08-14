@@ -1,0 +1,3 @@
+Smoking cessation counseling needed with spiral CT screening for lung cancer.
+?
+['*Directive Counseling', 'Humans', 'Lung Neoplasms/*diagnostic imaging/psychology', 'Mass Screening', 'Smoking/psychology', 'Smoking Cessation/*psychology', '*Tomography, Spiral Computed']

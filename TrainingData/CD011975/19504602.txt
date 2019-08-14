@@ -1,0 +1,3 @@
+Unexpected diagnosis of 45,X/47,XX,+18 mosaicism in a girl with mild phenotype.
+?
+['Adult', 'Chromosomes, Human/*genetics', 'Facies', 'Female', 'Humans', 'Infant', 'Infant, Newborn', 'Karyotyping', 'Male', 'Microsatellite Repeats/genetics', '*Mosaicism', 'Parents', 'Phenotype', 'Pregnancy', 'Trisomy/*diagnosis/*genetics']

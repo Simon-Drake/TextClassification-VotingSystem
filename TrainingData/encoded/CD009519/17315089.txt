@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdult MeSHAged MeSHCarcinoma MeSHNon-Small-CellLun MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPositron-EmissionTomography MeSHProspectiveStudies MeSHSensitivityandSpecificity

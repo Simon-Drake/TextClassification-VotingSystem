@@ -1,0 +1,3 @@
+Cancer screening. The promise and pitfalls of a cancer breakthrough.
+?
+['Aged', 'Clinical Trials as Topic', 'Cost-Benefit Analysis', '*Early Detection of Cancer/adverse effects/economics', 'Humans', 'Lung Neoplasms/*diagnostic imaging/*mortality', 'Middle Aged', 'Smoking', '*Tomography, Spiral Computed/adverse effects/economics']

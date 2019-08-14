@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdult MeSHAged MeSHAged MeSH80andover MeSHEpidemiologicMethods MeSHFemale MeSHHumans MeSHLive MeSHLungNeoplasm MeSHLymphaticMetastasis MeSHMale MeSHMiddleAged MeSHMultimodalImagin MeSHNeoplasmInvasiveness MeSHNeoplasmStaging MeSHPositron-EmissionTomography MeSHPrognosis MeSHTomography MeSHX-RayComputed

@@ -1,0 +1,3 @@
+ABC of antenatal care. Detection and management of congenital abnormalities--I.
+?
+['Abortion, Induced', 'Chorionic Villi Sampling', 'Congenital Abnormalities/*diagnosis', 'Down Syndrome/diagnosis', 'Female', 'Fetal Diseases/*diagnosis', 'Humans', 'Pregnancy', 'Prenatal Diagnosis/*methods', 'Risk Factors']

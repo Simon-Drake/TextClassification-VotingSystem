@@ -1,0 +1,3 @@
+[The question of liability in pregnancy cases].
+?
+['Abortion, Missed/diagnosis', 'Adult', 'Down Syndrome/diagnosis', 'Female', 'Germany, West', 'Humans', '*Malpractice', 'Maternal Age', '*Pregnancy', 'Pregnancy, Abdominal/diagnosis', 'Pregnancy, High-Risk', 'Prenatal Diagnosis', 'Risk']

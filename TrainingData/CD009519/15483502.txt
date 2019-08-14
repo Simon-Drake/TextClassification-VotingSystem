@@ -1,0 +1,3 @@
+Typical and atypical bronchopulmonary carcinoid tumors on FDG PET/CT imaging.
+?
+['Aged', 'Carcinoid Tumor/*diagnostic imaging', 'Female', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', '*Positron-Emission Tomography', 'Radiopharmaceuticals', 'Tomography, X-Ray Computed']

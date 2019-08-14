@@ -1,0 +1,1 @@
+MeSHBoneNeoplasm MeSHCoug MeSHDiagnosis MeSHDifferential MeSHFatalOutcome MeSHHoarsenes MeSHHumans MeSHIliu MeSHLungNeoplasm MeSHLymphNode MeSHLymphaticMetastasis MeSHMale MeSHMediastinalNeoplasm MeSHPositron-EmissionTomography MeSHRadiography MeSHThoracic MeSHSarcoma MeSHEwin MeSHTomography MeSHX-RayComputed MeSHYoungAdult

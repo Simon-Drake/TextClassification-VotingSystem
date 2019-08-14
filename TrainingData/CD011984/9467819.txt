@@ -1,0 +1,3 @@
+Oligosaccharide variants of hCG-related molecules: potential screening markers for Down syndrome.
+?
+['Biomarkers/blood', 'Chorionic Gonadotropin/blood/*chemistry', 'Chromatography, Agarose', 'Concanavalin A/chemistry', 'Down Syndrome/blood/*diagnosis/embryology', 'Female', 'Fetal Diseases/blood/*diagnosis/embryology', 'Gestational Age', 'Humans', 'Oligosaccharides/*chemistry', 'Pregnancy', 'Prenatal Diagnosis/*methods']

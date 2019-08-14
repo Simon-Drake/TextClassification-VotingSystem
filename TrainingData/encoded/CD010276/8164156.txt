@@ -1,0 +1,1 @@
+MeSHAdult MeSHAreca MeSHBaseSequence MeSHCarcinoma MeSHSquamousCel MeSHCodon MeSHDNAMutationalAnalysis MeSHDNA MeSHNeoplas MeSHGenes MeSHra MeSHHumans MeSHMale MeSHMiddleAged MeSHMolecularSequenceData MeSHMouthMucos MeSHMouthNeoplasm MeSHMutation MeSHPlants MeSHMedicinal MeSHPolymeraseChainReaction MeSHSubstance-RelatedDisorder

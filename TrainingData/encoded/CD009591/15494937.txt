@@ -1,0 +1,1 @@
+MeSHAdult MeSHAntigens MeSHCD MeSHBiomarkers MeSHTumor MeSHDiagnosis MeSHDifferential MeSHDisease-FreeSurvival MeSHEndometrialNeoplasms MeSHFemale MeSHHumans MeSHImmunohistochemistry MeSHReceptors MeSHEstrogen MeSHReceptors MeSHProgesterone MeSHSarcoma MeSHEndometrialStromal MeSHSemaphorins MeSHVaginalNeoplasms

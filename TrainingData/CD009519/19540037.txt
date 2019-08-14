@@ -1,0 +1,3 @@
+A familial case of Lambert-Eaton myasthenic syndrome with small cell lung cancer.
+?
+['Female', 'Humans', 'Lambert-Eaton Myasthenic Syndrome/*complications/diagnostic imaging/genetics', 'Lung Neoplasms/*complications/diagnostic imaging', 'Male', 'Middle Aged', 'Muscle Weakness/etiology', 'Positron-Emission Tomography', 'Small Cell Lung Carcinoma/*complications/diagnostic imaging']

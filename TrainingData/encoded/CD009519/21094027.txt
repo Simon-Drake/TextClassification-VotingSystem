@@ -1,0 +1,1 @@
+MeSHBoneNeoplasm MeSHBoneandBone MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHMagneticResonanceImaging MeSHPositron-EmissionTomography MeSHRadiography MeSHRadiopharmaceuticals

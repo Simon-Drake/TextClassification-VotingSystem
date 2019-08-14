@@ -1,0 +1,3 @@
+[Low maternal serum alpha-fetoprotein concentration and Down syndrome].
+?
+['Down Syndrome/*genetics', 'Female', 'Humans', 'Pregnancy', 'Pregnancy Trimester, Second', 'alpha-Fetoproteins/*blood']

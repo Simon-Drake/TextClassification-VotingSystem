@@ -1,0 +1,3 @@
+Eligibility criteria for amniocentesis.
+?
+['Adult', '*Amniocentesis', 'Down Syndrome/*prevention & control', 'Eligibility Determination', 'Female', 'Humans', 'Maternal Age', 'Pregnancy', 'Risk']

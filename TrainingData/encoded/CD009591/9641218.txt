@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHEndometrioid MeSHCystadenocarcinoma MeSHSerous MeSHFemale MeSHHumans MeSHMatched-PairAnalysis MeSHOvarianNeoplasms MeSHPrognosis MeSHReceptors MeSHEstrogen MeSHReceptors MeSHProgesterone MeSHRetrospectiveStudies MeSHSurvivalAnalysis

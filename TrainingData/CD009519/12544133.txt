@@ -1,0 +1,3 @@
+FDG positron emission tomographic imaging of a large abdominal aortic aneurysm.
+?
+['Aged', 'Aortic Aneurysm, Abdominal/*diagnostic imaging', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/diagnostic imaging', 'Male', '*Radiopharmaceuticals', '*Tomography, Emission-Computed', 'Tomography, X-Ray Computed']

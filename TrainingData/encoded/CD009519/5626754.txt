@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHBronchogeni MeSHDiagnosis MeSHDifferential MeSHHumans MeSHLungNeoplasm MeSHLymphNode MeSHLymphaticMetastasi MeSHRadiography MeSHTomography

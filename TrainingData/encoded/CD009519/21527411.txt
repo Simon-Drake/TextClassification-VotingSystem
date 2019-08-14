@@ -1,0 +1,1 @@
+MeSHAdrenalGlandNeoplasm MeSHBrainNeoplasm MeSHBreastNeoplasm MeSHFatalOutcome MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHLymphaticMetastasis MeSHMastectomy MeSHMiddleAged MeSHParesi MeSHPhyllodesTumo MeSHPositron-EmissionTomography MeSHRemission MeSHSpontaneous MeSHTomography MeSHX-RayComputed

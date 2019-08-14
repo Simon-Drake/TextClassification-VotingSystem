@@ -1,0 +1,3 @@
+Multiple amyloid tumors of the lung. A case report.
+?
+['Aged', 'Amyloidosis/*diagnostic imaging/pathology', 'Diagnosis, Differential', 'Humans', 'Lung/pathology', 'Lung Diseases/*diagnostic imaging/pathology', 'Lung Neoplasms/diagnostic imaging', 'Male', 'Radiography', 'Tomography']

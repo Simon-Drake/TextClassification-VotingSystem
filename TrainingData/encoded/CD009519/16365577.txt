@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAged MeSHContrastMedia MeSHDiagnosis MeSHDifferential MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHIopamidol MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPleuralNeoplasm MeSHRadiopharmaceuticals MeSHRetrospectiveStudies MeSHTomography MeSHEmission-Computed MeSHTomography MeSHX-RayComputed

@@ -1,0 +1,3 @@
+Screening tests: not worth triple the trouble.
+?
+['Adult', 'Attitude to Health', '*Choice Behavior', '*Down Syndrome/diagnosis/psychology', 'Female', 'Humans', 'Infant, Newborn', 'Mothers/education/*psychology', 'Pregnancy', 'Pregnancy Trimester, Second', 'Prenatal Diagnosis/nursing/*psychology', 'Risk Factors']

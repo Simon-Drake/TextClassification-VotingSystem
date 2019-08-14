@@ -1,0 +1,3 @@
+Maternal serum dimeric inhibin A in second-trimester Down's syndrome pregnancies.
+?
+['Biomarkers/blood', 'Down Syndrome/*diagnosis', 'Female', 'Gestational Age', 'Humans', 'Inhibins/*blood', 'Pregnancy', 'Pregnancy Trimester, Second/blood', 'Prenatal Diagnosis/*methods']

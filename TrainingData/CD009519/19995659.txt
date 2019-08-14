@@ -1,0 +1,3 @@
+[Acute dyspnoea and rare endobronchial tumour].
+?
+['Acute Disease', 'Aged, 80 and over', 'Airway Obstruction/diagnosis/etiology', 'Bronchial Neoplasms/*diagnosis/pathology', 'Bronchoscopy', 'Dyspnea/*etiology', 'Echocardiography', 'Fluorodeoxyglucose F18', 'Humans', 'Lymphoma, B-Cell, Marginal Zone/*diagnosis/pathology', 'Male', '*Positron-Emission Tomography', 'Radiopharmaceuticals', '*Tomography, X-Ray Computed']

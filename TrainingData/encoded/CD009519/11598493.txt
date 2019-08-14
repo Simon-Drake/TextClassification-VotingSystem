@@ -1,0 +1,1 @@
+MeSH3-O-Methylglucos MeSHAdult MeSHAged MeSHBloodGlucos MeSHBlood-BrainBarrie MeSHBrainDisease MeSHCerebralInfarctio MeSHFasting MeSHFemale MeSHGlucos MeSHGlucoseClampTechnique MeSHHumans MeSHInfectio MeSHKinetics MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHNeurogli MeSHReferenceValues MeSHTomography MeSHEmission-Computed

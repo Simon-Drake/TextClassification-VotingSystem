@@ -1,0 +1,3 @@
+[Trisomy 21. 209 cases from the French College of Fetal Ultrasonography. Pertinence of ultrasonographic signs].
+?
+['Adult', 'Anthropometry', 'Down Syndrome/complications/*diagnostic imaging/*pathology', 'Female', 'Fetal Growth Retardation/*genetics', 'France', 'Humans', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy Trimester, Second', 'Pregnancy Trimester, Third', 'Retrospective Studies', '*Ultrasonography, Prenatal']

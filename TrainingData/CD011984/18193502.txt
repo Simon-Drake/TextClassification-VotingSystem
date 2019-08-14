@@ -1,0 +1,3 @@
+Fetal health surveillance guideline: antenatal and intrapartum consensus.
+?
+['Down Syndrome/diagnosis', 'Female', 'Fetal Death/prevention & control', 'Fetal Diseases/*diagnosis', 'Fetal Growth Retardation/prevention & control', 'Fetal Monitoring/*standards', 'Gastroschisis/diagnosis', 'Hernia, Diaphragmatic/diagnosis', 'Humans', 'Obstetric Labor, Premature/prevention & control', 'Pregnancy', 'Prenatal Diagnosis/*standards', 'Teratoma/diagnosis']

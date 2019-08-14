@@ -1,0 +1,3 @@
+[Selective tomography in tumors of the lungs].
+?
+['Humans', 'Lung Neoplasms/*diagnostic imaging', 'Radiography', 'Technology, Radiologic', '*Tomography']

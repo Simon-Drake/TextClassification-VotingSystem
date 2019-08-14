@@ -1,0 +1,1 @@
+MeSHArthralgi MeSHArthrograph MeSHCadaver MeSHDissection MeSHFemale MeSHHumans MeSHLigaments MeSHArticula MeSHMagneticResonanceImagin MeSHMale MeSHReferenceValues MeSHRetrospectiveStudies MeSHScaphoidBon MeSHSensitivityandSpecificity MeSHTomography MeSHX-RayCompute MeSHTrapeziumBon MeSHWristJoin

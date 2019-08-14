@@ -1,0 +1,1 @@
+MeSHAdult MeSHCA-125Antigen MeSHEndometriosis MeSHFemale MeSHHumans MeSHLeukocyteCount MeSHLymphocyteCount MeSHNeutrophils MeSHPredictiveValueofTests MeSHROCCurve MeSHRetrospectiveStudies MeSHSensitivityandSpecificity

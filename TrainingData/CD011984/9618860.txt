@@ -1,0 +1,3 @@
+Delayed fusion of amnion and chorion: a possible association with trisomy 21.
+?
+['Adult', 'Amnion/*abnormalities/diagnostic imaging', 'Chorion/*abnormalities/diagnostic imaging', 'Down Syndrome/*etiology', 'Female', 'Fetal Diseases/*diagnostic imaging', 'Gestational Age', 'Humans', 'Pregnancy', '*Ultrasonography, Prenatal']

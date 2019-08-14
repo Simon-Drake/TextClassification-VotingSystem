@@ -1,0 +1,1 @@
+MeSHCellTransformation MeSHNeoplastic MeSHDiagnosis MeSHDifferential MeSHEarlyDiagnosis MeSHEthnicGroups MeSHFemale MeSHHumans MeSHLichenPlanus MeSHOra MeSHMalaysi MeSHMale MeSHMassScreening MeSHMouthMucos MeSHMouthNeoplasm MeSHPrecancerousCondition MeSHPrevalence MeSHProspectiveStudies

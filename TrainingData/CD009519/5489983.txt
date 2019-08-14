@@ -1,0 +1,3 @@
+[Bronchial adenoma].
+?
+['*Adenoma/pathology', 'Bronchi/pathology', '*Bronchial Neoplasms/pathology', 'Bronchography', 'Diagnosis, Differential', 'Female', 'Humans', 'Middle Aged', 'Tomography']

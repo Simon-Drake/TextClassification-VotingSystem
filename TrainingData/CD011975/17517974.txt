@@ -1,0 +1,3 @@
+Whistle blowing in clinical diagnosis.
+?
+['Arthrogryposis/*diagnosis', 'Diagnosis, Differential', 'Face/*abnormalities', 'Female', 'Foot Deformities, Congenital/*diagnosis', 'Hand Deformities, Congenital/*diagnosis', 'Humans', 'Infant, Newborn', 'Male', 'Mosaicism', 'Pregnancy', 'Pregnancy, Multiple', 'Syndrome', 'Trisomy/diagnosis', 'Twins', 'Ultrasonography, Prenatal']

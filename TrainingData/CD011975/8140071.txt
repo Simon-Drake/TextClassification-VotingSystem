@@ -1,0 +1,3 @@
+Identical twins with trisomy 21 discordant for exomphalos.
+?
+['Adult', 'Amniocentesis', 'Down Syndrome/*genetics', 'Exophthalmos/*genetics', 'Female', 'Humans', 'Karyotyping', 'Pregnancy', 'Twins, Monozygotic/*genetics', 'Ultrasonography, Prenatal']

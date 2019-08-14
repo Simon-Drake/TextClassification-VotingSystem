@@ -1,0 +1,3 @@
+Prenatal testing and counseling for Down syndrome.
+?
+['Down Syndrome/*diagnosis/genetics', 'Ethics, Medical', 'Female', '*Genetic Counseling', '*Genetic Testing', 'Humans', 'Male', "Practice Patterns, Physicians'", 'Pregnancy', '*Prenatal Diagnosis']

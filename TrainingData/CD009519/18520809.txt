@@ -1,0 +1,3 @@
+Image of the month. Pulmonary tuberculosis mimicking lung metastasis.
+?
+['Aged', 'Biopsy', 'Bronchoscopy', 'Colorectal Neoplasms/pathology', 'Diagnosis, Differential', 'Humans', 'Lung Neoplasms/*diagnosis/secondary', 'Male', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed', 'Tuberculosis, Pulmonary/*diagnosis']

@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHDiagnosis MeSHDifferential MeSHFluorodeoxyglucoseF1 MeSHHumans MeSHLungNeoplasm MeSHPositron-EmissionTomography MeSHRadiopharmaceutical MeSHSensitivityandSpecificity MeSHTissueDistribution

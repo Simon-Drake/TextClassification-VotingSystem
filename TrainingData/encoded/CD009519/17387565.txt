@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHHistiocytoma MeSHMalignantFibrou MeSHHumans MeSHLungNeoplasm MeSHLymphaticMetastasis MeSHMale MeSHMiddleAged MeSHTomography MeSHEmission-Computed MeSHTomography MeSHX-RayComputed

@@ -1,0 +1,1 @@
+MeSHAdenocarcinoma MeSHBronchiolo-Alveola MeSHAdenocarcinoma MeSHMucinou MeSHAdult MeSHAged MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHGobletCell MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPositron-EmissionTomograph MeSHRadiopharmaceuticals MeSHTomography MeSHX-RayCompute

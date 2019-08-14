@@ -1,0 +1,3 @@
+Fetal genetic diagnosis by chorionic villus sampling.
+?
+['Adult', 'Aneuploidy', '*Chorionic Villi Sampling/adverse effects/methods', 'Female', 'Fetal Death/etiology', 'Fetal Diseases/*diagnosis', 'Humans', 'Maternal Age', 'Middle Aged', 'Pregnancy', 'Pregnancy Outcome', 'Pregnancy Trimester, First']

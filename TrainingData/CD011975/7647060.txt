@@ -1,0 +1,3 @@
+Fetal and maternal hCG concentration in aneuploid pregnancies.
+?
+['*Aneuploidy', 'Chorionic Gonadotropin/*blood', 'Chromosomes, Human, Pair 13', 'Chromosomes, Human, Pair 18', 'Down Syndrome/blood', 'Female', 'Fetal Blood/*chemistry', 'Humans', 'Pregnancy', 'Pregnancy Complications/*blood', 'Pregnancy Trimester, Second', 'Trisomy', 'Turner Syndrome/blood']

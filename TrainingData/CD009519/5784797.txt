@@ -1,0 +1,3 @@
+[Our experience with early detection and useful diagnosis of pulmonary neoplasms].
+?
+['Angiography', 'Biopsy', 'Bronchography', 'Humans', 'Lung Neoplasms/*diagnosis', 'Male', 'Middle Aged', 'Radiography, Thoracic', 'Tomography']

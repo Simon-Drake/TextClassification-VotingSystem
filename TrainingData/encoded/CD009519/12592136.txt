@@ -1,0 +1,1 @@
+MeSHBoneMarrowNeoplasm MeSHCarcinoma MeSHSmallCel MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHIliu MeSHLungNeoplasm MeSHPredictiveValueofTests MeSHRadiopharmaceuticals MeSHTechnetiumTc99mMedronat MeSHTomography MeSHEmission-Compute

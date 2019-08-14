@@ -1,0 +1,3 @@
+Limitation of F-18 fluorodeoxyglucose positron emission tomography in the detection of metastatic adenocarcinoma of brain combining intratumoral hemorrhage.
+?
+['Adenocarcinoma/complications/*diagnostic imaging/pathology/*secondary', 'Brain Neoplasms/complications/*diagnostic imaging/*secondary/surgery', 'Female', '*Fluorodeoxyglucose F18', 'Humans', 'Intracranial Hemorrhages/*complications/diagnostic imaging/pathology/surgery', 'Lung Neoplasms/pathology', 'Magnetic Resonance Imaging', 'Middle Aged', '*Positron-Emission Tomography']

@@ -1,0 +1,1 @@
+MeSHAbdominalMuscle MeSHAged MeSHDyspne MeSHFluorodeoxyglucoseF1 MeSHHumans MeSHLungNeoplasm MeSHMale MeSHPositron-EmissionTomography MeSHPulmonaryDisease MeSHChronicObstructiv MeSHRespiratoryMuscle MeSHSmallCellLungCarcinom MeSHTomography MeSHX-RayComputed

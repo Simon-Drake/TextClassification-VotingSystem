@@ -1,0 +1,3 @@
+Response to: Wald, N.J., Hackshaw, A.K. (1997). Combining ultrasound and biochemistry in first-trimester screening for Down's syndrome, Prenat. Diagn., 17, 821-829.
+?
+['Chorionic Gonadotropin, beta Subunit, Human/blood', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Neck/diagnostic imaging', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy-Associated Plasma Protein-A/analysis', 'Prenatal Diagnosis/*methods', 'Ultrasonography']

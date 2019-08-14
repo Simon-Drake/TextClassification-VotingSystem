@@ -1,0 +1,3 @@
+Prediction by positron emission tomography scanning survival in non-small cell lung cancer.
+?
+['Carcinoma, Non-Small-Cell Lung/*mortality/pathology', 'Humans', 'Lung Neoplasms/*mortality/pathology', 'Neoplasm Staging', 'Prognosis', 'Survival Rate', '*Tomography, Emission-Computed']

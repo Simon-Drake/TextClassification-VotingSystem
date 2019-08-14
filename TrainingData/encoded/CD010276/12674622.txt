@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSquamousCel MeSHHLA-BAntigen MeSHHLA-CAntigen MeSHHistocompatibilityAntigensClass MeSHHumans MeSHInSituHybridization MeSHMouthNeoplasm MeSHRNA MeSHMessenge MeSHTranscription MeSHGenetic

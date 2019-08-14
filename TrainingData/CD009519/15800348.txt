@@ -1,0 +1,3 @@
+Overestimation of lung cancer mortality in a computed tomography-screened population.
+?
+['Conflict of Interest', 'Cost-Benefit Analysis', 'Humans', 'Lung Neoplasms/*diagnostic imaging/*mortality', '*Mass Screening', 'Mortality/*trends', 'Predictive Value of Tests', 'Reproducibility of Results', 'Research Support as Topic', 'Survival Analysis', '*Tobacco Industry', '*Tomography, Spiral Computed']

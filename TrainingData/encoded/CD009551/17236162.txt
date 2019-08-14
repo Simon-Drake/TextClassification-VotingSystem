@@ -1,0 +1,1 @@
+MeSHAspergillusfumigatu MeSHBaseSequence MeSHFerrousCompound MeSHGeneExpressionRegulation MeSHFungal MeSHIro MeSHPromoterRegions MeSHGenetic MeSHReverseTranscriptasePolymeraseChainReaction MeSHSiderophore

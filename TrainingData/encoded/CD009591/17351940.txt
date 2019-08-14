@@ -1,0 +1,1 @@
+MeSHAdenocarcinoma MeSHClearCell MeSHAlcohols MeSHAnimals MeSHBiomarkers MeSHTumor MeSHCellLine MeSHTumor MeSHFemale MeSHFixatives MeSHHeating MeSHHepatocyteNuclearFactor1-beta MeSHHumans MeSHImmunohistochemistry MeSHMice MeSHMicrowaves MeSHOvarianNeoplasms MeSHPapanicolaouTest MeSHTissueFixation MeSHVaginalSmears

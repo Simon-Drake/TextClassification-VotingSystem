@@ -1,0 +1,3 @@
+Summaries for patients. Detecting spread of non-small-cell lung cancer within the chest.
+?
+['Carcinoma, Non-Small-Cell Lung/diagnosis/*pathology', 'Female', 'Humans', 'Lung Neoplasms/diagnosis/*pathology', 'Lymphatic Metastasis', 'Male', 'Mediastinal Neoplasms/*secondary', 'Neoplasm Staging/*methods', 'Sensitivity and Specificity', 'Tomography, Emission-Computed/*standards', 'Tomography, X-Ray Computed/*standards']

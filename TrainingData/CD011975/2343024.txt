@@ -1,0 +1,3 @@
+Confirmation of prenatally ascertained trisomy 20 mosaicism.
+?
+['*Chromosomes, Human, Pair 20', 'Female', 'Humans', '*Mosaicism', 'Pregnancy', '*Prenatal Diagnosis', '*Trisomy']

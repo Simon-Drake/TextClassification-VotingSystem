@@ -1,0 +1,3 @@
+[Bronchiolo-alveolar carcinoma].
+?
+['*Adenocarcinoma, Bronchiolo-Alveolar/classification/diagnosis/pathology', 'Adult', 'Biopsy', 'Bronchography', 'Bronchoscopy', 'Female', 'Humans', '*Lung Neoplasms', 'Male', 'Microscopy, Electron', 'Middle Aged', 'Radiography, Thoracic', 'Tomography']

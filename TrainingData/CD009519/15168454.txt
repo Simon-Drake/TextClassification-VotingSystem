@@ -1,0 +1,3 @@
+[Progress of diagnostic radiology in lung cancer].
+?
+['Humans', 'Lung Neoplasms/*diagnosis/diagnostic imaging', 'Magnetic Resonance Imaging', 'Technology, Radiologic/*trends', 'Tomography, Emission-Computed', 'Tomography, Spiral Computed', 'Tomography, X-Ray Computed']

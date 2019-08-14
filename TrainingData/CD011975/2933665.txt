@@ -1,0 +1,3 @@
+[Trisomy 21 and pericentric inversion of chromosome 9 in the parental karyotype].
+?
+['Adult', 'Child', '*Chromosome Inversion', 'Chromosomes, Human, 6-12 and X/*ultrastructure', 'Down Syndrome/*genetics', 'Female', 'Humans', 'Karyotyping', 'Male', 'Pregnancy', 'Prenatal Diagnosis']

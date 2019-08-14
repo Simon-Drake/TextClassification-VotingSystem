@@ -1,0 +1,3 @@
+Extrapleural lobectomy and pleurectomy for bronchogenic carcinoma with localized malignant pleural effusion. Case report.
+?
+['Adult', 'Carcinoma, Bronchogenic/*surgery', 'Humans', 'Male', 'Pleural Effusion/*complications/surgery', '*Pneumonectomy', 'Radiography, Thoracic', 'Tomography']

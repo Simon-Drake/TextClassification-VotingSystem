@@ -1,0 +1,3 @@
+Selective elective nodal irradiation: "let's head 'em off at the pass".
+?
+['Carcinoma, Non-Small-Cell Lung/diagnostic imaging/mortality/*radiotherapy/secondary', 'Humans', 'Lung Neoplasms/mortality/pathology/radiotherapy', 'Lymph Nodes/diagnostic imaging', 'Lymphatic Irradiation/*methods', 'Lymphatic Metastasis', 'Mediastinal Neoplasms/drug therapy', 'Positron-Emission Tomography', 'Small Cell Lung Carcinoma/diagnostic imaging/mortality/*radiotherapy/secondary']

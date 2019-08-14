@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAnimals MeSHBaseSequence MeSHBlotting MeSHWestern MeSHDNA MeSHComplementary MeSHElectrophoresis MeSHGel MeSHTwo-Dimensional MeSHEndometriosis MeSHFemale MeSHGeneExpression MeSHGlycoproteins MeSHHaptoglobins MeSHHumans MeSHMice MeSHMolecularSequenceData MeSHRats MeSHSequenceAnalysis MeSHSequenceHomology

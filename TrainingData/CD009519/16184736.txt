@@ -1,0 +1,3 @@
+[Image of the month. Diagnosis of lung cancer metastasis into the spinal canal by PET and CAT scans].
+?
+['Aged', 'Female', 'Humans', 'Lung Neoplasms/*diagnosis', 'Positron-Emission Tomography', 'Spinal Cord Neoplasms/*diagnosis/*secondary', 'Tomography, X-Ray Computed']

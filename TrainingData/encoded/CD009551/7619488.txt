@@ -1,0 +1,1 @@
+MeSHAscomycot MeSHAspergillusfumigatu MeSHBaseSequence MeSHBasidiomycot MeSHCellWal MeSHDNAPrimer MeSHDNA MeSHFunga MeSHElectrophoresis MeSHAgarGel MeSHHumans MeSHMolecularSequenceData MeSHMycolog MeSHPolymeraseChainReaction MeSHRibonuclease MeSHThiones

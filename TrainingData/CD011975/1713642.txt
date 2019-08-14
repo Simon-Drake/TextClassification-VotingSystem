@@ -1,0 +1,3 @@
+Drug interference on alpha-fetoprotein assays.
+?
+['Aneuploidy', '*Drug Interactions', 'Evaluation Studies as Topic', 'Female', 'Humans', 'Immunoenzyme Techniques/*standards', 'Medical History Taking/standards', 'Pregnancy/*blood', 'Radioimmunoassay/*standards', 'Sensitivity and Specificity', 'alpha-Fetoproteins/*chemistry']

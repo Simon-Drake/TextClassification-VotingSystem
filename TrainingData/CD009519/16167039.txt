@@ -1,0 +1,3 @@
+False-positive findings with positron emission tomography in the staging of non-small-cell lung cancer.
+?
+['Aged', 'Carcinoma, Non-Small-Cell Lung/*diagnostic imaging/pathology/therapy', 'False Positive Reactions', 'Female', 'Humans', 'Lung Neoplasms/*diagnostic imaging/pathology/therapy', 'Male', 'Middle Aged', '*Neoplasm Staging/methods', '*Positron-Emission Tomography/methods', 'Radiography']

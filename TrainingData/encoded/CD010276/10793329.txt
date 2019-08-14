@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSquamousCel MeSHCase-ControlStudies MeSHCytochromeP-450CYP1A MeSHFemale MeSHGeneticPredispositiontoDisease MeSHGenotype MeSHGlutathioneTransferas MeSHHumans MeSHMale MeSHMiddleAged MeSHMouthNeoplasm MeSHOddsRatio MeSHPolymorphism MeSHGenetic MeSHSmokin

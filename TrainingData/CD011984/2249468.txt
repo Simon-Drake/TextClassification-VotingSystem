@@ -1,0 +1,3 @@
+Chromosome analysis guidelines--preliminary report. Association of Cytogenetic Technologists Task Force.
+?
+['Amniocentesis', 'Chorionic Villi Sampling', '*Chromosome Aberrations', '*Chromosome Banding', '*Chromosomes, Human', 'Female', 'Fragile X Syndrome/genetics', 'Humans', '*Karyotyping', 'Mosaicism/genetics', 'Neoplasms/genetics', 'Pregnancy', 'Quality Control']

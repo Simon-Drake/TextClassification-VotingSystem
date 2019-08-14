@@ -1,0 +1,3 @@
+[Pathology and clinical findings in bronchial adenoma].
+?
+['Adenoma/*diagnosis/diagnostic imaging/pathology', 'Adult', 'Age Factors', 'Bronchial Neoplasms/*diagnosis/diagnostic imaging/pathology', 'Bronchography', 'Female', 'Humans', 'Male', 'Middle Aged', 'Tomography']

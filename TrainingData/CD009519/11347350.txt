@@ -1,0 +1,3 @@
+Images in medicine. Positron emission tomography (PET) in the evaluation of a solitary pulmonary nodule.
+?
+['Adult', 'Biopsy, Needle', 'Carcinoma, Large Cell/*diagnostic imaging/pathology', 'Diagnosis, Differential', 'Female', 'Humans', 'Lung Neoplasms/*diagnostic imaging/pathology', 'Sensitivity and Specificity', 'Solitary Pulmonary Nodule/*diagnostic imaging/pathology', 'Tomography, Emission-Computed/*methods', 'Tomography, X-Ray Computed/methods']

@@ -1,0 +1,3 @@
+Multiple tracheal metastases of lung cancer: CT and integrated PET/CT findings.
+?
+['Adult', 'Carcinoma, Squamous Cell/diagnosis/*secondary', 'Female', 'Humans', '*Lung Neoplasms', 'Neoplasm Staging', 'Positron-Emission Tomography', 'Tracheal Neoplasms/diagnosis/*secondary']

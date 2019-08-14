@@ -1,0 +1,3 @@
+First- and Second-trimester Down Syndrome Screening: Current Strategies and Clinical Guidelines.
+?
+['Down Syndrome/*diagnosis/epidemiology/genetics', 'Female', '*Gestational Age', 'Humans', 'Pregnancy', '*Prenatal Diagnosis']

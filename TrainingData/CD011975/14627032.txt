@@ -1,0 +1,3 @@
+[Prenatal diagnosis and genetic counseling].
+?
+['Adult', 'Chromosome Inversion', 'Chromosome Structures', 'Down Syndrome/diagnosis/genetics/*prevention & control', 'Female', '*Genetic Counseling', 'Humans', 'Maternal Age', 'Muscular Dystrophy, Duchenne/diagnosis/genetics/*prevention & control', 'Pregnancy', '*Prenatal Diagnosis', 'Risk Assessment']

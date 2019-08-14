@@ -1,0 +1,1 @@
+MeSHCaco-2Cells MeSHCarcinoma MeSHCells MeSHCultured MeSHGastrointestinalNeoplasms MeSHGeneExpressionRegulation MeSHNeoplastic MeSHHT29Cells MeSHHeLaCells MeSHHumans MeSHProteinStability MeSHRNA MeSHMessenger MeSHTranscriptionFactors MeSHYY1TranscriptionFactor

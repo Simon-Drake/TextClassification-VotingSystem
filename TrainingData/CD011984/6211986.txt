@@ -1,0 +1,3 @@
+Impact of prenatal chromosomal diagnosis in order women on population incidence of severe mental retardation.
+?
+['Adult', 'Down Syndrome/diagnosis/*epidemiology', 'Female', 'Humans', '*Maternal Age', 'Pregnancy', '*Pregnancy, High-Risk', '*Prenatal Diagnosis']

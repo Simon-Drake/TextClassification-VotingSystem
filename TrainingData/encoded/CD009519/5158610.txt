@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHCarcinoma MeSHSquamousCel MeSHCytodiagnosis MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMassChestX-Ray MeSHMiddleAged MeSHNeoplasmMetastasis MeSHPrecancerousCondition MeSHSputu MeSHThoracicNeoplasm MeSHTomography

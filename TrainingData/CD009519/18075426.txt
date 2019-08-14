@@ -1,0 +1,3 @@
+Incidental finding of prostate cancer and adenomatous colon polyp in a patient with lung cancer.
+?
+['Abdomen/diagnostic imaging', 'Adenomatous Polyps/*complications/*diagnosis', 'Colonic Polyps/complications/*diagnosis', 'Fluorodeoxyglucose F18', 'Humans', '*Incidental Findings', 'Lung Neoplasms/*complications', 'Male', 'Middle Aged', 'Pelvis/diagnostic imaging', 'Positron-Emission Tomography', 'Prostatic Neoplasms/*complications/*diagnosis', 'Thorax/diagnostic imaging', 'Tomography, X-Ray Computed']

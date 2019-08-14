@@ -1,0 +1,3 @@
+[Pathological cephalic index may indicate chromosome anomaly].
+?
+['*Cephalometry', 'Congenital Abnormalities/diagnosis/*genetics', 'Down Syndrome/*diagnosis/genetics', 'Female', 'Humans', 'Infant, Newborn', 'Maternal Age', 'Pregnancy', 'Skull/abnormalities', 'Ultrasonography, Prenatal']

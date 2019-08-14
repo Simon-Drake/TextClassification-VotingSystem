@@ -1,0 +1,1 @@
+MeSHBronchialNeoplasm MeSHCarcinom MeSHDiagnosis MeSHDifferential MeSHFluorodeoxyglucoseF18 MeSHHeartDisease MeSHHeartNeoplasm MeSHHeartVentricle MeSHHumans MeSHPositron-EmissionTomography MeSHThrombosi

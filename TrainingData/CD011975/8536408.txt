@@ -1,0 +1,3 @@
+Diagnosis of fetal vesico ureteric reflux as the cause of pelvicalyceal dilatation on antenatal ultrasound.
+?
+['Dilatation, Pathologic', 'Down Syndrome/*complications', 'Female', 'Fetal Diseases/*diagnostic imaging', 'Humans', 'Pregnancy', 'Ultrasonography, Prenatal', 'Vesico-Ureteral Reflux/complications/*diagnostic imaging']

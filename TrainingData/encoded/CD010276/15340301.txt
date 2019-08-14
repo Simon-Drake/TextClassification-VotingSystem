@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSquamousCel MeSHEarlyDiagnosis MeSHHumans MeSHLichenPlanus MeSHOra MeSHMouthDisease MeSHMouthMucos MeSHMouthNeoplasm MeSHPrecancerousCondition MeSHSensitivityandSpecificity MeSHTomography MeSHOpticalCoherence

@@ -1,0 +1,1 @@
+MeSHAnimals MeSHBaseSequence MeSHButadiene MeSHChloropren MeSHDNADamage MeSHDNAPrimer MeSHFemale MeSHGenes MeSHra MeSHHemiterpenes MeSHHumans MeSHMale MeSHMice MeSHPentanes MeSHPointMutation MeSHPolymorphism MeSHRestrictionFragmentLength MeSHPolymorphism MeSHSingle-StrandedConformational MeSHStomachNeoplasm MeSHTimeFactors

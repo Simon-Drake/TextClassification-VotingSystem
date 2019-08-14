@@ -1,0 +1,3 @@
+[Radiological aspects of intrathoracic tumors in children].
+?
+['Adolescent', 'Adult', 'Child', 'Child, Preschool', 'Dermoid Cyst/diagnostic imaging', 'Female', 'Ganglioneuroma/diagnostic imaging', 'Humans', 'Leukemia/*diagnostic imaging', 'Lung Neoplasms/*diagnostic imaging', 'Lymphangioma/diagnostic imaging', 'Lymphoma, Non-Hodgkin/diagnostic imaging', 'Male', 'Mediastinal Neoplasms/*diagnostic imaging', 'Mesothelioma/diagnostic imaging', '*Neoplasm Metastasis', 'Neuroblastoma/diagnostic imaging', 'Pleural Neoplasms/*diagnostic imaging', 'Radiography, Thoracic', 'Sarcoma/diagnostic imaging', 'Teratoma/diagnostic imaging', 'Thoracic Neoplasms/*diagnostic imaging', 'Tomography']

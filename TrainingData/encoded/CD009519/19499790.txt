@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdult MeSHAged MeSHCarcinoma MeSHSquamousCel MeSHFemale MeSHHumans MeSHImageInterpretation MeSHComputer-Assiste MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHNeovascularization MeSHPathologi MeSHPerfusio MeSHProspectiveStudies MeSHTomography MeSHSpiralCompute

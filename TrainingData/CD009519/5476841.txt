@@ -1,0 +1,3 @@
+[The so-called pseudotumor of the lung in children].
+?
+['Age Factors', 'Bronchoscopy', 'Child', 'Female', 'Fibroma/pathology/*surgery', 'Humans', 'Lung/pathology', 'Lung Neoplasms/pathology/*surgery', 'Sex Factors', 'Tomography']

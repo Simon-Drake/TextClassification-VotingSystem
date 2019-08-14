@@ -1,0 +1,1 @@
+MeSHAdult MeSHBiopsy MeSHNeedle MeSHCarcinoma MeSHLargeCel MeSHDiagnosis MeSHDifferential MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHSensitivityandSpecificity MeSHSolitaryPulmonaryNodul MeSHTomography MeSHEmission-Compute MeSHTomography MeSHX-RayCompute

@@ -1,0 +1,1 @@
+MeSHClassificatio MeSHDNAPrimers MeSHDiagnosis MeSHDifferential MeSHFung MeSHHumans MeSHMycose MeSHPolymeraseChainReactio MeSHPolymorphism MeSHSingle-StrandedConformational MeSHRNA MeSHFunga MeSHRNA MeSHRibosoma MeSHReferenceValues

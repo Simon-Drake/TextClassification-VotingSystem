@@ -1,0 +1,3 @@
+[Paraneoplastic polymyositis associated with primary lung cancer: diagnosis with PET-CT].
+?
+['Humans', 'Lung Neoplasms/*complications', 'Male', 'Middle Aged', 'Paraneoplastic Syndromes/*diagnosis/etiology', 'Polymyositis/*diagnosis/*etiology', '*Positron-Emission Tomography', '*Tomography, X-Ray Computed']

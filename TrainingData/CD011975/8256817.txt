@@ -1,0 +1,3 @@
+Nonimmune hydrops fetalis in a 49,XXXXY fetus at 16 menstrual weeks.
+?
+['Adult', 'Amniocentesis', '*Aneuploidy', 'Female', 'Fetal Diseases/diagnosis/diagnostic imaging/*genetics/immunology', 'Humans', 'Hydrops Fetalis/diagnosis/diagnostic imaging/*genetics/immunology', 'Karyotyping', 'Male', 'Pregnancy', 'Pregnancy Trimester, Second', 'Sex Chromosome Aberrations/diagnostic imaging/*genetics/immunology', 'Ultrasonography', '*X Chromosome']

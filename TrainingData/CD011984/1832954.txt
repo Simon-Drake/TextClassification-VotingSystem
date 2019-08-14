@@ -1,0 +1,3 @@
+First trimester CA 125 and Down's syndrome.
+?
+['Antigens, Tumor-Associated, Carbohydrate/*analysis', 'Biomarkers/blood', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Pregnancy', 'Pregnancy Trimester, First', 'Prenatal Diagnosis/*methods']

@@ -1,0 +1,1 @@
+MeSHAbdome MeSHAdenomatousPolyp MeSHColonicPolyp MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHIncidentalFindings MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPelvi MeSHPositron-EmissionTomography MeSHProstaticNeoplasm MeSHThora MeSHTomography MeSHX-RayComputed

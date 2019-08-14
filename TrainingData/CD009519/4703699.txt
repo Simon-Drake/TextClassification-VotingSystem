@@ -1,0 +1,3 @@
+[Cavitary form of carcinoma of the lung].
+?
+['Adult', 'Aged', 'Diagnostic Errors', 'Female', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', 'Radiography', 'Tomography']

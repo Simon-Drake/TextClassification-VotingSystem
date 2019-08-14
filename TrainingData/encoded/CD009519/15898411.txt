@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHNon-Small-CellLun MeSHDiagnosis MeSHDifferential MeSHFluorodeoxyglucoseF1 MeSHHumans MeSHLungNeoplasm MeSHNeoplasmStaging MeSHPositron-EmissionTomograph MeSHRadiopharmaceutical MeSHSensitivityandSpecificity

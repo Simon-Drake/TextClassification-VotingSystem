@@ -1,0 +1,3 @@
+Inhibins and activins: roles in clinical practice.
+?
+['Activins', 'Down Syndrome/metabolism', 'Female', 'Follicle Stimulating Hormone/*antagonists & inhibitors', 'Forecasting', 'Growth Substances/physiology', 'Humans', 'Hydatidiform Mole/metabolism', '*Inhibins/analysis/chemistry/therapeutic use', 'Male', 'Ovarian Neoplasms/metabolism', 'Pregnancy']

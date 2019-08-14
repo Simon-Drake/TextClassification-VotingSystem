@@ -1,0 +1,1 @@
+MeSHAntineoplasticAgents MeSHPhytogeni MeSHApoptosi MeSHCarcinoma MeSHSquamousCel MeSHCellCycl MeSHCellLine MeSHTumor MeSHCellProliferatio MeSHDrugResistance MeSHNeoplas MeSHDrugTherapy MeSHCombination MeSHHeadandNeckNeoplasm MeSHHumans MeSHI-kappaBProtein MeSHIndomethaci MeSHNF-KappaBInhibitoralpha MeSHNF-kappa MeSHPaclitaxe MeSHTransfection

@@ -1,0 +1,3 @@
+[Prenatal and postnatal diagnosis (trisomy 21, phenylketonuria, hypothyroidism). Methods, indications, legal and ethical aspects].
+?
+['Down Syndrome/*diagnosis', 'Ethics, Medical', 'Female', 'France', 'Humans', 'Hypothyroidism/*diagnosis', 'Infant, Newborn', 'Infant, Newborn, Diseases/diagnosis', 'Legislation, Medical', 'Methods', 'Phenylketonurias/*diagnosis', 'Pregnancy', 'Prenatal Diagnosis']

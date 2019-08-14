@@ -1,0 +1,1 @@
+MeSHCatheterAblatio MeSHHumans MeSHLungNeoplasm MeSHPneumonectom MeSHPositron-EmissionTomograph MeSHPrognosis MeSHTomography MeSHX-RayCompute MeSHTreatmentOutcome

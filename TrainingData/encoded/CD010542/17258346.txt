@@ -1,0 +1,1 @@
+MeSHAdult MeSHAgeFactors MeSHBodyMassIndex MeSHClinicalCompetence MeSHDiagnosticTechniques MeSHDigestiveSyste MeSHElasticity MeSHFemale MeSHHepatitis MeSHHumans MeSHLive MeSHLiverCirrhosi MeSHMale MeSHMiddleAged MeSHProspectiveStudies

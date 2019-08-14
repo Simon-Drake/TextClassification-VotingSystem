@@ -1,0 +1,3 @@
+Screening and counseling for Down syndrome.
+?
+['Adolescent', 'Counseling', 'Down Syndrome/*diagnosis', 'Female', '*Genetic Counseling', 'Humans', '*Prenatal Diagnosis']

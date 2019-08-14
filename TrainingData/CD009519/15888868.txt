@@ -1,0 +1,3 @@
+Growing pulmonary nodule with increased 18-fluorodeoxyglucose uptake in a former smoker.
+?
+['Aged', 'Female', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/pathology', 'Papilloma/*diagnostic imaging/pathology', 'Positron-Emission Tomography', 'Radiography', 'Radiopharmaceuticals', 'Solitary Pulmonary Nodule/*diagnostic imaging/pathology']

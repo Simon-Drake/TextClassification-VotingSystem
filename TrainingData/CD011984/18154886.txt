@@ -1,0 +1,3 @@
+How far can prenatal screening go in preventing birth defects?
+?
+['Abortion, Legal', 'Adult', 'Congenital Abnormalities/diagnosis/prevention & control', 'Cystic Fibrosis/*diagnosis/epidemiology/*prevention & control', 'Down Syndrome/*diagnosis/epidemiology/*prevention & control', 'Female', 'France/epidemiology', '*Genetic Testing', 'Humans', 'Incidence', 'Italy/epidemiology', 'Pregnancy', '*Prenatal Diagnosis', 'Prevalence', 'Sensitivity and Specificity', 'Victoria/epidemiology']

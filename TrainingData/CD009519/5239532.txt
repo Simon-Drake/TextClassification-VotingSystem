@@ -1,0 +1,3 @@
+[Calcified lung metastases of a osteogenic sacoma of the ilium].
+?
+['Calcinosis/*diagnostic imaging/etiology', 'Humans', 'Ilium/*diagnostic imaging', 'Lung Neoplasms/*diagnostic imaging/pathology', 'Neoplasm Metastasis/*diagnostic imaging', 'Osteosarcoma/complications/*diagnostic imaging', 'Radiography', 'Tomography']

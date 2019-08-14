@@ -1,0 +1,3 @@
+F-18-FDG-PET/CT leads to diagnosis of cryptococcal pneumonia where recurrent metastatic rhabdomyosarcoma was suspected.
+?
+['Child', 'Cryptococcosis/*diagnosis', 'Diagnosis, Differential', 'Fluorodeoxyglucose F18/*therapeutic use', 'Humans', 'Lung Neoplasms/*diagnosis/*diagnostic imaging', 'Male', 'Neoplasm Metastasis', 'Pneumonia/*diagnosis/microbiology', 'Positron-Emission Tomography/*methods', '*Radiopharmaceuticals', 'Rhabdomyosarcoma/*diagnosis/*diagnostic imaging', 'Tomography, X-Ray Computed/*methods']

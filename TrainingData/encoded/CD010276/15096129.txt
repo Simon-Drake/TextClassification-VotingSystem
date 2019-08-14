@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHNeedle MeSHDiagnosis MeSHDifferential MeSHFemale MeSHHumans MeSHMale MeSHMiddleAged MeSHPhysicalExamination MeSHPredictiveValueofTests MeSHRiskAssessment MeSHTongu MeSHTongueDisease MeSHTongueNeoplasm MeSHTongue MeSHFissure

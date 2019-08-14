@@ -1,0 +1,1 @@
+MeSHBoneNeoplasm MeSHBoneandBone MeSHBreastNeoplasm MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPositron-EmissionTomography MeSHTechnetiumTc99mMedronate MeSHTomography MeSHX-RayComputed

@@ -1,0 +1,3 @@
+Serum screening for Down's syndrome. Informed consent is vital...
+?
+['Down Syndrome/*diagnosis', 'Female', 'Fetal Diseases/*diagnosis', 'Humans', '*Informed Consent', '*Mass Screening', 'Pregnancy', 'Prenatal Diagnosis', 'United Kingdom']

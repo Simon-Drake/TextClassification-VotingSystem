@@ -1,0 +1,1 @@
+MeSHAbdominalPain MeSHAcuteDisease MeSHChronicDisease MeSHDiagnosis MeSHDifferential MeSHFemale MeSHGenitalDiseases MeSHFemale MeSHHumans MeSHMagneticResonanceImaging MeSHPelvicPain MeSHTomography MeSHX-RayComputed MeSHUltrasonography

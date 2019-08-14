@@ -1,0 +1,3 @@
+Needle biopsy of pulmonary tumours with the aid of transverse tomography and television fluoroscopy.
+?
+['Aged', '*Biopsy/adverse effects', 'Female', '*Fluoroscopy', 'Humans', 'Lung Neoplasms/*diagnosis', 'Male', 'Middle Aged', 'Pneumothorax', 'Television', '*Tomography']

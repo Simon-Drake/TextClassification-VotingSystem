@@ -1,0 +1,1 @@
+MeSHAmniocentesis MeSHBiopsy MeSHCells MeSHCultured MeSHChorionicVilli MeSHChorionicVilliSampling MeSHChromosomeAberrations MeSHFemale MeSHHumans MeSHKaryotyping MeSHMale MeSHMosaicism MeSHPlacenta MeSHPregnancy MeSHSensitivityandSpecificity MeSHTurnerSyndrome

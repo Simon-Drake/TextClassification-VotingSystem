@@ -1,0 +1,3 @@
+Patient choice and the randomized controlled trial.
+?
+['Down Syndrome/*diagnostic imaging', 'Female', 'Humans', 'Nuchal Translucency Measurement/*methods/standards', '*Patient Participation', 'Pregnancy', '*Randomized Controlled Trials as Topic']

@@ -1,0 +1,3 @@
+[Prenatal diagnosis of 95 cases by cytogenetic analysis of early chorionic villi].
+?
+['Cells, Cultured', 'Chorionic Villi/*ultrastructure', 'Chromosome Aberrations', 'Chromosome Disorders', 'Chromosomes, Human, Pair 18', 'Down Syndrome/diagnosis', 'Female', 'Fetal Diseases/*diagnosis', 'Humans', 'Pregnancy', 'Pregnancy Trimester, First', '*Prenatal Diagnosis', 'Trisomy']

@@ -1,0 +1,1 @@
+MeSHAort MeSHCarcinoma MeSHSmallCel MeSHEchocardiography MeSHFemale MeSHHumans MeSHIncidentalFindings MeSHLungNeoplasm MeSHMediastinalNeoplasm MeSHMiddleAged MeSHPulmonaryArter MeSHTomography MeSHEmission-Computed MeSHSingle-Photon MeSHTomography MeSHX-RayComputed

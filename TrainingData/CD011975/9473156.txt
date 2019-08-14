@@ -1,0 +1,3 @@
+Chromosomal mosaicisms during prenatal diagnosis.
+Chromosomal mosaicism during prenatal diagnosis has been a major concern. Nondisjunctional events can lead to mosaicism in a number of ways, including failure of chromosomal pairing, failure to separate, anaphase lag and abnormal segregation. We provide a concise review on various types of mosaicism with their clinical significance.
+['Amniocentesis', 'Chorionic Villi Sampling', 'Chromosome Aberrations/*diagnosis/etiology/genetics', 'Chromosome Disorders', 'Diagnosis, Differential', 'Female', 'Humans', 'Mosaicism/*diagnosis/genetics', 'Pregnancy', 'Prenatal Diagnosis/*methods', '*X Chromosome']

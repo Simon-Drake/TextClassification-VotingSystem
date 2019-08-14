@@ -1,0 +1,1 @@
+MeSHChromosomes MeSHHuman MeSHPair16 MeSHDownSyndrome MeSHFemale MeSHHumans MeSHIncidence MeSHKaryotyping MeSHNeuralTubeDefects MeSHObstetricLabor MeSHPremature MeSHPlacenta MeSHPregnancy MeSHPregnancyOutcome MeSHPrenatalDiagnosis MeSHRiskFactors MeSHTrisomy

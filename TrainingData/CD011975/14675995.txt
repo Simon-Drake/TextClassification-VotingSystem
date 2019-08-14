@@ -1,0 +1,3 @@
+An unusual presentation of meconium peritonitis.
+?
+['Adult', 'Diagnosis, Differential', 'Down Syndrome/*diagnosis', 'Embryonic and Fetal Development/physiology', 'Female', 'Follow-Up Studies', 'Gestational Age', 'Humans', 'Infant, Newborn', '*Meconium', 'Peritonitis/diagnosis/*diagnostic imaging', 'Pregnancy', '*Pregnancy Outcome', 'Risk Assessment', 'Severity of Illness Index', 'Ultrasonography, Prenatal']

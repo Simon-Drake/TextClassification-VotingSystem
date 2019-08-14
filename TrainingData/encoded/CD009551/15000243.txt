@@ -1,0 +1,1 @@
+MeSHAflatoxin MeSHAspergillu MeSHBaseSequence MeSHClusterAnalysis MeSHDNA MeSHFunga MeSHDNA MeSHIntergeni MeSHGeneticVariation MeSHMolecularSequenceData MeSHPhylogeny MeSHPolymeraseChainReaction MeSHPolymorphism MeSHGenetic MeSHSequenceAlignment

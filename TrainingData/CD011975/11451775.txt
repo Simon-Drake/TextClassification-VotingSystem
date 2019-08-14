@@ -1,0 +1,3 @@
+Doctors may be able to detect Down's syndrome during IVF.
+?
+['Chromosomes, Human, Pair 21', 'Down Syndrome/*diagnosis', 'Female', '*Fertilization in Vitro', 'Genetic Markers', 'Humans', 'Pregnancy', 'Preimplantation Diagnosis/*methods']

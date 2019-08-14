@@ -1,0 +1,3 @@
+Role of 68Ga-DOTATOC PET/CT in carcinoids.
+?
+['Carcinoid Tumor/complications/*diagnosis', 'Cushing Syndrome/etiology', 'Humans', 'Lung Neoplasms/complications/*diagnosis', 'Octreotide/*analogs & derivatives', '*Organometallic Compounds', 'Positron-Emission Tomography', '*Radiopharmaceuticals', 'Tomography, X-Ray Computed']

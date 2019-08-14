@@ -1,0 +1,3 @@
+[Biopsy of the prescalenic lymphatic nodes and mediastinoscopy in the most frequent malignant diseases of the mediastinum and the lungs].
+?
+['Adolescent', 'Adult', 'Biopsy', 'Carcinoma, Bronchogenic/*diagnosis/pathology', 'Diagnosis, Differential', 'Female', 'Hodgkin Disease/*diagnosis', 'Humans', '*Lymph Node Excision', 'Male', 'Mediastinal Neoplasms/*diagnosis/pathology', 'Methods', 'Middle Aged', 'Sarcoidosis/diagnosis', 'Tomography']

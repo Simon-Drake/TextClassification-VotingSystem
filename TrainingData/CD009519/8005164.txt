@@ -1,0 +1,3 @@
+Tracer imaging in lung cancer.
+?
+['Humans', 'Lung/diagnostic imaging', 'Lung Neoplasms/*diagnostic imaging', '*Radioactive Tracers', '*Tomography, Emission-Computed', '*Tomography, Emission-Computed, Single-Photon']

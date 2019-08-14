@@ -1,0 +1,3 @@
+[Pseudoneoplastic pulmonary infarct].
+?
+['Angiography', 'Bronchography', 'Diagnosis, Differential', 'Female', 'Humans', 'Lung Neoplasms/*diagnosis', 'Middle Aged', 'Pulmonary Embolism/*diagnosis', 'Radiography, Thoracic', 'Tomography']

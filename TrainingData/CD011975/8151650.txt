@@ -1,0 +1,3 @@
+Low segregation ratios in autosomal recessive disorders.
+?
+['Cartilage Diseases/*genetics', 'Environmental Health', 'Finland', '*Genes, Recessive', 'Genetic Counseling', 'Hair Diseases/genetics', 'Humans', 'Mosaicism', 'Mutation', 'Prenatal Diagnosis']

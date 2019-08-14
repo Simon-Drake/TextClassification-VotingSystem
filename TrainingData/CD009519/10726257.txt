@@ -1,0 +1,3 @@
+I-131 whole body scintigraphy in a patient with micronodular pulmonary metastases from papillary thyroid carcinoma.
+?
+['Adenocarcinoma, Papillary/*diagnostic imaging/*secondary', 'Adult', 'Female', 'Humans', 'Iodine Radioisotopes', 'Lung Neoplasms/*diagnostic imaging/*secondary', 'Lymphatic Metastasis', 'Thyroid Neoplasms/*diagnostic imaging/pathology', 'Tomography, Emission-Computed', 'Tomography, X-Ray Computed']

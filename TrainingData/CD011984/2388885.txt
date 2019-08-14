@@ -1,0 +1,3 @@
+Prenatal diagnosis of a beta-globin gene IVS 1nt/110 mutation in chorionic villus from a mosaic triple-X mother with high HbA2.
+?
+['Adult', 'Base Sequence', '*Chorionic Villi Sampling', 'Chromosome Mapping', 'Female', 'Globins/*genetics', 'Hemoglobin H/analysis', 'Humans', 'Immunoblotting', 'Molecular Sequence Data', 'Mosaicism', 'Polymerase Chain Reaction', 'Pregnancy', 'Thalassemia/*diagnosis', '*Trisomy', '*X Chromosome']

@@ -1,0 +1,1 @@
+MeSHCostsandCostAnalysis MeSHHumans MeSHInsurance MeSHHealth MeSHReimbursement MeSHLungNeoplasm MeSHSensitivityandSpecificity MeSHTomography MeSHEmission-Compute MeSHTomography MeSHX-RayCompute

@@ -1,0 +1,1 @@
+MeSHAspergillu MeSHBaseSequence MeSHFungalProtein MeSHGeneExpressionRegulation MeSHFunga MeSHHSP70Heat-ShockProtein MeSHPlantProtein MeSHRNA MeSHAntisens MeSHRNA MeSHFunga MeSHReverseTranscriptasePolymeraseChainReaction MeSHTranscription MeSHGenetic

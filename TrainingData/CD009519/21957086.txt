@@ -1,0 +1,3 @@
+Late pulmonary metastases of a giant-cell tumour of the spine.
+?
+['Adult', 'Dissection', 'Female', '*Giant Cell Tumor of Bone/pathology/surgery', 'Humans', 'Lung/*pathology', '*Lung Neoplasms/diagnosis/physiopathology/secondary', 'Orthopedic Procedures/*adverse effects/methods', '*Postoperative Complications/diagnosis/physiopathology', 'Spinal Neoplasms/pathology/surgery', 'Time Factors', 'Tomography, Emission-Computed/methods', 'Tomography, X-Ray Computed/methods']

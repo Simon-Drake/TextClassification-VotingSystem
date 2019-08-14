@@ -1,0 +1,3 @@
+First-trimester tests for trisomies 21 and 18 as sensitive as triple screen.
+?
+['Adult', 'Chromosomes, Human, Pair 18/*genetics', 'Down Syndrome/*diagnosis', 'Female', 'Fetal Diseases/diagnosis', 'Humans', 'Pregnancy', '*Pregnancy Trimester, First', 'Pregnancy Trimester, Second', 'Prenatal Diagnosis/methods/*standards', 'Reproducibility of Results', 'Risk Factors', 'Sensitivity and Specificity', 'Trisomy/*diagnosis']

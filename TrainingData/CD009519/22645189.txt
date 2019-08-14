@@ -1,0 +1,3 @@
+Acute myocardial infarction and swinging heart: not always a cardiac rupture--haemopericardium due to infiltrative lung cancer.
+?
+['Adenocarcinoma/diagnosis/*secondary', '*Bronchial Neoplasms', 'Coronary Occlusion/etiology', 'Heart Neoplasms/diagnosis/*secondary', 'Heart Rupture/diagnosis', 'Humans', 'Middle Aged', 'Neoplasm Invasiveness', 'Pericardial Effusion/*etiology', 'Positron-Emission Tomography', 'Shock, Cardiogenic/*etiology']

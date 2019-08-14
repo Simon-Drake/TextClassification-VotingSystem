@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAged MeSHHumans MeSHLungNeoplasm MeSHMale MeSHNeoplasmStaging MeSHPleuralNeoplasm MeSHPositron-EmissionTomography MeSHPreoperativeCare MeSHTomography MeSHX-RayComputed

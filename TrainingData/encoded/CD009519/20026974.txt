@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSmallCel MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPositron-EmissionTomography MeSHProstaticNeoplasm MeSHRadiopharmaceuticals MeSHSubtractionTechnique MeSHTomography MeSHX-RayComputed

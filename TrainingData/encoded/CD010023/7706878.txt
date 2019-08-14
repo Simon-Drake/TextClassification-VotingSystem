@@ -1,0 +1,1 @@
+MeSHCarpalBone MeSHFractures MeSHClose MeSHHumans MeSHRadiography MeSHRadionuclideImaging

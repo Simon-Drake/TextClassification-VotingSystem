@@ -1,0 +1,3 @@
+[Ultrasonic diagnosis of spherical formations in the lungs].
+?
+['Adult', 'Echinococcosis, Pulmonary/*diagnosis', 'Female', 'Humans', 'Lung Neoplasms/*diagnosis', 'Male', 'Middle Aged', 'Tomography/methods', 'Tuberculosis, Pulmonary/*diagnosis', '*Ultrasonography']

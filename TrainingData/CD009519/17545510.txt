@@ -1,0 +1,3 @@
+Prognostic significance of fluorodeoxyglucose uptake in non-small cell lung cancer. A blurry picture?
+?
+['Adenosine Triphosphate/metabolism', 'Carcinoma, Non-Small-Cell Lung/*diagnosis/*mortality/pathology', 'Fluorodeoxyglucose F18/*pharmacokinetics', 'Humans', 'Lung Neoplasms/*diagnosis/*mortality/pathology', 'Multivariate Analysis', 'Prognosis', 'Radiopharmaceuticals/pharmacokinetics']

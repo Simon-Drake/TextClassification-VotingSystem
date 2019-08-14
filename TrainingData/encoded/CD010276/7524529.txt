@@ -1,0 +1,1 @@
+MeSHBiomarkers MeSHTumo MeSHCarcinoma MeSHSquamousCel MeSHCellDifferentiatio MeSHCellTransformation MeSHNeoplasti MeSHHumans MeSHImmunoenzymeTechniques MeSHKeratinocyte MeSHKeratin MeSHLeukoplakia MeSHOra MeSHMouthMucos MeSHMouthNeoplasm MeSHProteinPrecursor

@@ -1,0 +1,3 @@
+[Diagnostic considerations on broncholithiasis with a pseudoneoplastic aspect].
+?
+['Bronchial Diseases/*diagnosis', 'Bronchial Neoplasms/*diagnosis', 'Bronchography', 'Bronchoscopy', 'Calculi/*diagnosis', 'Cytodiagnosis', 'Diagnosis, Differential', 'Humans', 'Radiography, Thoracic', 'Tomography']

@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHNeedle MeSHDiagnosis MeSHDifferential MeSHHumans MeSHLungNeoplasm MeSHPrognosis MeSHSolitaryPulmonaryNodul MeSHThoracicSurgery MeSHVideo-Assisted MeSHTomography MeSHEmission-Computed MeSHTomography MeSHX-RayComputed

@@ -1,0 +1,3 @@
+Inhalation bronchography.
+?
+['Adolescent', 'Adult', 'Anesthesia, Local', 'Bronchial Fistula/diagnostic imaging', 'Bronchial Neoplasms/diagnostic imaging', 'Bronchiectasis/diagnostic imaging', '*Bronchography', 'Contrast Media', 'Hemoptysis/diagnostic imaging', 'Humans', 'Laryngeal Neoplasms/diagnostic imaging', 'Methods', 'Physical Therapy Modalities', 'Pleural Diseases/diagnostic imaging', 'Posture', 'Prilocaine', 'Respiration', 'Tomography']

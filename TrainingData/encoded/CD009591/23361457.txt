@@ -1,0 +1,1 @@
+MeSHAdult MeSHAreaUnderCurve MeSHBiomarkers MeSHTumor MeSHCA-125Antigen MeSHCarcinoma MeSHCase-ControlStudies MeSHCystadenoma MeSHSerous MeSHDouble-BlindMethod MeSHEndometriosis MeSHFemale MeSHHumans MeSHMiddleAged MeSHOvarianNeoplasms MeSHProteins MeSHROCCurve MeSHYoungAdult

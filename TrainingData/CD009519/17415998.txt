@@ -1,0 +1,3 @@
+[Advances in research on biological target volume and conformal intensity-modulated radiotherapy].
+?
+['Carcinoma, Non-Small-Cell Lung/diagnostic imaging/radiotherapy', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/diagnostic imaging/radiotherapy', 'Neoplasms/diagnostic imaging/*radiotherapy', 'Positron-Emission Tomography/*methods', 'Radiotherapy, Intensity-Modulated/*methods', 'Tomography, X-Ray Computed/*methods', 'Tumor Burden/radiation effects']

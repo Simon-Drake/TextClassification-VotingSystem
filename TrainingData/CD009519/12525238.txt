@@ -1,0 +1,3 @@
+Lung cancer screening at any price?
+?
+['Cost-Benefit Analysis', 'Humans', 'Lung Neoplasms/*diagnosis', 'Mass Screening/*economics', 'Tomography, Spiral Computed/*economics', 'United States']

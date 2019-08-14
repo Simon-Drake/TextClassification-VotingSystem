@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHFine-Needl MeSHCarcinoma MeSHNon-Small-CellLun MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHMale MeSHPositron-EmissionTomography MeSHSensitivityandSpecificity

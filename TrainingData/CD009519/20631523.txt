@@ -1,0 +1,3 @@
+Unusual gallbladder metastasis from non-small-cell lung cancer detected by F-18 FDG PET/CT with intravenous contrast enhancement.
+?
+['Aged', 'Carcinoma, Non-Small-Cell Lung/*pathology', 'Contrast Media/*administration & dosage', '*Fluorodeoxyglucose F18', 'Gallbladder Neoplasms/*diagnosis/diagnostic imaging/*secondary', 'Humans', 'Lung Neoplasms/*pathology', 'Male', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed']

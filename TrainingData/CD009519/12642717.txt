@@ -1,0 +1,3 @@
+FDG positron emission tomographic imaging of thoracic Castleman's disease.
+?
+['*Fluorodeoxyglucose F18', 'Giant Lymph Node Hyperplasia/diagnosis/*diagnostic imaging', 'Humans', 'Lung Neoplasms/diagnosis/diagnostic imaging', 'Radiopharmaceuticals', 'Thorax/*diagnostic imaging', 'Tomography, Emission-Computed/methods']

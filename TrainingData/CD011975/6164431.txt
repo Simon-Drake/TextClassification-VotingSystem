@@ -1,0 +1,3 @@
+New uncertainties in prenatal screening for neural tube defect.
+?
+['Acetylcholinesterase/analysis', 'Amniotic Fluid/enzymology', 'Down Syndrome/diagnosis', 'Female', 'Humans', 'Mass Screening/*methods', 'Neural Tube Defects/diagnosis/*epidemiology', 'Pregnancy', 'Prenatal Diagnosis/*methods', 'Risk', '*Ultrasonography', 'United Kingdom', 'alpha-Fetoproteins/analysis']

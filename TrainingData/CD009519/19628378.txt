@@ -1,0 +1,3 @@
+A retrospective study of concurrent chemoradiation using mitomycin, vinblastine and cisplatin chemotherapy for non-small cell lung cancer.
+?
+['Antineoplastic Combined Chemotherapy Protocols/*therapeutic use', 'Carcinoma, Non-Small-Cell Lung/*drug therapy/*radiotherapy', 'Cisplatin/administration & dosage', 'Combined Modality Therapy/adverse effects', 'Female', 'Humans', 'Lung Neoplasms/*drug therapy/*radiotherapy', 'Male', 'Mitomycins/administration & dosage', 'Positron-Emission Tomography', 'Retrospective Studies', 'Survival Analysis', 'Treatment Outcome', 'Vinblastine/administration & dosage']

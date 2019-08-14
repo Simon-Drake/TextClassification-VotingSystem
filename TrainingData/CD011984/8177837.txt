@@ -1,0 +1,3 @@
+Prenatal diagnosis of Pallister-Killian syndrome by chorionic villus sampling--its diagnostic problems.
+?
+['Adult', '*Chorionic Villi Sampling', '*Chromosome Aberrations', '*Chromosomes, Human, Pair 12', 'False Negative Reactions', 'Female', 'Humans', 'Mosaicism', 'Pregnancy', 'Syndrome']

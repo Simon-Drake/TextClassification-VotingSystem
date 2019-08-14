@@ -1,0 +1,3 @@
+["Destroyed lung" as a result of an intrabronchial lipoma].
+?
+['Angiography', 'Bronchial Neoplasms/*complications/diagnostic imaging/surgery', 'Humans', 'Lipoma/*complications/diagnostic imaging/surgery', 'Lung Diseases/diagnostic imaging/*etiology', 'Male', 'Middle Aged', 'Tomography']

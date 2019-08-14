@@ -1,0 +1,3 @@
+Primary lung carcinomas imposing as thin-walled cysts.
+?
+['Aged', 'Carcinoma/*diagnostic imaging', 'Cysts/*diagnostic imaging', 'Diagnosis, Differential', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', 'Radiography', 'Tomography']

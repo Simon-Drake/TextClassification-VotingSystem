@@ -1,0 +1,1 @@
+MeSHAlgorithms MeSHCarcinoma MeSHSquamousCel MeSHHumans MeSHLeukoplaki MeSHMouthMucosa MeSHMouthNeoplasm MeSHROCCurve MeSHSensitivityandSpecificity MeSHSpectrometry MeSHFluorescenc

@@ -1,0 +1,3 @@
+[Pulmonary manifestations in leukemia].
+?
+['Aged', 'Cough/etiology', 'Diagnosis, Differential', 'Dyspnea/etiology', 'Humans', 'Leukemia, Lymphoid/*complications', 'Leukemia, Myeloid/*complications', 'Lung Abscess/diagnosis', 'Lung Diseases/*diagnosis', 'Lung Neoplasms/*diagnosis', 'Male', 'Middle Aged', 'Radiography, Thoracic', 'Respiratory Insufficiency/etiology', 'Tomography', 'Tuberculosis, Pulmonary/diagnosis']

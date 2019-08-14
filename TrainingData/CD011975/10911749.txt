@@ -1,0 +1,3 @@
+[Early screening of fetal aneuploidies (c-beta P/us TEST). Report of 600 observations].
+?
+['Algorithms', '*Aneuploidy', 'Costs and Cost Analysis', 'Female', 'Fetal Diseases/*diagnosis/economics/*genetics/prevention & control', 'Humans', 'Maternal Age', 'Pregnancy', 'Prenatal Diagnosis/*methods', 'Switzerland', 'Time Factors']

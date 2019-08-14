@@ -1,0 +1,1 @@
+MeSHAspergillu MeSHBaseSequence MeSHBiotechnology MeSHCloning MeSHMolecular MeSHDNAPrimer MeSHDNA MeSHFunga MeSHEndo-1 MeSH4-betaXylanase MeSHEnzymeStability MeSHFermentation MeSHGeneExpression MeSHGenes MeSHFungal MeSHMolecularSequenceData MeSHPichi MeSHRecombinantProtein MeSHSequenceHomology MeSHNucleicAcid

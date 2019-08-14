@@ -1,0 +1,3 @@
+Trisomy 12 mosaicism diagnosed by amniocentesis.
+?
+['Abnormalities, Multiple/genetics/pathology', 'Adult', 'Amniocentesis', 'Apgar Score', 'Chromosomes, Human, Pair 12/*genetics', 'Cytogenetics', 'Female', 'Humans', 'Infant, Newborn', 'Mosaicism/diagnosis/*genetics', 'Pregnancy', 'Prenatal Diagnosis', 'Trisomy/diagnosis/*genetics']

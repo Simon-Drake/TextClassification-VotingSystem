@@ -1,0 +1,3 @@
+F-18 FDG PET/CT imaging and bronchoscopic image of tracheal recurrence in patient with non-small-cell lung cancer.
+?
+['*Bronchoscopy', 'Carcinoma, Non-Small-Cell Lung/*pathology', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/pathology', 'Male', 'Middle Aged', 'Neoplasm Recurrence, Local/*diagnosis/diagnostic imaging', '*Positron-Emission Tomography', '*Tomography, X-Ray Computed', '*Trachea/diagnostic imaging']

@@ -1,0 +1,3 @@
+Confirmation of CVS mosaicism.
+?
+['Chorionic Villi Sampling', 'Female', 'Fetal Growth Retardation/*diagnosis', 'Humans', 'Karyotyping', 'Placenta/cytology', 'Pregnancy', 'Pregnancy Trimester, First']

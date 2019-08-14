@@ -1,0 +1,3 @@
+The role of ultrasound in screening for Down syndrome.
+?
+['Down Syndrome/*diagnostic imaging/epidemiology', 'Evaluation Studies as Topic', 'Female', 'Humans', 'Mass Screening/*methods', 'Pregnancy', 'Sensitivity and Specificity', 'Ultrasonography, Prenatal/*standards']

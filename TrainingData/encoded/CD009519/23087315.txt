@@ -1,0 +1,1 @@
+MeSHAnti-BacterialAgent MeSHBiopsy MeSHBliste MeSHCarcinom MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHMultimodalImaging MeSHPneumonectomy MeSHPositron-EmissionTomography MeSHRespiratoryTractInfection MeSHTomography MeSHX-RayComputed

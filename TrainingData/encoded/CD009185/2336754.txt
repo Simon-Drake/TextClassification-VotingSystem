@@ -1,0 +1,1 @@
+MeSHBloodViscosity MeSHErythrocyteAggregation MeSHHematocrit MeSHHumans MeSHOsmoticFragility MeSHPlasmapheresis MeSHPlateletAggregation MeSHPlateletCount MeSHUrinaryTractInfection

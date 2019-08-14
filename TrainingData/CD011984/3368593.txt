@@ -1,0 +1,3 @@
+[Prenatal cytogenetic diagnosis. Problems and cautions].
+?
+['Aneuploidy', 'Chromosome Aberrations/*diagnosis', 'Chromosome Disorders', 'Female', 'Humans', 'Karyotyping', 'Mosaicism', 'Pedigree', 'Pregnancy', '*Prenatal Diagnosis', 'Translocation, Genetic']

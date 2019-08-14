@@ -1,0 +1,3 @@
+Further insights gained from diagnosis of two abnormal cell lines at amniocentesis.
+?
+['*Amniocentesis', 'Cells, Cultured', '*Chromosome Aberrations', 'Diagnostic Errors', 'Female', 'Humans', '*Mosaicism', 'Pregnancy']

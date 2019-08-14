@@ -1,0 +1,3 @@
+Maternal serum free beta hCG screening: results of studies including 480 cases of Down syndrome--problems with this approach.
+?
+['Chorionic Gonadotropin/*blood', 'Chorionic Gonadotropin, beta Subunit, Human', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Mass Screening/methods', 'Odds Ratio', 'Peptide Fragments/*blood', 'Pregnancy', 'Prenatal Diagnosis/*methods']

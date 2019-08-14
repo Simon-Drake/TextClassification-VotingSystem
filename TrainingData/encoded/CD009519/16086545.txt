@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHNon-Small-CellLun MeSHCost-BenefitAnalysis MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHNeoplasmStaging MeSHPositron-EmissionTomography MeSHTomography MeSHX-RayComputed

@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHFine-Needle MeSHCarcinoma MeSHNon-Small-CellLun MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLun MeSHLungNeoplasm MeSHLymphNode MeSHLymphaticMetastasi MeSHMediastinoscopy MeSHNeoplasmStagin MeSHPositron-EmissionTomography MeSHRadiopharmaceuticals MeSHSensitivityandSpecificity

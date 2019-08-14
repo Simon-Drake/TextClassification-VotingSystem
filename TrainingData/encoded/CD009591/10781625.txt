@@ -1,0 +1,1 @@
+MeSHAbdominalPain MeSHAdult MeSHAppendix MeSHCecalDiseases MeSHCecum MeSHDiarrhea MeSHEndometriosis MeSHFemale MeSHGastrointestinalHemorrhage MeSHHumans MeSHIntestine MeSHSmall MeSHIntussusception MeSHNausea MeSHTomography MeSHX-RayComputed

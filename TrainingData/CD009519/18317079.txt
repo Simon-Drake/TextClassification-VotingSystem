@@ -1,0 +1,3 @@
+IASLC Lung Cancer Staging Project--a radiologist perspective.
+?
+['Humans', 'Lung Neoplasms/*diagnosis/secondary', 'Neoplasm Staging/*methods', 'Positron-Emission Tomography/*methods', 'Reproducibility of Results', 'Tomography, X-Ray Computed/*methods']

@@ -1,0 +1,3 @@
+Triple marker screening in native Japanese women.
+Prenatal screening using the maternal serum markers alpha-fetoprotein, human chorionic gonadotropin, and unconjugated oestriol was investigated in a native Japanese population. Comparison with a Caucasian U.S. population revealed differences which led to modification of the generally used equations for risk calculations. Prenatal screening was shown to be clinically useful.
+['Adult', 'Biomarkers/*blood', 'Body Weight', 'Chorionic Gonadotropin/blood', 'Down Syndrome/blood/*diagnosis', 'Estriol/blood', 'Female', 'Gestational Age', 'Humans', 'Japan', 'Pregnancy', '*Prenatal Diagnosis', 'United States', 'alpha-Fetoproteins/analysis']

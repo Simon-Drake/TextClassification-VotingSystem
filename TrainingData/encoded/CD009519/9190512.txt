@@ -1,0 +1,1 @@
+MeSHBreastNeoplasm MeSHFatalOutcome MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHMiddleAged MeSHNeoplasticCells MeSHCirculatin MeSHTomography MeSHEmission-Computed

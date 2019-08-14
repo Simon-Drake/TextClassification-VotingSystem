@@ -1,0 +1,3 @@
+Down's syndrome screening with nuchal translucency.
+?
+['Down Syndrome/*diagnostic imaging/mortality', 'Female', 'Fetal Death', 'Fetal Diseases/*diagnostic imaging/mortality', 'Humans', 'Neck', 'Predictive Value of Tests', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy Trimester, Second', '*Ultrasonography, Prenatal']

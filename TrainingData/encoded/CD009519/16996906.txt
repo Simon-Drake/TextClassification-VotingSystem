@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHFemale MeSHGammaRays MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHNeoplasmStaging MeSHPneumonectomy MeSHRadiopharmaceuticals MeSHTechnetiumTc99mAggregatedAlbumin MeSHThoracoscopy MeSHTomography MeSHX-RayComputed

@@ -1,0 +1,1 @@
+MeSHAdenocarcinoma MeSHClearCell MeSHCarcinoma MeSHEndometrioid MeSHCarcinoma MeSHPapillary MeSHDatabases MeSHFactual MeSHDemography MeSHFemale MeSHHumans MeSHMiddleAged MeSHMortality MeSHNeoplasmStaging MeSHRiskFactors MeSHSEERProgram MeSHSarcoma MeSHSurvivalAnalysis MeSHUnitedStates MeSHUterineNeoplasms

@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAged MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHGastrectomy MeSHHumans MeSHLymphNodeExcision MeSHLymphaticMetastasi MeSHMale MeSHNeck MeSHNeoplasmMetastasi MeSHPositron-EmissionTomograph MeSHPreoperativeCare MeSHStomachNeoplasm MeSHWholeBodyImagin

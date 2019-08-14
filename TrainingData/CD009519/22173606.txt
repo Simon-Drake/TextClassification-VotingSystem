@@ -1,0 +1,3 @@
+A noninvasive integrative method for analyzing radiation-induced lung injury.
+?
+['Carcinoma, Non-Small-Cell Lung/pathology/*radiotherapy', 'Humans', 'Lung/*radiation effects', 'Lung Injury/*etiology', 'Lung Neoplasms/pathology/*radiotherapy', 'Male', 'Middle Aged', 'Multimodal Imaging', 'Positron-Emission Tomography', 'Radiation Injuries/*etiology', 'Tomography, X-Ray Computed']

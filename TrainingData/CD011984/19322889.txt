@@ -1,0 +1,3 @@
+Talking about Down syndrome.
+?
+['Communication', 'Down Syndrome/*diagnosis/genetics', 'Female', 'Genetic Counseling', 'Humans', 'Infant, Newborn', 'Male', 'Obstetrics', 'Pregnancy', 'Prenatal Diagnosis']

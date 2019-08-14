@@ -1,0 +1,3 @@
+[ASPECTS OF DIFFERENTIAL DIAGNOSIS BETWEEN COMPLICATED ECHI- NOCOCCAL CYST AND CANCER OF THE LUNG].
+?
+['*Bronchography', '*Bronchoscopy', '*Cysts', '*Diagnosis, Differential', '*Echinococcosis', '*Echinococcosis, Pulmonary', 'Humans', '*Lung Neoplasms', '*Neoplasms', '*Radiography, Thoracic', '*Tomography']

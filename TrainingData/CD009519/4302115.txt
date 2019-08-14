@@ -1,0 +1,3 @@
+[Adenoma of the lungs].
+?
+['Adenoma/diagnosis/pathology/*surgery', 'Adult', 'Bronchial Neoplasms/diagnosis/pathology', 'Bronchography', 'Bronchoscopy', 'Carcinoid Tumor/pathology', 'Carcinoma, Adenoid Cystic/pathology', 'Female', 'Humans', 'Lung Neoplasms/diagnosis/pathology/*surgery', 'Male', 'Middle Aged', 'Pneumonectomy', 'Tomography']

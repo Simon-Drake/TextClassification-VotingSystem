@@ -1,0 +1,1 @@
+MeSHAllergens MeSHAmylases MeSHAntigen-AntibodyReactions MeSHAspergillusoryzae MeSHEnzyme-LinkedImmunosorbentAssay MeSHHotTemperature MeSHHumans MeSHHypersensitivity MeSHImmediate MeSHImmunoglobulinE MeSHOccupationalDiseases MeSHSkinTests

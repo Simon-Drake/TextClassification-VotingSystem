@@ -1,0 +1,3 @@
+Improved evaluation of pulmonary disease with gallium-67 emission tomography.
+?
+['Carcinoma, Bronchogenic/diagnostic imaging', '*Gallium Radioisotopes', 'Humans', 'Lung Diseases/*diagnostic imaging', 'Lung Neoplasms/diagnostic imaging', 'Pneumonia/diagnostic imaging', 'Pulmonary Fibrosis/diagnostic imaging', 'Sarcoidosis/diagnostic imaging', '*Tomography, Emission-Computed']

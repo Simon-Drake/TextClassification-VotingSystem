@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHCarcinoma MeSHSquamousCel MeSHCellLine MeSHCloning MeSHMolecular MeSHDown-Regulatio MeSHEpithelialCell MeSHGeneExpressionRegulation MeSHNeoplastic MeSHHumans MeSHImmunohistochemistry MeSHKeratin-1 MeSHKeratin- MeSHMale MeSHMouthMucos MeSHMouthNeoplasm MeSHOligonucleotideArraySequenceAnalysis

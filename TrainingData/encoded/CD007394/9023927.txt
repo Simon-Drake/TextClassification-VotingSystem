@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAspergillus MeSHBaseSequence MeSHGalactans MeSHGlucan1 MeSH4-alpha-Glucosidase MeSHHumans MeSHInterleukin-6 MeSHMannans MeSHMolecularSequenceData MeSHPlantGums MeSHPlantProteins MeSHProteinBiosynthesis MeSHRNA MeSHMessenger MeSHRecombinantFusionProteins MeSHTranscription MeSHGenetic MeSHalpha-Galactosidase

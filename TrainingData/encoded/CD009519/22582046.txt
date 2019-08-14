@@ -1,0 +1,1 @@
+MeSHAnimals MeSHCellLine MeSHTumor MeSHDiseaseModels MeSHAnimal MeSHFluorineRadioisotopes MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHMammaryNeoplasms MeSHExperimenta MeSHMice MeSHPositron-EmissionTomograph MeSHRadiopharmaceuticals MeSHReceptor MeSHErbB- MeSHRecombinantFusionProteins

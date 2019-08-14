@@ -1,0 +1,3 @@
+Bilateral subdural hematoma associated with central nervous system metastases from lung cancer.
+?
+['Aged', 'Brain Neoplasms/complications/*secondary/therapy', 'Combined Modality Therapy', 'Hematoma, Subdural/*etiology/pathology/therapy', 'Humans', 'Lung Neoplasms/complications/*pathology/therapy', 'Magnetic Resonance Imaging', 'Male', 'Positron-Emission Tomography', 'Prognosis', 'Tomography, X-Ray Computed']

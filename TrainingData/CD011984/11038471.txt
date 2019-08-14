@@ -1,0 +1,3 @@
+Prenatal diagnosis of fragile X and Turner mosaicism in a 12-week fetus.
+?
+['Adult', 'Blotting, Southern', 'Chorionic Villi Sampling', 'Female', 'Fragile X Syndrome/diagnosis/*genetics', 'Humans', 'Male', '*Mosaicism', 'Pregnancy', 'Pregnancy Trimester, First', '*Prenatal Diagnosis', 'Turner Syndrome/diagnosis/*genetics']

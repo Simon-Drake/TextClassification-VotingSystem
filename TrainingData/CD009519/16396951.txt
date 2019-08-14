@@ -1,0 +1,3 @@
+Is screening for lung cancer using low dose spiral CT scanning worthwhile?
+?
+['Cost-Benefit Analysis', 'Diagnostic Errors', 'Humans', 'Lung Neoplasms/*diagnostic imaging/economics', 'Mass Screening/economics/*methods', 'Smoking/adverse effects', 'Tomography, Spiral Computed/economics/*methods']

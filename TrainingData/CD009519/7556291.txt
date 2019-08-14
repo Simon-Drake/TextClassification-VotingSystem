@@ -1,0 +1,3 @@
+New staging investigations for lung cancer: what will they have to offer to be clinically useful?
+?
+['Humans', 'Lung Neoplasms/diagnostic imaging/mortality/*pathology', 'Lymphatic Metastasis', 'Neoplasm Invasiveness', 'Neoplasm Recurrence, Local', 'Neoplasm Staging', 'Sensitivity and Specificity', 'Survival Rate', 'Tomography, Emission-Computed', 'Tomography, X-Ray Computed']

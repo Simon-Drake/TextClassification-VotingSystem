@@ -1,0 +1,3 @@
+Umbilical artery Doppler--more harm than good?
+?
+['Aneuploidy', 'Blood Flow Velocity', 'Female', 'Fetus/blood supply', 'Humans', 'Placenta/blood supply', 'Pregnancy', '*Pregnancy, High-Risk', 'Risk Factors', 'Ultrasonography, Interventional', 'Ultrasonography, Prenatal', 'Umbilical Arteries/diagnostic imaging/*physiopathology']

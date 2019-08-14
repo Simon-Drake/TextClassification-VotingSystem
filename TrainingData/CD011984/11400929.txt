@@ -1,0 +1,3 @@
+The genetic sonogram in screening for Down syndrome: response to the JAMA study.
+?
+['Down Syndrome/*diagnostic imaging/genetics', 'Female', 'Humans', 'Pregnancy', '*Ultrasonography, Prenatal']

@@ -1,0 +1,3 @@
+Pulmonary hypertrophic osteoarthropathy in a patient with nonsmall cell lung cancer: Diagnosis with FDG PET/CT.
+?
+['Carcinoma, Non-Small-Cell Lung/*diagnostic imaging', '*Fluorodeoxyglucose F18', 'Humans', 'Incidental Findings', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', 'Osteoarthropathy, Secondary Hypertrophic/*diagnostic imaging', 'Paraneoplastic Syndromes/*diagnostic imaging', '*Positron-Emission Tomography', 'Radiopharmaceuticals', 'Subtraction Technique', '*Tomography, X-Ray Computed']

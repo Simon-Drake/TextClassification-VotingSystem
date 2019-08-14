@@ -1,0 +1,3 @@
+[Diagnosis of mediastinal lymphnode metastasis of primary lung cancer by 67Ga-ECT].
+?
+['Gallium Radioisotopes', 'Humans', 'Lung Neoplasms/diagnostic imaging/*pathology', 'Lymph Nodes/*diagnostic imaging', 'Lymphatic Metastasis', 'Mediastinum', 'Models, Structural', 'Predictive Value of Tests', 'Radiography', 'Tomography, Emission-Computed']

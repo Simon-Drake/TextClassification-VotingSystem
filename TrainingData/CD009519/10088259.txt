@@ -1,0 +1,3 @@
+[Diagnostic techniques for bronchial cancer. New scintigraphic techniques (immunoscintigraphy and positron-emission tomography)].
+?
+['Carcinoma, Bronchogenic/*diagnostic imaging', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Prognosis', 'Radioimmunodetection/*methods', 'Reproducibility of Results', 'Sensitivity and Specificity', 'Tomography, Emission-Computed/*methods']

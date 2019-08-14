@@ -1,0 +1,3 @@
+[COMPARATIVE STUDY OF THE SEMEIOLOGICAL DATA PROVIDED BY STRATIGRAPHY, BRONCHOGRAPHY AND BRONCHOSCOPY IN THE DIAGNOSIS OF PULMONARY CARCINOMA].
+?
+['*Bronchial Neoplasms', '*Bronchography', '*Bronchoscopy', '*Carcinoma', '*Carcinoma, Bronchogenic', '*Carcinoma, Squamous Cell', 'Humans', '*Lung Neoplasms', 'Neoplasms/*diagnosis', '*Tomography', '*Tomography, X-Ray Computed']

@@ -1,0 +1,3 @@
+[Pseudomosaicism in cultured amniotic fluid cells].
+?
+['Amniotic Fluid/*cytology', 'Cells, Cultured', 'Chromosome Aberrations/*diagnosis', 'Chromosome Disorders', 'Female', 'Humans', 'Infant, Newborn', '*Mosaicism', 'Pregnancy', '*Prenatal Diagnosis']

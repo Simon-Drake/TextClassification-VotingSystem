@@ -1,0 +1,3 @@
+Double aneuploidy with Down syndrome.
+?
+['*Aneuploidy', 'Down Syndrome/*diagnosis/*genetics', 'Female', 'Humans', 'Male', '*Prenatal Diagnosis', 'Translocation, Genetic/*genetics']

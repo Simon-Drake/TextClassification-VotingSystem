@@ -1,0 +1,3 @@
+Prenatal screening for fetal Down's syndrome.
+?
+['Biomarkers', 'Chorionic Gonadotropin/blood', 'Down Syndrome/*diagnosis', 'Female', 'Glycoprotein Hormones, alpha Subunit/blood', 'Humans', 'Pregnancy/*blood', 'Risk', 'alpha-Fetoproteins/analysis']

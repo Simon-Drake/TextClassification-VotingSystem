@@ -1,0 +1,3 @@
+Paronychia: not always what it seems.
+?
+['Amputation', 'Bone Neoplasms/diagnostic imaging/*secondary/surgery', 'Carcinoma, Bronchogenic/diagnostic imaging/*pathology', 'Diagnosis, Differential', '*Fingers', 'Humans', 'Lung Neoplasms/diagnostic imaging/*pathology', 'Male', 'Middle Aged', 'Paronychia/diagnostic imaging', 'Positron-Emission Tomography', 'Radiography']

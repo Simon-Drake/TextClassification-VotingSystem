@@ -1,0 +1,1 @@
+MeSHBronchoscopy MeSHHumans MeSHLungNeoplasm MeSHPrognosis MeSHSurvivalRate MeSHTomography MeSHEmission-Computed MeSHTomography MeSHX-RayComputed

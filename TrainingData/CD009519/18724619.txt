@@ -1,0 +1,3 @@
+Cancer of unknown primary site.
+?
+['Adenocarcinoma/*diagnosis/secondary', 'Bone Neoplasms/pathology', 'Humans', 'Liver Neoplasms/pathology', 'Lung Neoplasms/pathology', 'Lymphatic Metastasis', 'Melanoma/pathology', 'Neoplasm Metastasis', 'Neoplasms, Unknown Primary/diagnosis/*pathology', 'Positron-Emission Tomography', 'Prognosis']

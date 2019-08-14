@@ -1,0 +1,3 @@
+First-trimester chromosomal analysis of chorionic villi obtained by direct vision technique.
+?
+['Chorionic Villi/*ultrastructure', 'Chromosomes, Human/*ultrastructure', 'Down Syndrome/diagnosis', 'Female', 'Humans', 'Karyotyping', 'Middle Aged', 'Placenta/*ultrastructure', 'Pregnancy', 'Pregnancy Trimester, First', 'Prenatal Diagnosis/*methods']

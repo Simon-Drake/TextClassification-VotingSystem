@@ -1,0 +1,3 @@
+How to comprehend the meaning of ADC value on DWI sequence.
+?
+['Aged', 'Aged, 80 and over', 'Diffusion Magnetic Resonance Imaging/*methods', 'Female', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnosis', 'Male', 'Middle Aged', 'Neoplasm Staging', 'Positron-Emission Tomography/*methods', 'Radiopharmaceuticals', 'Reproducibility of Results', 'Sensitivity and Specificity', 'Subtraction Technique', 'Systems Integration', 'Tomography, X-Ray Computed/*methods']

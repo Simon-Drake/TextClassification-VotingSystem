@@ -1,0 +1,3 @@
+Tracheopathia osteoplastica.
+?
+['Adolescent', 'Adult', 'Aged', 'Asthma/complications', 'Bronchitis/complications', 'Bronchoscopy', 'Child', 'Child, Preschool', 'Female', 'Heart Diseases/complications', 'Humans', 'Infant', 'Infant, Newborn', 'Lung Neoplasms/complications', 'Male', 'Middle Aged', 'Nervous System Diseases/complications', 'Radiography', 'Rhinitis, Atrophic/complications', 'Silicosis/complications', 'Tomography', 'Tracheal Diseases/complications/*diagnosis/diagnostic imaging/drug therapy', 'Tuberculosis/complications']

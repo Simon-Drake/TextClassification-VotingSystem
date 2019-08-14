@@ -1,0 +1,3 @@
+Serum screening for Down's syndrome. Creates stress for carers and parents.
+?
+['Down Syndrome/*diagnosis', 'Female', 'Health Personnel/*psychology', 'Humans', 'Parents/*psychology', 'Pregnancy', 'Prenatal Diagnosis/*psychology', 'Stress, Psychological/*etiology']

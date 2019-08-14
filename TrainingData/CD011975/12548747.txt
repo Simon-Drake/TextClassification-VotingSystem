@@ -1,0 +1,3 @@
+Prenatal diagnosis of a rare chromosomal instability syndrome: variegated aneuploidy related to premature centromere division (PCD).
+?
+['Adult', '*Aneuploidy', 'Centromere/*genetics', '*Chromosome Aberrations', 'Fatal Outcome', 'Female', 'Fetal Death', 'Humans', 'Karyotyping', 'Pregnancy', 'Prenatal Diagnosis', 'Syndrome']

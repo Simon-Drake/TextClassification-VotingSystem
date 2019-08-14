@@ -1,0 +1,3 @@
+[Recurrent spontaneous pneumothorax as the earliest indication of the pulmonary metastasis of a synovial sarcoma?].
+?
+['Adult', 'Humans', 'Lung/diagnostic imaging', 'Lung Neoplasms/*diagnosis/*secondary', 'Male', 'Muscle Neoplasms/*complications/pathology', '*Muscle, Skeletal', 'Pneumothorax/*diagnosis/etiology', 'Recurrence', 'Sarcoma, Synovial/complications/pathology/*secondary', 'Tomography, Emission-Computed', 'Tomography, X-Ray Computed', 'Whole-Body Counting']

@@ -1,0 +1,3 @@
+[Translucences within, and in the neighborhood of tumor shadows in the lung].
+?
+['Diagnosis, Differential', 'Humans', 'Lung Abscess/diagnostic imaging', 'Lung Neoplasms/diagnosis/*diagnostic imaging', 'Male', 'Middle Aged', 'Pneumonia/diagnostic imaging', 'Pulmonary Emphysema/diagnostic imaging', 'Radiography', 'Tomography']

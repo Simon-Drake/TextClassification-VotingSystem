@@ -1,0 +1,3 @@
+[Photo quiz: Deep-seated mycosis].
+?
+['Antifungal Agents/*administration & dosage', 'Fatal Outcome', 'Humans', 'Lung Diseases, Fungal/*microbiology/pathology', 'Male', 'Middle Aged', 'Polymerase Chain Reaction', 'Pulmonary Aspergillosis/complications/drug therapy', 'Pyrimidines/*administration & dosage', 'RNA, Fungal/genetics', 'Scedosporium/genetics/*isolation & purification', 'Sputum/microbiology', 'Triazoles/*administration & dosage', 'Voriconazole']

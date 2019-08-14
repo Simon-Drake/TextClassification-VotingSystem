@@ -1,0 +1,3 @@
+Pseudotrisomy 13 and autosomal recessive holoprosencephaly.
+Two sibs, diagnosed prenatally, had holoprosencephaly, midface hypoplasia, and normal chromosomes. The first fetus also had polydactyly. This sibship may represent an example of autosomal recessive pseudotrisomy 13.
+['Abnormalities, Multiple/embryology/*genetics', 'Abortion, Therapeutic', 'Adult', 'Chromosome Aberrations/diagnosis', 'Chromosome Disorders', 'Chromosomes, Human, Pair 13', 'Diagnosis, Differential', 'Female', '*Genes, Recessive', 'Holoprosencephaly/embryology/*genetics', 'Humans', 'Male', 'Middle Aged', 'Mosaicism', 'Polydactyly/genetics', 'Pregnancy', 'Sex Chromosome Aberrations/genetics', 'Syndrome', 'Trisomy', 'Ultrasonography, Prenatal']

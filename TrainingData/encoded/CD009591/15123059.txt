@@ -1,0 +1,1 @@
+MeSHAdnexalDiseases MeSHDiagnosis MeSHDifferential MeSHFemale MeSHHumans MeSHImageProcessing MeSHComputer-Assisted MeSHOvarianNeoplasms MeSHPatternRecognition MeSHAutomated MeSHUltrasonography

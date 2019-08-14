@@ -1,0 +1,3 @@
+Intramedullary spinal cord metastasis from carcinoma of the lung: detection by positron emission tomography.
+?
+['Carcinoma, Squamous Cell/diagnostic imaging/*secondary', 'Humans', 'Lung Neoplasms/*pathology', 'Male', 'Middle Aged', 'Spinal Cord Neoplasms/diagnostic imaging/*secondary', 'Tomography, Emission-Computed']

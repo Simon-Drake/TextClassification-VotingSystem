@@ -1,0 +1,1 @@
+MeSHAnimals MeSHBiomarkers MeSHTumo MeSHCarcinoma MeSHSquamousCel MeSHCellLine MeSHTumo MeSHCellMovement MeSHCellProliferatio MeSHCysteine-RichProtein6 MeSHFemale MeSHHumans MeSHImmunohistochemistry MeSHMale MeSHMice MeSHMice MeSHSCID MeSHMiddleAged MeSHMouthNeoplasm MeSHNeoplasmTransplantatio MeSHPrognosis MeSHTumorCells MeSHCultured

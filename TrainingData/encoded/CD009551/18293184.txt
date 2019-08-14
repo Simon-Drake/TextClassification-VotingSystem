@@ -1,0 +1,1 @@
+MeSHBaseSequence MeSHCornealUlce MeSHDNA MeSHFunga MeSHDNA MeSHRibosomalSpace MeSHEyeInfections MeSHFunga MeSHFung MeSHHumans MeSHMolecularSequenceData MeSHMycologicalTypingTechniques MeSHMycose MeSHPolymeraseChainReaction

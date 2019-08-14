@@ -1,0 +1,3 @@
+Trisomy 15 in chorionic villi and Prader-Willi syndrome at birth.
+?
+['Adult', 'Chorionic Villi Sampling', '*Chromosomes, Human, Pair 15', 'Female', 'Humans', 'Maternal Age', 'Mosaicism', 'Prader-Willi Syndrome/*genetics', 'Pregnancy', 'Pregnancy, High-Risk', '*Prenatal Diagnosis', '*Trisomy']

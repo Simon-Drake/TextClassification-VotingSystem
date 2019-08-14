@@ -1,0 +1,3 @@
+Inaccurate clinical nodal staging of non-small cell lung cancer: evidence from the MRC LU22 multicentre randomised trial.
+?
+['Carcinoma, Non-Small-Cell Lung/*pathology', 'Humans', 'Lung Neoplasms/*pathology', 'Lymph Node Excision', 'Lymphatic Metastasis', 'Mediastinoscopy', 'Mediastinum', 'Neoplasm Staging', 'Positron-Emission Tomography']

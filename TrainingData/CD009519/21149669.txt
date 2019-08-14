@@ -1,0 +1,3 @@
+Lung cancer in association with yellow nail syndrome.
+?
+['Adenocarcinoma/complications/diagnosis/surgery', 'Aged', 'Biopsy, Needle', 'Bronchoscopy/methods', 'Follow-Up Studies', 'Humans', 'Immunohistochemistry', 'Lung Neoplasms/*complications/*diagnosis/surgery', 'Male', 'Neoplasm Staging', 'Positron-Emission Tomography/methods', 'Risk Assessment', 'Tomography, X-Ray Computed', 'Treatment Outcome', 'Yellow Nail Syndrome/*complications/diagnosis']

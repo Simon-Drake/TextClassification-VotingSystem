@@ -1,0 +1,3 @@
+Down's syndrome screening in twins.
+?
+['Biomarkers', 'Chorionic Gonadotropin/analysis', '*Diseases in Twins', 'Down Syndrome/*diagnosis', 'Estriol/analysis', 'Female', 'Humans', 'Pregnancy', 'Pregnancy Trimester, Second', 'Prenatal Diagnosis', 'Prevalence', 'Risk Factors', 'alpha-Fetoproteins/analysis']

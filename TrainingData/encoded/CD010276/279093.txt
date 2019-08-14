@@ -1,0 +1,1 @@
+MeSHCellNucleus MeSHCytodiagnosis MeSHHumans MeSHMouthMucos MeSHMouthNeoplasm MeSHPrecancerousCondition

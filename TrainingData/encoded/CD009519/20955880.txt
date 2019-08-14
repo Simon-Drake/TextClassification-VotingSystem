@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHNeedle MeSHBronchoscopy MeSHHumans MeSHLun MeSHLungNeoplasm MeSHPositron-EmissionTomography MeSHSmokin MeSHSolitaryPulmonaryNodul MeSHThoracoscopy MeSHTomography MeSHX-RayComputed

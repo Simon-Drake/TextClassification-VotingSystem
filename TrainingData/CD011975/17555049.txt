@@ -1,0 +1,3 @@
+[Innovative prenatal diagnosis].
+?
+['Adult', 'DNA/genetics', 'Down Syndrome/diagnosis/genetics', 'Female', 'Humans', 'Oligonucleotide Array Sequence Analysis', 'Pregnancy', 'Prenatal Diagnosis/methods/*trends', 'RNA/*genetics']

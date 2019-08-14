@@ -1,0 +1,3 @@
+False-negative finding on chorionic villus sampling.
+?
+['Biopsy', 'Chorionic Villi/*pathology', 'False Negative Reactions', 'Female', 'Humans', 'Infant, Newborn', 'Male', 'Mosaicism', 'Pregnancy', 'Prenatal Diagnosis/*standards', 'Sex Chromosome Aberrations/*diagnosis']

@@ -1,0 +1,3 @@
+Multiple aneuploidy recurrence.
+?
+['*Abortion, Eugenic', 'Adult', 'Down Syndrome/diagnosis/embryology/*genetics', 'Female', 'Fetal Diseases/diagnosis/genetics', 'Homozygote', 'Humans', 'Methylenetetrahydrofolate Reductase (NADPH2)/*genetics', 'Point Mutation', 'Polymorphism, Genetic', 'Pregnancy', 'Prenatal Diagnosis']

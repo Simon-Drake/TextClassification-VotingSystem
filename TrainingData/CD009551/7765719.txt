@@ -1,0 +1,3 @@
+Isolation of a chitin synthase gene (chsC) of Aspergillus nidulans.
+We isolated a class I chitin synthase gene (chsC) from Aspergillus nidulans. Expression of this gene was confirmed by Northern analysis and by sequencing of the PCR-amplified DNA fragments from cDNA. chsC disruptants showed no difference of morphology in the asexual cycle and no difference of growth rate compared to a wild-type strain.
+['Amino Acid Sequence', 'Aspergillus nidulans/*enzymology/genetics', 'Base Sequence', 'Chitin Synthase/chemistry/*genetics', 'Cloning, Molecular', 'DNA, Complementary', '*Genes, Fungal', 'Molecular Sequence Data', 'Plasmids']

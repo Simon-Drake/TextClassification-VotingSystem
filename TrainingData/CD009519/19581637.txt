@@ -1,0 +1,3 @@
+Positron emission tomography plus computed tomography for staging early lung cancer.
+?
+['Adult', 'Aged', 'Aged, 80 and over', 'Brain/diagnostic imaging/pathology', 'Carcinoma, Non-Small-Cell Lung/diagnosis/*pathology/surgery', 'Female', 'Humans', 'Lung Neoplasms/diagnosis/*pathology/surgery', 'Magnetic Resonance Imaging', 'Male', 'Middle Aged', 'Neoplasm Staging/*methods', '*Positron-Emission Tomography', '*Tomography, X-Ray Computed', 'Treatment Outcome']

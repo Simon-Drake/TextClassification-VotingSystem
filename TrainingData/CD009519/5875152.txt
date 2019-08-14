@@ -1,0 +1,3 @@
+Roentgenopathologic study on lung abscess of tumorous form.
+?
+['Bronchography', 'Diagnosis, Differential', 'Female', 'Humans', 'Lung Abscess/diagnosis/*diagnostic imaging/*pathology', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', 'Tomography']

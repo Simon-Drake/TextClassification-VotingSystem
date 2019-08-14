@@ -1,0 +1,3 @@
+Prenatal diagnosis of mosaicism for tetrasomy 18p: cytogenetic, fish and morphological findings.
+A case of mosaicism for tetrasomy 18p detected prenatally is reported. We believe this is the second case where fetal anomalies were found at autopsy.
+['Abnormalities, Multiple/genetics', 'Adult', '*Amniocentesis', '*Aneuploidy', '*Chromosomes, Human, Pair 18', 'Female', 'Gestational Age', 'Humans', '*In Situ Hybridization, Fluorescence', '*Mosaicism', 'Pregnancy']

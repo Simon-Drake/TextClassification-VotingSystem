@@ -1,0 +1,1 @@
+MeSHArtifacts MeSHDiagnosticError MeSHFluorodeoxyglucoseF1 MeSHHumans MeSHNeoplasm MeSHOrganSpecificity MeSHPositron-EmissionTomograph MeSHPracticeGuidelinesasTopic MeSH"PracticePatterns MeSHPhysicians" MeSHRadiopharmaceutical MeSHTissueDistribution

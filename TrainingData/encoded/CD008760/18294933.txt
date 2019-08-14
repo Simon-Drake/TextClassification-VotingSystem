@@ -1,0 +1,1 @@
+MeSHCapsuleEndoscop MeSHDiagnosis MeSHDifferential MeSHElasticityImagingTechnique MeSHEndoscopy MeSHGastrointestina MeSHEsophagealandGastricVarice MeSHHumans MeSHHypertension MeSHPorta MeSHSeverityofIllnessIndex MeSHTomography MeSHX-RayCompute

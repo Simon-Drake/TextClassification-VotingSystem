@@ -1,0 +1,3 @@
+Increased F-18 FDG uptake in the right auricle of a displaced heart: potential cause of a false-positive pathologic mediastinal node.
+?
+['Aged', 'Diagnosis, Differential', 'False Positive Reactions', 'Female', '*Fluorodeoxyglucose F18/pharmacokinetics', 'Heart Atria/*abnormalities/*diagnostic imaging/metabolism', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Lymph Nodes/*diagnostic imaging/metabolism', 'Lymphatic Metastasis', 'Mediastinum/*diagnostic imaging', 'Radionuclide Imaging', 'Radiopharmaceuticals/pharmacokinetics']

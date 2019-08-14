@@ -1,0 +1,3 @@
+[Triple screening for trisomy 21: prospective results of 7039 assessments].
+?
+['Chorionic Gonadotropin/blood', 'Down Syndrome/*diagnosis', 'Estriol/blood', 'Female', 'Humans', 'Maternal Age', 'Pregnancy', '*Prenatal Diagnosis', 'Prospective Studies', 'Sensitivity and Specificity', 'Ultrasonography, Prenatal', 'alpha-Fetoproteins/analysis']

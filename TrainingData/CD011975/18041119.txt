@@ -1,0 +1,3 @@
+Antenatal care implications of population-based trends in Down syndrome birth rates.
+?
+['*Abortion, Induced', '*Child Advocacy', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Infant, Newborn', 'Pregnancy', '*Prenatal Diagnosis']

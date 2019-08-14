@@ -1,0 +1,1 @@
+MeSHHumans MeSHMassScreenin MeSHMouthNeoplasm MeSHOutcomeAssessment(HealthCare) MeSHPrecancerousCondition MeSHPrimaryHealthCare MeSHSensitivityandSpecificity

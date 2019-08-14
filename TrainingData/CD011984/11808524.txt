@@ -1,0 +1,3 @@
+Screening for Down's syndrome. Ratio of femoral length to tibial length needs to be evaluated extensively.
+?
+['Anthropometry/methods', 'Down Syndrome/*diagnosis', 'Female', 'Femur/embryology', 'Gestational Age', 'Humans', 'Mass Screening/*methods', 'Pregnancy', 'Prenatal Diagnosis/*methods', 'Tibia/embryology']

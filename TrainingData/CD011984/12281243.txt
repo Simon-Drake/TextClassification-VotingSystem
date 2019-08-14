@@ -1,0 +1,3 @@
+[Pregnancy after 34 years: risks and evolution of risks].
+?
+['*Age Factors', '*Anthropometry', 'Biology', '*Birth Weight', '*Body Weight', '*Delivery of Health Care', '*Demography', 'Developed Countries', '*Disease', 'Economics', 'England', 'Europe', '*Fetal Death', 'France', 'Health', '*Health Services', '*Infant Mortality', '*Infant, Low Birth Weight', '*Maternal Age', '*Maternal Health Services', '*Maternal Mortality', 'Maternal-Child Health Centers', '*Medicine', '*Morbidity', '*Mortality', '*Parents', 'Physiology', '*Population', '*Population Characteristics', '*Population Dynamics', '*Prenatal Care', 'Primary Health Care', 'Reproduction', 'Research', 'Research Design', 'Social Class', 'Socioeconomic Factors', 'United Kingdom', '*Women']

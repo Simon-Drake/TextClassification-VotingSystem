@@ -1,0 +1,3 @@
+PET complements CT in imaging of lung tumors.
+?
+['Deoxyglucose', 'Female', 'Humans', 'Lung Neoplasms/*diagnosis/metabolism', 'Male', 'Middle Aged', 'Tomography, Emission-Computed/*methods', '*Tomography, X-Ray Computed/methods']

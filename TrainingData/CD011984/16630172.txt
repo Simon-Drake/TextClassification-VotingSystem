@@ -1,0 +1,3 @@
+The incidence patterns of Down syndrome in Qatar.
+?
+['Cohort Studies', 'Data Collection', 'Demography', 'Down Syndrome/*epidemiology/etiology', 'Female', 'Humans', 'Incidence', 'Infant, Newborn', 'Karyotyping', 'Maternal Age', 'Prenatal Diagnosis', 'Qatar/epidemiology']

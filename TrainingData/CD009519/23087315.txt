@@ -1,0 +1,3 @@
+A case of pleomorphic carcinoma of the lung suspected from infectious bulla.
+?
+['Anti-Bacterial Agents/therapeutic use', 'Biopsy', 'Blister/*complications/diagnosis/drug therapy/microbiology', 'Carcinoma/diagnosis/*etiology/surgery', 'Humans', 'Lung Neoplasms/diagnosis/*etiology/surgery', 'Male', 'Middle Aged', 'Multimodal Imaging', 'Pneumonectomy', 'Positron-Emission Tomography', 'Respiratory Tract Infections/*complications/diagnosis/drug therapy/microbiology', 'Tomography, X-Ray Computed']

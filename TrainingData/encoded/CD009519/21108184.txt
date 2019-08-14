@@ -1,0 +1,1 @@
+MeSHAdult MeSHBiopsy MeSHFine-Needle MeSHCarcinoma MeSHNon-Small-CellLun MeSHCervicalVertebra MeSHDiagnosis MeSHDifferential MeSHDiseaseProgression MeSHHumans MeSHLun MeSHLungNeoplasm MeSHMagneticResonanceImaging MeSHMale MeSHPositron-EmissionTomography MeSHPrognosis MeSHSpinalCordCompressio MeSHThoracicVertebra MeSHTomography MeSHX-RayComputed MeSHTuberculosis MeSHPulmonar

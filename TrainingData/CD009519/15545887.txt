@@ -1,0 +1,3 @@
+F-18 PET soft tissue uptake in seatbelt injury.
+?
+['Adenocarcinoma/diagnostic imaging/metabolism', 'Aged', 'Artifacts', 'Diagnosis, Differential', 'Diagnostic Errors/*prevention & control', 'Female', 'Fluorodeoxyglucose F18/*pharmacokinetics', 'Humans', 'Lung Neoplasms/diagnostic imaging/metabolism', 'Positron-Emission Tomography/methods', 'Radiopharmaceuticals/pharmacokinetics', 'Seat Belts/*adverse effects', 'Soft Tissue Injuries/*diagnostic imaging/etiology/*metabolism']

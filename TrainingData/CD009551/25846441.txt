@@ -1,0 +1,3 @@
+[Central nervous system Vasculitis due to infectious diseases].
+Varicella zoster virus may cause vasculitis or vasculopathy, and positive polymerase chain reactions for varicella zoster virus deoxyribonucleic acid in the cerebrospinal fluid and/or the intrathecal synthesis of antibodies to the varicella zoster virus suggest these diagnoses. Meningovascular syphilis may involve the middle cerebral artery and basilar artery and may cause a stroke. Aspergillus is vasoinvasive and may cause hemorrhagic infarction by forming an intravascular thrombus.
+['Humans', 'Infection/*complications', 'Prognosis', 'Vasculitis, Central Nervous System/cerebrospinal fluid/diagnosis/*microbiology/therapy']

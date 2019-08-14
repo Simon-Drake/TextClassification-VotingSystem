@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAntifungalAgents MeSHBaseSequence MeSHCloning MeSHMolecular MeSHDNA MeSHComplementar MeSHDNA MeSHFunga MeSHFungalProtein MeSHGeneExpression MeSHGenes MeSHFungal MeSHMolecularSequenceData MeSHPenicillium MeSHPenicilliumchrysogenu MeSHRNA MeSHMessenge

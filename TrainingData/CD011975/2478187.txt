@@ -1,0 +1,3 @@
+Factors influencing the uptake of screening for open neural-tube defects and amniocentesis to test for Down's syndrome.
+?
+['Amniocentesis/*psychology', 'Down Syndrome/*prevention & control', 'Female', 'Humans', 'Mass Screening', 'Neural Tube Defects/*prevention & control', '*Patient Acceptance of Health Care', 'Pregnancy', 'alpha-Fetoproteins/*analysis']

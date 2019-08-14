@@ -1,0 +1,3 @@
+[Emission computed tomography in pulmonology].
+?
+['Adult', 'Aged', 'Bronchitis/diagnostic imaging', 'Humans', 'Lung/*diagnostic imaging', 'Lung Diseases/*diagnostic imaging', 'Lung Neoplasms/diagnostic imaging', 'Middle Aged', 'Pneumonia/diagnostic imaging', 'Pulmonary Embolism/diagnostic imaging', 'Tomography, Emission-Computed/*methods']

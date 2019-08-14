@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHFine-Needle MeSHBronchoscop MeSHCarcinoma MeSHNon-Small-CellLun MeSHCombinedModalityTherapy MeSHFollow-UpStudies MeSHHumans MeSHLungNeoplasm MeSHLymphaticDisease MeSHMale MeSHMiddleAged MeSHPancoastSyndrom MeSHPositron-EmissionTomography MeSHSarcoidosi MeSHSmokin MeSHTomography MeSHX-RayComputed

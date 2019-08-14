@@ -1,0 +1,3 @@
+Accuracy of expected risk of Down syndrome using the second-trimester triple test.
+?
+['Chorionic Gonadotropin/blood', 'Down Syndrome/*blood/*diagnosis/epidemiology', 'Estriol/blood', 'Female', '*Gestational Age', 'Humans', 'Pregnancy', 'Pregnancy Trimester, Second', 'Risk Factors', 'alpha-Fetoproteins/analysis']

@@ -1,0 +1,3 @@
+[Value of angiographic studies for planning and progress control of telecobalttherapy].
+?
+['Adult', 'Angiography', 'Bronchial Neoplasms/*radiotherapy', 'Cobalt Isotopes/*therapeutic use', 'Female', 'Humans', 'Male', 'Middle Aged', 'Ovarian Neoplasms/*radiotherapy', 'Phlebography', 'Radiography, Thoracic', '*Radioisotope Teletherapy', 'Tomography', 'Uterine Cervical Neoplasms/*radiotherapy']

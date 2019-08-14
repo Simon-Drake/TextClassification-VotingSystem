@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHFine-Needle MeSHBronchoscopy MeSHCarcinoma MeSHNon-Small-CellLun MeSHEndosonography MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHLymphNode MeSHLymphaticMetastasis MeSHMale MeSHMiddleAged MeSHNeoplasmStaging MeSHPositron-EmissionTomography MeSHPrognosis MeSHProspectiveStudies MeSHSensitivityandSpecificity MeSHTomography MeSHX-RayComputed

@@ -1,0 +1,3 @@
+[Prenatal diagnosis from the viewpoint of human genetics].
+?
+['Amniocentesis', 'Down Syndrome/genetics', 'Female', '*Genetic Counseling', 'Genetics, Medical', 'Humans', 'Karyotyping', 'Maternal Age', 'Metabolism, Inborn Errors/diagnosis', 'Pregnancy', '*Prenatal Diagnosis', 'Sex Determination Analysis']

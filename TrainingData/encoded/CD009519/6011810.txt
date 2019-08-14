@@ -1,0 +1,1 @@
+MeSHAged MeSHBronchialNeoplasm MeSHCarcinoma MeSHBasalCel MeSHCarcinoma MeSHSquamousCel MeSHColor MeSHDiagnosis MeSHDifferential MeSHHumans MeSHMale MeSHMiddleAged MeSHRadiography MeSHRadionuclideImaging MeSHSerumAlbumin MeSHRadio-Iodinated MeSHTomography

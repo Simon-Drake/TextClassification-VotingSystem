@@ -1,0 +1,1 @@
+MeSHAgeFactors MeSHBodyMassIndex MeSHEmbryoImplantation MeSHEndometriosis MeSHEndometrium MeSHFallopianTubeDiseases MeSHFemale MeSHFertilityAgents MeSHFemale MeSHHumans MeSHOocyteDonation MeSHPregnancy MeSHPregnancyOutcome MeSHSmoking

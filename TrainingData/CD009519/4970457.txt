@@ -1,0 +1,3 @@
+[The rapid measurement of the growth of tumors by a new method: pulmonary microdensitometry].
+?
+['*Densitometry', 'Humans', 'Lung Neoplasms/*diagnosis/diagnostic imaging', 'Methods', 'Radiography', 'Tomography']

@@ -1,0 +1,1 @@
+MeSHAscomycota MeSHBaseSequence MeSHBlotting MeSHWestern MeSHDNAPrimers MeSHFungalProteins MeSHGreenFluorescentProteins MeSHLuminescentProteins MeSHMicroscopy MeSHConfocal MeSHPerylene MeSHRecombinantFusionProteins MeSHTransformation MeSHGenetic

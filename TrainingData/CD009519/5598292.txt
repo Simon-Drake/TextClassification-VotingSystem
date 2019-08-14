@@ -1,0 +1,3 @@
+Carcinoma of the lung. A retrospective study with special reference to pre-diagnosis period and roentgenographic signs.
+?
+['Adenocarcinoma/*diagnosis', 'Age Factors', 'Aged', 'Bronchoscopy', 'Carcinoma/*diagnosis', 'Carcinoma, Squamous Cell/*diagnosis', 'Endoscopy', 'Female', 'Finland', 'Humans', 'Lung Neoplasms/*diagnosis/*diagnostic imaging/epidemiology/etiology', 'Male', 'Mass Chest X-Ray', 'Mediastinum', 'Middle Aged', 'Retrospective Studies', 'Sex Factors', 'Smoking', 'Time Factors', 'Tomography']

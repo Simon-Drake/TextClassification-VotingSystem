@@ -1,0 +1,3 @@
+[INFLAMMATORY PSEUDO-TUMORS OF THE LUNG (APROPOS OF 3 ANATOMO-CLINICAL CASES)].
+?
+['Adolescent', '*Diagnosis, Differential', '*Fibroma', '*Giant Cell Tumors', '*Hemangioma', '*Histiocytoma, Benign Fibrous', 'Humans', '*Inflammation', '*Lung Diseases', '*Multiple Myeloma', '*Neoplasms', '*Pathology', '*Radiography, Thoracic', '*Tomography', '*Xanthomatosis']

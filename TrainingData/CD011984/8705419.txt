@@ -1,0 +1,3 @@
+First-trimester ultrasound screening for chromosomal defects.
+?
+['Adult', 'Chromosome Aberrations/*diagnostic imaging', 'Chromosome Disorders', 'Congenital Abnormalities/diagnostic imaging', 'Down Syndrome/diagnostic imaging', 'Edema/diagnostic imaging', 'Female', 'Fetal Diseases/*diagnostic imaging', 'Humans', 'Neck/diagnostic imaging/embryology', 'Pregnancy', 'Pregnancy Trimester, First', '*Pregnancy, High-Risk', 'Turner Syndrome/diagnostic imaging', '*Ultrasonography, Prenatal']

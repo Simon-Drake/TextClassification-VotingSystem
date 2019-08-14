@@ -1,0 +1,3 @@
+Indications for positron emission tomography and bone gammagraphy in staging lung cancer.
+?
+['Humans', 'Lung Neoplasms/*pathology']

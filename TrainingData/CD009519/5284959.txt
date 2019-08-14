@@ -1,0 +1,3 @@
+[The value of general radiographic examinations in the diagnosis of bronchial neoplasms].
+?
+['Aged', 'Angiography', 'Biopsy', 'Bronchial Arteries/diagnostic imaging', 'Bronchial Neoplasms/diagnosis/*diagnostic imaging', 'Bronchoscopy', 'Carcinoma/diagnosis/diagnostic imaging', 'Diagnosis, Differential', 'Electrokymography', 'Humans', 'Male', 'Middle Aged', 'Radionuclide Imaging', 'Sputum/cytology', 'Tomography']

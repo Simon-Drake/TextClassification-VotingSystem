@@ -1,0 +1,1 @@
+MeSHDentalCar MeSHDose-ResponseRelationship MeSHRadiation MeSHHeadandNeckNeoplasm MeSHHumans MeSHMouthDisease MeSHMouthMucos MeSHNeoplasms MeSHRadiation-Induce MeSHOralHygien MeSHPatientEducationasTopic MeSHRadiotherapy MeSHRiskFactors MeSHTimeFactors MeSHToothDisease MeSHTreatmentOutcome

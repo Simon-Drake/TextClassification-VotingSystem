@@ -1,0 +1,3 @@
+[The surgical management of bronchial adenoma].
+?
+['Aged', 'Berlin', 'Bronchial Neoplasms/diagnostic imaging/*surgery', 'Bronchography', 'Carcinoma, Adenoid Cystic/diagnostic imaging/*surgery', 'Female', 'Humans', 'Male', 'Middle Aged', 'Pneumonectomy', 'Radiography, Thoracic', 'Retrospective Studies', 'Tomography']

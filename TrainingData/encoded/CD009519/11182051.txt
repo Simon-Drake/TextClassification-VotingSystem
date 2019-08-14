@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHCarcinoma MeSHNon-Small-CellLun MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHLymphaticMetastasis MeSHMale MeSHNeoplasmStagin MeSHRadiopharmaceutical MeSHReproducibilityofResults MeSHRetrospectiveStudies MeSHTomography MeSHEmission-Computed MeSHTomography MeSHX-RayComputed

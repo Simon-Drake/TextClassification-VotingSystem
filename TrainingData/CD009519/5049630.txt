@@ -1,0 +1,3 @@
+[Chronic pneumonia. (Contribution to its diagnosis and therapy)].
+?
+['Adult', 'Bronchial Neoplasms/diagnosis/diagnostic imaging', 'Chronic Disease', 'Diagnosis, Differential', 'Female', 'Humans', 'Male', 'Middle Aged', 'Pneumonectomy', '*Pneumonia/diagnosis/diagnostic imaging/surgery/therapy', 'Radiography', 'Tomography']

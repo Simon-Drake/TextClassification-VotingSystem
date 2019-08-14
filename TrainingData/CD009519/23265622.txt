@@ -1,0 +1,3 @@
+Deciduoid pleural mesothelioma in an adolescent.
+?
+['Adolescent', 'Antineoplastic Combined Chemotherapy Protocols/therapeutic use', 'Biomarkers, Tumor/analysis', 'Biopsy, Fine-Needle', 'Cisplatin/administration & dosage', 'Cough/etiology', 'Disease Management', 'Glutamates/administration & dosage', 'Guanine/administration & dosage/analogs & derivatives', 'Humans', 'Lung Neoplasms/chemistry/*diagnosis/drug therapy/pathology', 'Magnetic Resonance Imaging', 'Male', 'Mesothelioma/chemistry/*diagnosis/drug therapy/pathology', 'Pemetrexed', 'Pleural Neoplasms/chemistry/*diagnosis/drug therapy/pathology', 'Positron-Emission Tomography', 'Prognosis', 'Pulmonary Atelectasis/etiology', 'Tomography, X-Ray Computed']

@@ -1,0 +1,1 @@
+MeSHAntineoplasticAgent MeSHBiopsy MeSHNeedle MeSHCisplati MeSHDiagnosis MeSHDifferential MeSHDoxorubici MeSHFatalOutcome MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHMuscleNeoplasm MeSHOsteosarcom MeSHPositron-EmissionTomography MeSHPulmonaryArtery MeSHTomography MeSHX-RayComputed MeSHVascularNeoplasm

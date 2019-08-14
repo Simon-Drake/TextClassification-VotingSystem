@@ -1,0 +1,3 @@
+[Organ preserving surgery in bronchial carcinoma].
+?
+['Bronchi/surgery', 'Bronchial Neoplasms/*surgery', 'Carcinoma/*surgery', 'Functional Laterality', 'Humans', 'Male', 'Methods', 'Middle Aged', 'Pneumonectomy', 'Postoperative Complications', 'Prognosis', 'Pulmonary Artery/surgery', 'Radiography, Thoracic', 'Suture Techniques', 'Tomography', 'Wound Healing']

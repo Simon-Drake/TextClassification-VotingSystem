@@ -1,0 +1,3 @@
+Rotational tomography of hilar and mediastinal masses including vascular abnormalities.
+?
+['Aortic Aneurysm/diagnostic imaging', 'Aortic Arch Syndromes/diagnostic imaging', 'Aortic Coarctation/diagnostic imaging', 'Aortic Diseases/*diagnostic imaging', 'Bronchial Neoplasms/*diagnostic imaging', 'Bronchography', 'Carcinoma/diagnostic imaging', 'Hematoma/diagnostic imaging', 'Humans', 'Mediastinal Neoplasms/diagnostic imaging', 'Mediastinum/*diagnostic imaging', 'Methods', 'Paraganglioma, Extra-Adrenal/diagnostic imaging', 'Thymoma/diagnostic imaging', '*Tomography', 'Trachea/diagnostic imaging']

@@ -1,0 +1,1 @@
+MeSHDiagnosis MeSHDifferential MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHRadiopharmaceuticals MeSHSensitivityandSpecificity MeSHTomography MeSHEmission-Computed MeSHTomography MeSHX-RayComputed

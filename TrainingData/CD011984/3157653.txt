@@ -1,0 +1,3 @@
+The epidemiology of chronic disability in childhood.
+The problems and limitations of epidemiological studies of chronic disability are discussed. Several specific disorders are reviewed with regard to the information available and the reflection of various factors upon epidemiological trends.
+['Adolescent', 'Blindness/epidemiology', 'Cerebral Palsy/epidemiology/prevention & control', 'Child', 'Child, Preschool', 'Cross-Sectional Studies', 'Deafness/epidemiology', '*Disabled Persons', 'Down Syndrome/epidemiology/prevention & control', 'Education, Special', 'Epilepsy/epidemiology', 'Female', 'Humans', 'Infant', 'Infant, Newborn', 'Intellectual Disability/epidemiology', 'Male', 'Neural Tube Defects/epidemiology/prevention & control', 'Pregnancy', 'United Kingdom']

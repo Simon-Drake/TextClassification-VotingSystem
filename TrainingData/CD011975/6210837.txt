@@ -1,0 +1,3 @@
+[Congenital handicaps - an unavoidable misfortune?].
+?
+['Abnormalities, Drug-Induced/etiology', 'Child', 'Child, Preschool', 'Congenital Abnormalities/pathology/*prevention & control', 'Down Syndrome/diagnosis', 'Ethanol/adverse effects', 'Female', 'Hemiplegia/diagnosis', 'Humans', 'Infant', 'Male', 'Metabolism, Inborn Errors/diagnosis', 'Nicotine/adverse effects', 'Pregnancy', 'Prenatal Diagnosis', 'Tomography, X-Ray Computed', 'Trisomy']

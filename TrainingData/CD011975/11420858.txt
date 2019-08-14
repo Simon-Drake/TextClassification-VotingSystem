@@ -1,0 +1,3 @@
+[The ultrasound markers of the aneuploid fetus in the first and second trimesters of pregnancy].
+?
+['*Aneuploidy', 'Chromosome Aberrations/*diagnostic imaging/*embryology', 'Chromosome Disorders', 'Chromosomes, Human, Pair 13', 'Chromosomes, Human, Pair 18', 'Down Syndrome/diagnostic imaging/embryology', 'Female', 'Humans', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy Trimester, Second', '*Trisomy', 'Turner Syndrome/diagnostic imaging/embryology', '*Ultrasonography, Prenatal']

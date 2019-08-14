@@ -1,0 +1,3 @@
+Interpretation of screening test results: scenario does not reflect day to day practice.
+?
+['Data Interpretation, Statistical', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Pregnancy', 'Prenatal Diagnosis/*standards', 'Professional Practice']

@@ -1,0 +1,3 @@
+Denmark halves Down's births by non-invasive screening in early pregnancy.
+?
+['Denmark/epidemiology', 'Down Syndrome/epidemiology/*prevention & control', 'Early Diagnosis', 'Female', 'Humans', 'Pregnancy', 'Prenatal Diagnosis/*methods']

@@ -1,0 +1,1 @@
+MeSHAdult MeSHAlcoholDrinkin MeSHBiopsy MeSHCarcinom MeSHCarcinomainSit MeSHCarcinoma MeSHSquamousCel MeSHFemale MeSHHumans MeSHLeukoplakia MeSHOra MeSHMale MeSHMouthNeoplasm MeSHOropharyngealNeoplasm MeSHPalatalNeoplasm MeSHRiskFactors MeSHSmokin MeSHStainingandLabelin MeSHTimeFactors

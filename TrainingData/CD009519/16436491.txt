@@ -1,0 +1,3 @@
+Bronchogenic carcinoma associated with rheumatoid arthritis: role of FDG-PET scans.
+?
+['Adult', 'Carcinoma, Bronchogenic/*diagnostic imaging', 'Diagnosis, Differential', 'Female', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', 'Radiopharmaceuticals', 'Rheumatoid Nodule/*diagnosis', 'Tomography, Emission-Computed']

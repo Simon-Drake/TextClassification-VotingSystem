@@ -1,0 +1,3 @@
+First-trimester nuchal translucency and maternal serum biochemical screening for Down's syndrome: a happy union?
+?
+['Chorionic Gonadotropin, beta Subunit, Human/*blood', 'Down Syndrome/blood/*diagnosis', 'Female', 'Fetal Monitoring/*methods', 'Gestational Age', 'Humans', 'Mass Screening/methods', 'Neck/*diagnostic imaging', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy-Associated Plasma Protein-A/*analysis', 'Reproducibility of Results', 'Retrospective Studies', 'Sensitivity and Specificity', '*Ultrasonography, Prenatal']

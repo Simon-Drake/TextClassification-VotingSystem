@@ -1,0 +1,1 @@
+MeSHAnimals MeSHCarcinoma MeSHBronchogeni MeSHDiagnosis MeSHDifferential MeSHFemale MeSHHumans MeSHLungDisease MeSHLungNeoplasm MeSHMale MeSHPulmonaryFibrosi MeSHSolitaryPulmonaryNodul MeSHThoracicDisease MeSHThoracicNeoplasm MeSHTomography MeSHEmission-Computed

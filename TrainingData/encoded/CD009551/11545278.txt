@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAnimals MeSHAspergillusnidulan MeSHAspergillusoryza MeSHBaseSequence MeSHChromosomeMapping MeSHCloning MeSHMolecular MeSHDNA MeSHFunga MeSHGenes MeSHFungal MeSHGlutaminas MeSHHumans MeSHMolecularSequenceData MeSHSequenceHomology MeSHAminoAcid MeSHTransformation MeSHGenetic

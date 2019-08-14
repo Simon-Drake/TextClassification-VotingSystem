@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHNon-Small-CellLun MeSHFluorodeoxyglucoseF1 MeSHHumans MeSHLungNeoplasm MeSHNeoplasmStaging MeSHPositron-EmissionTomograph MeSHPrognosis MeSHRadiopharmaceutical MeSHSurvivalRate MeSHTissueDistribution MeSHTreatmentOutcome

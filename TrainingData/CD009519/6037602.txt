@@ -1,0 +1,3 @@
+Experience with the cytologic detection, localization, and treatment of radiographically undemonstrable bronchial carcinoma.
+?
+['Adenocarcinoma/pathology', 'Adenoma/pathology', 'Asthma/pathology', 'Bronchial Neoplasms/*pathology', 'Bronchitis', 'Bronchography', 'Bronchoscopy', 'Carcinoma/pathology', 'Carcinoma, Squamous Cell/pathology', 'Hamartoma/pathology', 'Hemoptysis/pathology', 'Humans', 'Lipoma/pathology', 'Mesothelioma/pathology', 'Pneumonia/pathology', 'Sputum/*analysis', 'Tomography']

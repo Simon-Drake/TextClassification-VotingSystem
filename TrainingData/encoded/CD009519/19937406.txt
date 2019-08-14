@@ -1,0 +1,1 @@
+MeSHAged MeSHBiopsy MeSHFine-Needle MeSHDiagnosis MeSHDifferential MeSHFemale MeSHFibrosis MeSHFluorodeoxyglucoseF18 MeSHFollow-UpStudies MeSHHumans MeSHLun MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPositron-EmissionTomography MeSHRadiography MeSHThoracic MeSHRetrospectiveStudies MeSHTomography MeSHX-RayComputed

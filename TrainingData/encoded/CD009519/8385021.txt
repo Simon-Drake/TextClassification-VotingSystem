@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdult MeSHAged MeSHCarcinoma MeSHSmallCel MeSHCarcinoma MeSHSquamousCel MeSHFemale MeSHHumans MeSHLun MeSHLungDisease MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHSensitivityandSpecificity MeSHTechnetiumTc99mSestamibi MeSHTomography MeSHEmission-Computed MeSHSingle-Photon

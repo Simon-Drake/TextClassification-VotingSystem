@@ -1,0 +1,3 @@
+Medicine. A bruising battle over lung scans.
+?
+['Adult', 'Clinical Trials as Topic/*economics', 'Cost-Benefit Analysis', 'Early Diagnosis', 'Humans', 'Lung Neoplasms/*diagnosis/economics/therapy', '*Mass Screening/economics', 'National Cancer Institute (U.S.)', 'Randomized Controlled Trials as Topic', 'Smoking', 'Tomography, Spiral Computed/*economics', 'United States']

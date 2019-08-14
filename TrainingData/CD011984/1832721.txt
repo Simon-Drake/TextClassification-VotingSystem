@@ -1,0 +1,3 @@
+Prenatal sonographic detection of simian crease at 15 weeks gestation.
+?
+['Amniocentesis', 'Down Syndrome/*diagnostic imaging', 'Female', 'Hand/*diagnostic imaging', 'Humans', 'Pregnancy', '*Prenatal Diagnosis', 'Ultrasonography']

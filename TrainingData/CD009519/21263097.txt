@@ -1,0 +1,3 @@
+Seizures and radionecrosis from non-small-cell lung cancer presenting as increased fluorodeoxyglucose uptake on positron emission tomography.
+?
+['Anticonvulsants/therapeutic use', 'Brain Injuries/*diagnostic imaging/drug therapy/etiology', 'Brain Neoplasms/*radiotherapy/secondary', 'Carcinoma, Non-Small-Cell Lung/*radiotherapy/secondary', 'Cranial Irradiation/*adverse effects', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*pathology', 'Magnetic Resonance Imaging', 'Male', 'Middle Aged', '*Positron-Emission Tomography', 'Predictive Value of Tests', 'Radiation Injuries/*diagnostic imaging/drug therapy/etiology', '*Radiopharmaceuticals', 'Seizures/*diagnostic imaging/drug therapy/etiology']

@@ -1,0 +1,3 @@
+[Pulmonary cancer with cavity].
+?
+['Adult', 'Carcinoma, Squamous Cell/*diagnostic imaging', 'Diagnosis, Differential', 'Female', 'Humans', 'Lung Diseases/diagnostic imaging', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', 'Radiography', 'Tomography', 'Tuberculosis, Pulmonary/diagnostic imaging']

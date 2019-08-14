@@ -1,0 +1,3 @@
+Imatinib mesylate inhibits the growth of metastatic lung lesions in a patient with dermatofibrosarcoma protuberans.
+?
+['Antineoplastic Agents/*therapeutic use', 'Benzamides', 'Dermatofibrosarcoma/diagnosis/*drug therapy', 'Humans', 'Imatinib Mesylate', 'Lumbosacral Region', 'Lung Neoplasms/diagnosis/*drug therapy/*secondary', 'Male', 'Middle Aged', 'Piperazines/*therapeutic use', 'Pyrimidines/*therapeutic use', 'Skin Neoplasms/diagnosis/*drug therapy', 'Tomography, Emission-Computed', 'Tomography, X-Ray Computed']

@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHCost-BenefitAnalysis MeSHDiagnosis MeSHDifferential MeSHEndometrialNeoplasms MeSHEndometrium MeSHFemale MeSHHumans MeSHProspectiveStudies MeSHSensitivityandSpecificity MeSHSpecimenHandling

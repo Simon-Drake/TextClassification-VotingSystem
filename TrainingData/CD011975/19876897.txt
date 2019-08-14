@@ -1,0 +1,3 @@
+Mild clinical presentation in a child with prenatally diagnosed 45,X/47,XX,+18 mosaicism.
+?
+['Adult', 'Amniotic Fluid/cytology', 'Chromosomes, Human/*genetics', 'Female', 'Humans', 'In Situ Hybridization, Fluorescence', 'Infant', 'Infant, Newborn', 'Male', 'Meiosis', 'Microsatellite Repeats/genetics', 'Mitosis', '*Mosaicism', 'Parents', 'Pregnancy', '*Prenatal Diagnosis', 'Trisomy/*diagnosis/*genetics', 'Ultrasonography, Prenatal']

@@ -1,0 +1,1 @@
+MeSHAttitudeofHealthPersonnel MeSHDataCollection MeSHHumans MeSHLungNeoplasm MeSHMedicine MeSH"PracticePatterns MeSHPhysicians" MeSHPulmonaryMedicine MeSHSpecialization MeSHThoracicSurgery MeSHTomography MeSHEmission-Compute

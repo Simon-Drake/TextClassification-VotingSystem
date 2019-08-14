@@ -1,0 +1,1 @@
+MeSHBronchialNeoplasm MeSHEsophagealNeoplasm MeSHHumans MeSHKidneyNeoplasm MeSHMale MeSHMiddleAged MeSHNeoplasms MeSHMultiplePrimar MeSHOropharyngealNeoplasm MeSHTomography MeSHEmission-Computed MeSHTomography MeSHX-RayComputed

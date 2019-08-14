@@ -1,0 +1,1 @@
+MeSHColoringAgents MeSHCytologicalTechniques MeSHFluorescence MeSHHumans MeSHMassScreenin MeSHMouthNeoplasm MeSHPrecancerousCondition MeSHSpectrophotometr MeSHToloniumChloride

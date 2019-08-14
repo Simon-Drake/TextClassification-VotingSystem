@@ -1,0 +1,3 @@
+Fetal cervico-mediastinal cystic hygroma associated with maternal serum screening positive for Down syndrome.
+?
+['Adult', 'Down Syndrome/*blood', 'Female', 'Humans', 'Lymphangioma, Cystic/*diagnosis', '*Mediastinum', '*Neck', 'Pregnancy', '*Prenatal Diagnosis', 'Ultrasonography, Prenatal']

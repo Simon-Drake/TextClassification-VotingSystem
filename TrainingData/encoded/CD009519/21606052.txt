@@ -1,0 +1,1 @@
+MeSHAdrenalGlandNeoplasm MeSHBiopsy MeSHNeedle MeSHDiagnosis MeSHDifferential MeSHFollow-UpStudies MeSHGranuloma MeSHPlasmaCel MeSHHumans MeSHLungNeoplasm MeSHMagneticResonanceImaging MeSHMale MeSHMiddleAged MeSHNeoplasmMetastasis MeSHPneumonectom MeSHPositron-EmissionTomography MeSHThoracicSurgery MeSHVideo-Assiste MeSHTomography MeSHX-RayComputed

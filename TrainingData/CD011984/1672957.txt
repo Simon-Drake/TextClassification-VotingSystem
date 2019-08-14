@@ -1,0 +1,3 @@
+Short-term culture and false-negative results for Down's syndrome on chorionic villus sampling.
+?
+['Adult', 'Cells, Cultured', 'Chorionic Villi Sampling/*standards', 'Down Syndrome/*genetics', 'False Negative Reactions', 'Female', 'Humans', 'Male', 'Mosaicism', 'Pregnancy', 'Time Factors']

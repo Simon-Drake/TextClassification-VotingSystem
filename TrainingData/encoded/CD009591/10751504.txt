@@ -1,0 +1,1 @@
+MeSHAdnexalDiseases MeSHDiagnosis MeSHDifferential MeSHEndometriosis MeSHFemale MeSHHumans MeSHLogisticModels MeSHProspectiveStudies MeSHRetrospectiveStudies MeSHUltrasonography MeSHDoppler MeSHColor

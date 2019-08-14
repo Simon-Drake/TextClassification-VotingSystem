@@ -1,0 +1,3 @@
+Caveat emptor: the treachery of work-up bias.
+?
+['Adenocarcinoma/*diagnostic imaging/*pathology', 'Data Interpretation, Statistical', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/*pathology', 'Neoplasm Staging', 'Observer Variation', 'Predictive Value of Tests', '*Radiopharmaceuticals', '*Tomography, Emission-Computed']

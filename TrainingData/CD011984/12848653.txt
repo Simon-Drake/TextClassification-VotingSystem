@@ -1,0 +1,3 @@
+Prenatal diagnosis of fetal hydrops associated with Down's syndrome in a 40-year-old woman with a mosaic Turner's karyotype (45,X/47,XXX).
+?
+['Adult', 'Down Syndrome/*diagnostic imaging/*genetics', 'Female', 'Humans', 'Hydrops Fetalis/*diagnostic imaging/*genetics', 'Mosaicism/*genetics', 'Pregnancy', 'Turner Syndrome/*genetics', '*Ultrasonography, Prenatal']

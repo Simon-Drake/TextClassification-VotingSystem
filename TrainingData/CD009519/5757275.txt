@@ -1,0 +1,3 @@
+[Pulmonary giant cell carcinoma].
+?
+['*Carcinoma', 'Humans', '*Lung Neoplasms', '*Neoplasm Metastasis', 'Radiography, Thoracic', 'Sputum/cytology', 'Tomography']

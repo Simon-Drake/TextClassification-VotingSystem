@@ -1,0 +1,3 @@
+Effect of building construction on Aspergillus concentrations in a hospital.
+Air samples taken in a hospital undergoing construction and analyzed with a quantitative polymerase chain reaction (qPCR) assay for the Aspergillus genus did not show elevated concentrations of Aspergillus or particulate matter with a diameter of 5 microm or less in patient areas. Air samples from the construction zone indicated the containment system, which used polyethylene film barrier and negative pressure, was effective.
+['*Air Microbiology', 'Air Pollution/analysis', 'Aspergillus/*isolation & purification', 'Environment, Controlled', '*Hospital Design and Construction', 'Infection Control/methods', 'Particulate Matter/*analysis', 'Polyethylene']

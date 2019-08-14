@@ -1,0 +1,3 @@
+Uptake of depreotide in a patient with lung cancer and bone metastases.
+?
+['Bone Neoplasms/*diagnostic imaging/*metabolism/secondary', 'Humans', 'Lung Neoplasms/diagnostic imaging/*metabolism', 'Organotechnetium Compounds/*pharmacokinetics', 'Radionuclide Imaging', 'Radiopharmaceuticals/pharmacokinetics', 'Solitary Pulmonary Nodule/*diagnostic imaging/*metabolism', 'Somatostatin/*analogs & derivatives/*pharmacokinetics', 'Technetium Tc 99m Medronate/*analogs & derivatives/pharmacokinetics', 'Whole-Body Counting/methods']

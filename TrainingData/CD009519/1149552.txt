@@ -1,0 +1,3 @@
+Asymptomatic right chest mass in an elderly woman.
+?
+['Aged', 'Diagnosis, Differential', 'Female', 'Hernia, Diaphragmatic/diagnostic imaging', 'Humans', 'Kidney/*abnormalities', 'Lung Neoplasms/diagnostic imaging', 'Radiography, Thoracic', 'Tomography']

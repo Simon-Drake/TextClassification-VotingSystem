@@ -1,0 +1,3 @@
+Rapid prenatal diagnosis by AmnioPCR and AmnioFISH: routine testing for Down's syndrome (trisomy 21) and sex chromosome trisomies, but targeted testing for Edward's (trisomy 18) and Patau's syndromes (trisomy 13).
+?
+['*Chromosomes, Human, Pair 13', '*Chromosomes, Human, Pair 18', 'Down Syndrome/*diagnosis', 'Humans', '*In Situ Hybridization, Fluorescence', 'Polymerase Chain Reaction', '*Prenatal Diagnosis', 'Sex Chromosome Disorders/*diagnosis', 'Trisomy/*diagnosis', 'Ultrasonography, Prenatal']

@@ -1,0 +1,3 @@
+[Diagnosis of bronchial carcinomas. Bronchiologic methods with regard to the localization].
+?
+['Biopsy', 'Bronchial Neoplasms/*diagnosis/diagnostic imaging/pathology/surgery', 'Bronchoscopy', 'Carcinoma/diagnosis/diagnostic imaging/pathology/surgery', 'Catheterization', 'Humans', 'Malpractice', 'Pancoast Syndrome/*diagnosis/diagnostic imaging/pathology/surgery', 'Prognosis', 'Radiography', 'Sputum/cytology', 'Time Factors', 'Tomography']

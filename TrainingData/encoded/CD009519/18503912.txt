@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHHepatocellula MeSHCatheterAblatio MeSHHumans MeSHLiverNeoplasm MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHOsteonecrosi MeSHRadiography MeSHInterventional MeSHRib MeSHThoracotomy MeSHTomography MeSHX-RayComputed

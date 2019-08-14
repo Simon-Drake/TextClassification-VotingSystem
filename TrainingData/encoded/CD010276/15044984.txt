@@ -1,0 +1,1 @@
+MeSHBiops MeSHDiagnosis MeSHOra MeSHHumans MeSHLichenPlanu MeSHMouthMucos MeSHMouthNeoplasm MeSHPeriapicalDisease MeSHSalivaryGlandNeoplasm MeSHSpecimenHandling

@@ -1,0 +1,3 @@
+[Symposium III computer-aided diagnosis: benefits and challenges in diagnostic radiology. 5. The computer-aided diagnosis (CAD) system for the localized pulmonary nodules on the lung cancer screening using low-dose spiral CT (LDCT)].
+?
+['Diagnosis, Computer-Assisted/*methods/trends', 'Forecasting', 'Humans', 'Japan', 'Lung Neoplasms/*diagnostic imaging/prevention & control', 'Mass Screening/*methods', 'Tomography, Spiral Computed/*methods/trends']

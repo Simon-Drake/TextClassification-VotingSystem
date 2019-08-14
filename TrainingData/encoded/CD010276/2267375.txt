@@ -1,0 +1,1 @@
+MeSHHumans MeSHMouthFloor MeSHMouthNeoplasm MeSHNeoplasmStaging MeSHOropharyngealNeoplasm MeSHTomography MeSHX-RayComputed MeSHTongueNeoplasm

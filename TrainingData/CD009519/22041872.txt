@@ -1,0 +1,3 @@
+Performance of fluorodeoxyglucose-positron-emission tomography/computed tomography for evaluating tumor response to nonsurgical treatment.
+?
+['Adenocarcinoma/*diagnostic imaging/secondary/therapy', '*Fluorine Radioisotopes', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/pathology/therapy', 'Lymph Nodes/diagnostic imaging', 'Lymphatic Metastasis', '*Multimodal Imaging', '*Positron-Emission Tomography', '*Radiopharmaceuticals', '*Tomography, X-Ray Computed']

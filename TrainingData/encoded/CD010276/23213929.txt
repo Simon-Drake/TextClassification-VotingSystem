@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHFine-Needl MeSHFollow-UpStudies MeSHHeadandNeckNeoplasm MeSHHumans MeSHLymphaticMetastasi MeSHMouthNeoplasm MeSHNeoplasmRecurrence MeSHLoca MeSHPharyngealNeoplasm MeSHPhysicalExaminatio MeSHPostoperativeComplication MeSHUltrasonography

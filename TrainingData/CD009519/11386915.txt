@@ -1,0 +1,3 @@
+Positron emission tomography to evaluate lung lesions.
+?
+['Humans', 'Lung Neoplasms/*diagnostic imaging', 'Sensitivity and Specificity', '*Tomography, Emission-Computed']

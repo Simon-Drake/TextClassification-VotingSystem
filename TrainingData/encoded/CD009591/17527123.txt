@@ -1,0 +1,1 @@
+MeSHCough MeSHDiagnosis MeSHDifferential MeSHEndometriosis MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHemoptysis MeSHHumans MeSHLung MeSHLungNeoplasms MeSHMiddleAged MeSHPositron-EmissionTomography MeSHRadiopharmaceuticals MeSHRareDiseases MeSHTomography MeSHX-RayComputed

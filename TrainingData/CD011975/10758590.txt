@@ -1,0 +1,3 @@
+[Screening for fetal chromosomal anomalies--recent aspects].
+?
+['Chromosome Aberrations/*diagnosis/*genetics', 'Chromosome Deletion', 'Chromosome Disorders', 'Down Syndrome/diagnosis/genetics', 'Genetic Testing/*methods', 'Humans', 'Mosaicism/diagnosis/genetics', 'Prenatal Diagnosis/*methods', 'Risk Factors']

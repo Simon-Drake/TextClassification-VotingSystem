@@ -1,0 +1,3 @@
+[Current status of radiological examination of the bronchial tree].
+?
+['*Acetates', 'Bronchial Diseases/*diagnostic imaging', 'Bronchial Neoplasms/diagnostic imaging', 'Bronchography', '*Contrast Media', 'Diagnosis, Differential', 'Humans', '*Iodopyridones', 'Lung Diseases/*diagnostic imaging', 'Lung Neoplasms/diagnostic imaging', 'Tomography']

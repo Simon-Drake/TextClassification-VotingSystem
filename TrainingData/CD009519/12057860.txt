@@ -1,0 +1,3 @@
+FDG-PET imaging in small cell lung cancer: any value?
+?
+['Carcinoma, Non-Small-Cell Lung/*diagnostic imaging/pathology/radiotherapy', 'Clinical Trials as Topic', '*Fluorodeoxyglucose F18', 'Lung Neoplasms/*diagnostic imaging/pathology', '*Neoplasm Staging', 'Patient Care Planning', 'Patient Selection', 'Prognosis', '*Radiopharmaceuticals', '*Tomography, Emission-Computed']

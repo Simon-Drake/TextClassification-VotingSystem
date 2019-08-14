@@ -1,0 +1,1 @@
+MeSHBloodGlucos MeSHCarcinoma MeSHNon-Small-CellLun MeSHFluorodeoxyglucoseF1 MeSHHumans MeSHLungNeoplasm MeSHLymphNode MeSHLymphaticMetastasis MeSHPositron-EmissionTomography MeSHPrognosis MeSHRadiopharmaceutical

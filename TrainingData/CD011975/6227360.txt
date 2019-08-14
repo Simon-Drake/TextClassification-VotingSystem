@@ -1,0 +1,3 @@
+Prenatal chromosome analysis and its impact on the birth incidence of chromosome disorders.
+?
+['Adult', 'Aneuploidy', 'Chromosome Aberrations/*diagnosis/genetics', 'Chromosome Disorders', 'Down Syndrome/diagnosis', 'Female', 'Fetus', 'Fragile X Syndrome/diagnosis', 'Humans', 'Karyotyping', 'Male', 'Maternal Age', 'Middle Aged', 'Paternal Age', 'Pregnancy', 'Pregnancy, High-Risk', '*Prenatal Diagnosis', 'Recurrence', 'Risk', 'Sex Determination Analysis']

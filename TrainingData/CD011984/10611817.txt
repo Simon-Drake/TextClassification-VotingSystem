@@ -1,0 +1,3 @@
+[Epidemiologic and genetic study of trisomy 21 in Tunisia].
+?
+['Adult', 'Developmental Disabilities/epidemiology/etiology', 'Down Syndrome/*epidemiology/*genetics', 'Female', 'Humans', 'Incidence', 'Infant, Newborn', 'Male', 'Maternal Age', 'Pregnancy', 'Prenatal Diagnosis', 'Risk Factors', 'Tunisia/epidemiology']

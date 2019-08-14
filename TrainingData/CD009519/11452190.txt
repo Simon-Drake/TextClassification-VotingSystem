@@ -1,0 +1,3 @@
+Detection of choriocarcinoma in the lung by FDG positron emission tomography.
+?
+['Adult', 'Choriocarcinoma/*diagnostic imaging', 'Female', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging', '*Radiopharmaceuticals', 'Sensitivity and Specificity', 'Tomography, Emission-Computed/*methods']

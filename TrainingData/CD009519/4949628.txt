@@ -1,0 +1,3 @@
+[Roentgen diagnosis of primary pulmonary sarcoma].
+?
+['Diagnosis, Differential', 'Female', 'Fibrosarcoma/diagnostic imaging', 'Hemangioendothelioma/diagnostic imaging', 'Hemangiosarcoma/diagnostic imaging', 'Humans', 'Leiomyosarcoma/diagnostic imaging', 'Lung Neoplasms/*diagnostic imaging', 'Lymphoma, Large B-Cell, Diffuse/diagnostic imaging', 'Male', 'Middle Aged', 'Neurofibroma/diagnostic imaging', 'Radiography', 'Sarcoma/*diagnostic imaging', 'Tomography']

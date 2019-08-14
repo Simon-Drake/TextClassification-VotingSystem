@@ -1,0 +1,3 @@
+Lymph node involvement in T1 non-small-cell lung cancer: do not miss radical lymphadenectomy.
+?
+['Carcinoma, Non-Small-Cell Lung/*pathology', 'Female', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*pathology', 'Male', '*Radiopharmaceuticals']

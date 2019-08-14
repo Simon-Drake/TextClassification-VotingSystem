@@ -1,0 +1,3 @@
+Tracheobronchial mucoid pseudotumors.
+A collection of mucus, indistinguishable from tumor, can be shown in the tracheobronchial tree, particularly during tomography. These "mucoid pseudotumors" may be distinguished from true tumors by documenting their disappearance after having the patient cough.
+['Aged', 'Bronchial Diseases/*diagnostic imaging', 'Bronchography', 'Bronchoscopy', 'Cough/physiopathology', 'Diagnosis, Differential', 'Female', 'Humans', 'Lung Diseases/diagnosis', 'Lung Neoplasms/diagnosis', 'Male', 'Middle Aged', '*Mucus/physiology', 'Tomography', 'Trachea/diagnostic imaging', 'Tracheal Diseases/*diagnostic imaging']

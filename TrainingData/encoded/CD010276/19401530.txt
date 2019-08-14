@@ -1,0 +1,1 @@
+MeSHAlgorithms MeSHDiagnosticImagin MeSHFemale MeSHFluorescence MeSHHumans MeSHMale MeSHMassScreenin MeSHMiddleAged MeSHMouthNeoplasm MeSHPrecancerousCondition MeSHSensitivityandSpecificity

@@ -1,0 +1,3 @@
+Contribution of a cyclonic-based liquid air collector for detecting Aspergillus fumigatus by QPCR in air samples.
+?
+['Aspergillus fumigatus/genetics/*isolation & purification', 'DNA, Fungal', 'Environmental Monitoring/*instrumentation/methods', 'Occupational Exposure/prevention & control', 'Polymerase Chain Reaction']

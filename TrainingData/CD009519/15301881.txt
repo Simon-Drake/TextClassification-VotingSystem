@@ -1,0 +1,3 @@
+Radiological examination for peripheral lung cancers and benign nodules less than 10 mm.
+?
+['*Algorithms', 'Evidence-Based Medicine', 'Humans', 'Lung Diseases/*diagnostic imaging/*pathology', 'Lung Neoplasms/*diagnostic imaging/*pathology', 'Neoplasm Metastasis', '*Neoplasm Staging', 'Solitary Pulmonary Nodule/*diagnostic imaging/*pathology', 'Tomography, Emission-Computed', 'Tomography, X-Ray Computed']

@@ -1,0 +1,3 @@
+Significance of echogenic foci in the fetal heart.
+?
+['Aneuploidy', 'Chromosome Aberrations/diagnostic imaging', 'Chromosome Disorders', 'Female', 'Fetal Heart/*diagnostic imaging', 'Gestational Age', 'Heart Defects, Congenital/diagnostic imaging', 'Humans', 'Pregnancy', '*Ultrasonography, Prenatal']

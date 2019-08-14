@@ -1,0 +1,1 @@
+MeSHBrai MeSHCerebralInfarctio MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHOrganotechnetiumCompounds MeSHOximes MeSHTechnetiumTc99mExametazime MeSHTechnetiumTc99mMedronate MeSHTechnetiumTc99mPentetate MeSHTomography MeSHEmission-Computed MeSHSingle-Photon

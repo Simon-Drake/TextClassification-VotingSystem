@@ -1,0 +1,3 @@
+Three-dimensional ultrasonographic demonstration of agenesis of the 12th rib in a fetus with trisomy 21.
+?
+['Adult', 'Down Syndrome/*diagnostic imaging', 'Female', 'Fetal Diseases/*diagnostic imaging', 'Humans', 'Imaging, Three-Dimensional', 'Pregnancy', 'Ribs/*diagnostic imaging', 'Ultrasonography, Prenatal/methods']

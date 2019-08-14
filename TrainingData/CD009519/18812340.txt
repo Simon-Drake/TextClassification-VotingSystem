@@ -1,0 +1,3 @@
+The use of PET and PET/CT scanning in lung cancer.
+?
+['Humans', 'Lung Neoplasms/*diagnostic imaging', 'Neoplasm Staging', '*Positron-Emission Tomography', 'Practice Guidelines as Topic', 'Predictive Value of Tests', 'Reproducibility of Results', '*Tomography, X-Ray Computed', 'United Kingdom']

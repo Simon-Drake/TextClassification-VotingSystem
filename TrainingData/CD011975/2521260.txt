@@ -1,0 +1,3 @@
+Coincidental detection of Down's syndrome during prenatal testing for Huntington's disease.
+?
+['Adult', 'Down Syndrome/*genetics', 'Female', 'Humans', 'Huntington Disease/*genetics', 'Pedigree', 'Pregnancy', '*Prenatal Diagnosis']

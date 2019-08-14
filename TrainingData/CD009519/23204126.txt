@@ -1,0 +1,3 @@
+Overlapping immunoglobulin G4-related disease and Rosai-Dorfman disease mimicking lung cancer.
+?
+['Aged, 80 and over', 'Autoimmune Diseases/*diagnosis/drug therapy', 'Bronchoscopy', 'Diagnosis, Differential', 'Fluorodeoxyglucose F18', 'Glucocorticoids/therapeutic use', 'Histiocytosis, Sinus/*diagnosis/drug therapy', 'Humans', 'Immunoglobulin G/blood/*immunology', 'Kidney Diseases/diagnosis/drug therapy', 'Lung/diagnostic imaging', 'Lung Neoplasms/diagnosis', 'Lymph Node Excision', 'Male', 'Positron-Emission Tomography', 'Prednisone/therapeutic use', 'Radiography', 'Radiopharmaceuticals']

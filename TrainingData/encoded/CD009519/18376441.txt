@@ -1,0 +1,1 @@
+MeSHDiagnosis MeSHDifferential MeSHFalsePositiveReactions MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHPositron-EmissionTomography MeSHRadiopharmaceuticals MeSHSarcoidosi

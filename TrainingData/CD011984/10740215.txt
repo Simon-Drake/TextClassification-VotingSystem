@@ -1,0 +1,3 @@
+Fetal DNA in maternal plasma: the prenatal detection of a paternally inherited fetal aneuploidy.
+?
+['*Aneuploidy', 'DNA/*blood', '*Fathers', 'Female', 'Fetal Diseases/*genetics', 'Humans', 'Pregnancy', '*Prenatal Diagnosis']

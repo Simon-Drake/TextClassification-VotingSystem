@@ -1,0 +1,3 @@
+Detection of chromosome aberrations during prenatal genetic testing for single gene disorders.
+?
+['Adult', 'Down Syndrome/*diagnosis/*epidemiology', 'Female', 'Humans', 'Israel/epidemiology', 'Karyotyping', 'Pregnancy', 'Prenatal Diagnosis/economics/*utilization', 'Registries']

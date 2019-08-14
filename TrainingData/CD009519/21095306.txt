@@ -1,0 +1,3 @@
+Invited commentary.
+?
+['Bronchoscopy', 'Diagnosis, Differential', 'Humans', 'Lung Neoplasms/diagnosis/*surgery', 'Pneumonectomy/*methods', 'Positron-Emission Tomography', 'Solitary Pulmonary Nodule/diagnosis/*surgery', 'Tomography, X-Ray Computed']

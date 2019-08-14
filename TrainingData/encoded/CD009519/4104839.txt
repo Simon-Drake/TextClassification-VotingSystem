@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdult MeSHAged MeSHBronchialNeoplasm MeSHCarcinom MeSHCarcinoma MeSHSquamousCel MeSHFemale MeSHHumans MeSHMale MeSHMiddleAged MeSHPalliativeCare MeSHPneumonectomy MeSHPrognosis MeSHRadiography MeSHThoracicSurgery MeSHThora MeSHTomography

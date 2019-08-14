@@ -1,0 +1,1 @@
+MeSHAdrenalGlandNeoplasm MeSHAnti-BacterialAgent MeSHC-ReactiveProtei MeSHCeftriaxon MeSHChild MeSHDiagnosis MeSHDifferential MeSHErythrocytes MeSHHumans MeSHLaparotomy MeSHLeukocytes MeSHMale MeSHMesentericCys MeSHPancreaticCys MeSHPheochromocytom MeSHPyelonephriti MeSHTomography MeSHX-RayComputed MeSHUltrasonography

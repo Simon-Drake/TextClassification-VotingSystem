@@ -1,0 +1,1 @@
+MeSHAdenocarcinoma MeSHBronchiolo-Alveola MeSHAdult MeSHAged MeSHCarcinom MeSHCellTransformation MeSHNeoplastic MeSHCicatri MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPneumonectomy MeSHRadiography MeSHRetrospectiveStudies MeSHSexFactors MeSHTomography MeSHTuberculosis MeSHPulmonar

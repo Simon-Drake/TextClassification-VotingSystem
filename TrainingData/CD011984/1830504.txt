@@ -1,0 +1,3 @@
+Ethics for screening for Down's syndrome.
+?
+['Down Syndrome/*psychology', '*Ethics, Medical', 'Female', 'Humans', 'Pregnancy', 'Prenatal Diagnosis/*economics']

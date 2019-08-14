@@ -1,0 +1,3 @@
+Primary squamous cell carcinoma of lung in a 7-year-old boy: a case report.
+We are reporting a rare case of a primary squamous cell carcinoma of lung with skeletal metastases in a 7-year-old boy. The patient received chemotherapy with initial improvement but eventually died of the disease. A brief literature review is also presented.
+['Antineoplastic Combined Chemotherapy Protocols/*therapeutic use', 'Carcinoma, Squamous Cell/diagnosis/*drug therapy', 'Child', 'Fatal Outcome', 'Humans', 'Lung Neoplasms/diagnosis/*drug therapy', 'Male', 'Muscle Neoplasms/diagnosis/*drug therapy/secondary', 'Tomography, Emission-Computed']

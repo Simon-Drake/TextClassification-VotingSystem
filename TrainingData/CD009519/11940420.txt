@@ -1,0 +1,3 @@
+[Metastasis in leptomeninges discovered with PET-FDG].
+?
+['Adenocarcinoma/*diagnostic imaging/*secondary/therapy', 'Bone Neoplasms/diagnosis', 'Cerebellar Neoplasms/radiotherapy/secondary/surgery', 'Combined Modality Therapy', 'Cranial Irradiation', 'Diagnosis, Differential', 'Female', '*Fluorodeoxyglucose F18', 'Humans', 'Liver Neoplasms/diagnostic imaging/secondary', 'Lung Neoplasms/diagnostic imaging/secondary', 'Magnetic Resonance Imaging', 'Meningeal Neoplasms/*diagnostic imaging/*secondary', 'Middle Aged', '*Radiopharmaceuticals', 'Radiosurgery', 'Rectal Neoplasms/pathology/therapy', 'Sigmoid Neoplasms/pathology/therapy', 'Spinal Neoplasms/diagnostic imaging/secondary', '*Tomography, Emission-Computed']

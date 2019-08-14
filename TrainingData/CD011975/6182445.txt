@@ -1,0 +1,3 @@
+Prenatal cytogenetic diagnosis.
+?
+['Amniotic Fluid/*cytology', 'Cells, Cultured', 'Chromosome Aberrations', 'Chromosome Banding/methods', 'Culture Techniques/methods', 'DNA/analysis', 'Female', 'Humans', 'Karyotyping/methods', 'Mosaicism', 'Mycoplasmatales/analysis', 'Polyploidy', 'Pregnancy', 'Prenatal Diagnosis/*methods', 'Staining and Labeling', 'Translocation, Genetic']

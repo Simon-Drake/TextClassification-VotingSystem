@@ -1,0 +1,3 @@
+Providing services for families with a genetic condition: a contrast between cystic fibrosis and Down syndrome.
+?
+['Adult', '*Cystic Fibrosis/diagnosis/psychology/therapy', '*Down Syndrome/diagnosis/psychology/therapy', '*Family Health', 'Female', 'Genetic Testing', 'Health Resources/*organization & administration', 'Health Services Needs and Demand', 'Health Surveys', 'Humans', 'Infant, Newborn', 'Mothers/psychology', 'Neonatal Screening', 'Patient Satisfaction', 'Prenatal Diagnosis', 'Self-Help Groups', 'United States', 'Victoria']

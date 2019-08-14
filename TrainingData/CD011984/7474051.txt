@@ -1,0 +1,3 @@
+Ultrasonography in the detection of aneuploidy in the first trimester.
+Ultrasonography has been used increasingly in the first trimester to identify fetal anomalies as early as possible in gestation. First trimester sonographic screening may detect a greater proportion of aneuploid fetuses than sonography performed later in pregnancy, and it may allow determination of potential markers for prediction of chromosomal anomalies.
+['*Aneuploidy', 'Chorionic Villi Sampling', 'Chromosome Aberrations/diagnosis/*diagnostic imaging', 'Chromosome Disorders', 'Congenital Abnormalities/*diagnostic imaging/genetics', 'Female', 'Fetal Diseases/*diagnostic imaging/genetics', 'Humans', 'Karyotyping', 'Male', 'Pregnancy', 'Prospective Studies', '*Ultrasonography, Prenatal']

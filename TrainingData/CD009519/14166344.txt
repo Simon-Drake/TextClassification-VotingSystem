@@ -1,0 +1,3 @@
+[TREATMENT OF LUNG CANCER WITH TELECOBALT].
+?
+['*Adenoma', '*Bronchial Neoplasms', '*Bronchitis', '*Bronchography', '*Bronchoscopy', '*Carcinoma', '*Carcinoma, Squamous Cell', '*Cobalt Isotopes', 'Humans', '*Lung Neoplasms', 'Neoplasms/*epidemiology/*radiotherapy', '*Radiography, Thoracic', '*Radioisotope Teletherapy', '*Smoking', '*Tomography', '*Tuberculosis', '*Tuberculosis, Pulmonary']

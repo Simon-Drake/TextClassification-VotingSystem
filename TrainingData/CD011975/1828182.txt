@@ -1,0 +1,3 @@
+ABC of antenatal care. Detection and management of congenital abnormalities--II.
+?
+['Adult', 'Chromosome Aberrations/diagnosis', 'Chromosome Disorders', 'Congenital Abnormalities/*diagnosis', 'Down Syndrome/diagnosis', 'Female', 'Fetal Diseases/*diagnosis', 'Health Services Accessibility', 'Humans', 'Karyotyping', 'Maternal Age', 'Pregnancy', 'Pregnancy Trimester, Second', 'Pregnancy, High-Risk', 'Prenatal Diagnosis/*methods']

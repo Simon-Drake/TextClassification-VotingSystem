@@ -1,0 +1,3 @@
+Multiple marker screening for Down syndrome in the first trimester of pregnancy.
+?
+['Chorionic Gonadotropin, beta Subunit, Human/blood', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Infant, Newborn', 'Maternal Age', 'Pregnancy', 'Pregnancy Trimester, First', 'Prenatal Diagnosis/*methods', 'Sensitivity and Specificity']

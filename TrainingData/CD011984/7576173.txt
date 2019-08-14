@@ -1,0 +1,3 @@
+Dandy-Walker malformation in a fetus with pentasomy X (49,XXXXX) prenatally diagnosed by fluorescence in situ hybridization technique.
+We present the case of a pentasomy X (49,XXXXX) prenatally diagnosed. The fluorescent in situ hybridization technique assisted in making the diagnosis. The problems identified in this fetus include a Dandy-Walker malformation, hydrocephaly, ventricular septal defect, hypertelorism and polyhydramnios.
+['Adult', '*Aneuploidy', 'Dandy-Walker Syndrome/*genetics', 'Female', 'Humans', 'Hydrocephalus/diagnostic imaging/genetics', '*In Situ Hybridization, Fluorescence', 'Karyotyping', 'Polyhydramnios/diagnostic imaging', 'Pregnancy', '*Prenatal Diagnosis', 'Ultrasonography, Prenatal', '*X Chromosome']

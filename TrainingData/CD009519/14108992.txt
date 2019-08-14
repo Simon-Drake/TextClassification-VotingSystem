@@ -1,0 +1,3 @@
+[FRONTO-OBLIQUE TOMOGRAPHY. VALUE OF AN OBLIQUE PROJECTION AND ASSOCIATION WITH PNEUMOMEDIASTINUM].
+?
+['*Bronchial Neoplasms', '*Diverticulum, Esophageal', '*Esophageal Neoplasms', 'Humans', '*Lymphadenitis', '*Mediastinal Emphysema', '*Mediastinum', 'Neoplasms/*diagnosis', '*Pneumomediastinum, Diagnostic', '*Radiography, Thoracic', '*Tomography', '*Tomography, X-Ray Computed', '*Trachea']

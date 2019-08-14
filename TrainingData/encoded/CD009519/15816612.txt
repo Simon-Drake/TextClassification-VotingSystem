@@ -1,0 +1,1 @@
+MeSHBronch MeSHBronchialNeoplasm MeSHCarcinoma MeSHSquamousCel MeSHFluorodeoxyglucoseF1 MeSHHumans MeSHImageProcessing MeSHComputer-Assisted MeSHMale MeSHMiddleAged MeSHPositron-EmissionTomograph MeSHRadiopharmaceutical MeSHSputu MeSHTimeFactors MeSHTomography MeSHX-RayCompute

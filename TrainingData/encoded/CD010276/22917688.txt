@@ -1,0 +1,1 @@
+MeSHAntigens MeSHCD2 MeSHBiomarkers MeSHTumo MeSHBiopsy MeSHCarcinoma MeSHSquamousCel MeSHCellAdhesion MeSHCellMovement MeSHCheiliti MeSHHumans MeSHImmunohistochemistry MeSHIntegrinalpha MeSHIntegrinbeta MeSHIntegrin MeSHLamini MeSHLi MeSHLipNeoplasm MeSHNeoplasmInvasiveness MeSHPhenotype

@@ -1,0 +1,1 @@
+MeSHBreastNeoplasm MeSHBronchialNeoplasm MeSHColorectalNeoplasm MeSHFemale MeSHHumans MeSHLiverNeoplasm MeSHLungNeoplasm MeSHLymphom MeSHMale MeSHMelanom MeSHNeoplasm MeSHPharyngealNeoplasm MeSHTomography MeSHEmission-Computed MeSHUrogenitalNeoplasm

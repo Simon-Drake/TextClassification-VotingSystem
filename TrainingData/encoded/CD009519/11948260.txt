@@ -1,0 +1,1 @@
+MeSHColorectalNeoplasm MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHGenitalNeoplasms MeSHFemal MeSHHeadandNeckNeoplasm MeSHHumans MeSHLungNeoplasm MeSHLymphom MeSHMelanom MeSHRadiopharmaceuticals MeSHSkinNeoplasm MeSHTomography MeSHEmission-Computed

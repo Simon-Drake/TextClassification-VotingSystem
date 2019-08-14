@@ -1,0 +1,3 @@
+Abnormal prenatal hematological findings in congenital leukemia of Down syndrome with hepatosplenomegaly.
+?
+['Adult', '*Down Syndrome/blood/complications', 'Female', 'Hepatomegaly/diagnostic imaging/*etiology', 'Humans', 'Infant, Newborn', 'Leukemia/*complications/*congenital', 'Male', 'Pregnancy', 'Pregnancy Complications', 'Splenomegaly/diagnostic imaging/*etiology', '*Ultrasonography, Prenatal']

@@ -1,0 +1,3 @@
+The "air bronchiologram" and the solitary pulmonary nodule. Report of a case.
+?
+['Adenocarcinoma, Bronchiolo-Alveolar/*diagnostic imaging', 'Female', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Middle Aged', 'Radiography, Thoracic', 'Tomography']

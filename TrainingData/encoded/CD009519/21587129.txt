@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHChestPai MeSHChronicDisease MeSHCoug MeSHDiagnosis MeSHDifferential MeSHFemale MeSHHemoptysi MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPlasmaCellGranuloma MeSHPulmonar MeSHPositron-EmissionTomography MeSHSolitaryPulmonaryNodul MeSHThoracoscopy MeSHTomography MeSHX-RayComputed MeSHTreatmentOutcome

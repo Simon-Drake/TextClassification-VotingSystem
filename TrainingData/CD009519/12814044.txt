@@ -1,0 +1,3 @@
+Low dose spiral computed tomography.
+Low dose spiral computed tomography is the best tool we have today to detect early lung cancer. The author describes the technique of image intake and the advantages in thoracic oncology.
+['Humans', 'Lung Neoplasms/*diagnostic imaging', '*Tomography, Spiral Computed']

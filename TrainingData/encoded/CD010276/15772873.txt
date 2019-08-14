@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSquamousCel MeSHClusterAnalysis MeSHConnectiveTissu MeSHEpitheliu MeSHFreezeDrying MeSHHumans MeSHKeratin MeSHMouthMucos MeSHMouthNeoplasm MeSHSpectrometry MeSHFluorescence MeSHSpectrumAnalysis MeSHRaman

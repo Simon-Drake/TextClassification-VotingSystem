@@ -1,0 +1,1 @@
+MeSHAnginaPectori MeSHAxilla MeSHBiologicalTransport MeSHDiagnosticErrors MeSHHear MeSHHumans MeSHInjections MeSHIntravenous MeSHLymphNode MeSHLymphaticMetastasis MeSHMale MeSHMiddleAged MeSHTechnetiumTc99mSestamib MeSHTomography MeSHEmission-Computed MeSHSingle-Photon

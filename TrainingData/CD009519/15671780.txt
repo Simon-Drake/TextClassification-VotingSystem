@@ -1,0 +1,3 @@
+The utility of multimodality imaging in anaplastic thyroid carcinoma.
+?
+['Aged', 'Aged, 80 and over', 'Carcinoma/*diagnosis/secondary', 'Female', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnosis/secondary', '*Positron-Emission Tomography', '*Radiography, Thoracic', 'Radiopharmaceuticals', 'Thyroid Neoplasms/*diagnosis', '*Tomography, X-Ray Computed', '*Ultrasonography']

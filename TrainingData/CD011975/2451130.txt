@@ -1,0 +1,3 @@
+Screening for Down's syndrome.
+?
+['*Amniocentesis/adverse effects', 'Down Syndrome/*diagnosis', 'Female', 'Fetal Diseases/*diagnosis', 'Humans', 'Maternal Age', 'Pregnancy', 'Risk Factors', 'alpha-Fetoproteins/analysis']

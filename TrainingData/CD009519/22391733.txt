@@ -1,0 +1,3 @@
+A rare case of synchronous bilateral pulmonary neuroendocrine tumor detected by 68Ga-DOTANOC PET/CT.
+?
+['Humans', 'Lung Neoplasms/*diagnostic imaging/pathology/physiopathology', 'Male', 'Middle Aged', '*Multimodal Imaging', 'Neuroendocrine Tumors/*diagnostic imaging/pathology/physiopathology', '*Organometallic Compounds', '*Positron-Emission Tomography', '*Tomography, X-Ray Computed']

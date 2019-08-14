@@ -1,0 +1,3 @@
+Genetic factors influencing aneuploidy frequency.
+?
+['Abortion, Habitual', 'Abortion, Spontaneous', 'Amniocentesis', '*Aneuploidy', 'Autoantibodies/genetics', 'Cells, Cultured', 'Chromosome Aberrations/genetics', 'Chromosome Disorders', 'Chromosomes, Human/ultrastructure', 'Chromosomes, Human, 21-22 and Y', 'Consanguinity', 'Female', '*Gene Frequency', 'HLA Antigens/genetics', 'Humans', 'Karyotyping', 'Lymphocytes/cytology', 'Male', 'Mutation', 'Nondisjunction, Genetic', 'Polymorphism, Genetic', 'Pregnancy', 'Risk', 'Thyroid Gland/immunology', 'Translocation, Genetic', '*Trisomy', 'alpha 1-Antitrypsin/genetics']

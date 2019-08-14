@@ -1,0 +1,1 @@
+MeSHBacteria MeSHBloodSedimentation MeSHBodyTemperature MeSHEscherichiacoliInfections MeSHHematuria MeSHHemoglobinometry MeSHHumans MeSHKidneyDiseases MeSHKidneyFunctionTests MeSHProteinuria MeSHPyelonephritis MeSHPyuria

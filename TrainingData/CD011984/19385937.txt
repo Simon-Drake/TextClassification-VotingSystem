@@ -1,0 +1,3 @@
+Proteomics in prenatal diagnosis.
+?
+['Amniotic Fluid/metabolism', 'Aneuploidy', 'Female', 'Humans', 'Pregnancy', 'Prenatal Diagnosis/*methods', 'Proteomics/*methods']

@@ -1,0 +1,3 @@
+Selection and validation of alpha-fetoprotein assay kits for the screening of Down syndrome.
+?
+['Down Syndrome/*diagnosis', 'Female', 'Humans', 'Neural Tube Defects/diagnosis', 'Pregnancy', '*Prenatal Diagnosis', '*Reagent Kits, Diagnostic', 'Statistics as Topic', 'alpha-Fetoproteins/*analysis']

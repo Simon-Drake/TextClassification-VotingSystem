@@ -1,0 +1,3 @@
+Screening for Down syndrome.
+?
+['Amniocentesis/*adverse effects', 'Down Syndrome/*prevention & control', 'Female', 'Humans', '*Mass Screening', 'Maternal Age', 'Pregnancy', 'alpha-Fetoproteins/analysis']

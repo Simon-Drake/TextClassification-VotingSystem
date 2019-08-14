@@ -1,0 +1,3 @@
+Analysis of probability and measurement of values.
+?
+['Bayes Theorem', 'Decision Trees', 'Down Syndrome/diagnosis', 'Female', 'Fetal Diseases/*diagnosis', 'Humans', 'Neural Tube Defects/diagnosis', 'Pregnancy', 'Prenatal Diagnosis/*methods', 'Probability', '*Risk']

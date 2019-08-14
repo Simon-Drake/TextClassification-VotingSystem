@@ -1,0 +1,1 @@
+MeSHClinicalCompetence MeSHColonicDiseases MeSHDigestiveSystemSurgicalProcedures MeSHEndometriosis MeSHFeasibilityStudies MeSHFemale MeSHGynecologicSurgicalProcedures MeSHHumans MeSHLaparoscopy

@@ -1,0 +1,3 @@
+Prenatal diagnosis of tetrasomy 12p (Pallister-Killian syndrome)
+?
+['*Amniocentesis', 'Chromosome Aberrations/*diagnosis', 'Chromosome Disorders', '*Chromosomes, Human, Pair 12', 'Female', 'Fetal Diseases/*diagnosis', 'Humans', 'Mosaicism', 'Pregnancy']

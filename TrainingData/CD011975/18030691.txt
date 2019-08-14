@@ -1,0 +1,3 @@
+[Evaluation of Down syndrome screening strategies: the French Haute Autorite de sante guidelines (June 2007)].
+?
+['Down Syndrome/*diagnosis/embryology', 'Female', 'France', 'Humans', 'Mass Screening/*methods', 'Pregnancy', 'Pregnancy Trimester, First', 'Prenatal Diagnosis/methods']

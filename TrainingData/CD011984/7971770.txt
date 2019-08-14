@@ -1,0 +1,3 @@
+Pitfall: amniocentesis fails to detect mosaic trisomy 8 in a male newborn.
+?
+['Adult', '*Amniocentesis', '*Chromosomes, Human, Pair 8', 'False Negative Reactions', 'Female', 'Humans', 'Male', '*Mosaicism', 'Pregnancy', '*Trisomy']

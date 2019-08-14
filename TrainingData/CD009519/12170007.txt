@@ -1,0 +1,3 @@
+Costochondritis mimicking a pulmonary nodule on FDG positron emission tomographic imaging.
+?
+['Diagnosis, Differential', 'False Positive Reactions', 'Female', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Middle Aged', 'Radiography', "Tietze's Syndrome/*diagnostic imaging", 'Tomography, Emission-Computed']

@@ -1,0 +1,3 @@
+Accuracy in suspicious lung infiltrations.
+?
+['Biopsy, Fine-Needle', 'Humans', 'Lung/*pathology', 'Lung Neoplasms/*diagnosis', 'Positron-Emission Tomography', 'Sensitivity and Specificity', 'Smoking/pathology']

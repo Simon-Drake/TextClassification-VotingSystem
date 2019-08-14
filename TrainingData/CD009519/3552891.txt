@@ -1,0 +1,3 @@
+Plans for clinical evaluation of dynamic, computer-controlled radiation therapy at the Joint Center for Radiation Therapy.
+?
+['Bile Duct Neoplasms/*radiotherapy', 'Clinical Trials as Topic', 'Esophageal Neoplasms/*radiotherapy', 'Humans', 'Lung Neoplasms/*radiotherapy', 'Radiotherapy Planning, Computer-Assisted', '*Radiotherapy, Computer-Assisted', 'Tomography, Emission-Computed', 'Tomography, X-Ray Computed']

@@ -1,0 +1,3 @@
+[Positron emission tomography (PET) in clinical oncology. Part II].
+?
+['Adult', 'Aged', 'Colorectal Neoplasms/diagnostic imaging', 'False Negative Reactions', 'False Positive Reactions', 'Female', 'Fluorine Radioisotopes', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/diagnostic imaging', 'Lymph Nodes/diagnostic imaging', 'Lymphoma/diagnostic imaging', 'Male', 'Melanoma/diagnostic imaging', 'Middle Aged', 'Neoplasm Metastasis', 'Neoplasm Recurrence, Local/diagnostic imaging', 'Neoplasms/*diagnostic imaging', 'Predictive Value of Tests', 'Radiopharmaceuticals', 'Sensitivity and Specificity', '*Tomography, Emission-Computed', 'Tomography, X-Ray Computed']

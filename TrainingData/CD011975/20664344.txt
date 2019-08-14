@@ -1,0 +1,3 @@
+Agenesis of the corpus callosum in mosaic tetrasomy 8p.
+?
+['Aicardi Syndrome/diagnosis/*genetics', 'Child, Preschool', '*Chromosome Aberrations', '*Chromosomes, Human, Pair 8', 'Humans', 'Magnetic Resonance Imaging', 'Male', '*Mosaicism', 'Prenatal Diagnosis']

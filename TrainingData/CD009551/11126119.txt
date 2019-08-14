@@ -1,0 +1,3 @@
+5' RACE by tailing a general template-switching oligonucleotide.
+?
+["5' Untranslated Regions/*genetics", 'Aspergillus nidulans/genetics', 'DNA, Complementary/genetics', 'DNA, Fungal/genetics', 'Genes, Fungal/genetics', 'Nucleic Acid Amplification Techniques/*methods', 'Oligonucleotides/*genetics', 'Polymerase Chain Reaction/methods', 'Templates, Genetic']

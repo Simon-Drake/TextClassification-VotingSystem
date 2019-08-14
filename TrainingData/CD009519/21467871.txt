@@ -1,0 +1,3 @@
+Autoimmune adrenal insufficiency mimicking bilateral adrenal metastases from adenocarcinoma of the lung on PET/CT.
+?
+['Adenocarcinoma/*pathology', 'Adrenal Gland Neoplasms/diagnosis/*secondary', 'Adrenal Insufficiency/*diagnosis/diagnostic imaging', 'Autoimmune Diseases/*diagnosis/diagnostic imaging', 'Diagnosis, Differential', 'Female', 'Humans', 'Lung Neoplasms/*pathology', 'Middle Aged', '*Positron-Emission Tomography', '*Tomography, X-Ray Computed']

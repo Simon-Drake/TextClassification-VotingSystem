@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHClassification MeSHCytodiagnosis MeSHDiagnosis MeSHDifferential MeSHFollow-UpStudies MeSHHumans MeSHInVitroTechniques MeSHMouthNeoplasm

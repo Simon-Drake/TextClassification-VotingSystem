@@ -1,0 +1,3 @@
+First-trimester Down syndrome screening.
+?
+['Chorionic Gonadotropin/*blood', 'Chorionic Gonadotropin, beta Subunit, Human/blood', 'Down Syndrome/*diagnosis', 'Female', 'Glycosylation', 'Humans', 'Mass Screening/methods', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy-Associated Plasma Protein-A/analysis', 'Trophoblasts/*metabolism']

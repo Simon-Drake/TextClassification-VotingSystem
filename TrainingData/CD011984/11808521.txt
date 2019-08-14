@@ -1,0 +1,3 @@
+Screening for Down's syndrome. Costings are crucial to model.
+?
+['Down Syndrome/*diagnosis', 'Female', 'Fetal Diseases/*diagnosis', 'Health Care Costs', 'Humans', 'Mass Screening/*economics', 'Models, Economic', 'Pregnancy', 'Prenatal Diagnosis/*economics', 'United Kingdom']

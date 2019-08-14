@@ -1,0 +1,3 @@
+Current controversies in prenatal diagnosis 2: Down syndrome screening: is ultrasound better than cell-free nucleic acids in maternal blood?
+?
+['Blood Chemical Analysis/methods/standards', 'Cell-Free System/chemistry', 'Consensus', '*Dissent and Disputes', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Mass Screening/*methods', 'Mothers', 'Nucleic Acids/analysis/*blood', 'Pregnancy', 'Prenatal Diagnosis/methods/*trends', 'Ultrasonography, Prenatal/standards']

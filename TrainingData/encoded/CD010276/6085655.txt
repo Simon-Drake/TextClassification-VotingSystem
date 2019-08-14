@@ -1,0 +1,1 @@
+MeSHCytodiagnosis MeSHDiagnosticErrors MeSHHumans MeSHKeratins MeSHLeukoplakia MeSHOra MeSHMout MeSHMouthNeoplasm MeSHPrecancerousCondition

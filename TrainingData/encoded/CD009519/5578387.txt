@@ -1,0 +1,1 @@
+MeSHDiagnosis MeSHDifferential MeSHHumans MeSHLungAbsces MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPneumoni MeSHPulmonaryEmphysem MeSHRadiography MeSHTomography

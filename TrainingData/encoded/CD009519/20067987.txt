@@ -1,0 +1,1 @@
+MeSHAdult MeSHBiopsy MeSHNeedle MeSHBrainNeoplasm MeSHChemotherapy MeSHAdjuvant MeSHDiseaseProgression MeSHFatalOutcome MeSHHumans MeSHImmunohistochemistry MeSHLungNeoplasm MeSHMale MeSHNeoplasmStaging MeSHPneumonectom MeSHPositron-EmissionTomography MeSHSarcoma MeSHEwin MeSHTomography MeSHX-RayComputed

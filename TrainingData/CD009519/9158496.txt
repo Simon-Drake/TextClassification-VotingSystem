@@ -1,0 +1,3 @@
+Risk of lung cancer needs to be studied in younger patients who keep pet birds.
+?
+['Adolescent', 'Adult', 'Aged', 'Animals', '*Animals, Domestic', 'Child', 'Child, Preschool', 'Humans', 'Infant', 'Infant, Newborn', 'Lung Neoplasms/*etiology', 'Middle Aged', '*Parrots', 'Risk Factors']

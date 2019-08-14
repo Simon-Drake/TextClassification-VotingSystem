@@ -1,0 +1,3 @@
+Intramedullary metastasis detected with 18F FDG-PET/CT.
+?
+['Bone Neoplasms/diagnostic imaging/secondary', 'Carcinoma, Non-Small-Cell Lung/diagnostic imaging/*secondary', 'Female', '*Fluorodeoxyglucose F18', 'Humans', 'Liver Neoplasms/diagnostic imaging/secondary', 'Lung Neoplasms/diagnostic imaging/*pathology', 'Lymphatic Metastasis/diagnostic imaging', 'Magnetic Resonance Imaging', 'Middle Aged', '*Multimodal Imaging', 'Muscle Neoplasms/diagnostic imaging/secondary', '*Positron-Emission Tomography', '*Radiopharmaceuticals', 'Spinal Cord Neoplasms/diagnostic imaging/*secondary', '*Tomography, X-Ray Computed']

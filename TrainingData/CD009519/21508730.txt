@@ -1,0 +1,3 @@
+National Lung Screening Trial: a breakthrough in lung cancer screening?
+?
+['Aged', 'Female', 'Humans', 'Lung Neoplasms/*diagnostic imaging/mortality', 'Male', '*Mass Screening', 'Middle Aged', '*Randomized Controlled Trials as Topic', 'Research Design', '*Tomography, Spiral Computed', 'United States/epidemiology']

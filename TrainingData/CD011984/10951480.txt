@@ -1,0 +1,3 @@
+Pallister-Killian syndrome presenting through nuchal translucency screening for trisomy 21.
+Pallister-Killian syndrome (tetrasomy 12p) is an uncommon aneuploidy, which may present in the prenatal period with an ultrasonographically detected fetal abnormality or following karyotyping for maternal age. We report a case that presented with increased nuchal translucency and hydrops at a first trimester screening scan for trisomy 21.
+['Abnormalities, Multiple/*diagnostic imaging/genetics', 'Adult', 'Chorionic Villi Sampling', 'Chromosomes, Human, Pair 12', 'Down Syndrome/*diagnostic imaging', 'Female', 'Gestational Age', 'Humans', 'Hydrops Fetalis/diagnostic imaging', 'Isochromosomes', 'Neck/*diagnostic imaging/*embryology', 'Pregnancy', 'Syndrome', 'Ultrasonography']

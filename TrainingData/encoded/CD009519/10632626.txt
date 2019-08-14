@@ -1,0 +1,1 @@
+MeSHClinicalCompetence MeSHCost-BenefitAnalysis MeSHFemale MeSHHealthCareCosts MeSHHealthPriorities MeSHHumans MeSHMale MeSHSensitivityandSpecificity MeSHTechnologyAssessment MeSHBiomedical MeSHTomography MeSHEmission-Compute MeSHUnitedKingdom MeSHUnnecessaryProcedures

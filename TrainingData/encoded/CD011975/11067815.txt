@@ -1,0 +1,1 @@
+MeSHCarbohydrateSequence MeSHChorionicGonadotropin MeSHbetaSubunit MeSHHuman MeSHFemale MeSHGlycosylation MeSHHumans MeSHMolecularSequenceData MeSHOligosaccharides MeSHPeptideFragments MeSHPregnancy MeSHSpectrometry MeSHMass MeSHMatrix-AssistedLaserDesorption-Ionization

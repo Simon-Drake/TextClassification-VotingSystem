@@ -1,0 +1,3 @@
+Chorioamniotic separation after 14 weeks' gestation associated with trisomy 21.
+?
+['Adult', 'Amnion/*diagnostic imaging', 'Chorion/*diagnostic imaging', 'Down Syndrome/*diagnostic imaging', 'Female', 'Gestational Age', 'Humans', 'Pregnancy', 'Pregnancy Trimester, First', 'Ultrasonography, Prenatal/*methods']

@@ -1,0 +1,3 @@
+Prevalence rate of Down's syndrome in Karachi resident women.
+Prevalence rate of Down's syndrome in one thousand women of Karachi were evaluated. The preliminary screening showed that 80 out of 1000 women fall in this category based on MSAFP. Further tests were augmented such as hCG, ME along with MSAFP confirmed that 0.2% patients delivered babies with Down's syndrome.
+['Adult', 'Chorionic Gonadotropin/blood', 'Down Syndrome/diagnosis/*epidemiology', 'Enzyme-Linked Immunosorbent Assay', 'Estriol/blood', 'Female', 'Humans', 'Pakistan/epidemiology', 'Pregnancy', 'Pregnancy Trimester, Second/blood', 'Prevalence', 'Risk Factors', 'Ubiquitins/blood', 'Ultrasonography, Prenatal', 'alpha-Fetoproteins/analysis']

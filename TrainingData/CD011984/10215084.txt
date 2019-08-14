@@ -1,0 +1,3 @@
+Chromosome instability limited to the aneuploid clone in the Pallister-Killian syndrome: a pitfall in prenatal diagnosis.
+?
+['Abnormalities, Multiple/diagnosis/*genetics', '*Aneuploidy', 'Chromosome Aberrations/*diagnosis', 'Chromosome Disorders', '*Chromosomes, Human, Pair 12', 'Confounding Factors (Epidemiology)', 'Female', 'Humans', 'Infant', 'Intellectual Disability/diagnosis/*genetics', 'Male', 'Pregnancy', '*Prenatal Diagnosis', 'Syndrome']

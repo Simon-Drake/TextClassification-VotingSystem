@@ -1,0 +1,3 @@
+Role of chorion villi biopsy in prenatal diagnosis of genetic disorders.
+?
+['Biopsy/methods', 'Cells, Cultured', 'Chorionic Villi/analysis/*pathology', 'DNA, Recombinant', 'Endoscopy', 'Female', 'Genetic Diseases, Inborn/*diagnosis', 'Humans', 'Karyotyping', 'Mosaicism', 'Pregnancy', 'Prenatal Diagnosis/*methods']

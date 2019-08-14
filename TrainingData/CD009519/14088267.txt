@@ -1,0 +1,3 @@
+RESECTION OF TRACHEAL CYLINDROMA USING CARDIOPULMONARY BYPASS.
+?
+['*Bronchial Neoplasms', '*Carcinoma, Adenoid Cystic', '*Cardiopulmonary Bypass', '*Heart, Artificial', 'Humans', '*Neoplastic Syndromes, Hereditary', '*Radiography, Thoracic', '*Skin Neoplasms', '*Surgical Procedures, Operative', '*Tomography', '*Tomography, X-Ray Computed', '*Tracheal Neoplasms']

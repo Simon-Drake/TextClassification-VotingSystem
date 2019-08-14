@@ -1,0 +1,3 @@
+Nephrotic syndrome as first manifestation of a bronchopulmonary malignancy. A case report.
+We present two cases of a bronchopulmonary tumor with paraneoplastic nephrotic syndrome as initial manifestation. After surgical resection of the tumor, regression of the nephrotic syndrome occurred.
+['Aged, 80 and over', 'Carcinoma, Squamous Cell/*diagnosis', 'Humans', 'Lung Neoplasms/*diagnosis', 'Male', 'Middle Aged', 'Nephrotic Syndrome/diagnosis/*etiology', 'Paraneoplastic Syndromes/*diagnosis/etiology', 'Positron-Emission Tomography']

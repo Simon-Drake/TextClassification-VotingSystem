@@ -1,0 +1,3 @@
+Trisomy 20 mosaicism identified prenatally and confirmed in foreskin fibroblasts.
+?
+['Adult', '*Chromosomes, Human, Pair 20', 'Female', 'Fibroblasts/physiology', 'Humans', 'Male', '*Mosaicism', 'Penis', 'Pregnancy', '*Prenatal Diagnosis', 'Skin/cytology', '*Trisomy']

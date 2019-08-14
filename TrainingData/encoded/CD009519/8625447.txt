@@ -1,0 +1,1 @@
+MeSHArginin MeSHBaseSequence MeSHCase-ControlStudies MeSHDiseaseSusceptibility MeSHFemale MeSHGenes MeSHp5 MeSHGenotype MeSHHeterozygote MeSHHomozygote MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHMolecularSequenceData MeSHPolymorphism MeSHGenetic MeSHProlin MeSHSmoking

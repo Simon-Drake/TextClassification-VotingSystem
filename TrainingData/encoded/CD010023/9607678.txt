@@ -1,0 +1,1 @@
+MeSHAdult MeSHBlastInjurie MeSHBoneWires MeSHCarpalBone MeSHFractureFixation MeSHInternal MeSHFractures MeSHBon MeSHHandInjurie MeSHHumans MeSHImageProcessing MeSHComputer-Assisted MeSHJointDislocation MeSHMale MeSHPostoperativeComplication MeSHTomography MeSHX-RayComputed MeSHWristInjurie

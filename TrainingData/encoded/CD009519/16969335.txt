@@ -1,0 +1,1 @@
+MeSHDiagnosis MeSHDifferential MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHNeoplasmStaging MeSHPleuralNeoplasm MeSHPositron-EmissionTomography MeSHRadiopharmaceuticals

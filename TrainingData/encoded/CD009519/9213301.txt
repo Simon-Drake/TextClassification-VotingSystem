@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHNon-Small-CellLun MeSHDeoxyglucos MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHNeoplasmStagin MeSHRadiopharmaceuticals MeSHTomography MeSHEmission-Compute

@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHBiomarkers MeSHTumo MeSHCA-19-9Antige MeSHCarcinoembryonicAntige MeSHDiagnosis MeSHDifferential MeSHHumans MeSHLungDiseases MeSHInterstitial MeSHLungNeoplasm MeSHMale MeSHPositron-EmissionTomography MeSHTomography MeSHX-RayComputed

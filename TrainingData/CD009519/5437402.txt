@@ -1,0 +1,3 @@
+Desending thoracic aortic aneurysm presenting in the right thorax; diagnosis and surgical management.
+?
+['Aged', '*Aorta, Thoracic', 'Aortic Aneurysm/*diagnosis/diagnostic imaging/*surgery', 'Aortography', 'Carcinoma, Bronchogenic/diagnosis', 'Diagnosis, Differential', 'Female', 'Humans', 'Ischemia/etiology', 'Lung Neoplasms/diagnosis', 'Paralysis/etiology', 'Postoperative Complications', 'Spinal Cord/blood supply', 'Tomography']

@@ -1,0 +1,3 @@
+Lobar mucinous bronchioloalveolar carcinoma of the lung showing negative FDG uptake on integrated PET/CT.
+We present a case of bronchioloalveolar carcinoma manifesting as air-space consolidation with negative FDG uptake on integrated PET/CT in a 42-year-old woman. To know this pattern of uptake especially in the case of mucin-predominant lobar bronchioloalveolar carcinoma may help avoid misdiagnosis of this particular tumor.
+['Adenocarcinoma, Bronchiolo-Alveolar/*diagnosis/diagnostic imaging', 'Adenocarcinoma, Mucinous/*diagnosis/diagnostic imaging', 'Adult', 'Female', '*Fluorodeoxyglucose F18/metabolism', 'Humans', 'Lung Neoplasms/*diagnosis/diagnostic imaging', '*Positron-Emission Tomography', 'Radiopharmaceuticals', '*Tomography, X-Ray Computed']

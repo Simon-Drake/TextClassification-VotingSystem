@@ -1,0 +1,3 @@
+Small cell lung carcinoma invading the pulmonary vein and left atrium as imaged by PET/CT.
+?
+['Aged', 'Carcinoma, Small Cell/complications/*diagnosis', 'Female', 'Heart Atria/*diagnostic imaging', 'Humans', 'Lung Neoplasms/complications/*diagnosis', 'Neoplasm Invasiveness/diagnostic imaging', 'Positron-Emission Tomography', 'Pulmonary Veins/diagnostic imaging', 'Tomography, X-Ray Computed', 'Venous Thrombosis/*diagnosis/etiology']

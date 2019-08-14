@@ -1,0 +1,1 @@
+MeSHAged MeSHBiopsy MeSHBronchoscopy MeSHCarcinoma MeSHPapillar MeSHDiagnosis MeSHDifferential MeSHFemale MeSHFollow-UpStudies MeSHHumans MeSHLungNeoplasm MeSHPneumonectomy MeSHPositron-EmissionTomography MeSHSolitaryPulmonaryNodul MeSHThyroidNeoplasm MeSHThyroidectom MeSHTimeFactors MeSHTomography MeSHX-RayComputed

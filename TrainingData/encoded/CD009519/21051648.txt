@@ -1,0 +1,1 @@
+MeSHAged MeSHCarcinoma MeSHNon-Small-CellLun MeSHCost-BenefitAnalysis MeSHDecisionMaking MeSHFemale MeSHHumans MeSHInsurance MeSHHealth MeSHReimbursemen MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHNeoplasmStagin MeSHPositron-EmissionTomograph MeSHProportionalHazardsModels MeSHQuality-AdjustedLifeYears MeSHSensitivityandSpecificity MeSHTomography MeSHX-RayCompute

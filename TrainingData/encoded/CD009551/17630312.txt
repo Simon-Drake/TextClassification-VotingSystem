@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAspergillusnige MeSHBiotechnolog MeSHChlorogenicAci MeSHCloning MeSHMolecular MeSHFungalProtein MeSHHydrolase MeSHModels MeSHMolecular MeSHMolecularSequenceData MeSHRecombinantProtein MeSHSequenceAnalysis MeSHDNA MeSHTransformation MeSHGenetic MeSHUp-Regulation

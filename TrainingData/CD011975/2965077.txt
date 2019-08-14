@@ -1,0 +1,3 @@
+[Maternal age in pregnancy--genetic counseling and prenatal diagnosis in the light of known facts and personal observations].
+?
+['Adult', '*Amniocentesis', 'Down Syndrome/*diagnosis/genetics', 'Female', '*Genetic Counseling', 'Humans', '*Maternal Age', 'Pregnancy', '*Pregnancy, High-Risk']

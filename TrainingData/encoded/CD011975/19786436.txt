@@ -1,0 +1,1 @@
+MeSHDelivery MeSHObstetric MeSHDownSyndrome MeSHEvidence-BasedMedicine MeSHFemale MeSHFollow-UpStudies MeSHGeneticCounseling MeSHHumans MeSHInfant MeSHNewborn MeSHMothers MeSHParent-ChildRelations MeSHParentalNotification MeSHPatientCareTeam MeSHPerinatalCare MeSH"PhysiciansRole" MeSHPhysician-PatientRelations MeSHPregnancy MeSHPrenatalDiagnosis

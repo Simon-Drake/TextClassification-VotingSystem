@@ -1,0 +1,3 @@
+Diagnosis of fetal trisomy 21 in first trimester.
+?
+['Adult', 'Down Syndrome/*diagnosis', 'Female', 'Gestational Age', 'Humans', 'Pregnancy', '*Prenatal Diagnosis']

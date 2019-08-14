@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHBaseSequence MeSHBlotting MeSHNorthern MeSHBreastNeoplasm MeSHFemale MeSHHumans MeSHMolecularSequenceData MeSHNeoplasmProtein MeSHOncogeneProteins MeSHVira MeSHPolymeraseChainReaction MeSHProteinKinase MeSHReceptor MeSHErbB-2 MeSHTumorCells MeSHCulture

@@ -1,0 +1,1 @@
+MeSHAdult MeSHBiopsy MeSHChoriocarcinom MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHPregnancy MeSHPulmonaryArter MeSHSolitaryPulmonaryNodul MeSHThoracicSurgery MeSHVideo-Assisted MeSHTomography MeSHX-RayComputed MeSHTreatmentOutcome MeSHUterineNeoplasm

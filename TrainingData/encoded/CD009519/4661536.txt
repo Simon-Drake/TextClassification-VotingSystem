@@ -1,0 +1,1 @@
+MeSHAged MeSHBiopsy MeSHBronchialNeoplasm MeSHCarcinom MeSHHumans MeSHMale MeSHMiddleAged MeSHRadiography MeSHSkinTests MeSHSputu MeSHTomography MeSHTuberculosis MeSHPulmonar

@@ -1,0 +1,3 @@
+Case 166: Metastatic left pulmonary artery sarcoma.
+?
+['Colorectal Neoplasms/*pathology', 'Fluorodeoxyglucose F18', 'Humans', 'Iohexol', 'Male', 'Middle Aged', 'Positron-Emission Tomography', 'Pulmonary Artery/*diagnostic imaging/pathology', 'Radiopharmaceuticals', 'Sarcoma/*diagnostic imaging/secondary', 'Tomography, X-Ray Computed', 'Vascular Neoplasms/*diagnostic imaging/secondary']

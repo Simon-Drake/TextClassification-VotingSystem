@@ -1,0 +1,3 @@
+Anomalous marker patterns in Down syndrome screening.
+?
+['Adult', 'Biomarkers/blood', 'Down Syndrome/blood/*diagnosis', 'False Positive Reactions', 'Female', 'Humans', 'Mass Screening/*methods', 'Pregnancy', 'Prenatal Diagnosis/*methods/statistics & numerical data', 'Risk Assessment/methods/statistics & numerical data']

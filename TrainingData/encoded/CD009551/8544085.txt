@@ -1,0 +1,1 @@
+MeSHBaseSequence MeSHDNA MeSHFunga MeSHDNA MeSHRibosoma MeSHMitosporicFung MeSHMolecularSequenceData MeSHPolymeraseChainReactio MeSHTimeFactors

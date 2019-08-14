@@ -1,0 +1,3 @@
+Aspects of diagnosis and staging of non-small-cell lung cancer.
+?
+['Australia/epidemiology', 'Carcinoma, Non-Small-Cell Lung/*diagnosis/mortality/pathology', 'Humans', 'Lung Neoplasms/*diagnosis/mortality/pathology', 'Neoplasm Staging', 'Survival Rate', 'Tomography, Emission-Computed']

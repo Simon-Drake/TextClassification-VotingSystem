@@ -1,0 +1,3 @@
+[CRITERIA FOR THE INOPERABILITY OF LUNG CANCER].
+?
+['*Bronchial Neoplasms', '*Bronchography', '*Bronchoscopy', 'Humans', '*Lung Neoplasms', '*Lymphatic Metastasis', '*Neoplasm Metastasis', '*Pneumonectomy', '*Surgical Procedures, Operative', '*Tomography', '*Tomography, X-Ray Computed']

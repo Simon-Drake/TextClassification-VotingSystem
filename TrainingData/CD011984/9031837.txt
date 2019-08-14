@@ -1,0 +1,3 @@
+Ultrasound screening for fetal trisomies at 10-14 weeks' gestation.
+?
+['Adult', 'Down Syndrome/*diagnostic imaging', 'Female', 'Gestational Age', 'Humans', 'Pregnancy', 'Prospective Studies', '*Ultrasonography, Prenatal']

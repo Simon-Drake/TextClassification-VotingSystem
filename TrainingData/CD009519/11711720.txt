@@ -1,0 +1,3 @@
+F-18 FDG uptake in pulmonary lymphangioleiomyomatosis.
+?
+['Female', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Lymphangioleiomyomatosis/*diagnostic imaging', 'Middle Aged', '*Radiopharmaceuticals', '*Tomography, Emission-Computed']

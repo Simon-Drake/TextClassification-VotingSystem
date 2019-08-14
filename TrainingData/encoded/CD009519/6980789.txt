@@ -1,0 +1,1 @@
+MeSHEsophagealNeoplasm MeSHHear MeSHHeartDisease MeSHHeartNeoplasm MeSHHumans MeSHLungDisease MeSHLungNeoplasm MeSHMediastinalDisease MeSHMediastinalNeoplasm MeSHNeoplasmMetastasis MeSHThoracicNeoplasm MeSHTomography MeSHEmission-Computed MeSHTomography MeSHX-RayComputed

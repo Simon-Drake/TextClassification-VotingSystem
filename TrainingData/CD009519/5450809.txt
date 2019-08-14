@@ -1,0 +1,3 @@
+[The differential diagnosis of central cancer and inflammatory lesions of the middle lobe of the right lung].
+?
+['Adolescent', 'Adult', 'Aged', 'Bronchography', 'Bronchoscopy', 'Child', 'Child, Preschool', 'Diagnosis, Differential', 'Female', 'Humans', 'Inflammation', 'Lung Diseases/*diagnostic imaging', 'Lung Neoplasms/complications/*diagnostic imaging', 'Male', 'Middle Aged', 'Middle Lobe Syndrome/*diagnostic imaging/etiology', 'Tomography']

@@ -1,0 +1,3 @@
+Imaging in lung cancer.
+The diagnosis, staging, and follow-up of lung cancer is a clinical and therapeutic challenge. Recent radiographic advances are critical to the management of patients with lung cancer. This review focuses on state-of-the-art chest imaging modalities, including plain radiography, computed tomography; magnetic resonance imaging, as well as the newest technique, positron-emission tomography, and discusses the current literature.
+['*Diagnostic Imaging', 'Follow-Up Studies', 'Humans', 'Lung Neoplasms/*diagnosis/diagnostic imaging/pathology/therapy', 'Magnetic Resonance Imaging', 'Neoplasm Staging', 'Radiography, Thoracic', 'Tomography, Emission-Computed', 'Tomography, X-Ray Computed']

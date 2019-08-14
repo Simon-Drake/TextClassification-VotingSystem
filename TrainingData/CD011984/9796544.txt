@@ -1,0 +1,3 @@
+Down detection.
+?
+['Adult', 'Chorionic Gonadotropin, beta Subunit, Human/blood', 'Down Syndrome/*diagnosis', 'Estriol/blood', 'Female', 'Humans', 'Neck/diagnostic imaging', 'Pregnancy', '*Prenatal Diagnosis', 'Ultrasonography, Prenatal', 'alpha-Fetoproteins/analysis']

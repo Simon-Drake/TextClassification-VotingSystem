@@ -1,0 +1,3 @@
+Positive maternal screening results in Rubinstein-Taybi syndrome.
+?
+['Abnormalities, Multiple/*diagnosis', 'Adult', '*Amniocentesis', 'Down Syndrome/*diagnosis', 'Female', 'Genetic Testing', 'Hirsutism/*congenital', 'Humans', 'Infant, Newborn', '*Musculoskeletal Abnormalities', '*Port-Wine Stain', 'Pregnancy']

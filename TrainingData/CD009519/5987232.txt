@@ -1,0 +1,3 @@
+A contribution to differential diagnosis of the pulmonary form of ornithosis.
+?
+['Biopsy', 'Bronchoscopy', 'Diagnosis, Differential', 'Humans', 'Lung Diseases/*diagnosis', 'Lung Neoplasms/diagnosis', 'Psittacosis/*diagnosis', 'Radiography, Thoracic', 'Sputum/cytology', 'Tomography']

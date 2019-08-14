@@ -1,0 +1,1 @@
+MeSHAspergillu MeSHBaseSequence MeSHCandid MeSHCandidaalbican MeSHConservedSequence MeSHDNA MeSHFunga MeSHDNA MeSHRibosoma MeSHElectrophoresi MeSHFung MeSHGenes MeSHFungal MeSHHumans MeSHMycose MeSHPolymeraseChainReactio MeSHRNA MeSHFunga MeSHRNA MeSHRibosomal MeSH28 MeSHRNA MeSHRibosomal MeSH5.8 MeSHSensitivityandSpecificity

@@ -1,0 +1,3 @@
+BRONCHIAL TUMORS ORIGINATING FROM MUCOUS GLANDS. CURRENT CLASSIFICATION AND UNUSUAL MANIFESTATIONS.
+?
+['*Adenocarcinoma, Mucinous', '*Adenoma', '*Bronchial Neoplasms', '*Bronchoscopy', '*Carcinoid Tumor', '*Carcinoma', '*Carcinoma, Adenoid Cystic', '*Classification', '*Cushing Syndrome', '*Fluoroscopy', '*Geriatrics', 'Humans', '*Malignant Carcinoid Syndrome', 'Neoplasms/*radiotherapy', '*Palliative Care', '*Pathology', '*Pneumonectomy', '*Radiography, Thoracic', '*Tomography']

@@ -1,0 +1,1 @@
+MeSHColonicNeoplasm MeSHFemale MeSHFluorodeoxyglucoseF1 MeSHHumans MeSHLungNeoplasm MeSHLymphom MeSHMale MeSHMelanom MeSHNeoplasm MeSHRadiopharmaceutical MeSHSensitivityandSpecificity MeSHTomography MeSHEmission-Computed MeSHUnitedStates

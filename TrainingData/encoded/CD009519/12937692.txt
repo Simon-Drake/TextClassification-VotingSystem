@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHNon-Small-CellLun MeSHCost-BenefitAnalysis MeSHDatabases MeSHFactual MeSHEvidence-BasedMedicin MeSHFluorodeoxyglucoseF1 MeSHGermany MeSHHumans MeSHLungNeoplasm MeSHNeoplasmStaging MeSHRadiopharmaceutical MeSHReproducibilityofResults MeSHSensitivityandSpecificity MeSHTomography MeSHEmission-Computed MeSHTomography MeSHX-RayComputed

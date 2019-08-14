@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHCarcinoma MeSHSquamousCel MeSHChromosomeDeletion MeSHDNAMutationalAnalysis MeSHExons MeSHFemale MeSHGenes MeSHp5 MeSHHumans MeSHLeukoplakia MeSHOra MeSHMale MeSHMiddleAged MeSHMouthMucos MeSHMouthNeoplasm MeSHNeoplasmStaging MeSHPrecancerousCondition

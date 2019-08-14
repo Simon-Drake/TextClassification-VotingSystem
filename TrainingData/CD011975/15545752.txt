@@ -1,0 +1,3 @@
+Second trimester maternal serum screening for fetal open neural tube defects and aneuploidy.
+?
+['*Aneuploidy', 'Female', 'Fetal Diseases/*blood/diagnosis', 'Humans', 'Neural Tube Defects/*blood/diagnosis', 'Pregnancy', 'Pregnancy Trimester, Second', '*Prenatal Diagnosis/methods', 'alpha-Fetoproteins/*analysis']

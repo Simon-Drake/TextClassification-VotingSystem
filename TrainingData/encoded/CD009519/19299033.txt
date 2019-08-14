@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAged MeSHFemale MeSHFollow-UpStudies MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHNeoplasmRecurrence MeSHLocal MeSHPositron-EmissionTomography MeSHPrognosis MeSHRetrospectiveStudies MeSHRiskFactors MeSHSolitaryPulmonaryNodul MeSHTomography MeSHX-RayComputed

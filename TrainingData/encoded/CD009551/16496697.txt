@@ -1,0 +1,1 @@
+MeSHBaseSequence MeSHCarbonate MeSHChaetomiu MeSHCloning MeSHMolecular MeSHDNA MeSHComplementar MeSHGlyceraldehyde-3-PhosphateDehydrogenase MeSHMolecularSequenceData MeSHPolymeraseChainReaction MeSHSequenceAnalysis MeSHDNA MeSHTransformation MeSHGenetic MeSHYeast

@@ -1,0 +1,1 @@
+MeSHAdult MeSHCohortStudies MeSHDose-ResponseRelationship MeSHDrug MeSHEmbryoTransfer MeSHEndometriosis MeSHFemale MeSHFertilizationinVitro MeSHGonadotropin-ReleasingHormone MeSHHumans MeSHLuteolyticAgents MeSHOvary MeSHOvulationInduction MeSHPregnancy MeSHTriptorelinPamoate

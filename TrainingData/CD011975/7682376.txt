@@ -1,0 +1,3 @@
+Prenatal chromosome analysis today. Screening by maternal age or serum test?
+?
+['Adult', 'Biomarkers/blood', 'Down Syndrome/*diagnosis', 'Female', 'Genetic Testing/*methods', 'Humans', '*Maternal Age', 'Pregnancy', '*Pregnancy, High-Risk', 'Prenatal Diagnosis/*methods', 'Risk Factors', 'alpha-Fetoproteins/*analysis']

@@ -1,0 +1,1 @@
+MeSHAged MeSHFluorodeoxyglucoseF1 MeSHGeneExpressionRegulation MeSHNeoplastic MeSHGlucoseTransporterType MeSHHumans MeSHLungNeoplasm MeSHLymphaticMetastasis MeSHMale MeSHPositron-EmissionTomography MeSHProstaticNeoplasm MeSHTomography MeSHX-RayComputed

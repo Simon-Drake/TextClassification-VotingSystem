@@ -1,0 +1,3 @@
+Prenatal diagnosis of low-level mosaic tetrasomy 9p by amniocentesis.
+?
+['Adult', '*Amniocentesis', '*Aneuploidy', 'Chromosomes, Human, Pair 9/*genetics', 'Female', 'Genetic Markers', 'Humans', '*Mosaicism', 'Pregnancy']

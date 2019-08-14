@@ -1,0 +1,3 @@
+Commentary on imaging of bronchogenic carcinoma.
+?
+['Carcinoma, Bronchogenic/*diagnosis', 'Humans', 'Lung Neoplasms/*diagnosis', 'Positron-Emission Tomography', 'Radiography, Thoracic', 'Tomography, X-Ray Computed']

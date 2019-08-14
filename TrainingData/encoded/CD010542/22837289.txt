@@ -1,0 +1,1 @@
+MeSHAdult MeSHAreaUnderCurve MeSHBiopsy MeSHCase-ControlStudies MeSHElasticModulus MeSHElasticityImagingTechnique MeSHEndoscopy MeSHGastrointestinal MeSHFemale MeSHHepatitisB MeSHChroni MeSHHumans MeSHLive MeSHLiverCirrhosi MeSHMale MeSHROCCurve MeSHSensitivityandSpecificity MeSHSplee MeSHStatistics MeSHNonparametric

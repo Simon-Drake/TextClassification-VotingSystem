@@ -1,0 +1,1 @@
+MeSHAdult MeSHAgeFactors MeSHAged MeSHBronchialNeoplasm MeSHBronchography MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHRadiography MeSHThoracic MeSHRadiotherapyDosage MeSHSexFactors MeSHSmoking MeSHTomography

@@ -1,0 +1,3 @@
+[Clinical evaluation of Tl-201 single photon emission computed tomography in patients with suspected bronchogenic carcinoma].
+?
+['Carcinoma, Bronchogenic/diagnostic imaging/*secondary', 'Diagnosis, Differential', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Mediastinal Neoplasms/diagnostic imaging/*secondary', '*Thallium', '*Tomography, Emission-Computed']

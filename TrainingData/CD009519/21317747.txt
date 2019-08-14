@@ -1,0 +1,3 @@
+A rare case of endobronchial amelanotic melanoma.
+?
+['Aged', 'Bronchial Neoplasms/*pathology/surgery', 'Female', 'Humans', 'Melanoma, Amelanotic/*secondary/surgery', 'Positron-Emission Tomography', 'Skin Neoplasms/*secondary/surgery', 'Tomography, X-Ray Computed', 'Treatment Outcome']

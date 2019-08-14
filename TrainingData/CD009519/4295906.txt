@@ -1,0 +1,3 @@
+Pulmonary and mediastinal lymphography.
+?
+['Animals', 'Barium Sulfate', 'Contrast Media/administration & dosage/adverse effects', 'Dogs', 'Female', 'Humans', 'Injections', 'Iodized Oil', 'Lung/*diagnostic imaging', 'Lung Neoplasms/diagnostic imaging', 'Lymphatic Metastasis/diagnostic imaging', '*Lymphography', 'Male', 'Mediastinum/*diagnostic imaging', 'Middle Aged', 'Thorium Dioxide', 'Tomography']

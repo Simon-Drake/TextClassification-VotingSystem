@@ -1,0 +1,3 @@
+Non-cardiac Tl-201 uptake on myocardial perfusion SPECT study.
+?
+['Adenocarcinoma/complications/*diagnostic imaging', 'Aged', 'Angina Pectoris/etiology', 'Diagnosis, Differential', 'Fatal Outcome', 'Humans', 'Lung Neoplasms/complications/*diagnostic imaging', 'Male', 'Myocardial Ischemia/complications/diagnostic imaging', '*Radiopharmaceuticals', '*Thallium Radioisotopes', 'Tomography, Emission-Computed, Single-Photon', 'Tomography, X-Ray Computed']

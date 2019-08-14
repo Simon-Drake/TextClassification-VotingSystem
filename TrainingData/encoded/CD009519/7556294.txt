@@ -1,0 +1,1 @@
+MeSHAbdominalNeoplasm MeSHDeoxyglucos MeSHFluorineRadioisotopes MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMediastinalNeoplasm MeSHSeminom MeSHTeratom MeSHTesticularNeoplasm MeSHTomography MeSHEmission-Computed

@@ -1,0 +1,3 @@
+EBUS-TBNA in the differential diagnosis of pulmonary artery sarcoma and thromboembolism.
+?
+['Aged', 'Anticoagulants/therapeutic use', 'Atrial Fibrillation/diagnosis', 'Biopsy, Fine-Needle/methods', 'Diagnosis, Differential', 'Dyspnea/diagnosis/diagnostic imaging/physiopathology/surgery', 'Female', 'Fluorodeoxyglucose F18', 'Humans', 'Hypertension/diagnosis', 'Lung Neoplasms/diagnostic imaging/pathology', 'Multimodal Imaging', 'Positron-Emission Tomography', 'Pulmonary Artery/diagnostic imaging/*pathology', 'Pulmonary Embolism/diagnostic imaging/*pathology', 'Radiography, Thoracic', 'Sarcoma/diagnostic imaging/*pathology', 'Tomography, X-Ray Computed', 'Treatment Outcome', 'Ultrasonography', 'Vascular Neoplasms/diagnostic imaging/*pathology', 'Warfarin/therapeutic use']

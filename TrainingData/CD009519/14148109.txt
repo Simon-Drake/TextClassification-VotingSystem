@@ -1,0 +1,3 @@
+[RARE LOCALIZATION OF BRILL-SYMMERS DISEASE].
+?
+['Humans', '*Leukopenia', '*Lung Neoplasms', '*Lymphoma', '*Lymphoma, Follicular', 'Neoplasms/*radiotherapy', '*Pathology', '*Pneumonectomy', '*Radiography, Thoracic', '*Tomography', '*Tomography, X-Ray Computed']

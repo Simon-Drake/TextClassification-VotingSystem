@@ -1,0 +1,3 @@
+First-trimester scan in trisomy 14 mosaicism.
+?
+['Adult', '*Chromosomes, Human, Pair 14', 'Female', 'Humans', 'Mosaicism/*embryology', 'Pregnancy', 'Pregnancy Trimester, First', 'Trisomy/*diagnosis/genetics', '*Ultrasonography, Prenatal']

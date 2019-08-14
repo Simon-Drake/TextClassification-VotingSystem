@@ -1,0 +1,1 @@
+MeSHClinicalTrialsasTopic MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMassChestX-Ray MeSHMassScreenin MeSHRadiography MeSHThoraci MeSHSensitivityandSpecificity MeSHTomography MeSHSpiralComputed MeSHTomography MeSHX-RayComputed MeSHUnitedStates

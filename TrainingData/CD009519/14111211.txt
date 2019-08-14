@@ -1,0 +1,3 @@
+[A CASE TREATED AS PULMONARY TUBERCULOSIS].
+?
+['*Adenocarcinoma', '*Diagnosis, Differential', 'Humans', '*Lung Neoplasms', '*Radiography, Thoracic', '*Tomography', '*Tomography, X-Ray Computed', '*Tuberculosis, Pulmonary']

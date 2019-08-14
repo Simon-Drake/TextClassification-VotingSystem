@@ -1,0 +1,3 @@
+Endosonography for lung cancer staging: one scope fits all?
+?
+['Biopsy, Fine-Needle', 'Bronchoscopy', 'Carcinoma, Non-Small-Cell Lung/*diagnostic imaging/pathology', '*Endosonography', 'Humans', 'Lung Neoplasms/*diagnostic imaging/pathology', 'Lymphatic Metastasis', 'Neoplasm Staging', 'Positron-Emission Tomography', 'Sentinel Lymph Node Biopsy', 'Tomography, X-Ray Computed']

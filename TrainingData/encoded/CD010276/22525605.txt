@@ -1,0 +1,1 @@
+MeSHAntigens MeSHNeoplas MeSHBaseSequence MeSHBiomarkers MeSHTumo MeSHCarcinoma MeSHSquamousCel MeSHCase-ControlStudies MeSHDNAPrimers MeSHHumans MeSHInterleukin-1 MeSHLeukoplakia MeSHOra MeSHMouthMucos MeSHMouthNeoplasm MeSHReal-TimePolymeraseChainReaction MeSHSensitivityandSpecificity MeSHSerpin MeSHThrombomoduli

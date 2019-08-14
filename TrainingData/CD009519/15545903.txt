@@ -1,0 +1,3 @@
+Incidental situs inversus visualized with FDG PET/CT.
+?
+['Aged', 'Carcinoma, Non-Small-Cell Lung/diagnostic imaging/secondary', 'Diagnosis, Differential', 'Diagnostic Errors/prevention & control', '*Fluorodeoxyglucose F18', 'Humans', 'Image Enhancement/*methods', 'Incidental Findings', 'Lung Neoplasms/diagnostic imaging', 'Male', 'Positron-Emission Tomography/methods', 'Radiopharmaceuticals', 'Situs Inversus/*diagnostic imaging', '*Subtraction Technique', 'Tomography, X-Ray Computed/methods']

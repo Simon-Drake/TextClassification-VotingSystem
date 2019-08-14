@@ -1,0 +1,3 @@
+A useful roentgen sign in the diagnosis of localized bronchioloalveolar carcinoma.
+?
+['Adenocarcinoma, Bronchiolo-Alveolar/*diagnostic imaging', 'Aged', 'Calcinosis/pathology', 'Diagnosis, Differential', 'Female', 'Granuloma/diagnostic imaging', 'Humans', 'Lung Diseases/pathology', 'Lung Neoplasms/*diagnostic imaging/pathology', 'Male', 'Middle Aged', 'Pulmonary Alveoli/pathology', 'Radiography', 'Sex Factors', 'Sputum/pathology', 'Time Factors', 'Tomography']

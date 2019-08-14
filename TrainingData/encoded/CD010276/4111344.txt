@@ -1,0 +1,1 @@
+MeSHColoringAgents MeSHGingivalDisease MeSHGingivalNeoplasm MeSHHumans MeSHMale MeSHMiddleAged MeSHMouthNeoplasm MeSHNeoplasmMetastasi MeSHPhenothiazines MeSHStainingandLabeling MeSHToloniumChloride

@@ -1,0 +1,3 @@
+Locus-specific dual color-probe for the enumeration of chromosome 18 in rapid FISH aneuploidy testing on uncultured amniocytes.
+?
+['Amniotic Fluid/cytology/physiology', '*Aneuploidy', '*Chromosomes, Human, Pair 18', 'False Negative Reactions', 'False Positive Reactions', 'Female', 'Humans', 'In Situ Hybridization, Fluorescence/*methods', 'Pregnancy']

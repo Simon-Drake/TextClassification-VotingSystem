@@ -1,0 +1,1 @@
+MeSHAdult MeSHCase-ControlStudies MeSHChromosomes MeSHHuman MeSHPair13 MeSHChromosomes MeSHHuman MeSHPair18 MeSHDownSyndrome MeSHFemale MeSHHeartDefects MeSHCongenital MeSHHumans MeSHLogisticModels MeSHNeck MeSHPregnancy MeSHPregnancyTrimester MeSHFirst MeSHPregnancyTrimester MeSHSecond MeSHPrevalence MeSHTrisomy MeSHUltrasonography MeSHPrenatal

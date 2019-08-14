@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHBronchialNeoplasm MeSHBronchoscopy MeSHCarcinom MeSHCatheterization MeSHCellTransformation MeSHNeoplasti MeSHCicatri MeSHFemale MeSHHumans MeSHLung MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHRadiography MeSHSexFactors MeSHSputu MeSHTomography

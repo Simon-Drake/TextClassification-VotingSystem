@@ -1,0 +1,3 @@
+[Imaging diagnosis of early cancer: prospect and problems of present investigation].
+?
+['Diagnostic Imaging/*standards', 'Humans', 'Liver Neoplasms/diagnosis/pathology', 'Lung Neoplasms/diagnosis/pathology', 'Magnetic Resonance Imaging', 'Neoplasm Staging', 'Neoplasms/*diagnosis', 'Pancreatic Neoplasms/diagnosis/pathology', 'Tomography, Emission-Computed', 'Tomography, X-Ray Computed', 'Ultrasonography']

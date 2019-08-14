@@ -1,0 +1,1 @@
+MeSHCarcinom MeSHHumans MeSHMouthNeoplasm MeSHPhysicalExamination MeSHSarcom MeSHTimeFactors

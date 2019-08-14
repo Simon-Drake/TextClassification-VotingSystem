@@ -1,0 +1,1 @@
+MeSHBronchoscop MeSHCarcinoma MeSHBronchogeni MeSHHumans MeSHLungNeoplasm MeSHMassScreening MeSHPositron-EmissionTomography MeSHPrognosis MeSHRiskFactors MeSHSmokin MeSHSputu MeSHTomography MeSHX-RayComputed

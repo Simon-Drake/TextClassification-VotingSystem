@@ -1,0 +1,3 @@
+Metastatic colon carcinoma in a preexisting thyroid nodule.
+?
+['Adenocarcinoma/drug therapy/*secondary/surgery', 'Colonic Neoplasms/drug therapy/*pathology/surgery', 'Combined Modality Therapy', 'Female', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*secondary', 'Middle Aged', 'Positron-Emission Tomography', 'Thyroid Neoplasms/diagnosis/*secondary', 'Thyroid Nodule']

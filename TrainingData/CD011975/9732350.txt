@@ -1,0 +1,3 @@
+Screening for nuchal translucency. Measurements give parents useful information.
+?
+['Down Syndrome/prevention & control', 'Female', 'Fetus/*abnormalities', 'Humans', 'Neck/*embryology', 'Patient Satisfaction', 'Pregnancy', 'Ultrasonography, Prenatal/*methods']

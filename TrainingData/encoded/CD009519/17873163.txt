@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHNeedle MeSHClinicalTrialsasTopic MeSHEvidence-BasedMedicine MeSHHumans MeSHLungNeoplasm MeSHPositron-EmissionTomography MeSHSensitivityandSpecificity MeSHSolitaryPulmonaryNodul MeSHTomography MeSHX-RayComputed

@@ -1,0 +1,3 @@
+Small cell carcinoma of the lung: an incidental finding on routine cardiac imaging.
+We describe a case of small cell carcinoma of the lung presenting as a mediastinal mass detected incidentally on transthoracic echocardiography and nuclear SPECT imaging.
+['Aorta/pathology', 'Carcinoma, Small Cell/*diagnosis/diagnostic imaging/drug therapy', 'Echocardiography', 'Female', 'Humans', 'Incidental Findings', 'Lung Neoplasms/*diagnosis/diagnostic imaging/drug therapy', 'Mediastinal Neoplasms/*diagnosis/diagnostic imaging/drug therapy', 'Middle Aged', 'Pulmonary Artery/pathology', 'Tomography, Emission-Computed, Single-Photon', 'Tomography, X-Ray Computed']

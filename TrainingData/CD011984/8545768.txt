@@ -1,0 +1,3 @@
+Screening for Down syndrome.
+?
+['Adult', 'Down Syndrome/*prevention & control', 'Female', 'Humans', '*Mass Screening', 'Middle Aged', 'Prenatal Diagnosis', 'South Africa']

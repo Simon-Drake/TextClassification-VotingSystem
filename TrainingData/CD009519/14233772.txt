@@ -1,0 +1,3 @@
+ALVEOLAR CELL CARCINOMA: EXAMPLES OF FOUR CASES PREVIOUSLY UNREPORTED.
+?
+['*Adenocarcinoma', '*Adenocarcinoma, Bronchiolo-Alveolar', '*Adenocarcinoma, Papillary', '*Breast Neoplasms', '*Carcinoma', '*Geriatrics', 'Humans', '*Lung Neoplasms', '*Neoplasm Metastasis', '*Pathology', '*Purpura', '*Radiography, Thoracic', '*Surgical Procedures, Operative', '*Thyroid Neoplasms', '*Tomography']

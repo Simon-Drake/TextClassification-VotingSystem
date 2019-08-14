@@ -1,0 +1,3 @@
+Prenatal diagnosis of trisomy 17 mosaicism.
+?
+['*Amniocentesis', '*Chromosomes, Human, Pair 17', 'Female', 'Humans', 'Infant, Newborn', 'Male', '*Mosaicism', 'Pregnancy', 'Trisomy/*diagnosis/pathology']

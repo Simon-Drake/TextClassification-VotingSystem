@@ -1,0 +1,3 @@
+[USE OF ANGIOTOMOGRAPHY IN THE DEMONSTRATION OF ENLARGED LYMPH NODES IN THE LUNG HILUS AND IN THE MEDIASTINUM].
+?
+['*Angiography', 'Humans', '*Lung Neoplasms', '*Lymph Nodes', '*Lymphatic Metastasis', '*Mediastinum', 'Neoplasms/*diagnosis', '*Tomography', '*Tomography, X-Ray Computed']

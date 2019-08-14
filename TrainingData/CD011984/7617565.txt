@@ -1,0 +1,3 @@
+Confined placental mosaicism.
+?
+['Chorionic Villi Sampling', 'Chromosome Aberrations/pathology', 'Chromosome Disorders', 'Extraembryonic Membranes/ultrastructure', 'Female', 'Humans', 'Karyotyping', 'Maternal Age', '*Mosaicism', 'Placenta/*ultrastructure', 'Pregnancy']

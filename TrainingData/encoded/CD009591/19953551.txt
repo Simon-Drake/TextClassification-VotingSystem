@@ -1,0 +1,1 @@
+MeSHBiomarkers MeSHTumor MeSHCarcinoma MeSHEndometrioid MeSHCase-ControlStudies MeSHFemale MeSHGlycoproteins MeSHGlycosylation MeSHHumans MeSHNeoplasmProteins MeSHNeoplasmStaging MeSHOvarianNeoplasms MeSHProteome MeSHReproducibilityofResults

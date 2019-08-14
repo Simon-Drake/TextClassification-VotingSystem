@@ -1,0 +1,1 @@
+MeSHColor MeSHDentalAmalga MeSHDentalCarie MeSHDentalEname MeSHDentalRestoration MeSHPermanen MeSHHumans MeSHRadiography MeSHRecurrence MeSHSurfaceProperties MeSHToothRoo

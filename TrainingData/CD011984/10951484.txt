@@ -1,0 +1,3 @@
+First trimester prenatal diagnosis of trisomy 21 in discordant twins using fetal nuchal translucency thickness and maternal serum free beta-hCG and PAPP-A.
+?
+['Adult', 'Chorionic Gonadotropin, beta Subunit, Human/*blood', '*Diseases in Twins', 'Down Syndrome/blood/*diagnosis/diagnostic imaging', 'Female', 'Humans', 'Neck/*diagnostic imaging/*embryology', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy-Associated Plasma Protein-A/*analysis', '*Prenatal Diagnosis', 'Ultrasonography']

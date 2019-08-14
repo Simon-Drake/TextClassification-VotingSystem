@@ -1,0 +1,3 @@
+Serum screening for Down's syndrome.
+?
+['Algorithms', 'Down Syndrome/blood/diagnosis/*epidemiology', 'Female', 'Humans', '*Mass Screening', 'Patient Acceptance of Health Care', 'Prenatal Diagnosis', 'Prevalence', 'Risk Factors', 'Wales/epidemiology']

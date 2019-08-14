@@ -1,0 +1,1 @@
+MeSHColorectalNeoplasms MeSHDiagnosis MeSHDifferential MeSHEndometriosis MeSHEndosonography MeSHFemale MeSHGastrointestinalStromalTumors MeSHHumans MeSHMiddleAged MeSHRectalDiseases MeSHSigmoidDiseases

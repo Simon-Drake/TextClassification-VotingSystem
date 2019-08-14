@@ -1,0 +1,3 @@
+FDG PET/CT metabolic tumour volume in small-cell lung cancer: better staging and prognostic stratification for an improved therapeutic strategy.
+?
+['Female', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/*pathology', 'Male', '*Multimodal Imaging', '*Positron-Emission Tomography', 'Small Cell Lung Carcinoma/*diagnostic imaging/*pathology', '*Tomography, X-Ray Computed', '*Tumor Burden']

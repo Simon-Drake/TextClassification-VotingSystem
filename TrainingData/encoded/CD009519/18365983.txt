@@ -1,0 +1,1 @@
+MeSHAirwayObstructio MeSHAnastomosis MeSHSurgica MeSHBronch MeSHBronchialNeoplasm MeSHBronchoscopy MeSHDiagnosis MeSHDifferential MeSHFemale MeSHHumans MeSHMiddleAged MeSHPositron-EmissionTomography MeSHSarcom MeSHTomography MeSHX-RayComputed MeSHTrache

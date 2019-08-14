@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAged MeSHFatalOutcome MeSHHear MeSHHumans MeSHLungNeoplasm MeSHMale MeSHOrganotechnetiumCompounds MeSHRadiopharmaceuticals MeSHSolitaryPulmonaryNodul MeSHSomatostati MeSHTomography MeSHEmission-Computed MeSHSingle-Photon

@@ -1,0 +1,1 @@
+MeSHBiomarker MeSHBiopsy MeSHNeedl MeSHChronicDisease MeSHClinicalCompetence MeSHElasticity MeSHEquipmentDesign MeSHHepatitis MeSHViral MeSHHuma MeSHHumans MeSHLaparoscopy MeSHLive MeSHLiverCirrhosi MeSHNeedles MeSHPatientSelection MeSHSeverityofIllnessIndex MeSHUltrasonography MeSHInterventional

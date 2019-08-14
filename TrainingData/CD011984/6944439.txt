@@ -1,0 +1,3 @@
+Extra microchromosome mosaicism in amniotic cells confirmed in fetal tissues.
+Mosaicism for an extra microchromosome was discovered in amniotic cell cultures of a 39-year-old woman. Using G, Q, C bands and silver staining, it was concluded that the extra chromosome was bisatellited. Parents' karyotype was normal. Parents elected for termination of the pregnancy. The presence of the extra microchromosome was confirmed in various tissues of the aborted fetus. The literature on the subject is briefly reviewed.
+['Adult', 'Amniotic Fluid/*cytology', 'Cells, Cultured', '*Chromosome Aberrations', 'Chromosomes, Human, 21-22 and Y', 'Chromosomes, Human, 6-12 and X', 'Female', 'Genetic Markers', 'Humans', 'Karyotyping', '*Mosaicism']

@@ -1,0 +1,1 @@
+MeSHCatalysis MeSHCloning MeSHMolecular MeSHEscherichiacol MeSHFungalProtein MeSHGenes MeSHBacteria MeSHGlutathioneTransferas MeSHOpenReadingFrames MeSHPenicilliumchrysogenu MeSHRecombinantProtein MeSHSequenceAnalysis MeSHProtein

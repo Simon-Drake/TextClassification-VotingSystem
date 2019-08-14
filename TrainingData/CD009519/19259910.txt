@@ -1,0 +1,3 @@
+[Extensive mediastinal staging in lung cancer--contra].
+?
+['Evidence-Based Medicine', 'Humans', 'Lung Neoplasms/*pathology', '*Lymphatic Metastasis/pathology', 'Mediastinoscopy/*contraindications/*methods/standards', 'Neoplasm Staging', 'Positron-Emission Tomography/methods/standards', 'Predictive Value of Tests', 'Randomized Controlled Trials as Topic', 'Sensitivity and Specificity', 'Tomography, X-Ray Computed/methods/standards']

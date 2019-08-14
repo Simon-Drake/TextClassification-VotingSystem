@@ -1,0 +1,3 @@
+[ANATOMO-RADIOLOGICAL PARALLELS IN NEOPLASMS OF THE LUNG. FORMS AND INTERPRETATION OF "BALL-SHAPED" CARCINOMAS].
+?
+['*Lung Neoplasms', 'Neoplasms/*diagnosis', '*Radiography', '*Tomography', '*Tomography, X-Ray Computed']

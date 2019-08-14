@@ -1,0 +1,3 @@
+MOD settles over Down's syndrome child.
+?
+['Amniocentesis', 'Child', 'Down Syndrome/*diagnosis', 'Humans', 'Liability, Legal', '*Military Medicine', '*Prenatal Diagnosis', '*Refusal to Treat', 'United Kingdom']

@@ -1,0 +1,3 @@
+Interesting image. Two primary colon cancers shown on FDG PET/CT performed to evaluate possible lung metastases from bladder cancer.
+?
+['Aged', 'Colonic Neoplasms/*diagnosis', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnosis/*secondary', 'Male', 'Neoplasms, Multiple Primary/*diagnosis', '*Positron-Emission Tomography', 'Radiopharmaceuticals', 'Subtraction Technique', '*Tomography, X-Ray Computed', 'Urinary Bladder Neoplasms/*diagnosis']

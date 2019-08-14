@@ -1,0 +1,1 @@
+MeSHDiagnosis MeSHDifferential MeSHDiagnosticErrors MeSHFemale MeSHFollow-UpStudies MeSHHemorrhage MeSHHumans MeSHLikelihoodFunctions MeSHOvarianCysts MeSHPredictiveValueofTests MeSHSensitivityandSpecificity MeSHUltrasonography

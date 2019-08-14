@@ -1,0 +1,3 @@
+[Screening for trisomy 21 in France].
+?
+['Down Syndrome/*diagnosis', 'Female', 'France', 'Humans', 'Pregnancy', 'Pregnancy Trimesters', '*Prenatal Diagnosis']

@@ -1,0 +1,1 @@
+MeSHAdenocarcinoma MeSHBloodVessels MeSHDNA MeSHNeoplasm MeSHFemale MeSHHumans MeSHMyometrium MeSHNeoplasmInvasiveness MeSHNeoplasmRecurrence MeSHLocal MeSHNeoplasmStaging MeSHPloidies MeSHRiskFactors MeSHSurvivalAnalysis MeSHUterineNeoplasms

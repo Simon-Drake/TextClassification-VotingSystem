@@ -1,0 +1,3 @@
+[Incidence of Down syndrome and prenatal diagnosis during the years 1984-88 in Finland].
+?
+['Adolescent', 'Adult', 'Down Syndrome/diagnosis/*epidemiology', 'Female', 'Finland/epidemiology', 'Humans', 'Infant, Newborn', 'Maternal Age', 'Middle Aged', 'Pregnancy', 'Prenatal Diagnosis']

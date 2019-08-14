@@ -1,0 +1,1 @@
+MeSHAspergillusoryza MeSHBasicHelix-Loop-HelixTranscriptionFactor MeSHDNAPrimers MeSHFungalProtein MeSHGeneExpressionRegulation MeSHFungal MeSHGeneKnockoutTechniques MeSHGreenFluorescentProtein MeSHHelix-Loop-HelixMotif MeSHHypha MeSHPolymeraseChainReaction MeSHSpores MeSHFunga

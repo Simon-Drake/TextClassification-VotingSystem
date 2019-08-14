@@ -1,0 +1,3 @@
+Pre-implantation genetic diagnosis.
+Pre-implantation genetic diagnosis (PGD) was developed in the UK over 10 years ago. There are now more than 40 centres worldwide carrying out PGD and 150 babies have been born after genetic testing on day 3 of development, at the cleavage stage. This review covers the current status of PGD, the technology used and the types of genetically determined diseases for which testing has been developed.
+['Aneuploidy', 'Chromosome Aberrations/diagnosis', 'Chromosome Disorders', 'Female', 'Fertilization in Vitro', 'Humans', 'In Situ Hybridization, Fluorescence', 'Male', 'Mosaicism/diagnosis', 'Pregnancy', 'Preimplantation Diagnosis/*methods', 'Sex Determination Analysis/methods']

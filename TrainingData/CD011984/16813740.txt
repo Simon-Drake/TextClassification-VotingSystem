@@ -1,0 +1,3 @@
+What is the role of fetal nasal bone examination in the assessment of risk for trisomy 21 in clinical practice?
+?
+['Cost-Benefit Analysis', 'Down Syndrome/*diagnostic imaging/*epidemiology', 'Female', 'Humans', 'Nasal Bone/*diagnostic imaging/*embryology', 'Nuchal Translucency Measurement', 'Pregnancy', 'Pregnancy Trimester, First', 'Risk Assessment', '*Ultrasonography, Prenatal/economics']

@@ -1,0 +1,3 @@
+Screening for Down's syndrome. Statistical modelling is best tool for formulating screening policy.
+?
+['Adult', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Maternal Age', '*Models, Statistical', 'Pregnancy', 'Pregnancy, High-Risk', 'Prenatal Diagnosis/*methods']

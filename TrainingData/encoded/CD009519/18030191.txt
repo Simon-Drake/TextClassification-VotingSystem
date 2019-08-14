@@ -1,0 +1,1 @@
+MeSHAdenocarcinoma MeSHBronchiolo-Alveola MeSHFalseNegativeReactions MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHMiddleAged MeSHPositron-EmissionTomography MeSHSensitivityandSpecificity MeSHTomography MeSHEmission-Computed

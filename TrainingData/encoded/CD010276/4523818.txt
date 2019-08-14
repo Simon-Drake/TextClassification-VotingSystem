@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHCarcinomainSit MeSHCyst MeSHCytodiagnosis MeSHDiagnosis MeSHDifferential MeSHEpithelialCells MeSHFemale MeSHHumans MeSHMiddleAged MeSHPalatineTonsi MeSHTongu MeSHTongueDisease MeSHTongueNeoplasm

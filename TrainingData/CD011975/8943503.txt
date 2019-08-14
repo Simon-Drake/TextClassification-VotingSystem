@@ -1,0 +1,3 @@
+Preimplantation diagnosis of common aneuploidies in infertile couples of advanced maternal age.
+?
+['*Aneuploidy', '*Embryonic Development', 'Female', '*Genetic Testing', 'Humans', 'Infertility/*therapy', '*Maternal Age', 'Pregnancy', '*Pregnancy, High-Risk', '*Reproductive Techniques']

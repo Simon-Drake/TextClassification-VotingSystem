@@ -1,0 +1,3 @@
+Sonographic measurements and ratios in fetuses with Down syndrome.
+?
+['Down Syndrome/*diagnosis', 'Female', 'Humans', 'Predictive Value of Tests', 'Pregnancy', '*Ultrasonography']

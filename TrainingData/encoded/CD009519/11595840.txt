@@ -1,0 +1,1 @@
+MeSHBloodGlucos MeSHFalseNegativeReactions MeSHFluorodeoxyglucoseF1 MeSHFood-DrugInteractions MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHRadiopharmaceutical MeSHSolitaryPulmonaryNodul MeSHTomography MeSHEmission-Computed

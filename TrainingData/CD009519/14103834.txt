@@ -1,0 +1,3 @@
+[CARCINOMA IN TUBERCULOUS CAVERNS DIAGNOSED IN VIVO].
+?
+['*Bronchial Neoplasms', '*Carcinoma', '*Carcinoma, Bronchogenic', '*Caves', '*Diagnosis, Differential', '*Lung Neoplasms', '*Neoplasm Metastasis', '*Pneumonectomy', '*Radiography, Thoracic', '*Thyroid Neoplasms', '*Tomography', '*Tuberculosis', '*Tuberculosis, Pulmonary']

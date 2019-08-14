@@ -1,0 +1,1 @@
+MeSHCytodiagnosis MeSHFalseNegativeReactions MeSHFalsePositiveReactions MeSHHumans MeSHLeukoplakia MeSHOra MeSHMouthNeoplasm

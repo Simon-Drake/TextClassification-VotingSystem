@@ -1,0 +1,3 @@
+Screening for chromosomal defects by fetal nuchal translucency at 11 to 14 weeks.
+?
+['*Chromosome Aberrations', 'Chromosome Disorders/*diagnostic imaging', 'Down Syndrome/diagnosis', 'Female', 'Humans', 'Maternal Age', 'Neck/*embryology', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy Trimester, Second', '*Ultrasonography, Prenatal']

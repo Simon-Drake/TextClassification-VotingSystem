@@ -1,0 +1,3 @@
+An unusual case of carcinoma ex pleomorphic adenoma of the parotid metastasizing to the mandible: case report and review of the literature.
+?
+['Adenocarcinoma/pathology/*secondary', 'Adenoma, Pleomorphic/*pathology', 'Adult', 'Biopsy, Fine-Needle', 'Chemoradiotherapy, Adjuvant', 'Contrast Media', 'Female', 'Humans', 'Lung Neoplasms/secondary', 'Mandibular Neoplasms/*secondary', 'Multimodal Imaging', 'Neck Dissection', 'Neoplasm Invasiveness', 'Parotid Neoplasms/*pathology', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed/methods']

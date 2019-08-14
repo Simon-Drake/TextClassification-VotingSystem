@@ -1,0 +1,3 @@
+[Bronchial adenoma (clinical picture, diagnosis and surgical treatment)].
+?
+['*Adenoma/diagnosis/diagnostic imaging/pathology/surgery', 'Adult', 'Age Factors', '*Bronchial Neoplasms/diagnosis/diagnostic imaging/pathology/surgery', 'Bronchography', 'Bronchoscopy', 'Carcinoma, Adenoid Cystic/diagnosis/diagnostic imaging/pathology/surgery', 'Carcinoma, Bronchogenic/diagnosis', 'Cough/etiology', 'Diagnosis, Differential', 'Female', 'Hemoptysis/etiology', 'Humans', 'Male', 'Middle Aged', 'Myoepithelioma/diagnosis/diagnostic imaging/pathology/surgery', 'Pneumonectomy', 'Pulmonary Atelectasis/etiology', 'Sex Factors', 'Tomography', 'Tracheal Neoplasms']

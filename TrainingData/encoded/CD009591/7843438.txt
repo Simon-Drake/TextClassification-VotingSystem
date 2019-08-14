@@ -1,0 +1,1 @@
+MeSHAdult MeSHCells MeSHCultured MeSHChemokineCCL2 MeSHChemotacticFactors MeSHEndometriosis MeSHEndometrium MeSHEpithelium MeSHFemale MeSHHumans MeSHImmunohistochemistry MeSHImmunosorbentTechniques MeSHInterleukin-1 MeSHMolecularWeight MeSHStromalCells MeSHTumorNecrosisFactor-alpha

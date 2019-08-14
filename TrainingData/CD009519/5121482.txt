@@ -1,0 +1,3 @@
+[Clinico-roentgenologic characteristics of pulmonary hernias ino the mediastinum following pneumonectomy].
+?
+['Adolescent', 'Adult', 'Female', '*Hernia', 'Humans', 'Lung Diseases/surgery', 'Lung Neoplasms/surgery', 'Mediastinal Diseases/*diagnostic imaging', 'Middle Aged', '*Pneumonectomy', 'Postoperative Complications', 'Radiography', 'Suppuration', 'Tomography', 'Tuberculosis, Pulmonary/surgery']

@@ -1,0 +1,3 @@
+Carcinoma of the lung misinterpreted as pulmonary sequestration on contrast CT but correctly identified on FDG PET/CT.
+?
+['Aged', 'Bronchopulmonary Sequestration/*diagnostic imaging', '*Diagnostic Errors', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', '*Positron-Emission Tomography', '*Tomography, X-Ray Computed']

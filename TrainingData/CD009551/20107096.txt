@@ -1,0 +1,3 @@
+Rapid diagnosis of azole-resistant aspergillosis by direct PCR using tissue specimens.
+We report the use of PCR techniques on a formalin-fixed and paraffin-embedded tissue specimen for direct detection of one dominant azole resistance mechanism in a case of disseminated invasive aspergillosis. Rapid detection of mutations associated with azole resistance directly in tissue significantly reduces diagnostic delay.
+['Antifungal Agents/*pharmacology', 'Aspergillosis/*diagnosis/microbiology', 'Aspergillus/*drug effects/genetics/isolation & purification', 'Azoles/*pharmacology', 'Clinical Laboratory Techniques/*methods', 'DNA Primers/genetics', 'DNA, Fungal/genetics', '*Drug Resistance, Fungal', 'Humans', 'Male', 'Middle Aged', 'Polymerase Chain Reaction/*methods']

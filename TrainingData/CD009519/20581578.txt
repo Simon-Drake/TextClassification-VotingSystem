@@ -1,0 +1,3 @@
+Tumor necrosis and cavitation after stereotactic body radiation therapy.
+?
+['Aged', 'Aged, 80 and over', 'Carcinoma, Squamous Cell/diagnostic imaging/pathology/*surgery', 'Female', 'Humans', 'Lung Neoplasms/diagnostic imaging/pathology/*surgery', 'Male', 'Necrosis/diagnostic imaging', 'Positron-Emission Tomography', 'Prognosis', '*Radiosurgery', 'Tomography, X-Ray Computed']

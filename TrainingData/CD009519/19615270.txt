@@ -1,0 +1,3 @@
+[Clinical significance of (18)F-FDG PET-CT in evaluation of the therapeutic efficacy of chemotherapy for lung cancer].
+?
+['Adult', 'Aged', 'Antineoplastic Combined Chemotherapy Protocols/therapeutic use', 'Carcinoma, Non-Small-Cell Lung/diagnostic imaging/drug therapy', 'Female', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/*drug therapy', 'Male', 'Middle Aged', '*Positron-Emission Tomography', 'Small Cell Lung Carcinoma/*diagnostic imaging/*drug therapy', 'Tomography, X-Ray Computed']

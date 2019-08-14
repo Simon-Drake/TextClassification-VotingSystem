@@ -1,0 +1,3 @@
+Sonographic sign for Down syndrome.
+?
+['Down Syndrome/*diagnosis', 'Female', 'Humans', 'Pregnancy', 'Prenatal Diagnosis', '*Ultrasonography']

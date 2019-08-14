@@ -1,0 +1,3 @@
+Pre-natal counselling and diagnosis in Down's syndrome.
+?
+['Ambulatory Care Facilities', '*Amniocentesis', '*Chromosome Aberrations', 'Clinical Laboratory Techniques', 'Congenital, Hereditary, and Neonatal Diseases and Abnormalities', '*Counseling', '*Diagnosis', 'Disease', 'Europe', 'Europe, Eastern', 'Genetic Techniques', 'Genetics', 'Health Planning', 'Hungary', 'Organization and Administration']

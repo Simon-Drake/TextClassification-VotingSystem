@@ -1,0 +1,3 @@
+The (US) National Lung Cancer Screening Trial: intensifying the debate about the introduction of screening for lung cancer.
+?
+['Aged', 'Early Detection of Cancer/*methods', 'Humans', 'Lung/*diagnostic imaging', 'Lung Neoplasms/*diagnostic imaging', 'Middle Aged', 'Tomography, Spiral Computed/methods', 'United Kingdom', 'United States']

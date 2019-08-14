@@ -1,0 +1,1 @@
+MeSHBreastNeoplasm MeSHDiagnosis MeSHDifferential MeSHDigestiveSystemNeoplasm MeSHFemale MeSHGranulom MeSHHematologicNeoplasm MeSHHumans MeSHLungNeoplasm MeSHMale MeSHNeoplasm MeSHSarcoidosi MeSHSkinNeoplasm MeSHTesticularNeoplasm

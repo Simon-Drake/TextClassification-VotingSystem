@@ -1,0 +1,1 @@
+MeSHCost-BenefitAnalysi MeSHFemale MeSHFluorodeoxyglucoseF1 MeSHHealthCareCost MeSHHumans MeSHItal MeSHLungNeoplasm MeSHMale MeSHPositron-EmissionTomograph MeSHRadiopharmaceutical MeSHReproducibilityofResults MeSHSensitivityandSpecificity MeSHTomography MeSHX-RayCompute

@@ -1,0 +1,3 @@
+Solitary mast cell "tumor" of lung. Its place in the spectrum of mast cell disease.
+?
+['Aged', 'Diagnosis, Differential', 'Female', 'Humans', 'Lung Neoplasms/*diagnosis', '*Mast Cells', 'Plasmacytoma/*diagnosis', 'Pneumonectomy', 'Radiography, Thoracic', 'Solitary Pulmonary Nodule/diagnosis', 'Staining and Labeling', 'Tomography', 'Urticaria Pigmentosa']

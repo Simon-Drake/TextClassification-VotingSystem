@@ -1,0 +1,1 @@
+MeSHDiagnosis MeSHDifferential MeSHHumans MeSHLungNeoplasm MeSHNeoplasmStagin MeSHPositron-EmissionTomograph MeSHReproducibilityofResults

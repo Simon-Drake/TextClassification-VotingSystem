@@ -1,0 +1,1 @@
+MeSHCommunityHealthService MeSHHumans MeSHMassScreenin MeSHMouthNeoplasm MeSHPhysicalExaminatio MeSHPrecancerousCondition MeSHToloniumChloride

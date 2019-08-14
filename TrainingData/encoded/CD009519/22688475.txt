@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHCarcinoma MeSHSquamousCel MeSHCystoscopy MeSHDiagnosticImaging MeSHFemale MeSHHematuri MeSHHumans MeSHKidneyNeoplasm MeSHLungNeoplasm MeSHMiddleAged

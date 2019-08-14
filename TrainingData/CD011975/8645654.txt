@@ -1,0 +1,3 @@
+The impact of maternal age on the cost effectiveness of Down's syndrome screening.
+?
+['Adolescent', 'Adult', 'Cost-Benefit Analysis', 'Down Syndrome/economics/*prevention & control', 'Female', 'Humans', 'Mass Screening/*economics', '*Maternal Age', 'Middle Aged', 'Pregnancy', 'Prenatal Diagnosis/*economics']

@@ -1,0 +1,3 @@
+Prenatal detection of trisomy 21 by fluorescent polymerase chain reaction: importance of primer selection and criticism of an earlier report.
+?
+['DNA Primers', 'Down Syndrome/*diagnosis', 'Female', 'Fetal Diseases/*diagnosis', 'Humans', 'Microsatellite Repeats', 'Pregnancy', '*Prenatal Diagnosis', 'Reproducibility of Results']

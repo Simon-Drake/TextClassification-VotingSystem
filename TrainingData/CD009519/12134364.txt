@@ -1,0 +1,3 @@
+Positron emission tomography: lung cancer.
+?
+['Carcinoma, Non-Small-Cell Lung/*diagnostic imaging', 'Cost-Benefit Analysis', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Neoplasm Staging', 'Radiopharmaceuticals', 'Tomography, Emission-Computed/*methods']

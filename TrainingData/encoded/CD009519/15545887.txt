@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAged MeSHArtifacts MeSHDiagnosis MeSHDifferential MeSHDiagnosticError MeSHFemale MeSHFluorodeoxyglucoseF1 MeSHHumans MeSHLungNeoplasm MeSHPositron-EmissionTomograph MeSHRadiopharmaceutical MeSHSeatBelt MeSHSoftTissueInjurie

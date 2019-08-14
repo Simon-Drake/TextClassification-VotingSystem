@@ -1,0 +1,3 @@
+Detection of Aspergillus DNA in bronchoalveolar lavage fluid of AIDS patients by the polymerase chain reaction.
+?
+['Acquired Immunodeficiency Syndrome/*complications/microbiology', 'Adult', 'Aspergillosis/*diagnosis', 'Aspergillus/*genetics', 'Bronchoalveolar Lavage Fluid/*microbiology', 'DNA, Fungal', 'Female', 'Humans', 'Lung Diseases, Fungal/*diagnosis', 'Male', 'Middle Aged', 'Polymerase Chain Reaction']

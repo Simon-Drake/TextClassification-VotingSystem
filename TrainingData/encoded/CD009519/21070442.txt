@@ -1,0 +1,1 @@
+MeSHBreastNeoplasm MeSHCarcinoma MeSHNeuroendocrin MeSHCarcinoma MeSHSmallCel MeSHFemale MeSHHumans MeSHMiddleAged MeSHPositron-EmissionTomography MeSHPrognosis MeSHTomography MeSHX-RayComputed

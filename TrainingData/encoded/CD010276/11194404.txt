@@ -1,0 +1,1 @@
+MeSHClinicalProtocols MeSHDentalRecords MeSHDiagnosis MeSHOra MeSHHumans MeSHMassScreenin MeSHMedicalHistoryTaking MeSHMouthNeoplasm

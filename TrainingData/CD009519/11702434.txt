@@ -1,0 +1,3 @@
+Positron emission tomography (PET) imaging for solitary pulmonary nodules--review of the Delaware experience.
+?
+['Delaware', 'Female', 'Follow-Up Studies', 'Humans', 'Lung Neoplasms/*diagnostic imaging/pathology', 'Male', 'Retrospective Studies', 'Sensitivity and Specificity', 'Solitary Pulmonary Nodule/*diagnostic imaging/pathology', '*Tomography, Emission-Computed']

@@ -1,0 +1,1 @@
+MeSHAdult MeSHDiagnosis MeSHDifferential MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungDisease MeSHLungNeoplasm MeSHLymphNode MeSHMale MeSHMediastinu MeSHMiddleAged MeSHPositron-EmissionTomography MeSHRadiopharmaceuticals MeSHSarcoidosi MeSHTomography MeSHX-RayComputed

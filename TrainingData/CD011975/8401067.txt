@@ -1,0 +1,3 @@
+Antenatal screening for Down's syndrome. The west of Scotland's screening programme.
+?
+['Down Syndrome/*diagnosis', 'Female', 'Fetal Diseases/*diagnosis', 'Humans', 'Mass Screening/*psychology', 'Pregnancy', 'Prenatal Diagnosis/*psychology', 'Scotland']

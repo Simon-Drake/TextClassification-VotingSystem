@@ -1,0 +1,3 @@
+Prenatal screening.
+?
+['Adult', 'Down Syndrome/prevention & control', 'Female', 'Fetus/*abnormalities', 'Genetic Testing/*methods', 'Humans', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy Trimester, Second', 'Prenatal Diagnosis/*methods', 'Ultrasonography, Prenatal/*methods']

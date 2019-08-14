@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHNeuroendocrin MeSHCarcinosarcom MeSHFallopianTube MeSHFemale MeSHHumans MeSHHysterectomy MeSHLungNeoplasm MeSHLymphNode MeSHMastectomy MeSHSegmental MeSHMiddleAged MeSHOvariectomy MeSHPositron-EmissionTomography MeSHSarcoidosi MeSHTomography MeSHX-RayComputed MeSHUterineNeoplasm

@@ -1,0 +1,3 @@
+Faster genetic identification of medically important aspergilli by using gellan gum as gelling agent in mycological media.
+Using gellan gum as a substitute for agar-agar in a mycological medium and sequencing of the ITS 1 and 2 regions resulted in an accurate identification of Aspergillus fumigatus, Aspergillus nidulans, Aspergillus terreus and Aspergillus ustus within 24 h of subculture.
+['Aspergillus/*classification/*genetics', 'Consensus Sequence', 'Culture Media/*chemistry', 'DNA, Fungal/genetics', 'DNA, Ribosomal Spacer/genetics', 'Mycological Typing Techniques/*methods', 'Polymerase Chain Reaction', '*Polysaccharides, Bacterial', 'Sequence Alignment', 'Sequence Analysis, DNA', 'Time Factors']

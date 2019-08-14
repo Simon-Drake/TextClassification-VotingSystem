@@ -1,0 +1,3 @@
+Polymerase chain reaction in the diagnosis of invasive aspergillosis.
+In the present study, we present a patient with invasive pulmonary aspergillosis caused by Aspergillus fumigatus diagnosed by polymerase chain reaction (PCR) technique on blood and bronchoalveolar lavage fluid samples of the patient. The value of PCR in the diagnosis of aspergillosis is discussed.
+['Aspergillosis/*diagnosis/microbiology', 'Aspergillus fumigatus/genetics/isolation & purification', 'Blood/microbiology', 'Bronchoalveolar Lavage Fluid/microbiology', 'Humans', 'Lung Diseases, Fungal/diagnosis/microbiology', 'Male', 'Middle Aged', 'Polymerase Chain Reaction/*methods']

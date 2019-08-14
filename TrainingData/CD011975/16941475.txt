@@ -1,0 +1,3 @@
+The role of informed consent in aneuploidy screening.
+?
+['Adult', '*Aneuploidy', 'Female', 'Genetic Testing/*methods', 'Humans', '*Informed Consent', 'Pregnancy']

@@ -1,0 +1,3 @@
+Serum screening for Down's syndrome. Not adequately validated.
+?
+['Down Syndrome/*prevention & control', 'Female', 'Humans', 'Pregnancy', '*Prenatal Diagnosis/methods', 'Sensitivity and Specificity']

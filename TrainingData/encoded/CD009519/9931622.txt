@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHBronchogeni MeSHColorectalNeoplasm MeSHFluorodeoxyglucoseF18 MeSHGlycolysi MeSHHumans MeSHLungNeoplasm MeSHNeoplasm MeSHPancreaticNeoplasm MeSHSensitivityandSpecificity MeSHTomography MeSHEmission-Computed

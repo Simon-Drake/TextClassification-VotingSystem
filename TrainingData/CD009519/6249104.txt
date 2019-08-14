@@ -1,0 +1,3 @@
+Lung metastases from synovial sarcoma simulating granulomas.
+?
+['Adult', 'Calcinosis/diagnostic imaging', 'Diagnosis, Differential', 'Granuloma/*diagnosis/diagnostic imaging', 'Hamartoma/diagnostic imaging/*secondary', 'Humans', 'Lung Neoplasms/diagnostic imaging/*secondary', 'Male', 'Radiography', 'Sarcoma, Synovial/*diagnostic imaging', 'Soft Tissue Neoplasms/*diagnostic imaging', 'Thigh', 'Tomography']

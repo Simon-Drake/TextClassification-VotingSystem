@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHCytodiagnosis MeSHDiagnosis MeSHDifferential MeSHHumans MeSHLipNeoplasm MeSHMouthNeoplasm MeSHPrecancerousCondition

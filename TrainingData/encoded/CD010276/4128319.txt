@@ -1,0 +1,1 @@
+MeSHFalseNegativeReactions MeSHFalsePositiveReactions MeSHHumans MeSHIndia MeSHLeukoplakia MeSHOra MeSHMassScreening MeSHMouthNeoplasm MeSHPrecancerousCondition MeSHSmokin MeSHStainingandLabeling MeSHStomatiti MeSHToloniumChloride MeSHToluidines

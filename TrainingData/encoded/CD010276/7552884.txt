@@ -1,0 +1,1 @@
+MeSHDiagnosticErrors MeSHHumans MeSHLeukoplakia MeSHOra MeSHMouthDisease MeSHMouthMucos MeSHMouthNeoplasm MeSHObserverVariation MeSHPathology MeSHOra MeSHReproducibilityofResults

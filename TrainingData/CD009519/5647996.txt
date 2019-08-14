@@ -1,0 +1,3 @@
+Multiple pleural plaques. II.
+?
+['Asbestosis/*diagnostic imaging', 'Bronchial Neoplasms/complications/diagnostic imaging', 'Calcinosis/*diagnostic imaging', 'Diagnosis, Differential', 'Female', 'Humans', 'Male', 'Mesothelioma/complications', 'Middle Aged', 'Peritoneal Neoplasms/complications', 'Pleura/*diagnostic imaging', 'Pleural Diseases/*diagnostic imaging/epidemiology', 'Pleural Effusion/diagnostic imaging', 'Pleural Neoplasms/complications/diagnostic imaging', 'Radiography', 'Tomography']

@@ -1,0 +1,3 @@
+Maternal serum alpha-fetoprotein screening of fetal trisomies.
+Thirty-two trisomy pregnancies were retrospectively studied in which the maternal serum level of alpha-fetoprotein was determined prior to amniocentesis. Median levels of alpha-fetoprotein in serum (0.83 multiples of the median) and in amniotic fluid (0.72 multiples of the median) were lowered, but this was statistically significant only in the case of amniotic fluid.
+['Adult', 'Amniocentesis', 'Amniotic Fluid/analysis', '*Chromosomes, Human, 16-18', 'Down Syndrome/*diagnosis', 'Female', 'Fetal Diseases/*diagnosis/prevention & control', 'Humans', 'Mass Screening', 'Maternal Age', 'Pregnancy', 'Pregnancy, High-Risk', '*Prenatal Diagnosis', '*Trisomy', 'alpha-Fetoproteins/*analysis']

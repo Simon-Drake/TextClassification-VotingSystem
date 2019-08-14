@@ -1,0 +1,3 @@
+Lambert-Eaton myasthenic syndrome.
+?
+['Action Potentials', 'Carcinoma, Small Cell/*diagnosis', 'Diagnosis, Differential', 'Humans', 'Lambert-Eaton Myasthenic Syndrome/*diagnosis/therapy', 'Lung Neoplasms/*diagnosis', 'Male', 'Middle Aged', 'Tomography, Spiral Computed']

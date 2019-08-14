@@ -1,0 +1,3 @@
+Choices for a child: an ethical and legal analysis of a failed surrogate birth contract.
+?
+['Altruism', 'Beneficence', 'Child Abuse', '*Congenital, Hereditary, and Neonatal Diseases and Abnormalities', 'Contracts', '*Decision Making', '*Dissent and Disputes', 'Down Syndrome', '*Euthanasia, Passive', 'Female', 'General Surgery', '*Group Processes', 'Humans', '*Infant, Newborn', '*Jurisprudence', 'Maternal-Fetal Relations', 'Parent-Child Relations', '*Parents', '*Politics', 'Reference Standards', '*Surrogate Mothers', 'United States', 'Withholding Treatment']

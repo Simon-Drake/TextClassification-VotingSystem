@@ -1,0 +1,3 @@
+Early amniocentesis versus chorionic villus sampling for fetal karyotyping.
+?
+['Amniocentesis/*adverse effects', 'Chorionic Villi Sampling/*adverse effects', 'Female', 'Fetal Death/*etiology', 'Gestational Age', 'Humans', 'Karyotyping', 'Mosaicism', 'Pregnancy']

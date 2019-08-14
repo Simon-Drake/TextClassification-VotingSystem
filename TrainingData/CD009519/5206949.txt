@@ -1,0 +1,3 @@
+[Possibilities of improving therapeutic results in bronchial carcinoma].
+?
+['Bronchial Neoplasms/*diagnostic imaging/surgery', 'Bronchography', 'Diagnosis, Differential', 'Diagnostic Errors', 'Endoscopy', 'Hospitals, Special', 'Humans', 'Lung Diseases/diagnostic imaging', 'Mediastinum', 'Time Factors', 'Tomography']

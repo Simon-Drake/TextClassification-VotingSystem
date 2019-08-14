@@ -1,0 +1,1 @@
+MeSHAbdominalPain MeSHAdnexalDiseases MeSHConstipation MeSHDiagnosis MeSHDifferential MeSHEndometriosis MeSHFemale MeSHHumans MeSHMiddleAged MeSHOvariectomy MeSHPerimenopause MeSHPhysicalExamination MeSHRiskFactors MeSHTomography MeSHX-RayComputed MeSHUltrasonography MeSHDoppler

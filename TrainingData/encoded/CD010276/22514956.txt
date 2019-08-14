@@ -1,0 +1,1 @@
+MeSHBranchiom MeSHCarcinoma MeSHSquamousCel MeSHCyst MeSHDiagnosis MeSHDifferential MeSHDiagnosticImaging MeSHHeadandNeckNeoplasm MeSHHumans MeSHLymphaticDisease MeSHNec MeSHPhysicalExamination MeSHSalivaryGlandNeoplasm MeSHThyroglossalCys

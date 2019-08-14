@@ -1,0 +1,1 @@
+MeSHBronchialNeoplasm MeSHBronchoscopy MeSHCarcinoma MeSHSquamousCel MeSHDiagnosis MeSHDifferential MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHNeoplasms MeSHMultiplePrimary MeSHPapillom MeSHPositron-EmissionTomography MeSHSarcoidosis MeSHPulmonar MeSHTomography MeSHX-RayComputed

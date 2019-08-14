@@ -1,0 +1,1 @@
+MeSHCapsuleEndoscopy MeSHDuodenoscopy MeSHEsophagealandGastricVarice MeSHGastroscopy MeSHHumans MeSHPatientSelection MeSHReproducibilityofResults MeSHSensitivityandSpecificity

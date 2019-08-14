@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdult MeSHAged MeSHAged MeSH80andover MeSHCarcinoma MeSHNon-Small-CellLun MeSHCarcinoma MeSHSquamousCel MeSHFemale MeSHHealthCareSurveys MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHNeoplasmStaging MeSHPositron-EmissionTomography MeSHPrognosis MeSHRadiopharmaceuticals MeSHSEERProgram MeSHSurvivalRate MeSHTomography MeSHX-RayComputed MeSHYoungAdult

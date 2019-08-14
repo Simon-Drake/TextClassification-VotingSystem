@@ -1,0 +1,1 @@
+MeSHAdenom MeSHAdolescent MeSHAdult MeSHAged MeSHAutopsy MeSHBronchialNeoplasm MeSHBronchoscopy MeSHCarcinom MeSHCarcinoma MeSHAdenoidCysti MeSHChronicDisease MeSHCough MeSHFemale MeSHHemoptysis MeSHHumans MeSHMale MeSHMiddleAged MeSHNeoplasmMetastasis MeSHNeoplasmRecurrence MeSHLocal MeSHRadiography MeSHTomography

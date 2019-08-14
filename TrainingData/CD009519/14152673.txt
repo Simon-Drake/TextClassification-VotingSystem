@@ -1,0 +1,3 @@
+[FIBROMA PENDULUM ORIGINATING FROM BRONCHIAL BASALIOMA].
+?
+['*Biopsy', '*Bronchial Neoplasms', '*Bronchiectasis', '*Bronchoscopy', '*Carcinoma', '*Carcinoma, Basal Cell', '*Fibroma', 'Humans', '*Pathology', '*Pneumonectomy', '*Pulmonary Emphysema', '*Skin Neoplasms', '*Tomography']

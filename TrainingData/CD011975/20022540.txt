@@ -1,0 +1,3 @@
+[New rules for prenatal screening for T21: collateral damages].
+?
+['Down Syndrome/*diagnosis', 'Female', 'France', '*Genetic Testing', 'Humans', 'Pregnancy', 'Prenatal Diagnosis/*standards']

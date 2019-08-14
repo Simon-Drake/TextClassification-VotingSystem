@@ -1,0 +1,1 @@
+MeSHAdult MeSHDose-ResponseRelationship MeSHRadiation MeSHFemale MeSHGestationalTrophoblasticDiseas MeSHHumans MeSHLungNeoplasm MeSHMiddleAged MeSHPregnancy MeSHProspectiveStudies MeSHTomography MeSHSpiralComputed MeSHUterineNeoplasms

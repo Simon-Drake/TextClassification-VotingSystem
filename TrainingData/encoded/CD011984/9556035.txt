@@ -1,0 +1,1 @@
+MeSHAlleles MeSHChorionicVilliSampling MeSHDNA MeSHFemale MeSHGeneticMarkers MeSHHumans MeSHKaryotyping MeSHMale MeSHMicrosatelliteRepeats MeSHMosaicism MeSHPolymorphism MeSHGenetic MeSHPregnancy MeSHPregnancyOutcome MeSHTrisomy MeSHZygote

@@ -1,0 +1,3 @@
+[Cancer detection with 18F-5-fluorodeoxyuridine--a new cancer diagnostic agent reflecting nucleic acid metabolism].
+?
+['Carcinoma, Small Cell/*diagnostic imaging/metabolism', 'Carcinoma, Squamous Cell/*diagnostic imaging/metabolism', '*Floxuridine/metabolism', '*Fluorine', 'Humans', 'Lung Neoplasms/*diagnostic imaging/metabolism', 'Nucleic Acids/metabolism', '*Radioisotopes', '*Tomography, Emission-Computed']

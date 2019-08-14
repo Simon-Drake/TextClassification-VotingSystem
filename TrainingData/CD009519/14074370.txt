@@ -1,0 +1,3 @@
+PULMONARY MYCETOMA.
+?
+['*Aspergillosis', '*Diagnosis, Differential', '*Echinococcosis', '*Echinococcosis, Pulmonary', '*Geriatrics', '*Hemorrhage', 'Humans', '*Lung Diseases', '*Lung Diseases, Fungal', '*Lung Neoplasms', '*Mycetoma', '*Radiography, Thoracic', '*Tomography']

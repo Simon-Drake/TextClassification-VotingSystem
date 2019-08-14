@@ -1,0 +1,3 @@
+Pulmonary hepatic nodules.
+?
+['Female', 'Hernia, Diaphragmatic, Traumatic/*diagnosis', 'Humans', 'Liver/*diagnostic imaging', 'Multimodal Imaging', 'Multiple Pulmonary Nodules/*diagnostic imaging', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed']

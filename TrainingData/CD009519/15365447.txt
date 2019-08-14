@@ -1,0 +1,3 @@
+False-positive FDG positron emission tomography in pulmonary amyloidosis.
+?
+['Aged', 'Aged, 80 and over', 'Amyloidosis/diagnosis/*diagnostic imaging', 'Diagnosis, Differential', 'False Positive Reactions', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Diseases/diagnosis/*diagnostic imaging', 'Lung Neoplasms/diagnosis/diagnostic imaging', 'Positron-Emission Tomography/*methods', 'Radiopharmaceuticals', 'Solitary Pulmonary Nodule/diagnosis/diagnostic imaging']

@@ -1,0 +1,3 @@
+[Prenatal tests for Down syndrome].
+?
+['Amniocentesis', 'Chorionic Villi Sampling', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Pregnancy', '*Prenatal Diagnosis']

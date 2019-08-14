@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHDatabaseManagementSystems MeSHEndometriosis MeSHFemale MeSHHumans MeSHIntestinalDiseases MeSHMedicalRecordsSystems MeSHComputerized MeSHOvarianDiseases MeSHPatientSelection MeSHPelvis MeSHPeritonealDiseases

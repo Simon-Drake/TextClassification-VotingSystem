@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHDiagnosis MeSHDifferential MeSHHumans MeSHLiverNeoplasm MeSHLungNeoplasm MeSHLymphaticMetastasi MeSHNeoplasmRecurrence MeSHLoca MeSHProspectiveStudies MeSHRectalNeoplasm MeSHRectu MeSHSensitivityandSpecificity MeSHTomography MeSHEmission-Computed

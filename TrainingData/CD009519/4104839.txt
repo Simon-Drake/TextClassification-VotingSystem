@@ -1,0 +1,3 @@
+[Results of the resection of bronchial cancer with infiltration of the thoracic wall].
+?
+['Adenocarcinoma/*surgery', 'Adult', 'Aged', 'Bronchial Neoplasms/diagnostic imaging/mortality/*surgery', 'Carcinoma/*surgery', 'Carcinoma, Squamous Cell/*surgery', 'Female', 'Humans', 'Male', 'Middle Aged', 'Palliative Care', 'Pneumonectomy', 'Prognosis', 'Radiography', '*Thoracic Surgery', 'Thorax/*surgery', 'Tomography']

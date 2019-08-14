@@ -1,0 +1,3 @@
+Lung cancer risk models come of age.
+?
+['Algorithms', 'Carcinoma/diagnosis/*epidemiology', 'Early Detection of Cancer', 'Humans', 'Lung Neoplasms/diagnosis/*epidemiology', 'Mass Screening/methods/*trends', '*Models, Theoretical', 'Risk', 'Tomography, Spiral Computed/methods', 'Validation Studies as Topic']

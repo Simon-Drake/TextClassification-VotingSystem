@@ -1,0 +1,3 @@
+Prenatal screening for Down's syndrome and human chorionic gonadotropin isoforms.
+?
+['Chorionic Gonadotropin/*blood', 'Chromatography/methods', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Isoelectric Focusing', 'Maternal Age', 'Pregnancy', 'Prenatal Diagnosis/*methods', 'Radioimmunoassay']

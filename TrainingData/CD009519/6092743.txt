@@ -1,0 +1,3 @@
+[Cancer diagnosis with positron emission computed tomography].
+?
+['Animals', 'Carcinoma, Small Cell/diagnostic imaging', 'Carcinoma, Squamous Cell/diagnostic imaging', 'Glucose', 'Humans', 'Liver Neoplasms/diagnostic imaging', 'Lung Neoplasms/diagnostic imaging', 'Neoplasms/*diagnostic imaging', 'Pancreatic Neoplasms/diagnostic imaging', 'Rabbits', 'Tomography, Emission-Computed/*methods']

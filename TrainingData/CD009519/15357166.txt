@@ -1,0 +1,3 @@
+Screening for lung cancer with computed tomography: an examination of the evidence.
+Smokers and others who are at high risk for lung cancer could benefit from a screening test that would find the cancer at an early stage, when the most effective treatments are available. How far are we from such a test?
+['Humans', 'Lung Neoplasms/*diagnostic imaging', 'Sensitivity and Specificity', '*Tomography, Spiral Computed']

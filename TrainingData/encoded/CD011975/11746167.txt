@@ -1,0 +1,1 @@
+MeSHAmniocentesis MeSHAmnioticFluid MeSHCells MeSHCultured MeSHChorionicVilliSampling MeSHChromosomes MeSHHuman MeSHPair8 MeSHFemale MeSHFetalBlood MeSHHumans MeSHKaryotyping MeSHLymphocytes MeSHMosaicism MeSHPregnancy MeSHPrenatalDiagnosis MeSHRetrospectiveStudies MeSHTrisomy

@@ -1,0 +1,3 @@
+[What's new in lung cancer].
+?
+['Adolescent', 'Adult', 'Aged', 'Bronchoscopy', '*Carcinoma, Non-Small-Cell Lung/diagnosis/mortality/pathology/therapy', '*Carcinoma, Small Cell/diagnosis/mortality/pathology/therapy', 'Child', 'Combined Modality Therapy', 'Female', 'France/epidemiology', 'Humans', 'Incidence', 'Lung/pathology', '*Lung Neoplasms/diagnosis/epidemiology/mortality/pathology/therapy', 'Male', 'Middle Aged', 'Neoplasm Staging', 'Pneumonectomy', 'Positron-Emission Tomography', 'Radiography, Thoracic', 'Randomized Controlled Trials as Topic', 'Sex Factors', 'Smoking/epidemiology/prevention & control', 'Tomography, X-Ray Computed', 'United States/epidemiology']

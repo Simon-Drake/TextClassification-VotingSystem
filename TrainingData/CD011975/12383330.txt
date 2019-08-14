@@ -1,0 +1,3 @@
+Prenatal diagnosis of trisomy 21 in a fetus with an enlarged cisterna magna.
+?
+['Cisterna Magna/*diagnostic imaging/*embryology', 'Down Syndrome/*diagnostic imaging', 'Female', 'Head/embryology', 'Humans', 'Pregnancy', '*Ultrasonography, Prenatal']

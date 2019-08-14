@@ -1,0 +1,1 @@
+MeSHArecacea MeSHAsparticAcidProtease MeSHDNA MeSHFunga MeSHFungalProtein MeSHGeneDeletion MeSHGeneExpression MeSHKluyveromyce MeSHLuciferase MeSHMolecularSequenceData MeSHMutagenesis MeSHRecombinantProtein MeSHSequenceAnalysis MeSHDNA

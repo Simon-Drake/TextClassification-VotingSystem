@@ -1,0 +1,1 @@
+MeSHDiagnosis MeSHDifferential MeSHHumans MeSHLungDisease MeSHLungNeoplasm MeSHLymphom MeSHPleuralDisease MeSHPulmonaryAtelectasi MeSHRadiography MeSHSarcoidosi MeSHTomography MeSHTuberculosis MeSHPulmonar

@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAspergillusnige MeSHBaseSequence MeSHCloning MeSHMolecular MeSHDNA MeSHFungal MeSHElectrophoresis MeSHPolyacrylamideGel MeSHMassSpectrometry MeSHMolecularSequenceData MeSHSequenceHomology MeSHAminoAcid MeSHbeta-Glucosidas

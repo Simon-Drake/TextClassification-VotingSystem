@@ -1,0 +1,3 @@
+Fetal intra-abdominal hyperechogenicity (FIAH)
+?
+['Abdomen/*diagnostic imaging/*embryology', '*Chromosome Aberrations', 'Down Syndrome/diagnostic imaging', 'Female', 'Humans', 'Pregnancy', '*Ultrasonography, Prenatal']

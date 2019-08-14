@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHNon-Small-CellLun MeSHCarcinoma MeSHSquamousCel MeSHComputerSimulation MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHMale MeSHPositron-EmissionTomograph MeSHRadiopharmaceuticals MeSHRadiotherapyPlanning MeSHComputer-Assisted MeSHTomography MeSHX-RayComputed MeSHTumorBurden

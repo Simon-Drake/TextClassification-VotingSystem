@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHNon-Small-CellLun MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHMiddleAged MeSHMultimodalImaging MeSHPositron-EmissionTomography MeSHPrognosis MeSHRadiotherapy MeSHComputer-Assisted MeSHTomography MeSHX-RayComputed

@@ -1,0 +1,1 @@
+MeSHAdult MeSHBiomarkers MeSHCase-ControlStudies MeSHEdeticAcid MeSHEndometriosis MeSHFemale MeSHHumans MeSHInflammation MeSHLaparoscopy MeSHLeast-SquaresAnalysis MeSHMenstrualCycle MeSHMiddleAged MeSHModels MeSHStatistical MeSHROCCurve MeSHRegressionAnalysis MeSHSensitivityandSpecificity

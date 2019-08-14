@@ -1,0 +1,3 @@
+First trimester Down Syndrome screening by nuchal translucency in a Thai population.
+?
+['Adult', 'Cohort Studies', 'Down Syndrome/*diagnostic imaging', 'Female', 'Fetal Diseases/*diagnostic imaging', 'Gestational Age', 'Humans', 'Maternal Age', 'Neck/*diagnostic imaging', 'Predictive Value of Tests', 'Pregnancy', '*Pregnancy Trimester, First', 'Prospective Studies', 'Sensitivity and Specificity', 'Thailand', '*Ultrasonography, Prenatal']

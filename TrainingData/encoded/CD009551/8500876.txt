@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAnimals MeSHAspergillosi MeSHAspergillusflavu MeSHAspergillusfumigatu MeSHBaseSequence MeSHCattle MeSHElasti MeSHFemale MeSHHumans MeSHLun MeSHMice MeSHMice MeSHInbredBALBC MeSHMolecularSequenceData MeSHPancreaticElastas MeSHRabbits MeSHSerineEndopeptidase MeSHVirulence

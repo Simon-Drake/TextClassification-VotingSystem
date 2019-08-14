@@ -1,0 +1,3 @@
+[Pulmonary hamartochondroma. 4 cases].
+?
+['Bronchial Neoplasms/*diagnostic imaging', 'Chondroma/*diagnostic imaging', 'Diagnosis, Differential', 'Echinococcosis, Pulmonary/diagnostic imaging', 'Hamartoma/*diagnostic imaging', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Neoplasm Metastasis/diagnostic imaging', 'Radiography', 'Tomography']

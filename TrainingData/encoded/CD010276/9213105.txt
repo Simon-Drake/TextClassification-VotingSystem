@@ -1,0 +1,1 @@
+MeSHAntigens MeSHCD3 MeSHBiomarkers MeSHTumo MeSHCarcinoma MeSHSquamousCel MeSHFactorVII MeSHFemale MeSHHumans MeSHImmunohistochemistry MeSHLymphaticMetastasis MeSHMale MeSHMouthNeoplasm MeSHNeoplasmStaging MeSHNeovascularization MeSHPathologi MeSHPrognosis MeSHSurvivalRate MeSHTongueNeoplasm

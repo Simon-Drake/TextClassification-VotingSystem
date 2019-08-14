@@ -1,0 +1,3 @@
+Comment 1 on Staessen et al. (2004). Design and analysis of a randomized controlled trial studying preimplantation genetic screening.
+?
+['*Aneuploidy', 'Female', '*Fertilization in Vitro', '*Genetic Testing', 'Humans', 'Pregnancy', '*Preimplantation Diagnosis', 'Randomized Controlled Trials as Topic']

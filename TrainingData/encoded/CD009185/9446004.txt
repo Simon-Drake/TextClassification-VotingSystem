@@ -1,0 +1,1 @@
+MeSHAdult MeSHAnti-InfectiveAgent MeSHBacteriuri MeSHChronicDisease MeSHDose-ResponseRelationship MeSHDrug MeSHDrugAdministrationSchedule MeSHFemale MeSHHumans MeSHLong-TermCare MeSHMethionin MeSHMiddleAged MeSHNalidixicAci MeSHRecurrence MeSHTreatmentOutcome MeSHUrinaryTractInfection

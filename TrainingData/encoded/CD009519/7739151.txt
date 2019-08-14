@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHBrai MeSHBrainNeoplasm MeSHCarcinoma MeSHSquamousCel MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHScintillationCounting MeSHThalliumRadioisotopes MeSHTomography MeSHEmission-Computed MeSHSingle-Photon

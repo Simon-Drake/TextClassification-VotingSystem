@@ -1,0 +1,3 @@
+Prenatal diagnosis of mosaic isochromosome 20q.
+?
+['Adult', '*Amniocentesis', '*Chromosomes, Human, Pair 20', '*Diseases in Twins', 'Female', 'Humans', '*Mosaicism', 'Pregnancy']

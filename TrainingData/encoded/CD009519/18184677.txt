@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAged MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHKeratin-2 MeSHKeratin- MeSHLungNeoplasm MeSHLymphNodeExcision MeSHMale MeSHNuclearProtein MeSHPneumonectomy MeSHPositron-EmissionTomography MeSHRadiopharmaceuticals MeSHSputu MeSHThoracicSurgery MeSHVideo-Assisted MeSHTomography MeSHX-RayComputed MeSHTranscriptionFactor

@@ -1,0 +1,1 @@
+MeSHAged MeSHBronchoscopy MeSHFatalOutcome MeSHFemale MeSHFluorodeoxyglucoseF1 MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPositron-EmissionTomography MeSHRadiopharmaceutical MeSHRetrospectiveStudies MeSHThoracoscopy MeSHTimeFactors MeSHTomography MeSHX-RayComputed

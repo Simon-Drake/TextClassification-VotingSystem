@@ -1,0 +1,3 @@
+Mechanisms and detection of chromosome malsegregation using Drosophila and the yeast Saccharomyces cerevisiae.
+?
+['Abortion, Spontaneous', 'Aging', '*Alleles', '*Aneuploidy', 'Animals', 'Chromosomes/*ultrastructure', 'Congenital Abnormalities/genetics', 'DNA/genetics', 'Drosophila/*genetics', 'Female', 'Humans', 'Meiosis', 'Mutagens/pharmacology', 'Mutation', 'Pregnancy', 'Saccharomyces cerevisiae/*genetics']

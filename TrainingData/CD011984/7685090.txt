@@ -1,0 +1,3 @@
+Poor pregnancy outcome associated with elevated maternal serum alpha-fetoprotein in combination with increased risk for Down syndrome.
+?
+['Adolescent', 'Adult', 'Chorionic Gonadotropin/blood', 'Down Syndrome/*diagnosis', 'Female', 'Fetal Diseases/*diagnosis', 'Humans', 'Male', 'Pregnancy/blood', '*Pregnancy Outcome', 'Pregnancy, Multiple/blood', '*Prenatal Diagnosis', 'Risk Factors', 'alpha-Fetoproteins/*analysis']

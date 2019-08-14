@@ -1,0 +1,1 @@
+MeSHAdult MeSHAgeFactors MeSHCarcinoma MeSHSquamousCel MeSHEducation MeSHFemale MeSHHumans MeSHMale MeSHMiddleAged MeSHMouthNeoplasm MeSHNeoplasmStaging MeSHOropharyngealNeoplasm MeSHPharyngealNeoplasm MeSHRiskFactors MeSHSexFactors MeSHSurveysandQuestionnaires MeSHTimeFactors

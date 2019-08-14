@@ -1,0 +1,1 @@
+MeSHAbdominalPain MeSHAdult MeSHAsciticFluid MeSHChronicDisease MeSHCytologicalTechniques MeSHDiagnosis MeSHDifferential MeSHFemale MeSHHumans MeSHOvarianNeoplasms MeSHOvary MeSHPregnancy MeSHPregnancy MeSHEctopic MeSHTomography MeSHX-RayComputed MeSHUreteralObstruction

@@ -1,0 +1,3 @@
+[Early cytological detection of bronchial carcinoma and erraneous diagnosis of contralateral pulmonary findings].
+?
+['Bronchi/pathology', 'Bronchial Neoplasms/*diagnosis', 'Bronchography', 'Carcinoma, Bronchogenic/diagnosis', 'Diagnosis, Differential', 'Diagnostic Errors', 'Humans', 'Male', 'Middle Aged', 'Mycobacterium tuberculosis/isolation & purification', 'Pneumonia/*diagnosis', 'Sputum/cytology/microbiology', 'Tomography']

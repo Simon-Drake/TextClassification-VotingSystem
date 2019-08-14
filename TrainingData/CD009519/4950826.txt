@@ -1,0 +1,3 @@
+Radioisotope scanning. Current status and some recent advances.
+?
+['Biliary Tract Diseases/diagnosis', 'Brain Diseases/diagnosis', 'Brain Injuries/diagnosis', 'Brain Neoplasms/diagnosis', 'Cerebrovascular Disorders/diagnosis', 'Emphysema/diagnosis', 'Heart Diseases/diagnosis', 'Humans', 'Kidney Diseases/diagnosis', 'Kidney Neoplasms/diagnosis', 'Liver Diseases/diagnosis', 'Liver Neoplasms/diagnosis', 'Lung Diseases/diagnosis', 'Lung Neoplasms/diagnosis', 'Methods', 'Pulmonary Circulation', 'Pulmonary Embolism/diagnosis', '*Radionuclide Imaging', 'Splenic Diseases/diagnosis', 'Splenic Neoplasms/diagnosis', 'Tomography', 'Tuberculosis, Pulmonary/diagnosis']

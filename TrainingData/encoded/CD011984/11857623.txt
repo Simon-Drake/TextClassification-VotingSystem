@@ -1,0 +1,1 @@
+MeSHChorionicVilliSampling MeSHChromosomeAberrations MeSHDNA MeSHDownSyndrome MeSHFemale MeSHFetus MeSHGestationalAge MeSHHumans MeSHKaryotyping MeSHMale MeSHPolymeraseChainReaction MeSHPregnancy MeSHPrenatalDiagnosis MeSHUltrasonography MeSHPrenatal MeSHbeta-Thalassemia

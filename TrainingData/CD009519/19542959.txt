@@ -1,0 +1,3 @@
+Ventriculoperitoneal shunt catheter and cerebral spinal fluid infection initially detected by FDG PET/CT scan.
+?
+['Aged', 'Catheterization/adverse effects/instrumentation', 'Cerebral Cortex/diagnostic imaging/*microbiology', 'Equipment Contamination', 'Female', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/diagnostic imaging', 'Pelvis/diagnostic imaging', 'Peritonitis/diagnostic imaging/microbiology', 'Positron-Emission Tomography', 'Radiopharmaceuticals', 'Scalp/diagnostic imaging', 'Spinal Canal/diagnostic imaging/*microbiology', 'Staphylococcal Infections/*cerebrospinal fluid', 'Tomography, X-Ray Computed', '*Ventriculoperitoneal Shunt']

@@ -1,0 +1,3 @@
+FDG PET/CT findings of thymic carcinoid and bronchial carcinoid in a patient with multiple neuroendocrine neoplasia type1.
+?
+['Adult', 'Bronchial Neoplasms/*diagnostic imaging', 'Carcinoid Tumor/*diagnostic imaging/secondary', 'Fluorodeoxyglucose F18/*pharmacokinetics', 'Genetic Markers', 'Humans', 'Lymphatic Metastasis', 'Male', 'Multiple Endocrine Neoplasia Type 1/*pathology', 'Positron-Emission Tomography/methods', 'Proto-Oncogene Proteins/analysis/genetics', 'Sensitivity and Specificity', 'Thymus Neoplasms/*diagnostic imaging/pathology', 'Tomography, X-Ray Computed', 'Whole Body Imaging']

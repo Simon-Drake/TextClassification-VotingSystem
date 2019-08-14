@@ -1,0 +1,3 @@
+Suggested time to perform DTP FDG-PET scan in the evaluation of SPNs with an initial SUV less than 2.5.
+?
+['Humans', 'Lung Diseases/*diagnostic imaging', 'Lung Neoplasms/*diagnostic imaging', '*Positron-Emission Tomography', 'Solitary Pulmonary Nodule/*diagnostic imaging']

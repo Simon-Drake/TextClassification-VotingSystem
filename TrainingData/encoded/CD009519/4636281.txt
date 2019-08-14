@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHBronchialNeoplasm MeSHCarcinoma MeSHBronchogeni MeSHDiagnosis MeSHDifferential MeSHHumans MeSHMale MeSHMiddleAged MeSHPulmonaryAtelectasi MeSHPulmonaryEmbolis MeSHRadiography MeSHRadionuclideImaging MeSHTomography MeSHVentilation-PerfusionRatio MeSHXenon

@@ -1,0 +1,3 @@
+Lung-cancer staging with PET-CT.
+?
+['Carcinoma, Non-Small-Cell Lung/*diagnosis/mortality/surgery', 'Humans', 'Lung Neoplasms/*diagnosis/mortality/surgery', 'Neoplasm Staging/*methods', 'Positron-Emission Tomography', 'Preoperative Care', '*Thoracotomy', 'Tomography, X-Ray Computed']

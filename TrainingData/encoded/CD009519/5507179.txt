@@ -1,0 +1,1 @@
+MeSHBloodFlowVelocity MeSHBloodPressure MeSHBronchography MeSHCarbonDioxid MeSHCarcinoma MeSHBronchogeni MeSHHumans MeSHHydrogen-IonConcentration MeSHOxyge MeSHPulmonaryAtelectasi MeSHPulmonaryCirculation MeSHTomography MeSHVentilation-PerfusionRatio

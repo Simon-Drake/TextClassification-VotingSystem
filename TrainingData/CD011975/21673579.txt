@@ -1,0 +1,3 @@
+Family-provider interactions surrounding the diagnosis of Down syndrome.
+?
+['Adaptation, Psychological', 'Choice Behavior', 'Down Syndrome/*diagnosis', 'Family/psychology', '*Family Practice', 'Female', 'Humans', 'Male', 'Prenatal Diagnosis', 'Surveys and Questionnaires']

@@ -1,0 +1,3 @@
+[Resected case of pulmonary mucormycosis].
+A 62-year-old man, with chronic renal failure and receiving hemodialysis, pointed out to have an abnormal shadow on a chest X-ray. A chest computed tomography (CT), magnetic resonance imaging (MRI), and fluorodeoxyglucose-positron emission tomography (FDG-PET) examination showed a 6 cm size mass lesion in the middle of left thoracic cavity. Confirmed diagnosis was not obtained by needle biopsies. Left upper lobectomy was performed on suspicion of a lung cancer. Histopathologically, fungal hyphae were detected in these surgical specimens and it was diagnosed as pulmonary mucormycosis caused by Rhizopus species.
+['Humans', 'Lung Diseases, Fungal/*surgery', 'Male', 'Middle Aged', 'Mucormycosis/*surgery']

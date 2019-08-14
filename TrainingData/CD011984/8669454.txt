@@ -1,0 +1,3 @@
+Including family history leads to over-estimation of prior risk in MSAFP assessment.
+?
+['Adult', 'Down Syndrome/*diagnosis/genetics', 'Female', 'Humans', 'Pedigree', 'Prenatal Diagnosis', '*Risk Assessment', 'alpha-Fetoproteins/analysis']

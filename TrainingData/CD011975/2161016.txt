@@ -1,0 +1,3 @@
+Second trimester hyperechogenicity in the lower abdomen of two fetuses with trisomy 21: is there a correlation?
+?
+['Abdomen/*pathology', 'Adult', 'Down Syndrome/*diagnosis/pathology', 'Female', 'Humans', 'Pregnancy', 'Pregnancy Trimester, Second', '*Prenatal Diagnosis', '*Ultrasonography']

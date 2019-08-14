@@ -1,0 +1,1 @@
+MeSHCarcinoidTumo MeSHDiagnosis MeSHDifferential MeSHHumans MeSHLungNeoplasm MeSHLymphNodeExcision MeSHMagneticResonanceImaging MeSHMale MeSHMiddleAged MeSHNeoplasmMetastasis MeSHNeoplasmStaging MeSHPositron-EmissionTomography MeSHSarcom MeSHThoracicSurgery MeSHVideo-Assisted MeSHTomography MeSHX-RayComputed

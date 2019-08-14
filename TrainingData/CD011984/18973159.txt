@@ -1,0 +1,3 @@
+Follow-up of a child with trisomy 17 mosaicism.
+?
+['Amniocentesis', 'Child', 'Child, Preschool', '*Chromosomes, Human, Pair 17', 'Developmental Disabilities', 'Female', 'Follow-Up Studies', 'Humans', 'Male', '*Mosaicism', 'Pregnancy', '*Trisomy']

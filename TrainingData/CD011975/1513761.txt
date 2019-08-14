@@ -1,0 +1,3 @@
+Low fluorescence alpha satellite region yields negative result.
+?
+['Aneuploidy', 'Centromere/chemistry', 'DNA Probes', 'DNA, Satellite/*analysis', 'Female', 'Humans', 'Nucleic Acid Hybridization', 'Pregnancy', 'Prenatal Diagnosis/*methods']

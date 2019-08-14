@@ -1,0 +1,3 @@
+[No increased costs with PET scan].
+?
+['Carcinoma, Bronchogenic/*diagnostic imaging/economics/pathology', 'Cost-Benefit Analysis/statistics & numerical data', 'Germany', 'Humans', 'Lung Neoplasms/*diagnostic imaging/economics/pathology', 'National Health Programs/*economics', 'Neoplasm Staging', 'Tomography, Emission-Computed/*economics']

@@ -1,0 +1,3 @@
+[Quantitative measurement of lung density with X-ray CT and positron CT (2). Lung diseases].
+?
+['Aged', 'Blood Volume', 'Female', 'Humans', 'Lung/blood supply', 'Lung Neoplasms/*diagnosis', 'Male', 'Middle Aged', 'Silicosis/*diagnosis', 'Tomography, Emission-Computed', 'Tomography, X-Ray Computed']

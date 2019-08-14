@@ -1,0 +1,3 @@
+Fluoro-2-deoxy-D-glucose positron emission tomography in lung cancer.
+?
+['*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnosis', '*Positron-Emission Tomography', '*Radiopharmaceuticals']

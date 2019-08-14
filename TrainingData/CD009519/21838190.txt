@@ -1,0 +1,3 @@
+Primary pulmonary malignant melanoma of right upper lobe of lung.
+?
+['Aged', 'Bronchoscopy', 'Diagnosis, Differential', 'Humans', 'Lung Neoplasms/*diagnosis/surgery', 'Male', 'Melanoma/*diagnosis/surgery', 'Pneumonectomy', 'Positron-Emission Tomography', 'Radiography, Thoracic']

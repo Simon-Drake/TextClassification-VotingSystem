@@ -1,0 +1,3 @@
+[Radiological features of intralobar sequestration of the lung].
+?
+['Adult', 'Aortography', 'Bronchiectasis/diagnostic imaging', 'Bronchography', 'Bronchopulmonary Sequestration/*diagnostic imaging', 'Diagnosis, Differential', 'Female', 'Humans', 'Lung/*abnormalities', 'Lung Diseases/diagnostic imaging/embryology', 'Lung Neoplasms/diagnostic imaging', 'Male', 'Pulmonary Artery/diagnostic imaging', 'Tomography']

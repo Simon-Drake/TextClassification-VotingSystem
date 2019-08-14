@@ -1,0 +1,3 @@
+[Are molecular techniques useful in aspergillosis surveillance and control?].
+?
+['Aspergillosis/*diagnosis/epidemiology/microbiology/prevention & control', 'Aspergillus fumigatus/classification/genetics/*isolation & purification', 'Cross Infection/diagnosis/microbiology', 'Disease Outbreaks', 'Environmental Exposure', 'Evaluation Studies as Topic', 'Humans', '*Mycological Typing Techniques', 'Polymerase Chain Reaction', 'Random Amplified Polymorphic DNA Technique', 'Species Specificity']

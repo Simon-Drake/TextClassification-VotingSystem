@@ -1,0 +1,3 @@
+[Clinico-radiological findings characteristic of malignant pulmonary tumors].
+?
+['Carcinoma, Bronchogenic/*diagnostic imaging', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', 'Radiography, Thoracic', 'Tomography']

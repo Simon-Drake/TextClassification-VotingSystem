@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHNon-Small-CellLun MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHPositron-EmissionTomograph MeSHRadiationDosage MeSHRadiationInjurie MeSHRadiopharmaceuticals MeSHRadiotherapyPlanning MeSHComputer-Assiste MeSHSensitivityandSpecificity MeSHTomography MeSHX-RayCompute

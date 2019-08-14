@@ -1,0 +1,3 @@
+Maternal serum screening for Down's syndrome in the first trimester of pregnancy.
+?
+['Adolescent', 'Adult', 'Chorionic Gonadotropin/*blood', 'Down Syndrome/*diagnosis', 'Estradiol/*blood', 'False Positive Reactions', 'Female', 'Humans', 'Maternal Age', 'Middle Aged', 'Pregnancy', 'Pregnancy Trimester, First', 'Prenatal Diagnosis/*methods', 'alpha-Fetoproteins/*analysis']

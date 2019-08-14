@@ -1,0 +1,3 @@
+The end of the road for empirical antifungal treatment?
+?
+['Antifungal Agents/*therapeutic use', 'Aspergillosis/*drug therapy/*metabolism', 'Aspergillus/*isolation & purification', 'Female', 'Humans', 'Leukemia, Lymphoid/*microbiology', 'Male', 'Mannans/*metabolism', 'Polymerase Chain Reaction/*methods']

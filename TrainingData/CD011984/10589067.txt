@@ -1,0 +1,3 @@
+Revised guidelines for the diagnosis of mosaicism in amniocytes.
+?
+['Amniotic Fluid/*cytology', 'Chromosome Aberrations/*diagnosis', 'Chromosome Disorders', 'Cytogenetic Analysis/*standards', 'Female', 'Genetic Markers', 'Guidelines as Topic', 'Humans', 'Mosaicism/*diagnosis', 'Pregnancy']

@@ -1,0 +1,3 @@
+Positron emission tomography scans can detect radiographically occult lung cancer in the central airways.
+?
+['Bronchoscopy', 'Carcinoma, Squamous Cell/diagnosis/*diagnostic imaging', 'Diagnosis, Differential', 'Humans', 'Lung Neoplasms/diagnosis/*diagnostic imaging', 'Sensitivity and Specificity', 'Tomography, Emission-Computed']

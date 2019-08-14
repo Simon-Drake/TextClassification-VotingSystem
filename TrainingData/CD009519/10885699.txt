@@ -1,0 +1,3 @@
+Technetium-99m sestamibi SPECT imaging of bilateral pulmonary carcinoid tumors.
+?
+['Aged', 'Carcinoid Tumor/*diagnostic imaging', 'Female', 'Heart/diagnostic imaging', 'Humans', 'Lung Neoplasms/*diagnostic imaging', '*Radiopharmaceuticals', '*Technetium Tc 99m Sestamibi', '*Tomography, Emission-Computed, Single-Photon']

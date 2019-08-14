@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdult MeSHBreastNeoplasm MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHemangiom MeSHHodgkinDiseas MeSHHumans MeSHLiverNeoplasm MeSHLungNeoplasm MeSHMale MeSHMediastinalNeoplasm MeSHMiddleAged MeSHNeoplasm MeSHPositron-EmissionTomography MeSHRadiopharmaceuticals MeSHSpin

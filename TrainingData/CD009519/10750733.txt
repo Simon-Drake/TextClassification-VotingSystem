@@ -1,0 +1,3 @@
+Bibliography. Current world literature. Lung and mediastinum.
+?
+['Cancer Vaccines', 'Chemotherapy, Adjuvant', 'Combined Modality Therapy', 'Genetic Therapy', 'Humans', '*Lung Neoplasms/diagnosis/physiopathology/therapy', '*Mediastinal Neoplasms/diagnosis/physiopathology/therapy', 'Molecular Epidemiology', 'Palliative Care', '*Pneumonectomy', 'Radiotherapy, Adjuvant', 'Tomography, Emission-Computed']

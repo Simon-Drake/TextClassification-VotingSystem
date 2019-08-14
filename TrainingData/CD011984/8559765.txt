@@ -1,0 +1,3 @@
+Posting maternal blood samples for free beta-human chorionic gonadotrophin testing.
+?
+['Blood Specimen Collection/*methods', 'Chorionic Gonadotropin/*blood', 'Cryopreservation', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Pregnancy', '*Prenatal Diagnosis', 'Time Factors', 'Transportation']

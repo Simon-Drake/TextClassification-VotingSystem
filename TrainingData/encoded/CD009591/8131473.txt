@@ -1,0 +1,1 @@
+MeSHAbdominalPain MeSHAdult MeSHEndometriosis MeSHFemale MeSHHemothorax MeSHHumans MeSHMenstruation MeSHPeritonealDiseases MeSHPleuralDiseases MeSHRadiography MeSHThoracic MeSHRecurrence

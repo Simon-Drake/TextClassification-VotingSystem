@@ -1,0 +1,1 @@
+MeSHArtifacts MeSHCarcinoma MeSHNon-Small-CellLun MeSHFemale MeSHHumans MeSHImageProcessing MeSHComputer-Assiste MeSHLun MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHMovement MeSHPhantoms MeSHImaging MeSHPositron-EmissionTomograph MeSHRadiography MeSHThoraci MeSHRespiration MeSHThora MeSHTomography MeSHX-RayCompute

@@ -1,0 +1,3 @@
+Effect of different sample volumes on the DNA extraction of Aspergillus fumigatus from whole blood.
+Five methods were compared, using conventional PCR, for the isolation of DNA from Aspergillus fumigatus conidia from 1-3-mL samples of whole blood. A lower detection threshold of Aspergillus conidia was achieved using 3-mL rather than 1-mL samples with three of five methods tested.
+['Aspergillosis/blood/microbiology', 'Aspergillus fumigatus/genetics/*isolation & purification', 'Blood Specimen Collection/*methods', 'DNA, Fungal/*blood/*isolation & purification', 'Humans', 'Polymerase Chain Reaction/*methods', 'Reagent Kits, Diagnostic']

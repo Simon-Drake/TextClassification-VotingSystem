@@ -1,0 +1,3 @@
+[Radiography of cavernous forms of lung cancer].
+?
+['Carcinoma, Squamous Cell/*diagnostic imaging', 'Female', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', 'Radiography', 'Time Factors', 'Tomography']

@@ -1,0 +1,3 @@
+The role of the single photon emission computed tomography (SPECT) in detection of ossific mediastinal and pulmonary metastases.
+?
+['Humans', 'Lung Neoplasms/diagnostic imaging/*secondary', 'Osteosarcoma/diagnostic imaging/*secondary', '*Tomography, Emission-Computed, Single-Photon', 'Tomography, X-Ray Computed']

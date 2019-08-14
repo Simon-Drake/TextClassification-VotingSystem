@@ -1,0 +1,3 @@
+Thallium-201 single photon emission computed tomograms of double cancers: lung and breast.
+Thallium-201 SPECT is reported in a rare case with simultaneously developing double cancers of the lung and the breast. The TI-201 SPECT was initiated to evaluate mediastinal involvement from the lung cancer, and an abnormal tracer accumulation was unexpectedly found in the breast in addition to the pulmonary lesion.
+['Adenocarcinoma, Papillary/*diagnostic imaging', 'Adenocarcinoma, Scirrhous/*diagnostic imaging', 'Breast Neoplasms/*diagnostic imaging', 'Female', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Middle Aged', 'Neoplasms, Multiple Primary/*diagnostic imaging', 'Thallium Radioisotopes', 'Tomography, Emission-Computed, Single-Photon']

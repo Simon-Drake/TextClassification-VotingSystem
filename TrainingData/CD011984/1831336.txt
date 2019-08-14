@@ -1,0 +1,3 @@
+Maternal serum CA125 is not a second trimester marker for Down's syndrome.
+?
+['Antigens, Tumor-Associated, Carbohydrate/*blood', 'Biomarkers, Tumor', 'Down Syndrome/*blood', 'Enzyme-Linked Immunosorbent Assay', 'Female', 'Fetal Diseases/*blood', 'Gestational Age', 'Humans', 'Pregnancy', 'Pregnancy Trimester, Second/*blood', '*Prenatal Diagnosis']

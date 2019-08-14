@@ -1,0 +1,3 @@
+Normal outcome after a 45,X/46,XX/46,X,i(Xq) CVS diagnosis.
+?
+['Adult', '*Chorionic Villi Sampling', 'Female', 'Humans', 'Infant, Newborn', '*Mosaicism', 'Placenta', 'Pregnancy', '*X Chromosome']

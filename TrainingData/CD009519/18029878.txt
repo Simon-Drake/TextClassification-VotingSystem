@@ -1,0 +1,3 @@
+Integrated PET/CT of salivary gland type carcinoma of the lung in 12 patients.
+OBJECTIVE: The purpose of our study was to show the integrated 18F-FDG PET/CT findings of salivary gland type carcinomas of the lung. CONCLUSION: Salivary gland type carcinomas of the lung appear as airway tumors with variable CT morphologies and show different patterns and extents of FDG uptake on PET images according to their grades of differentiation.
+['Adult', 'Carcinoma/*diagnosis', 'Female', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnosis', 'Male', 'Middle Aged', 'Positron-Emission Tomography/*methods', 'Radiopharmaceuticals', 'Salivary Gland Neoplasms/*diagnosis', 'Subtraction Technique', 'Systems Integration', 'Tomography, X-Ray Computed/*methods']

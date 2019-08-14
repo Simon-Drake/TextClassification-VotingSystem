@@ -1,0 +1,1 @@
+MeSHAneuploidy MeSHBloodCells MeSHFemale MeSHGeneticDiseases MeSHInborn MeSHHumans MeSHMale MeSHMaternal-FetalExchange MeSHPolymeraseChainReaction MeSHPregnancy MeSHPrenatalDiagnosis MeSHTrisomy MeSHTrophoblasts

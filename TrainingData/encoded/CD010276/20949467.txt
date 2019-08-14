@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSquamousCel MeSHCase-ControlStudies MeSHCath MeSHCytodiagnosi MeSHFemale MeSHHumans MeSHMale MeSHMastication MeSHMouthMucos MeSHMouthNeoplasm MeSHPrecancerousCondition MeSHRiskFactors MeSHYeme

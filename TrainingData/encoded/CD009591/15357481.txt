@@ -1,0 +1,1 @@
+MeSHAircraft MeSHDiagnosis MeSHDifferential MeSHEmergencies MeSHEndometriosis MeSHFemale MeSHHumans MeSHLungDiseases MeSHMenstruationDisturbances MeSHMiddleAged MeSHPatientReadmission MeSHPleuralDiseases MeSHPneumothorax MeSHRadiography MeSHRecurrence MeSHThoracotomy MeSHTravel

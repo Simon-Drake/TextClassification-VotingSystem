@@ -1,0 +1,3 @@
+Maternal mortality, fetal death, congenital anomalies and infant mortality at an advanced maternal age.
+?
+['Adolescent', 'Adult', 'Congenital Abnormalities/*epidemiology', 'Female', 'Fetal Death/*epidemiology', 'Humans', 'Hungary', '*Infant Mortality/trends', 'Infant, Newborn', 'Life Style', '*Maternal Age', '*Maternal Mortality/trends', 'Middle Aged', 'Pregnancy']

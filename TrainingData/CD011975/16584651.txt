@@ -1,0 +1,3 @@
+Rapid prenatal diagnosis of trisomy 21 by fluorescent quantitative multiplex polymerase chain reaction.
+?
+['Down Syndrome/*diagnosis', 'Female', 'Fluorescence', 'Humans', 'Male', 'Polymerase Chain Reaction/*methods', 'Pregnancy', 'Prenatal Diagnosis/*methods']

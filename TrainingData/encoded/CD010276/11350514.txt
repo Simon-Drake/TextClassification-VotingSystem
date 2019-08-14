@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHColoringAgents MeSHCytodiagnosis MeSHDiagnosis MeSHDifferential MeSHFluorescentAntibodyTechnique MeSHIndirect MeSHFluorescentDyes MeSHGingivalDisease MeSHHumans MeSHPemphigu MeSHRecurrence

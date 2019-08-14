@@ -1,0 +1,3 @@
+[Lung cancer--should the PET be used?].
+?
+['Humans', 'Lung Neoplasms/*diagnostic imaging', '*Tomography, Emission-Computed']

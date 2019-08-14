@@ -1,0 +1,3 @@
+Breast carcinoma metastatic to renal oncocytoma detected on F-18-FDG PET/CT.
+?
+['Adenoma, Oxyphilic/diagnostic imaging/*secondary', 'Adult', 'Breast Neoplasms/*pathology', 'Female', '*Fluorodeoxyglucose F18', 'Humans', 'Kidney Neoplasms/diagnostic imaging/*secondary', 'Lung Neoplasms/secondary', 'Lymphatic Metastasis', 'Positron-Emission Tomography', '*Radiopharmaceuticals', 'Tomography, X-Ray Computed']

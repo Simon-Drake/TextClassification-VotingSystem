@@ -1,0 +1,3 @@
+[The differential diagnosis of peripheral cancer of the lung and chronic non-specific pneumonia].
+?
+['Adult', 'Age Factors', 'Blood Coagulation Tests', 'Blood Sedimentation', 'Bronchography', 'Chronic Disease', 'Cough', 'Cytodiagnosis', 'Diagnosis, Differential', 'Hemoptysis', 'Humans', 'Lung Neoplasms/*diagnosis/diagnostic imaging', 'Middle Aged', 'Pain', 'Pneumonia/*diagnosis/diagnostic imaging', 'Tomography']

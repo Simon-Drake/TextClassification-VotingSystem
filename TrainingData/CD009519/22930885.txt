@@ -1,0 +1,3 @@
+PET/CT in oncology.
+?
+['Fluorodeoxyglucose F18', 'Gastrointestinal Neoplasms/*diagnosis/diagnostic imaging', 'Humans', 'Lung Neoplasms/diagnosis/diagnostic imaging', 'Neoplasms/*diagnosis/diagnostic imaging', '*Positron-Emission Tomography', 'Radiopharmaceuticals', '*Tomography, X-Ray Computed']

@@ -1,0 +1,1 @@
+MeSHAntigens MeSHCD2 MeSHBiomarkers MeSHTumo MeSHBlotting MeSHWester MeSHCadherin MeSHCarcinoma MeSHSquamousCel MeSHCellDifferentiation MeSHCellLine MeSHTumor MeSHCells MeSHCultured MeSHFattyAcid MeSHGingiv MeSHHumans MeSHImmunohistochemistr MeSHKeratinocyte MeSHKeratin MeSHMicroscopy MeSHElectron MeSHMouthNeoplasm MeSHProteinPrecursor

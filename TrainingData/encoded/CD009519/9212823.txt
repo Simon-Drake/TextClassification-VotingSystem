@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHCarcinoma MeSHLargeCel MeSHCathepsin MeSHCellMovement MeSHCollagen MeSHFluorescentAntibodyTechnique MeSHGels MeSHHumans MeSHImageProcessing MeSHComputer-Assiste MeSHLasers MeSHLungNeoplasm MeSHMicroscopy MeSHConfoca MeSHTomograph MeSHTumorCells MeSHCultured

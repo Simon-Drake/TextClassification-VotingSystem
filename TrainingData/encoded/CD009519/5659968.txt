@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAged MeSHBiops MeSHCarcinom MeSHCarcinoma MeSHBronchogeni MeSHDiagnosis MeSHDifferential MeSHFemale MeSHFluoroscopy MeSHHamartom MeSHHumans MeSHLungAbsces MeSHLungDisease MeSHLungNeoplasm MeSHMale MeSHMethods MeSHMiddleAged MeSHPneumothora MeSHSpecimenHandling MeSHTomography

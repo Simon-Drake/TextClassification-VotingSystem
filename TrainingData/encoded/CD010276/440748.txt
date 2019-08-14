@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHGalliumRadioisotopes MeSHHumans MeSHJa MeSHLymphaticMetastasis MeSHMedicalHistoryTaking MeSHMouthNeoplasm MeSHPhysicalExamination MeSHRadionuclideImaging MeSHSalivaryGland MeSHSialography MeSHThermography MeSHTimeFactors MeSHTomography MeSHX-Ray MeSHTomography MeSHX-RayComputed

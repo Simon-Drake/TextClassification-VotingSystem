@@ -1,0 +1,3 @@
+Prenatal diagnosis of the hypoplastic right heart syndrome with sex chromosome pentasomy (49,XXXXY).
+?
+['Abnormalities, Multiple/*diagnosis/diagnostic imaging/genetics', 'Abortion, Eugenic', 'Adult', 'Amniocentesis', '*Aneuploidy', '*Chromosomes, Human, X', 'Female', 'Fetal Heart/abnormalities/diagnostic imaging', 'Heart Defects, Congenital/*diagnosis/diagnostic imaging/embryology', 'Humans', 'Male', 'Pregnancy', '*Sex Chromosome Aberrations', 'Syndrome', '*Ultrasonography, Prenatal']

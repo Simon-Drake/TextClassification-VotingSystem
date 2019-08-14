@@ -1,0 +1,3 @@
+RADIOLOGY AND THE PRACTITIONER. THE CHEST.
+?
+['*Angiocardiography', '*Angiography', '*Bronchial Neoplasms', '*Bronchiectasis', '*Bronchitis', '*Bronchography', 'Humans', '*Lung Abscess', '*Lung Diseases', '*Pleurisy', '*Pneumonia', '*Radiography, Thoracic', '*Silicosis', '*Tomography', '*Tuberculosis', '*Tuberculosis, Pulmonary']

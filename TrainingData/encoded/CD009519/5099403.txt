@@ -1,0 +1,1 @@
+MeSHAdult MeSHBronchography MeSHCarcinoma MeSHBronchogeni MeSHDiagnosis MeSHDifferential MeSHDiagnosticErrors MeSHHumans MeSHLungDisease MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHTomography

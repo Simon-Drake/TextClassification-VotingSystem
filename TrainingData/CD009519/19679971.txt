@@ -1,0 +1,3 @@
+Sclerosing hemangioma with lymph nodal metastases.
+A case of sclerosing hemangioma of the lung is reported in a young male, who presented with recurrent cough and streaky hemoptysis for three years. The tumor was situated in the right upper lobe and was large (over 9 cm), multicentric and associated with metastases to the regional lymph nodes. To the best of our knowledge, only 14 cases with such metastases have been reported.
+['Cough/etiology', 'Hemoptysis/etiology', 'Histiocytoma, Benign Fibrous/*diagnosis/*pathology/surgery', 'Histocytochemistry', 'Humans', 'Lung Neoplasms/*diagnosis/*pathology/surgery', 'Lymphatic Metastasis/*pathology', 'Male', 'Neoplasm Metastasis/*pathology', 'Radiography, Thoracic', 'Tomography', 'Young Adult']

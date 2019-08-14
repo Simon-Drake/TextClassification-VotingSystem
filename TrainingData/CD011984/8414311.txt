@@ -1,0 +1,3 @@
+Antenatal diagnosis of choroid plexus cyst: suggested management.
+?
+['Amniocentesis', 'Brain Diseases/complications/diagnostic imaging', '*Choroid Plexus', 'Chromosomes, Human, Pair 18', 'Cysts/complications/*diagnostic imaging', 'Down Syndrome/complications', 'Female', 'Fetal Diseases/*diagnostic imaging', 'Humans', 'Infant, Newborn', 'Pregnancy', 'Trisomy', 'Ultrasonography, Prenatal']

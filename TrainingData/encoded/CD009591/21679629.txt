@@ -1,0 +1,1 @@
+MeSHAbdominalPain MeSHAdult MeSHEndometriosis MeSHFemale MeSHHumans MeSHIlealDiseases MeSHIntestinalDiseases MeSHIntussusception MeSHTomography MeSHX-RayComputed

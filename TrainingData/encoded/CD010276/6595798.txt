@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHCytodiagnosis MeSHDiagnosis MeSHDifferential MeSHHumans MeSHMouthMucos MeSHMouthNeoplasm MeSHSerologicTests

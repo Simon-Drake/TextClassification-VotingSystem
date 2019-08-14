@@ -1,0 +1,3 @@
+Bilateral adrenal metastases revealed by F-18 FDG coincidence detection positron emission tomography in a patient with lung cancer.
+?
+['Adrenal Gland Neoplasms/*diagnostic imaging/pathology/*secondary', 'Aged', 'Carcinoma, Non-Small-Cell Lung/*diagnosis/*secondary', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Radionuclide Imaging', 'Radiopharmaceuticals', 'Tomography, X-Ray Computed']

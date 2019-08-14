@@ -1,0 +1,1 @@
+MeSHAmyloidbeta-Peptides MeSHBrain MeSHCellLine MeSHFetus MeSHGeneticVectors MeSHHumans MeSHKidney MeSHKinetics MeSHPlasmids MeSHProteinProcessing MeSHPost-Translational MeSHSUMO-1Protein MeSHSmallUbiquitin-RelatedModifierProteins MeSHTransfection MeSHTumorCells MeSHCultured MeSHUbiquitin MeSHUbiquitins

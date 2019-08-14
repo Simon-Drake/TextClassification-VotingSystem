@@ -1,0 +1,1 @@
+MeSHBreastNeoplasm MeSHCost-BenefitAnalysis MeSHFemale MeSHGermany MeSHHumans MeSHMedicalOncolog MeSHNuclearMedicin MeSHSwitzerland MeSHTechnetiumTc99mSestamibi MeSHTomography MeSHEmission-Compute MeSHUnitedStates

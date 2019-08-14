@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAspergillusoryza MeSHBaseSequence MeSHCloning MeSHMolecular MeSHDNA MeSHFungal MeSHFungalProtein MeSHGenes MeSHFungal MeSHMolecularSequenceData MeSHPolymeraseChainReaction MeSHPromoterRegions MeSHGenetic MeSHXylanEndo-1 MeSH3-beta-Xylosidase MeSHXylosidase

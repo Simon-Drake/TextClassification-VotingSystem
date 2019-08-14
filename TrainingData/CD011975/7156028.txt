@@ -1,0 +1,3 @@
+Prenatal diagnosis of 49, XXXYY.
+?
+['Adult', 'Age Factors', '*Aneuploidy', 'Female', 'Humans', 'Male', 'Pregnancy', '*Prenatal Diagnosis', 'Sex Chromosome Aberrations/*diagnosis', 'X Chromosome', 'Y Chromosome']

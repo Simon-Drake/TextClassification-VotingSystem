@@ -1,0 +1,3 @@
+The Brachmann-de Lange syndrome.
+?
+['Adolescent', 'Adult', 'Aneuploidy', 'Child', 'Consanguinity', 'De Lange Syndrome/diagnosis/*genetics', 'Diseases in Twins', 'Female', 'Humans', 'Male', 'Pedigree', 'Phenotype', 'Pregnancy', 'Prenatal Diagnosis']

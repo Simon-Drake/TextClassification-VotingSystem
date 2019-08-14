@@ -1,0 +1,1 @@
+MeSH"3UntranslatedRegions" MeSH"5UntranslatedRegions" MeSHAminoAcidSequence MeSHAspergillusnige MeSHBaseSequence MeSHCloning MeSHMolecular MeSHExons MeSHModels MeSHMolecular MeSHMolecularSequenceData MeSHOpenReadingFrames MeSHPhylogeny MeSHProteinConformation MeSHProteinSortingSignal MeSHbeta-Mannosidas

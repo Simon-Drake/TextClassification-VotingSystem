@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdult MeSHAged MeSHChild MeSHDrugEvaluation MeSHEvaluationStudiesasTopic MeSHFemale MeSHHumans MeSHHydronephrosi MeSHKidne MeSHKidneyCalcul MeSHKidneyDisease MeSHKidneyNeoplasm MeSHMale MeSHMiddleAged MeSHPenicillamine MeSHPyelonephriti MeSHRadionuclideImagin MeSHTechnetium

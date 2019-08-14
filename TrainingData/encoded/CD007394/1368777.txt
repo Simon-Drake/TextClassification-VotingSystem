@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAspergillus MeSHBacteriophagelambda MeSHBaseSequence MeSHBlotting MeSHSouthern MeSHBlotting MeSHWestern MeSHCloning MeSHMolecular MeSHCultureMedia MeSHDNA MeSHGlucan1 MeSH4-alpha-Glucosidase MeSHMolecularSequenceData MeSHPlasmids MeSHSaccharomycescerevisiae MeSHalpha-Amylases

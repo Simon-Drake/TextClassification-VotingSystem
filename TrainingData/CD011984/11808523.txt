@@ -1,0 +1,3 @@
+Screening for Down's syndrome. Modelling does not predict reality accurately.
+?
+['Adult', 'Down Syndrome/*diagnosis', 'Evidence-Based Medicine', 'Female', 'Fetal Diseases/diagnosis', 'Humans', 'Mass Screening/*methods', '*Models, Theoretical', 'Pregnancy', 'Prenatal Diagnosis/*methods']

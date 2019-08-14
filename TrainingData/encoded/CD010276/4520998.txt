@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHCytodiagnosis MeSHDiagnosis MeSHDifferential MeSHHumans MeSHJawDisease MeSHJawNeoplasm MeSHMethods MeSHMouthDisease MeSHMouthMucos MeSHMouthNeoplasm MeSHPatientCarePlanning

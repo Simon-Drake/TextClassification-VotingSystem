@@ -1,0 +1,3 @@
+Superoxide dismutase levels in amniotic fluid.
+?
+['Amniotic Fluid/*chemistry', 'Chromosomes, Human, Pair 13', 'Chromosomes, Human, Pair 18', 'Down Syndrome/diagnosis/metabolism', 'Female', 'Humans', 'Male', 'Pregnancy', 'Prenatal Diagnosis', 'Superoxide Dismutase/*analysis', 'Trisomy']

@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHBaseSequence MeSHCloning MeSHMolecular MeSHFungalProtein MeSHGenes MeSHFungal MeSHGlycerolphosphateDehydrogenas MeSHMolecularSequenceData MeSHPenicilliu MeSHPhylogeny

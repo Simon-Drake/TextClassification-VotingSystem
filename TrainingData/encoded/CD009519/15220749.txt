@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHNon-Small-CellLun MeSHChemotherapy MeSHAdjuvant MeSHCombinedModalityTherapy MeSHHumans MeSHLungNeoplasm MeSHNeoplasmStaging MeSHPositron-EmissionTomography MeSHTreatmentOutcome

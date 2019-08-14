@@ -1,0 +1,3 @@
+DISQ 5: Counseling women with isolated 'soft' markers at 18-24 weeks.
+?
+['*Counseling', 'Down Syndrome/*diagnostic imaging', 'Female', 'Humans', 'Pregnancy', 'Pregnancy Trimester, Second', 'Prenatal Diagnosis/methods', 'Risk Factors', 'Ultrasonography']

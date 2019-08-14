@@ -1,0 +1,3 @@
+Follow-up diagnostic procedures in lung cancer screening.
+?
+['Humans', 'Lung Neoplasms/*diagnosis/*prevention & control', '*Mass Screening', 'Occupational Diseases/diagnosis/prevention & control', 'Positron-Emission Tomography', 'Thoracotomy', 'Tomography, X-Ray Computed/methods']

@@ -1,0 +1,3 @@
+Complete spontaneous remission of non-small-cell lung cancer: a case report.
+Spontaneous remission (SR) of cancer is a rare event, particularly in lung cancer. We report the case of a 68-year-old man, who came to our attention with a diagnosis of poorly differentiated pulmonary adenocarcinoma and, in absence of any active therapy, underwent a durable complete SR. Our case supports the rare occurrence of SR in non-small-cell lung cancer (NSCLC).
+['Aged', 'Biopsy, Needle', 'Carcinoma, Non-Small-Cell Lung/*diagnosis', 'Follow-Up Studies', 'Humans', 'Immunohistochemistry', 'Lung Neoplasms/*diagnosis', 'Male', '*Neoplasm Regression, Spontaneous', 'Positron-Emission Tomography/methods', 'Risk Assessment', 'Tomography, X-Ray Computed']

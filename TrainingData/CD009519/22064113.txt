@@ -1,0 +1,3 @@
+Primary pulmonary osteosarcoma: PET/CT and SPECT/CT findings.
+?
+['Bone Neoplasms/*diagnostic imaging', 'Humans', 'Keratin-19/metabolism', 'Lung Neoplasms/*diagnostic imaging/pathology', 'Male', 'Middle Aged', '*Multimodal Imaging', 'Osteosarcoma/*diagnostic imaging/pathology', '*Positron-Emission Tomography', '*Tomography, Emission-Computed, Single-Photon', '*Tomography, X-Ray Computed', 'Whole Body Imaging']

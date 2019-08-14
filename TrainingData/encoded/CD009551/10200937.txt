@@ -1,0 +1,1 @@
+MeSHBloo MeSHCetrimoniumCompounds MeSHColonyCount MeSHMicrobial MeSHDNAPrimers MeSHDNA MeSHFunga MeSHFungemi MeSHGenes MeSHrRNA MeSHHumans MeSHMitosporicFung MeSHMycose MeSHPolymeraseChainReactio MeSHRNA MeSHRibosoma MeSHSensitivityandSpecificity

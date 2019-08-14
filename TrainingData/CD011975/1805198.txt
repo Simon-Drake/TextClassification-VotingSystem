@@ -1,0 +1,3 @@
+Sensitivity of chromosomal mosaicism detected by different tissue culture methods.
+?
+['Amniotic Fluid/cytology', 'Culture Techniques/*methods', 'False Positive Reactions', 'Humans', '*Mosaicism', '*Prenatal Diagnosis', 'Sensitivity and Specificity']

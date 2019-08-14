@@ -1,0 +1,3 @@
+Effectiveness of prenatal screening.
+?
+['Congenital Abnormalities/*diagnosis', 'Down Syndrome/diagnosis', 'Female', 'Genetic Diseases, Inborn/*diagnosis', 'Humans', 'Neural Tube Defects/diagnosis', 'Pregnancy', '*Prenatal Diagnosis', 'Tay-Sachs Disease/diagnosis', 'Thalassemia/diagnosis']

@@ -1,0 +1,1 @@
+MeSHDiagnosticImagin MeSHHumans MeSHLungNeoplasm MeSHPositron-EmissionTomography MeSHRadiography MeSHThoracic MeSHTomography MeSHX-RayComputed

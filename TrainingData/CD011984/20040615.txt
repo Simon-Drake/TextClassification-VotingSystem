@@ -1,0 +1,3 @@
+Digital fetal aneuploidy diagnosis by next-generation sequencing.
+?
+['*Aneuploidy', 'Female', 'Humans', 'Pregnancy', 'Prenatal Diagnosis/*methods', 'Sequence Analysis, DNA/methods']

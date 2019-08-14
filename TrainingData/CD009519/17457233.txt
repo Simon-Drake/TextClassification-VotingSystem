@@ -1,0 +1,3 @@
+Image-guided radiotherapy and hypofractionation in lung cancer.
+?
+['*Dose Fractionation', 'Humans', 'Image Enhancement/*methods', 'Magnetic Resonance Spectroscopy', 'Positron-Emission Tomography', 'Radiotherapy Planning, Computer-Assisted/instrumentation', 'Radiotherapy, Computer-Assisted/*methods', 'Radiotherapy, Intensity-Modulated/instrumentation']

@@ -1,0 +1,1 @@
+MeSHDiagnosis MeSHDifferential MeSHFollow-UpStudies MeSHGranuloma MeSHPlasmaCel MeSHHumans MeSHLungDisease MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHSolitaryPulmonaryNodul MeSHTomography MeSHSpiralCompute MeSHTomography MeSHX-RayCompute

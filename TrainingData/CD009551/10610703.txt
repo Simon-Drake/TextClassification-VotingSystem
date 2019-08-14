@@ -1,0 +1,3 @@
+Cloning stress-induced genes from aspergillus niger using polymerase chain reaction-augmented subtractive hybridization.
+?
+['Animals', 'Aspergillus niger/*genetics/growth & development', 'Base Sequence', 'Blotting, Northern/methods', 'Cloning, Molecular/methods', 'DNA, Complementary', '*Gene Expression Regulation, Fungal', '*Genes, Fungal', 'Humans', 'Nucleic Acid Hybridization/methods', 'Oligodeoxyribonucleotides', 'Peptide Library', 'Polymerase Chain Reaction/methods', 'Protein Biosynthesis', 'Proteins/chemistry/genetics', 'Sequence Homology, Amino Acid']

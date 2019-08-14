@@ -1,0 +1,3 @@
+One from column A: choosing between CT, positron emission tomography, endoscopic ultrasound with fine-needle aspiration, transbronchial needle aspiration, thoracoscopy, mediastinoscopy, and mediastinotomy for staging lung cancer.
+?
+['Biopsy, Needle', 'Bronchoscopy', 'Diagnostic Imaging/*methods', 'Endoscopy/*methods', 'Endosonography', 'Humans', 'Lung Neoplasms/*pathology', 'Mediastinoscopy', 'Neoplasm Staging', 'Sensitivity and Specificity', 'Tomography, Emission-Computed', 'Tomography, X-Ray Computed']

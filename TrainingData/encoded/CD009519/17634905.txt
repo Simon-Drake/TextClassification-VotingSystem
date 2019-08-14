@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHNeedle MeSHDiagnosis MeSHDifferential MeSHHumans MeSHIncidentalFindings MeSHLun MeSHLungNeoplasm MeSHLymphNodeExcision MeSHPneumonectomy MeSHSolitaryPulmonaryNodul MeSHThoracicSurgery MeSHVideo-Assisted MeSHThoracotomy MeSHTomography MeSHSpiralComputed

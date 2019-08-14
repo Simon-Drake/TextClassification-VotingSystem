@@ -1,0 +1,3 @@
+Dimerization of urinary beta-core/hCFbetacf: a cause of poor beta-core assay performance in Down syndrome screening studies.
+?
+['Chorionic Gonadotropin, beta Subunit, Human/*urine', 'Dimerization', 'Down Syndrome/*diagnosis/embryology/urine', 'Female', 'Fetal Diseases/*diagnosis/embryology/urine', 'Humans', 'Pregnancy', 'Prenatal Diagnosis/*standards', 'Sensitivity and Specificity']

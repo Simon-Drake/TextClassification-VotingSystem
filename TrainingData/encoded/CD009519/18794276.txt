@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdult MeSHAged MeSHAged MeSH80andover MeSHBronchialNeoplasm MeSHCarcinom MeSHDiagnosis MeSHDifferential MeSHFemale MeSHHumans MeSHMale MeSHMiddleAged MeSHPositron-EmissionTomograph MeSHPulmonaryAlveol MeSHRadiopharmaceuticals MeSHRetrospectiveStudies MeSHTomography MeSHX-RayCompute

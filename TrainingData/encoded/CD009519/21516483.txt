@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdult MeSHColonicNeoplasm MeSHColonoscopy MeSHFemale MeSHHumans MeSHLymphNode MeSHMultimodalImaging MeSHPositron-EmissionTomography MeSHPrognosis MeSHReviewLiteratureasTopic MeSHTomography MeSHX-RayComputed

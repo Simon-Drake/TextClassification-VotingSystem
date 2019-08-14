@@ -1,0 +1,1 @@
+MeSHAnalysisofVariance MeSHBiopsy MeSHCytodiagnosi MeSHFourierAnalysis MeSHHumans MeSHImageInterpretation MeSHComputer-Assiste MeSHMouthMucos MeSHMouthNeoplasm MeSHOralSubmucousFibrosi MeSHPrecancerousCondition MeSHSupportVectorMachine

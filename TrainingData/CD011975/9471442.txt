@@ -1,0 +1,3 @@
+[Does germinal chromosomal mosaicism exist?].
+?
+['Abortion, Therapeutic', 'Adult', '*Chromosome Deletion', '*Chromosomes, Human, Pair 16', 'Down Syndrome/*diagnosis/*genetics', 'Female', 'Genetic Counseling', 'Humans', 'Mosaicism/*genetics', '*Prenatal Diagnosis', 'Recurrence']

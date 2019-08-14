@@ -1,0 +1,3 @@
+Sex chromosomal aneuploidy: prospective and longitudinal studies.
+?
+['Adolescent', 'Aneuploidy', 'Child', 'Cognition', 'Education', 'Emotions', 'Female', 'Follow-Up Studies', 'Gonadal Steroid Hormones/physiology', 'Growth', 'Humans', 'Intelligence', 'Language Development', 'Male', 'Memory/physiology', 'Monosomy', 'Perception/physiology', 'Pituitary Gland/physiology', 'Prenatal Diagnosis', 'Prospective Studies', 'Puberty', 'Sex Chromosome Aberrations/diagnosis/*physiopathology/psychology']

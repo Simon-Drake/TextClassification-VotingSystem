@@ -1,0 +1,3 @@
+A rare complication of a CT-guided biopsy.
+?
+['Aged', 'Biopsy, Needle', 'Carcinoma, Non-Small-Cell Lung/*complications/*diagnosis', 'Humans', 'Lung Neoplasms/*complications/*diagnosis', 'Male', 'Positron-Emission Tomography', 'Radiography, Interventional', '*Tomography, X-Ray Computed']

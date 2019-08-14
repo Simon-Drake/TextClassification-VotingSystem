@@ -1,0 +1,3 @@
+Molecular typing of Aspergillus terreus isolates collected in Houston, Texas, and Innsbruck, Austria: evidence of great genetic diversity.
+Aspergillus terreus isolates collected from patients at The M. D. Anderson Cancer Center in Houston, TX, and at The University Hospital of Innsbruck, Austria, were analyzed using random amplification of polymorphic DNA-PCR with three different primers. No strain similarity in either institution was detected, indicating great genetic diversity of A. terreus.
+['Aspergillosis/*microbiology', 'Aspergillus/*classification/genetics/*isolation & purification', 'Austria', 'Cluster Analysis', 'DNA Fingerprinting', 'DNA, Fungal/genetics', 'Humans', '*Polymorphism, Genetic', 'Random Amplified Polymorphic DNA Technique', 'Texas']

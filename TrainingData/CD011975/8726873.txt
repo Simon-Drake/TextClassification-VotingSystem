@@ -1,0 +1,3 @@
+Biochemical and ultrasound screening for Down's syndrome: rivals or partners?
+?
+['Biomarkers/blood', 'Down Syndrome/blood/*diagnosis/diagnostic imaging', 'Female', 'Humans', 'Pregnancy', '*Prenatal Diagnosis', 'Ultrasonography', 'alpha-Fetoproteins/analysis']

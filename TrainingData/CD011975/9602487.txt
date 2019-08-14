@@ -1,0 +1,3 @@
+Prenatal confirmation of true fetal trisomy 22 mosaicism by fetal skin biopsy following normal fetal blood sampling.
+Trisomy 22 mosaicism diagnosed at 20 weeks' gestation by amniocentesis in a 35-year-old woman was not confirmed by fetal blood sampling. Subsequent fetal skin biopsy revealed trisomy 22 in 7 of the 15 fibroblasts analysed. We conclude that, depending on the chromosome involved, fetal skin biopsy should be considered in the diagnostic work-up when mosaicism is found in amniotic fluid.
+['Abortion, Induced', 'Adult', '*Biopsy', '*Chromosomes, Human, Pair 22', 'Female', 'Fetal Blood/chemistry', 'Gestational Age', 'Humans', '*Mosaicism', 'Pregnancy', '*Prenatal Diagnosis', 'Skin/*embryology', '*Trisomy']

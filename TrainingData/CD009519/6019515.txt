@@ -1,0 +1,3 @@
+CO-2-O-2 pneumomediastinography with polytomography for the preoperative evaluation of bronchogenic carcinoma.
+?
+['*Carbon Dioxide', 'Carcinoma, Bronchogenic/*diagnostic imaging', 'Humans', 'Lymphatic Metastasis', '*Oxygen', '*Pneumomediastinum, Diagnostic', 'Radiography', '*Tomography']

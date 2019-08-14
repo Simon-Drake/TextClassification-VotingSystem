@@ -1,0 +1,3 @@
+Severe mental handicap: pathogenesis, treatment, and prevention.
+?
+['Adolescent', 'Adult', 'Down Syndrome/diagnosis', 'Female', 'Fragile X Syndrome/diagnosis/etiology', 'Genetic Counseling', 'Humans', 'Infant, Newborn', '*Intellectual Disability/etiology/prevention & control/therapy', 'Male', 'Metabolism, Inborn Errors/complications/diagnosis/diet therapy', 'Phenylketonurias/diet therapy', 'Pregnancy', 'Prenatal Diagnosis', 'Spina Bifida Occulta/diagnosis']

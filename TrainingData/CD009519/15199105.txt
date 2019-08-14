@@ -1,0 +1,3 @@
+Lung cancer screening for all? Not yet, panel says.
+?
+['Case-Control Studies', 'Humans', 'Lung Neoplasms/*diagnostic imaging/*prevention & control', 'Mass Screening/adverse effects/*methods/standards', 'Radiation Dosage', 'Randomized Controlled Trials as Topic', 'Research Design', 'Tomography, Spiral Computed', '*Tomography, X-Ray Computed', 'United States']

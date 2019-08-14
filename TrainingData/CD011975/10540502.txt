@@ -1,0 +1,3 @@
+[Markers for trisomy 21].
+?
+['Down Syndrome/*diagnosis/genetics', 'Female', '*Genetic Markers', 'Humans', 'Pregnancy', 'Prenatal Diagnosis']

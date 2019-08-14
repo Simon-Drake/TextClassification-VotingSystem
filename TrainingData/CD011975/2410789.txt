@@ -1,0 +1,3 @@
+Cautions about maternal serum alpha-fetoprotein screening.
+?
+['Down Syndrome/diagnosis', 'Female', 'Fetal Diseases/diagnosis', 'Humans', 'Pregnancy', 'Prenatal Diagnosis/*standards', 'alpha-Fetoproteins/*analysis']

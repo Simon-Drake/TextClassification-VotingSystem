@@ -1,0 +1,3 @@
+[A revolution in pneumology: positron-emission tomography].
+?
+['Bronchial Neoplasms/diagnostic imaging/pathology', 'Diagnosis, Differential', 'Humans', 'Lung Neoplasms/*diagnostic imaging/pathology/therapy', 'Neoplasm Metastasis', 'Neoplasm Recurrence, Local/diagnostic imaging', '*Tomography, Emission-Computed']

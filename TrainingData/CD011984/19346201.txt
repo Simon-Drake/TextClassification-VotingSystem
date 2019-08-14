@@ -1,0 +1,3 @@
+Prenatal diagnosis of 46,XX,DER(13;21)(Q10;Q10),+21 and transient abnormal myelopoiesis in a fetus with hepatosplenomegaly and spontaneous resolution of fetal ascites.
+?
+['Adult', 'Ascites/etiology', 'Chromosome Aberrations', 'Cordocentesis', 'Down Syndrome/complications/*diagnostic imaging', 'Female', 'Fetal Death', 'Gonadal Dysgenesis, Mixed/complications/*diagnostic imaging', 'Hepatomegaly/complications/*diagnostic imaging', 'Humans', 'Karyotyping', 'Pregnancy', 'Pregnancy Trimester, Third', 'Splenomegaly/complications/*diagnostic imaging', '*Ultrasonography, Prenatal']

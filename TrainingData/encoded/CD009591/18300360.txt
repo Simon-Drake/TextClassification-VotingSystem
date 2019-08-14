@@ -1,0 +1,1 @@
+MeSHAbdominalPain MeSHAdult MeSHAnti-BacterialAgents MeSHAppendix MeSHCysts MeSHDiagnosis MeSHDifferential MeSHDiverticulitis MeSHFemale MeSHGastroenterology MeSHGastrointestinalDiseases MeSHHumans MeSHInflammation MeSHPelvis MeSHTomography MeSHX-RayComputed

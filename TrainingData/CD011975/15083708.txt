@@ -1,0 +1,3 @@
+Detection of trisomy 21 in a fetus during the investigation for Tay-Sachs disease.
+?
+['Abortion, Induced', 'Diagnosis, Differential', 'Down Syndrome/*diagnosis/genetics', 'Female', 'Fetal Diseases/*diagnosis/genetics', 'Humans', 'Karyotyping', 'Pregnancy', 'Pregnancy Trimester, First', 'Prenatal Diagnosis', 'Tay-Sachs Disease/*diagnosis']

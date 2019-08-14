@@ -1,0 +1,3 @@
+The impact of maternal serum screening programs for Down syndrome in southeast Michigan, 1988-2003.
+?
+['Down Syndrome/blood/*diagnosis/epidemiology', 'Female', 'Fetal Diseases/*blood/diagnosis', 'Genetic Testing', 'Humans', 'Michigan/epidemiology', 'Pregnancy', '*Prenatal Diagnosis/statistics & numerical data', 'alpha-Fetoproteins/*analysis']

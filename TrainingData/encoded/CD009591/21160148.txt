@@ -1,0 +1,1 @@
+MeSHCase-ControlStudies MeSHCellCount MeSHCellNucleus MeSHDesmin MeSHEndometriosis MeSHFemale MeSHHumans MeSHImmunohistochemistry MeSHMyometrium MeSHPhenotype MeSHPostmenopause MeSHPremenopause MeSHUterineDiseases MeSHUterus MeSHVimentin

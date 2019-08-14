@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHBronchogeni MeSHCarcinoma MeSHNon-Small-CellLun MeSHCarcinoma MeSHSmallCel MeSHCost-BenefitAnalysis MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHLymphaticMetastasi MeSHNeoplasmStaging MeSHSensitivityandSpecificity MeSHTomography MeSHEmission-Compute

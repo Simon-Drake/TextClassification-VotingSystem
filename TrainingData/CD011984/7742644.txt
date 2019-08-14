@@ -1,0 +1,3 @@
+Ethical concerns and future directions in maternal screening for Down syndrome.
+?
+['Beneficence', 'Down Syndrome/diagnosis/*prevention & control', '*Ethics, Medical', 'Female', 'Fetal Diseases/diagnosis/*prevention & control', 'Forecasting', '*Genetic Counseling', 'Humans', '*Mass Screening', 'Personal Autonomy', 'Pregnancy', '*Pregnant Women', '*Prenatal Care', '*Prenatal Diagnosis', 'Risk Assessment', 'Voluntary Programs']

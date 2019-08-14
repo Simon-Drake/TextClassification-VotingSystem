@@ -1,0 +1,3 @@
+Malpractice and women 35 years of age or more at delivery.
+?
+['Adult', 'Down Syndrome/*prevention & control', 'Female', 'Genetic Counseling', 'Humans', 'Malpractice', '*Maternal Age', 'Pregnancy', '*Pregnancy, High-Risk', '*Prenatal Diagnosis', 'United States']

@@ -1,0 +1,3 @@
+[Changes in pulmonary atelactatic circulation in patients with bronchogenic carcinoma and their significance for lung function evaluation].
+?
+['Blood Flow Velocity', 'Blood Pressure', 'Bronchography', 'Carbon Dioxide/blood', 'Carcinoma, Bronchogenic/blood/classification/*diagnostic imaging/*physiopathology', 'Humans', 'Hydrogen-Ion Concentration', 'Oxygen/blood', 'Pulmonary Atelectasis/*diagnostic imaging', '*Pulmonary Circulation', 'Tomography', 'Ventilation-Perfusion Ratio']

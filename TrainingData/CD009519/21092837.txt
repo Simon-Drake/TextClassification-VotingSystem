@@ -1,0 +1,3 @@
+Selective nodal irradiation on basis of (18)FDG-PET scans in limited-disease small-cell lung cancer: a prospective study. In regard to van Loon et al. (Int J Radiat Oncol Biol Phys 2010;77:329-336).
+?
+['*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/radiotherapy', 'Lymphatic Irradiation/*methods', 'Mediastinum', 'Positron-Emission Tomography/*methods', '*Radiopharmaceuticals', 'Radiotherapy Planning, Computer-Assisted', 'Small Cell Lung Carcinoma/*diagnostic imaging/radiotherapy', 'Tomography, X-Ray Computed']

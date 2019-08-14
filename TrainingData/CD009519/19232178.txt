@@ -1,0 +1,3 @@
+[Bronchiolitis obliterans with organising pneumonia as a false positive for malignacy in a PE study].
+?
+['Cryptogenic Organizing Pneumonia/*diagnostic imaging/pathology', 'Diagnosis, Differential', 'False Positive Reactions', 'Humans', 'Lung Neoplasms/diagnosis', 'Male', 'Middle Aged', '*Positron-Emission Tomography', 'Solitary Pulmonary Nodule/*diagnostic imaging/pathology', '*Tomography, X-Ray Computed']

@@ -1,0 +1,3 @@
+[Picture of the month. Rest tumors and metastases].
+?
+['Aged', 'Animals', 'Biomarkers, Tumor/analysis', 'Carcinoembryonic Antigen/analysis', 'Fluorodeoxyglucose F18/analysis', 'Humans', 'Lung Neoplasms/*diagnostic imaging/metabolism/secondary', 'Male', 'Tomography, Emission-Computed']

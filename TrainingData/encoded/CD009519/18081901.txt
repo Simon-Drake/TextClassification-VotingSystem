@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdult MeSHAged MeSHCarcinoidTumo MeSHCarcinoma MeSHLargeCel MeSHCarcinoma MeSHSquamousCel MeSHChoroidNeoplasm MeSHFemale MeSHHumans MeSHIncidence MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPositron-EmissionTomography MeSHRetrospectiveStudies MeSHSmallCellLungCarcinom MeSHTomography MeSHX-RayComputed

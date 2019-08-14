@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdult MeSHAged MeSHCarcinom MeSHCarcinoma MeSHPapillar MeSHFemale MeSHHeadandNeckNeoplasm MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHThallium MeSHThalliumRadioisotopes MeSHThyroidNeoplasm MeSHThyroidectomy MeSHTomography MeSHEmission-Computed MeSHSingle-Photon

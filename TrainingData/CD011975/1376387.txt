@@ -1,0 +1,3 @@
+Free beta-hCG as first-trimester marker for fetal trisomy.
+?
+['Chorionic Gonadotropin/*blood', 'Chorionic Gonadotropin, beta Subunit, Human', 'Chromosomes, Human, Pair 18', 'Down Syndrome/diagnosis', 'Female', 'Fetal Diseases/*diagnosis', 'Humans', 'Peptide Fragments/*blood', 'Pregnancy', 'Pregnancy Trimester, First', '*Prenatal Diagnosis', '*Trisomy']

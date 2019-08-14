@@ -1,0 +1,3 @@
+Autocontouring versus manual contouring.
+?
+['Algorithms', 'Automation', 'Carcinoma, Non-Small-Cell Lung/*diagnostic imaging', 'Fluorodeoxyglucose F18', 'Humans', 'Image Processing, Computer-Assisted', 'Lung Neoplasms/*diagnostic imaging', 'Positron-Emission Tomography/*statistics & numerical data', 'Radiopharmaceuticals', 'Tomography, Emission-Computed/*statistics & numerical data']

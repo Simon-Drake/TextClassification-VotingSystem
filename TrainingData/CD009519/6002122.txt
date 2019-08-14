@@ -1,0 +1,3 @@
+[On plasmacytomas of the lungs].
+?
+['Adult', '*Bronchial Neoplasms/pathology', 'Bronchoscopy', 'Humans', '*Lung Neoplasms/pathology', 'Male', '*Plasmacytoma/pathology', 'Tomography']

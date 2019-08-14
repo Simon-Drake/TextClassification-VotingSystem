@@ -1,0 +1,1 @@
+MeSHAlcoholDrinkin MeSHCase-ControlStudies MeSHDietaryFibe MeSHEdibleGrain MeSHEsophagealNeoplasm MeSHFemale MeSHFruit MeSHHumans MeSHMale MeSHMiddleAged MeSHMouthNeoplasm MeSHOddsRatio MeSHPharyngealNeoplasm MeSHVegetables

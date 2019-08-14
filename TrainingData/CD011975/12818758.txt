@@ -1,0 +1,3 @@
+[Molecular diagnosis for the most frequent aneuploidies with quantitative fluorescent PCR].
+?
+['*Aneuploidy', 'Genetic Markers/genetics', 'Genetic Testing/*methods/standards', 'Humans', 'In Situ Hybridization, Fluorescence/*methods/standards', 'Polymerase Chain Reaction/*methods/standards', 'Polymorphism, Genetic/genetics', 'Prenatal Diagnosis/*methods/standards', 'Reproducibility of Results', 'Sensitivity and Specificity']

@@ -1,0 +1,3 @@
+THE DIAGNOSIS AND DELINEATION OF CANCER.
+?
+['*Bronchial Neoplasms', 'Humans', '*Laryngeal Neoplasms', '*Lung Neoplasms', '*Lymphography', '*Nasopharyngeal Neoplasms', 'Neoplasms/*diagnosis', '*Paranasal Sinus Neoplasms', '*Radiography', '*Tomography']

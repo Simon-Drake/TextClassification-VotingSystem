@@ -1,0 +1,1 @@
+MeSHBreastNeoplasm MeSHFemale MeSHGastrointestinalNeoplasm MeSHHeadandNeckNeoplasm MeSHHumans MeSHIncidence MeSHLaryngealNeoplasm MeSHLungNeoplasm MeSHNeoplasms MeSHMultiplePrimar MeSHPai MeSHPhysicalExamination MeSHThyroidNeoplasm

@@ -1,0 +1,1 @@
+MeSHChromosomes MeSHHuman MeSHX MeSHDNA MeSHFemale MeSHFetalBlood MeSHFetus MeSHGenotype MeSHGestationalAge MeSHHumans MeSHMaternal-FetalExchange MeSHPolymeraseChainReaction MeSHPregnancy MeSHPregnancyTrimester MeSHSecond MeSHPrenatalDiagnosis MeSHRh-HrBlood-GroupSystem MeSHSensitivityandSpecificity MeSHSexDeterminationAnalysis

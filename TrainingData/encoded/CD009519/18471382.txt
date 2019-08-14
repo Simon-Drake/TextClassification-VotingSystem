@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdult MeSHAlgorithms MeSHFemale MeSHHemodynamics MeSHHumans MeSHLungDisease MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPositron-EmissionTomography MeSHSolitaryPulmonaryNodul MeSHTomography MeSHX-RayComputed

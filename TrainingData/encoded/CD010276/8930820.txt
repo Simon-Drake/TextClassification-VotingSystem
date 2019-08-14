@@ -1,0 +1,1 @@
+MeSHAutomation MeSHCellNucleu MeSHCytodiagnosis MeSHCytoplas MeSHFemale MeSHHumans MeSHImageProcessing MeSHComputer-Assisted MeSHMale MeSHMouthMucos MeSHMouthNeoplasm MeSHNeuralNetworks(Computer) MeSHPrecancerousCondition MeSHReproducibilityofResults

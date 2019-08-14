@@ -1,0 +1,3 @@
+[PACHYDERMOPERIOSTOSIS AND LUNG CANCER].
+?
+['*Bone Diseases', '*Carcinoma', '*Carcinoma, Bronchogenic', 'Humans', '*Lung Neoplasms', '*Osteoarthropathy, Primary Hypertrophic', '*Periosteum', '*Tomography', '*Tomography, X-Ray Computed']

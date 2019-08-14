@@ -1,0 +1,3 @@
+Misdiagnosis of interstitial pregnancy followed by uterine cornual rupture during induced midtrimester abortion.
+We present a case of interstitial pregnancy causing uterine cornual rupture during induction of prostaglandin midtrimester abortion. As the clinical and ultrasonographic diagnosis of advanced ectopic gestation may be difficult, the possibility of ectopic pregnancy should be considered in cases of unsuccessful attempts of induced abortion.
+['Abortifacient Agents, Nonsteroidal', '*Abortion, Induced', 'Adult', 'Alprostadil/analogs & derivatives', 'Female', 'Humans', 'Oxytocin', 'Pregnancy', 'Pregnancy, Tubal/*diagnostic imaging', 'Prostaglandins E, Synthetic', 'Ultrasonography, Prenatal', 'Uterine Rupture/*etiology']

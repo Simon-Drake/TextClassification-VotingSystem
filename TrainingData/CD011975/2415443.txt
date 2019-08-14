@@ -1,0 +1,3 @@
+Low alpha-fetoprotein and serum albumin levels in Morbus Down may point to a common regulatory mechanism.
+?
+['Amniotic Fluid/*analysis', 'Down Syndrome/diagnosis/*genetics', 'Female', 'Humans', 'Pregnancy', 'Pregnancy Trimester, Second', 'Prenatal Diagnosis', 'Serum Albumin/*analysis', 'alpha-Fetoproteins/*analysis']

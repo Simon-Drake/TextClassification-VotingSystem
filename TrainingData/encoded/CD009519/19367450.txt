@@ -1,0 +1,1 @@
+MeSHCombinedModalityTherapy MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHLymphaticMetastasis MeSHNeoplasmStaging MeSHPredictiveValueofTests MeSHPrognosis MeSHRadiopharmaceuticals MeSHTomography MeSHEmission-Compute MeSHTomography MeSHX-RayComputed

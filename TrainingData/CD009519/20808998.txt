@@ -1,0 +1,3 @@
+False positive (18)F-FDG-PET/CT findings in a patient with talc pleurodesis.
+?
+['False Positive Reactions', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/diagnostic imaging/pathology/therapy', 'Male', 'Middle Aged', 'Neoplasm Metastasis', '*Pleurodesis', '*Positron-Emission Tomography', 'Talc/*administration & dosage', '*Tomography, X-Ray Computed']

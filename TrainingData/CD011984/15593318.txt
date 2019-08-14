@@ -1,0 +1,3 @@
+Should the frontal bone be visualized in midline sagittal views of the facial profile to assess the fetal nasal bones during the first trimester?
+?
+['Down Syndrome/*diagnostic imaging', 'Female', 'Fetal Diseases/*diagnostic imaging', 'Humans', 'Imaging, Three-Dimensional/methods', 'Nasal Bone/*diagnostic imaging', 'Pregnancy', 'Ultrasonography, Prenatal/*methods']

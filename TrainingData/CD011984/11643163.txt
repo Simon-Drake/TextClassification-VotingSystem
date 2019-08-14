@@ -1,0 +1,3 @@
+Some French mothers support euthanasia of malformed babies.
+?
+['Abortion, Eugenic', 'Abortion, Induced', 'Amniocentesis', '*Attitude', '*Congenital, Hereditary, and Neonatal Diseases and Abnormalities', 'Data Collection', 'Disabled Persons', 'Down Syndrome', 'Embryonic and Fetal Development', '*Euthanasia', '*Euthanasia, Active', 'Female', 'France', 'Genetic Diseases, Inborn', 'Humans', '*Infant, Newborn', '*Mothers', 'Prenatal Diagnosis', 'Women']

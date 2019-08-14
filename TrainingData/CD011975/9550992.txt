@@ -1,0 +1,3 @@
+Rational Down syndrome screening policy.
+?
+['Down Syndrome/*prevention & control', 'Health Policy', 'Humans', 'Likelihood Functions', 'Mass Screening/*methods', 'Maternal Age', 'Multivariate Analysis', 'Normal Distribution', 'Odds Ratio', '*Patient Selection', 'Pregnancy, High-Risk', '*Pregnant Women', 'Prenatal Diagnosis/*methods', 'Risk Assessment', 'Sensitivity and Specificity', 'Social Values']

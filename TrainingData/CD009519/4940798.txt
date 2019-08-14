@@ -1,0 +1,3 @@
+[Review of bronchology and its methods].
+?
+['Anesthesia, Local', 'Biopsy', 'Bronchial Diseases/*diagnosis', 'Bronchial Neoplasms/*diagnosis', 'Bronchography', 'Bronchoscopy', 'Catheterization', 'Contrast Media', 'Fiber Optic Technology', 'Humans', 'Methods', 'Needles', 'Photography', 'Preanesthetic Medication', 'Punctures', 'Tomography']

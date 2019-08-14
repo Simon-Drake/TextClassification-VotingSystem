@@ -1,0 +1,1 @@
+MeSHAdrenalGlandNeoplasm MeSHAged MeSHBoneNeoplasm MeSHCarcinoma MeSHPapillar MeSHFemale MeSHHumans MeSHIodineRadioisotope MeSHLungNeoplasm MeSHPositron-EmissionTomography MeSHRadiationTolerance MeSHThyroidNeoplasm MeSHThyroidectomy MeSHTomography MeSHX-RayComputed

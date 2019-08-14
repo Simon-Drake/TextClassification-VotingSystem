@@ -1,0 +1,3 @@
+Chorionic villus sampling mosaicism: counseling issues.
+?
+['Chorionic Villi Sampling/methods/*standards', 'Female', 'Fetal Blood/chemistry', 'Genetic Counseling/*methods', 'Humans', 'Incidence', 'Mosaicism/*genetics', 'Pregnancy', 'Sensitivity and Specificity']

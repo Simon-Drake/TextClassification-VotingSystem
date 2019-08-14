@@ -1,0 +1,1 @@
+MeSHHumans MeSHLungNeoplasm MeSHLymphaticMetastasis MeSHNeoplasmMetastasis MeSHPrognosis MeSHThalliumRadioisotopes MeSHTimeFactors MeSHTomography MeSHEmission-Computed MeSHSingle-Photon

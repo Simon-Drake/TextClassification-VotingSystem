@@ -1,0 +1,3 @@
+[Radiological studies of the evolution of carcinoma of the lung].
+?
+['Adult', 'Aged', 'Bronchography', 'Female', 'Humans', 'Lung Neoplasms/*diagnostic imaging/*pathology', 'Male', 'Middle Aged', 'Radiography, Thoracic', 'Tomography']

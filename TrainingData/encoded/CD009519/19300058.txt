@@ -1,0 +1,1 @@
+MeSHBronch MeSHBronchoscop MeSHCough MeSHDiagnosticImagin MeSHFluorodeoxyglucoseF1 MeSHForeignBodie MeSHHumans MeSHInflammation MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPositron-EmissionTomograph MeSHRadiopharmaceutical

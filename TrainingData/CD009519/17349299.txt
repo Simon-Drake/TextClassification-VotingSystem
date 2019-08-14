@@ -1,0 +1,3 @@
+[Is lung cancer screening by the helical scanner justified?].
+?
+['Bias (Epidemiology)', 'Cohort Studies', 'Early Diagnosis', 'False Positive Reactions', 'Female', 'France/epidemiology', 'Humans', 'Lung Neoplasms/*diagnostic imaging/epidemiology/surgery', 'Male', 'Neoplasm Staging', 'Research Design', 'Risk', 'Smoking/epidemiology', 'Survival Rate', '*Tomography, Spiral Computed/utilization']

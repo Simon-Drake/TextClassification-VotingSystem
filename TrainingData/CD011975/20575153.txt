@@ -1,0 +1,3 @@
+Effectiveness of crosstrimester test in selecting high-risk pregnant women to undergo invasive prenatal diagnosis.
+?
+['Adult', 'Chorionic Gonadotropin, beta Subunit, Human/blood', 'Down Syndrome/blood/*diagnosis/diagnostic imaging', 'False Negative Reactions', 'False Positive Reactions', 'Female', 'Humans', 'Nuchal Translucency Measurement', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy Trimester, Second', 'Pregnancy-Associated Plasma Protein-A/analysis', 'Prenatal Diagnosis/economics/*methods', 'Ultrasonography, Prenatal']

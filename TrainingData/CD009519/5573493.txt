@@ -1,0 +1,3 @@
+[Primary malignant lymphogranuloma of the lung. Anatomo-clinical considerations on 4 cases].
+?
+['Adolescent', 'Adult', 'Bronchial Neoplasms/*pathology', 'Bronchoscopy', 'Child', 'Female', 'Hodgkin Disease/diagnostic imaging/*pathology', 'Humans', 'Lung Neoplasms/diagnostic imaging/*pathology', 'Pneumonectomy', 'Radiography, Thoracic', 'Tomography']

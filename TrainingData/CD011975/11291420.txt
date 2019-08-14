@@ -1,0 +1,3 @@
+Fetal nuchal translucency scan--its correct place in fetal evaluation.
+?
+['Chromosome Aberrations/*diagnostic imaging', 'Chromosome Disorders', 'Down Syndrome/diagnostic imaging', 'Female', 'Humans', 'Neck/*embryology', 'Pregnancy', '*Ultrasonography, Prenatal']

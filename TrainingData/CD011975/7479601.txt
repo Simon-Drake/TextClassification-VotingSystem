@@ -1,0 +1,3 @@
+Effect of gravidity and parity on the parameters used in serum screening for trisomy 21.
+?
+['Chorionic Gonadotropin/*blood', 'Down Syndrome/*diagnosis', 'Estriol/*blood', 'Female', 'Humans', '*Parity', 'Pregnancy', 'Pregnancy Trimester, Second', '*Prenatal Diagnosis', 'alpha-Fetoproteins/*analysis']

@@ -1,0 +1,3 @@
+Trisomy 12 mosaicism.
+?
+['Adult', '*Amniocentesis', '*Chromosomes, Human, Pair 12', 'Female', 'Humans', 'Infant, Newborn', 'Mosaicism/*genetics', 'Pregnancy', '*Trisomy']

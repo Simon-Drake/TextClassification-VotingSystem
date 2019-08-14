@@ -1,0 +1,3 @@
+Analysis of a chromosomally mosaic placenta to assess the cell populations in dissociated chorionic villi: implications for QF-PCR aneuploidy testing.
+?
+['Cell Line', 'Chorionic Villi Sampling/*methods', 'Female', 'Humans', 'Karyotyping', 'Microsatellite Repeats', '*Mosaicism', '*Placenta', '*Polymerase Chain Reaction', 'Pregnancy', 'Trisomy/*diagnosis/genetics']

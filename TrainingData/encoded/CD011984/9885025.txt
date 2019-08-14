@@ -1,0 +1,1 @@
+MeSHAbnormalities MeSHMultiple MeSHAdult MeSHCells MeSHCultured MeSHChorionicVilliSampling MeSHChromosomes MeSHHuman MeSHPair16 MeSHFemale MeSHFetalGrowthRetardation MeSHFetus MeSHHumans MeSHKaryotyping MeSHMosaicism MeSHPlacenta MeSHPregnancy MeSHPregnancyTrimester MeSHSecond MeSHTrisomy MeSHUltrasonography MeSHPrenatal

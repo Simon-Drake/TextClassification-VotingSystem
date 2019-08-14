@@ -1,0 +1,3 @@
+Question link between human lung cancer and pet bird exposure.
+?
+['Animals', '*Animals, Domestic', '*Birds', 'Humans', 'Lung Neoplasms/*etiology', 'Risk Factors']

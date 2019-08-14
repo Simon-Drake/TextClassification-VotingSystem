@@ -1,0 +1,3 @@
+[Imaging diagnosis: Q & A. Abnormal findings in the upper right lung field].
+?
+['Adenocarcinoma/*diagnosis/diagnostic imaging', 'Aged, 80 and over', 'Female', 'Humans', 'Lung/diagnostic imaging', 'Lung Neoplasms/*diagnosis/diagnostic imaging', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed']

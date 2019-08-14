@@ -1,0 +1,3 @@
+Thallium-201 SPECT depicts radiologically occult lung cancer.
+A case of radiologically occult lung cancer is presented in which 201TI SPECT of the chest clearly delineated the involved area. A 66-yr-old man underwent chest screening examinations for asymptomatic smokers and presented a positive sputum cytology for lung cancer. Conventional chest x-ray, tomography of computed radiography, and a CT scan failed to locate the lesion in the lung. Thallium-201 SPECT, however, was successful in depicting the area of the involvement.
+['Aged', 'Carcinoma, Squamous Cell/*diagnostic imaging', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', '*Thallium Radioisotopes', '*Tomography, Emission-Computed, Single-Photon']

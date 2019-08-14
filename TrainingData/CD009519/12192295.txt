@@ -1,0 +1,3 @@
+Comparative SPECT findings of Tc-99m depreotide, Tc-99m tetrofosmin, and Tl-201 chloride for bronchogenic carcinoma.
+?
+['Biopsy, Needle', 'Carcinoma, Bronchogenic/*diagnostic imaging/pathology', 'Carcinoma, Squamous Cell/diagnostic imaging/pathology', 'False Negative Reactions', 'Humans', 'Lung Neoplasms/*diagnostic imaging/pathology', 'Male', 'Middle Aged', '*Organophosphorus Compounds', '*Organotechnetium Compounds', 'Radiography', 'Radiopharmaceuticals', 'Somatostatin/*analogs & derivatives', '*Thallium', 'Tomography, Emission-Computed, Single-Photon/methods']

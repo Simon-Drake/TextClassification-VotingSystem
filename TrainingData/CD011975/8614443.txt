@@ -1,0 +1,3 @@
+Prenatal screening for Down's syndrome in Maine, 1980 to 1993.
+?
+['Adult', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Maine', 'Maternal Age', 'Pregnancy', 'Prenatal Diagnosis/trends/*utilization']

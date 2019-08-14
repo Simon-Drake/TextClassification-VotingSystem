@@ -1,0 +1,3 @@
+PET/CT imaging in response evaluation of SCLC patients.
+?
+['Carcinoma, Small Cell/*diagnostic imaging', 'Humans', 'Lung Neoplasms/*diagnostic imaging', '*Positron-Emission Tomography', 'Radiography', '*Tomography, Emission-Computed', 'Treatment Outcome']

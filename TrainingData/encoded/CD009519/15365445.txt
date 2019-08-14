@@ -1,0 +1,1 @@
+MeSHBrainNeoplasm MeSHDiagnosis MeSHDifferential MeSHFluorodeoxyglucoseF1 MeSHHernia MeSHInguina MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPositron-EmissionTomograph MeSHRadiopharmaceutical

@@ -1,0 +1,3 @@
+Congenital lymphangiectasia with fetal cystic hygroma: report of two cases with coexistent Down's syndrome.
+?
+['Adult', 'Down Syndrome/complications/*diagnosis', 'Female', 'Fetal Diseases/*diagnosis', 'Humans', 'Lymphangiectasis/*congenital/diagnosis/etiology', 'Lymphangioma/complications/*diagnosis', 'Pregnancy', 'Pregnancy Trimester, First', '*Prenatal Diagnosis', 'Ultrasonography']

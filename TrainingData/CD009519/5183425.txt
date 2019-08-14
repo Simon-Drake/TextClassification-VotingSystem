@@ -1,0 +1,3 @@
+[Case of early cancer of the lung].
+?
+['Bronchial Neoplasms/*diagnostic imaging/pathology', 'Carcinoma, Squamous Cell/pathology', 'Humans', 'Lung/pathology', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', 'Radiography', 'Tomography']

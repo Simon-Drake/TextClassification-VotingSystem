@@ -1,0 +1,3 @@
+Genetics casebook. Pallister-Killian sindrome.
+?
+['Abnormalities, Multiple/diagnosis/*genetics', 'Adult', 'Cesarean Section', '*Chromosome Aberrations', '*Chromosomes, Human, Pair 12', 'Female', '*Fetal Diseases/diagnostic imaging/genetics', 'Gestational Age', 'Humans', 'Mosaicism', 'Pregnancy', 'Syndrome', '*Ultrasonography, Prenatal']

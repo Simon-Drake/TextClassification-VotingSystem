@@ -1,0 +1,3 @@
+Reproductive health and genetic testing in the Third World.
+?
+['Birth Rate', 'Child', 'Child Welfare', '*Developing Countries', 'Female', 'Fertility', 'Genetic Counseling', 'Genetic Diseases, Inborn/diagnostic imaging/*prevention & control', '*Genetic Testing', 'Humans', 'Maternal Mortality', '*Maternal Welfare', 'Poverty', 'Pregnancy', '*Reproduction', 'Socioeconomic Factors', '*Ultrasonography, Prenatal']

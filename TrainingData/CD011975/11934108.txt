@@ -1,0 +1,3 @@
+First-trimester nuchal translucency screening.
+?
+['Down Syndrome/*diagnostic imaging', 'Female', 'Gestational Age', 'Humans', 'Neck/*diagnostic imaging/*embryology', 'Pregnancy', 'Pregnancy Trimester, First', '*Ultrasonography, Prenatal']

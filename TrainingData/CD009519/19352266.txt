@@ -1,0 +1,3 @@
+F-18 FDG PET/CT findings in a case of undifferentiated embryonal sarcoma of the liver with lung and adrenal gland metastasis in a child.
+?
+['Adrenal Gland Neoplasms/*diagnosis/diagnostic imaging/*secondary', 'Child', 'Fluorodeoxyglucose F18', 'Humans', 'Liver Neoplasms/diagnostic imaging/*pathology', 'Lung Neoplasms/*diagnosis/diagnostic imaging/*secondary', 'Male', 'Neoplasms, Germ Cell and Embryonal/diagnostic imaging/*pathology', 'Positron-Emission Tomography', 'Sarcoma/diagnostic imaging/*pathology', 'Tomography, X-Ray Computed']

@@ -1,0 +1,1 @@
+MeSHAbdominalPain MeSHAcuteDisease MeSHAdult MeSHEndometriosis MeSHFemale MeSHFollow-UpStudies MeSHHumans MeSHLaparotomy MeSHOvarianCysts MeSHPeritonitis MeSHPostoperativeComplications MeSHPrognosis MeSHRecurrence MeSHRupture MeSHSpontaneous MeSHTreatmentOutcome MeSHUltrasonography MeSHYoungAdult

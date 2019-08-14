@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAged MeSHBiopsy MeSHFine-Needle MeSHBronchoscop MeSHElectromagneticPhenomena MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHNeoplasms MeSHSquamousCel MeSHPositron-EmissionTomograph MeSHSensitivityandSpecificity MeSHTomography MeSHEmission-Compute

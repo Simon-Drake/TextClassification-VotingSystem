@@ -1,0 +1,1 @@
+MeSHComputerSimulation MeSHEquipmentDesign MeSHFluorodeoxyglucoseF1 MeSHHumans MeSHImaging MeSHThree-Dimensional MeSHLungNeoplasm MeSHMotion MeSHMovement MeSHPhantoms MeSHImaging MeSHPositron-EmissionTomograph MeSHRadiationDosage MeSHRadiography MeSHThoraci MeSHScattering MeSHRadiation MeSHSurfaceProperties MeSHTomography MeSHX-RayCompute

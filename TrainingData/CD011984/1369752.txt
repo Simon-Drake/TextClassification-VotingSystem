@@ -1,0 +1,3 @@
+[Comment on the case report "Hygroma colli--sonographic indications of fetal chromosome abnormality", by A. Yilmazturk and F. Deppermann].
+?
+['Abortion, Eugenic', 'Chromosome Aberrations/*genetics', 'Chromosome Disorders', 'Down Syndrome/diagnostic imaging/*genetics', 'Female', 'Humans', 'Hydrops Fetalis/diagnostic imaging/*genetics', 'Infant, Newborn', 'Lymphatic System/*abnormalities', 'Lymphocele/diagnostic imaging/genetics', 'Pregnancy', 'Pregnancy Trimester, Second', 'Turner Syndrome/diagnostic imaging/*genetics', '*Ultrasonography, Prenatal']

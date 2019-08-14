@@ -1,0 +1,3 @@
+Nuchal fold and nasal bone: how should we use them in Down syndrome screening?
+?
+['Down Syndrome/*diagnostic imaging', 'Female', 'Humans', 'Likelihood Functions', 'Maternal Age', 'Nasal Bone/*diagnostic imaging/pathology', '*Nuchal Translucency Measurement', 'Pregnancy', 'Pregnancy Trimester, Second', 'Risk Assessment', '*Ultrasonography, Mammary']

@@ -1,0 +1,3 @@
+LOCALIZED AMYLOID 'TUMOURS' OF THE LUNG SIMULATING MALIGNANT NEOPLASMS.
+?
+['*Amyloidosis', '*Biopsy', '*Bronchial Diseases', '*Bronchoscopy', '*Diagnosis, Differential', 'Humans', '*Lung Diseases', '*Lung Neoplasms', '*Neoplasm Metastasis', '*Pathology', '*Pneumonectomy', '*Radiography, Thoracic', '*Tomography']

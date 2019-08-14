@@ -1,0 +1,1 @@
+MeSHBiomarkers MeSHTumor MeSHCA-125Antigen MeSHDiagnosis MeSHDifferential MeSHEndometrialNeoplasms MeSHEndometriosis MeSHEpididymalSecretoryProteins MeSHFemale MeSHHumans MeSHOvarianCysts MeSHOvarianNeoplasms MeSHRNA MeSHMessenger MeSHRNA MeSHNeoplasm MeSHReferenceValues MeSHSensitivityandSpecificity MeSHbeta-Defensins

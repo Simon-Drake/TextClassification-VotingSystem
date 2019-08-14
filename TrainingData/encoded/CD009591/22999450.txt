@@ -1,0 +1,1 @@
+MeSHAdult MeSHBiopsy MeSHCystoscopy MeSHDiagnosis MeSHDifferential MeSHEndometriosis MeSHFemale MeSHFollow-UpStudies MeSHHumans MeSHLaparoscopy MeSHRetrospectiveStudies MeSHTreatmentOutcome MeSHUreter MeSHUreteralDiseases MeSHUrinaryBladder MeSHUrologicSurgicalProcedures

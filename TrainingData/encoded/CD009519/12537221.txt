@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHBronchogeni MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHLymphNode MeSHMale MeSHMediastinoscopy MeSHMediastinum MeSHMiddleAged MeSHNeoplasmStagin MeSHRetrospectiveStudies MeSHSensitivityandSpecificity MeSHTomography MeSHEmission-Computed

@@ -1,0 +1,3 @@
+Cavitating secondary carcinoma of the lung.
+?
+['Adult', '*Carcinoma, Bronchogenic', 'Diagnosis, Differential', 'Female', 'Humans', 'Middle Aged', 'Necrosis', 'Neoplasm Metastasis/diagnostic imaging', 'Radiography', 'Tomography', 'Tuberculosis, Pulmonary/diagnostic imaging', 'Uterine Cervical Neoplasms/*complications']

@@ -1,0 +1,3 @@
+Screening for fragile X syndrome: information needs for health planners.
+?
+['Adolescent', 'Adult', 'Blotting, Southern', 'Child', 'Child, Preschool', 'Female', 'Folic Acid/therapeutic use', 'Fragile X Syndrome/drug therapy/*epidemiology/*genetics', 'Genetics, Population', 'Humans', 'Infant', 'Infant, Newborn', 'Intellectual Disability/genetics', 'Male', 'Mass Screening/economics/*methods/psychology', 'Mosaicism', 'Mutation', 'Neonatal Screening', 'Polymerase Chain Reaction/methods', 'Pregnancy', 'Prenatal Diagnosis/adverse effects/methods', 'Prevalence']

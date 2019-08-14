@@ -1,0 +1,3 @@
+[The value of 18FDG-PET for localization of ectopic Cushing's syndrome due to occult bronchial carcinoid].
+?
+['Adult', 'Bronchial Neoplasms/complications', 'Carcinoid Tumor/complications', 'Cushing Syndrome/*diagnostic imaging/etiology', 'Female', '*Fluorodeoxyglucose F18', 'Humans', '*Positron-Emission Tomography', '*Radiopharmaceuticals']

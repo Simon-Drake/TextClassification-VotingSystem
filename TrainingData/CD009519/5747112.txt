@@ -1,0 +1,3 @@
+[Round shadows in the lungs].
+?
+['Bronchography', 'Bronchoscopy', 'Diagnosis, Differential', 'Hamartoma/*diagnostic imaging', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Sarcoma/*diagnostic imaging', '*Solitary Pulmonary Nodule', 'Sputum/microbiology', 'Tomography', 'Tuberculoma/*diagnostic imaging', 'Tuberculosis, Pulmonary/*diagnostic imaging']

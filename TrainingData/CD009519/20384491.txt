@@ -1,0 +1,3 @@
+Fractionated radioiodine therapy for hyperthyroidism caused by widespread metastatic follicular thyroid carcinoma.
+?
+['Antithyroid Agents/therapeutic use', 'Bone Neoplasms/radiotherapy/secondary', 'Carcinoma, Papillary, Follicular/*complications/pathology', 'Female', 'Humans', 'Hyperthyroidism/drug therapy/*etiology/*radiotherapy', 'Iodine Radioisotopes/*therapeutic use', 'Lung Neoplasms/radiotherapy/secondary', 'Middle Aged', 'Positron-Emission Tomography', 'Thyroid Function Tests', 'Thyroid Neoplasms/*complications/pathology', 'Thyrotoxicosis/etiology']

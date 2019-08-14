@@ -1,0 +1,3 @@
+Acute appendicitis secondary to metastatic small cell lung cancer incidentally found on F-18 FDG PET/CT.
+?
+['Acute Disease', 'Appendiceal Neoplasms/*complications/diagnosis/*secondary', 'Appendicitis/*diagnosis/*etiology', 'Fluorodeoxyglucose F18', 'Humans', 'Incidental Findings', 'Male', 'Middle Aged', 'Positron-Emission Tomography/methods', 'Radiopharmaceuticals', 'Small Cell Lung Carcinoma/*complications/diagnosis/*secondary', 'Tomography, X-Ray Computed/methods']

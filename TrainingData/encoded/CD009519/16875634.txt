@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAngiograph MeSHBronchialArterie MeSHCarcinoma MeSHSquamousCel MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPulmonaryArter MeSHTomography MeSHSpiralCompute

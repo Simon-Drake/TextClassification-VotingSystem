@@ -1,0 +1,3 @@
+The risk figure of 1/270.
+?
+['Adult', 'Congenital Abnormalities/*epidemiology', 'Down Syndrome/diagnosis/embryology/*epidemiology', 'Female', 'Humans', 'Maternal Age', 'Pregnancy', 'Pregnancy Trimester, Second', 'Pregnancy, High-Risk', 'Prenatal Diagnosis', 'United States/epidemiology']

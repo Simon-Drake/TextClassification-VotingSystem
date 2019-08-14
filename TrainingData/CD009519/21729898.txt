@@ -1,0 +1,3 @@
+A 19-year-old woman with progressive dyspnea and multiple pulmonary nodules.
+?
+['Biopsy', 'Diagnosis, Differential', 'Dyspnea/diagnosis/*etiology', 'Female', 'Humans', 'Lung Neoplasms/*complications/diagnosis', 'Multiple Pulmonary Nodules/*diagnosis', 'Positron-Emission Tomography', 'Sarcoma, Alveolar Soft Part/*complications/diagnosis', 'Tomography, X-Ray Computed', 'Young Adult']

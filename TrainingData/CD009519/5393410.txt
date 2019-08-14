@@ -1,0 +1,3 @@
+[Compensating filter for simultaneous mediastino-pulmonary tomography].
+?
+['Bronchial Neoplasms/diagnostic imaging', 'Bronchography', 'Filtration/instrumentation', 'Goiter, Substernal/diagnostic imaging', 'Humans', 'Lung/diagnostic imaging', 'Mediastinum/diagnostic imaging', 'Methods', '*Radiography, Thoracic', '*Tomography/instrumentation']

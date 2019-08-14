@@ -1,0 +1,3 @@
+First-trimester screening: lessons from clinical trials and implementation.
+?
+['Adult', 'Amniocentesis', 'Biomarkers/blood', '*Down Syndrome/blood/diagnostic imaging', 'Female', 'Humans', 'Mass Screening/*methods', 'Neural Tube Defects/blood/diagnostic imaging', 'Nuchal Translucency Measurement/methods', 'Pregnancy', 'Pregnancy Trimester, First/blood/genetics', 'Ultrasonography, Prenatal']

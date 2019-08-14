@@ -1,0 +1,3 @@
+Imaging during radiation therapy captures abrupt and dramatic changes.
+?
+['Carcinoma, Non-Small-Cell Lung/*pathology/radiotherapy', 'Female', 'Humans', 'Lung Neoplasms/*pathology/radiotherapy', 'Middle Aged', '*Multimodal Imaging', '*Positron-Emission Tomography', 'Prognosis', '*Radiotherapy, Computer-Assisted', '*Tomography, X-Ray Computed']

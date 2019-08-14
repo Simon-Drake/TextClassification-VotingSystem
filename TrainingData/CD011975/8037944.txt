@@ -1,0 +1,3 @@
+Pre-natal screening for Down's syndrome.
+?
+['Abortion, Induced', 'Down Syndrome/*diagnosis/economics', 'Female', 'Fetal Diseases/*diagnosis/economics', 'Humans', 'Pregnancy', '*Prenatal Diagnosis/economics/psychology']

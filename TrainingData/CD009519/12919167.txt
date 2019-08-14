@@ -1,0 +1,3 @@
+PET scan in occult ectopic ACTH syndrome: a useful tool?
+?
+['ACTH Syndrome, Ectopic/*diagnostic imaging', 'Adult', 'Bronchial Neoplasms/*diagnostic imaging', 'Carcinoid Tumor/*diagnostic imaging', '*Fluorodeoxyglucose F18', 'Humans', 'Male', 'Sensitivity and Specificity', '*Tomography, Emission-Computed']

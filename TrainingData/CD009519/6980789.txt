@@ -1,0 +1,3 @@
+Computed tomography in space-occupying lesions in the thoracic area.
+?
+['Esophageal Neoplasms/diagnostic imaging', 'Heart/diagnostic imaging', 'Heart Diseases/diagnostic imaging', 'Heart Neoplasms/diagnostic imaging', 'Humans', 'Lung Diseases/diagnostic imaging', 'Lung Neoplasms/diagnostic imaging', 'Mediastinal Diseases/diagnostic imaging', 'Mediastinal Neoplasms/diagnostic imaging', 'Neoplasm Metastasis', 'Thoracic Neoplasms/*diagnostic imaging', 'Tomography, Emission-Computed', '*Tomography, X-Ray Computed']

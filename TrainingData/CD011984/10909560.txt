@@ -1,0 +1,3 @@
+[Prenatal diagnosis of Down's syndrome: prediction from maternal serum markers].
+?
+['Adult', 'Biomarkers/*blood', 'Chorionic Gonadotropin, beta Subunit, Human/blood', 'Down Syndrome/*diagnosis/*embryology', 'Female', 'Humans', 'Inhibins/blood', 'Maternal Age', 'Pregnancy', 'Pregnancy, High-Risk', '*Prenatal Diagnosis']

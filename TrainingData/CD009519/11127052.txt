@@ -1,0 +1,3 @@
+Detection of unsuspected gastric MALT-lymphoma with F-18-FDG-PET.
+?
+['Aged', 'Antineoplastic Combined Chemotherapy Protocols/therapeutic use', 'Biopsy', 'Carcinoma, Squamous Cell/*diagnostic imaging/surgery', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/surgery', 'Lymphoma, B-Cell, Marginal Zone/*diagnostic imaging', 'Male', 'Neoplasms, Second Primary/*diagnostic imaging/drug therapy/pathology', '*Radiopharmaceuticals', 'Stomach Neoplasms/*diagnostic imaging/drug therapy/pathology', 'Tomography, Emission-Computed']

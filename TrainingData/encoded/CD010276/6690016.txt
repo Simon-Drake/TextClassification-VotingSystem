@@ -1,0 +1,1 @@
+MeSHAutopsy MeSHBoneNeoplasm MeSHHeadandNeckNeoplasm MeSHHumans MeSHLaryngealNeoplasm MeSHLungNeoplasm MeSHNeoplasmMetastasis MeSHNeoplasmStaging MeSHPharyngealNeoplasm MeSHPhysicalExamination

@@ -1,0 +1,3 @@
+[A unique metastasis of a surgically treated non-small cell cancer of the lung].
+?
+['Adenocarcinoma/diagnostic imaging/pathology/*secondary/surgery', 'Adrenal Gland Neoplasms/diagnostic imaging/pathology/*secondary', 'Carcinoma, Non-Small-Cell Lung/diagnostic imaging/pathology/*secondary/surgery', 'Female', 'Follow-Up Studies', 'Humans', 'Lung Neoplasms/pathology/*surgery', 'Pneumonectomy', 'Tomography, Emission-Computed']

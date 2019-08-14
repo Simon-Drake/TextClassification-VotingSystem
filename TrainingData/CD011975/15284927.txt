@@ -1,0 +1,3 @@
+Anxious patients in the medical setting.
+?
+['Amniocentesis/psychology', '*Anxiety', '*Anxiety Disorders/diagnosis', 'Counseling', 'Diagnosis, Differential', 'Down Syndrome/*diagnosis', 'Female', 'Hospitalization', 'Humans', 'Male', 'Mass Screening/psychology', 'Mental Disorders/diagnosis/etiology', 'Patient Education as Topic', 'Patients/*psychology', 'Postpartum Period/psychology', 'Pregnancy/*psychology', 'Prenatal Diagnosis/*psychology', 'Risk Factors']

@@ -1,0 +1,3 @@
+[Pulmonary angioma. Angiopneumographic demonstration].
+?
+['Adult', 'Angiography', 'Female', 'Hemangioma/*diagnostic imaging', 'Hemoptysis/*etiology', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Tomography']

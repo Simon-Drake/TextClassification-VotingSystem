@@ -1,0 +1,1 @@
+MeSHBreastNeoplasm MeSHHeadandNeckNeoplasm MeSHHumans MeSHLungNeoplasm MeSHNeoplasmStaging MeSHNeoplasm MeSHPositron-EmissionTomography MeSHThyroidNeoplasm MeSHTomography MeSHX-RayComputed MeSHUrogenitalNeoplasm

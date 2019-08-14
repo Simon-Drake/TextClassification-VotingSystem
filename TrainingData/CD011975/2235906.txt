@@ -1,0 +1,3 @@
+Mosaic isochromosome 20q found on amniocentesis with normal outcome.
+A case of mosaic isochromosome 20q found on amniocentesis is described. A normal male infant was subsequently born.
+['Adult', '*Amniocentesis', 'Chromosome Aberrations/*diagnosis', 'Chromosome Disorders', '*Chromosomes, Human, Pair 20', 'Female', 'Humans', 'Karyotyping', 'Male', '*Mosaicism', 'Pregnancy', 'Pregnancy Outcome', '*Prenatal Diagnosis']

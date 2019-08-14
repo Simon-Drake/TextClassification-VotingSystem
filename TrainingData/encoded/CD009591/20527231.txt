@@ -1,0 +1,1 @@
+MeSHBiomarkers MeSHTumor MeSHCarcinoma MeSHEndometrioid MeSHEndometrialHyperplasia MeSHEndometrialNeoplasms MeSHEndometrium MeSHFemale MeSHGlucoseTransporterType1 MeSHHumans MeSHImmunohistochemistry MeSHPTENPhosphohydrolase MeSHbetaCatenin

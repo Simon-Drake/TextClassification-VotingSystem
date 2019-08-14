@@ -1,0 +1,3 @@
+Positron emission tomography: a false negative result in cystic encephalic mestastases from a small cell bronchial carcinoma.
+Lung cancer represents one of the most common malignant diseases. Many investigations are used in the staging study including, most recently, PET. We present a case of cystic cerebral metastases (with no oedema) from a small cell carcinoma which were not detected by PET.
+['Brain Neoplasms/*diagnostic imaging/*secondary', 'Carcinoma, Small Cell/*diagnostic imaging/*secondary', 'False Negative Reactions', 'Humans', 'Lung Neoplasms/*pathology', 'Male', 'Middle Aged', '*Positron-Emission Tomography']

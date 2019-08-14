@@ -1,0 +1,3 @@
+From clinical and pathologic to molecular staging of lung cancer.
+?
+['Biopsy, Needle/standards', 'Carcinoma, Non-Small-Cell Lung/*pathology', 'Echocardiography, Transesophageal/standards', 'Gene Expression Regulation, Neoplastic/genetics', 'Humans', 'Lung Neoplasms/*pathology', 'Lymphatic Metastasis/*pathology', 'Mediastinoscopy/standards', 'Molecular Diagnostic Techniques/*methods', 'Neoplasm Staging/*methods', 'Polymerase Chain Reaction/standards', 'Sensitivity and Specificity', 'Survival Analysis', 'Telomerase/genetics', 'Tomography, Emission-Computed/standards', 'Tomography, X-Ray Computed/standards', 'Ultrasonography, Interventional/standards']

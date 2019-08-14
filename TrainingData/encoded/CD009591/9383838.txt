@@ -1,0 +1,1 @@
+MeSHBiomarkers MeSHCadherins MeSHCellAdhesionMolecules MeSHEndometriosis MeSHEndometrium MeSHExtracellularMatrix MeSHFemale MeSHHumans MeSHImmunoglobulins MeSHInfertility MeSHIntegrins MeSHPregnancy MeSHPregnancyOutcome MeSHRiskFactors MeSHSelectins

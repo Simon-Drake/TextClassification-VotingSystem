@@ -1,0 +1,1 @@
+MeSHAlleles MeSHCase-ControlStudies MeSHCyclinD MeSHDNA MeSHNeoplas MeSHFemale MeSHGenotype MeSHHumans MeSHMale MeSHMiddleAged MeSHMouthNeoplasm MeSHPolymeraseChainReaction MeSHPolymorphism MeSHRestrictionFragmentLength MeSHPolymorphism MeSHSingleNucleotid MeSHPrognosis MeSHTaiwan

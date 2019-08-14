@@ -1,0 +1,1 @@
+MeSHCarcinoidTumo MeSHCarcinoma MeSHNon-Small-CellLun MeSHDiseaseProgression MeSHFluorodeoxyglucoseF18 MeSHFollow-UpStudies MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHMultimodalImagin MeSHPositron-EmissionTomography MeSHRadiopharmaceuticals MeSHTomography MeSHX-RayComputed

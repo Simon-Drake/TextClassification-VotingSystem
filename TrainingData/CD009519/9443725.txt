@@ -1,0 +1,3 @@
+Medicare to reimburse for lung cancer PET imaging.
+?
+['Humans', 'Lung Neoplasms/*diagnostic imaging', 'Medicare/*economics', 'Tomography, Emission-Computed/*economics', 'United States']

@@ -1,0 +1,3 @@
+SAFE--the Special Non-invasive Advances in Fetal and Neonatal Evaluation Network: aims and achievements.
+In this short review, the objectives and work of SAFE--the Special Non-invasive Advances in Fetal and Neonatal Evaluation Network, a European Union Framework VI network of excellence is described. We demonstrate how this network facilitates the implementation of non-invasive prenatal diagnosis (NIPD) for single gene disorders, fetal rhesus typing, aneuploidy and pregnancy complications.
+['DNA/blood/*genetics', 'Female', 'Fetal Diseases/genetics', 'Humans', 'Infant, Newborn', 'Maternal-Fetal Exchange/*genetics', 'Pregnancy', 'Prenatal Diagnosis/*methods', 'Rh-Hr Blood-Group System', 'Sex Determination Processes']

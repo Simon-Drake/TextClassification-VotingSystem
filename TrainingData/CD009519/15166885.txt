@@ -1,0 +1,3 @@
+F-18 FDG positron emission tomography demonstration of pulmonary carcinoid.
+?
+['Aged', 'Breast Neoplasms/complications/diagnosis/*diagnostic imaging', 'Carcinoid Tumor/diagnosis/*diagnostic imaging/*secondary', 'Female', '*Fluorodeoxyglucose F18', 'Humans', 'Incidental Findings', 'Lung Neoplasms/diagnosis/*diagnostic imaging/*secondary', 'Positron-Emission Tomography/*methods', 'Radiopharmaceuticals']

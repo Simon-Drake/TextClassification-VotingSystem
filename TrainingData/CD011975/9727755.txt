@@ -1,0 +1,3 @@
+The use of a specific clinical history in counselling a family with the balanced translocation 46,XY,t(4;12)(p15.2;q21.3): viable offspring with partial monosomy 4p and trisomy 12q.
+?
+['Abnormalities, Multiple/*genetics', 'Adult', '*Aneuploidy', '*Chromosomes, Human, Pair 12', '*Chromosomes, Human, Pair 4', 'Fatal Outcome', 'Female', 'Fetal Growth Retardation/genetics', '*Genetic Counseling', 'Humans', 'Infant, Newborn', 'Male', 'Medical History Taking', 'Pedigree', '*Translocation, Genetic', '*Trisomy']

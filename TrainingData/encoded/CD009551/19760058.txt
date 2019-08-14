@@ -1,0 +1,1 @@
+MeSHAmidohydrolase MeSHAminoAcidSequence MeSHAspergillusnidulan MeSHBaseSequence MeSHCloning MeSHMolecular MeSHEscherichiacol MeSHHydrogen-IonConcentration MeSHMolecularSequenceData MeSHOpenReadingFrame MeSHSequenceAlignment MeSHTemperature

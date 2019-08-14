@@ -1,0 +1,3 @@
+44 single-nucleotide polymorphisms expressed by placental RNA: assessment for use in noninvasive prenatal diagnosis of trisomy 21.
+?
+['Chromosomes, Human, Pair 21/genetics', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Placenta/*metabolism', '*Polymorphism, Single Nucleotide', 'Pregnancy', 'Prenatal Diagnosis/*methods', 'RNA/biosynthesis/*genetics', 'Reverse Transcriptase Polymerase Chain Reaction']

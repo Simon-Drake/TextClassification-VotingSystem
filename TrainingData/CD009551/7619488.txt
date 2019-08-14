@@ -1,0 +1,3 @@
+Non-grinding method of DNA isolation from human pathogenic filamentous fungi using xanthogenates.
+?
+['Ascomycota/genetics', 'Aspergillus fumigatus/*genetics', 'Base Sequence', 'Basidiomycota/genetics', 'Cell Wall/chemistry/metabolism', 'DNA Primers/genetics', 'DNA, Fungal/*isolation & purification', 'Electrophoresis, Agar Gel', 'Humans', 'Molecular Sequence Data', 'Mycology/*methods', 'Polymerase Chain Reaction', 'Ribonucleases/metabolism', 'Thiones']

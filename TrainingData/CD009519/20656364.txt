@@ -1,0 +1,3 @@
+PET scans in radiotherapy planning of lung cancer.
+Especially for non-small cell lung cancer, FDG-PET has in the majority of the patients led to the safe decrease of radiotherapy volumes, enabling radiation-dose escalation and, experimentally, redistribution of radiation doses within the tumor. In limited-disease small cell lung cancer, the role of FDG-PET is emerging.
+['Carcinoma, Non-Small-Cell Lung/radiotherapy', 'Carcinoma, Small Cell/radiotherapy', 'Cell Hypoxia', 'Humans', 'Lung Neoplasms/diagnostic imaging/pathology/*radiotherapy', 'Positron-Emission Tomography/*methods', 'Radiotherapy Dosage', 'Radiotherapy Planning, Computer-Assisted/*methods']

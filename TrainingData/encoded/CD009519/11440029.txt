@@ -1,0 +1,1 @@
+MeSHFluorodeoxyglucoseF1 MeSHHumans MeSHLungNeoplasm MeSHLymphNode MeSHMesotheliom MeSHNeoplasm MeSHRadiopharmaceutical MeSHSarcoidosi MeSHTimeFactors MeSHTissueDistribution MeSHTomography MeSHEmission-Computed MeSHWhole-BodyCounting

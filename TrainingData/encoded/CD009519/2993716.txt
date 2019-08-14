@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSmallCel MeSHCarcinoma MeSHSquamousCel MeSHFloxuridin MeSHFluorine MeSHHumans MeSHLungNeoplasm MeSHNucleicAcid MeSHRadioisotopes MeSHTomography MeSHEmission-Computed

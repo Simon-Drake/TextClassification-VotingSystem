@@ -1,0 +1,3 @@
+FDG-PET in addition to conventional work-up in non-small-cell lung cancer.
+?
+['Carcinoma, Non-Small-Cell Lung/*diagnostic imaging', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging', '*Positron-Emission Tomography']

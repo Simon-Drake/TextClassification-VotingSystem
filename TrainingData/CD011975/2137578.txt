@@ -1,0 +1,3 @@
+The current role of sonography in the detection of Down syndrome.
+?
+['Down Syndrome/*diagnosis', 'Female', 'Fetal Diseases/diagnosis', 'Humans', 'Pregnancy', '*Prenatal Diagnosis', '*Ultrasonography']

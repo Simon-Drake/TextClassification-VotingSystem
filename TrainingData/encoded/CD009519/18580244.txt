@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHDiagnosticImagin MeSHFemale MeSHFluorodeoxyglucoseF1 MeSHHumans MeSHLungNeoplasm MeSHMiddleAged MeSHNeoplasmMetastasis MeSHPositron-EmissionTomograph MeSHRadiopharmaceutical MeSHThyroidNeoplasm

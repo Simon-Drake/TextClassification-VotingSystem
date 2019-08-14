@@ -1,0 +1,3 @@
+Current difficulties in use of maternal serum alpha-fetoprotein levels in counseling mid-trimester older pregnant women regarding risk of a Down syndrome fetus.
+?
+['Down Syndrome/*diagnosis', 'Female', '*Genetic Counseling', 'Humans', 'Pregnancy/*blood', 'Pregnancy Trimester, Second', 'Prenatal Diagnosis', 'Risk Factors', 'alpha-Fetoproteins/*analysis']

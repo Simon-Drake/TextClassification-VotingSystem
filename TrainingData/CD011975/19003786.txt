@@ -1,0 +1,3 @@
+Prenatally diagnosed trisomy 20 mosaicism associated with arachnoid cyst of basal cistern.
+?
+['Abnormalities, Multiple/diagnosis', 'Adult', 'Arachnoid Cysts/*diagnosis', '*Chromosomes, Human, Pair 20', 'Cisterna Magna/diagnostic imaging', 'Female', 'Humans', 'Infant, Newborn', 'Male', '*Mosaicism/embryology', 'Pregnancy', 'Trisomy/*diagnosis', '*Ultrasonography, Prenatal']

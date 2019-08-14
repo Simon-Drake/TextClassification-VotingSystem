@@ -1,0 +1,1 @@
+MeSHAdult MeSHAntineoplasticAgents MeSHHormonal MeSHCase-ControlStudies MeSHCytokines MeSHEndometriosis MeSHEnzyme-LinkedImmunosorbentAssay MeSHFemale MeSHGoserelin MeSHHumans MeSHInterferon-gamma MeSHInterleukin-10 MeSHInterleukin-12 MeSHInterleukin-2 MeSHInterleukin-4 MeSHTimeFactors MeSHTreatmentOutcome

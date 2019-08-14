@@ -1,0 +1,3 @@
+A phenotypically normal liveborn male after prenatal diagnosis of trisomy 20 mosaicism.
+We report on a case of prenatally diagnosed trisomy 20 mosaicism. Conventional cytogenetic analysis and fluorescence in situ hybridization (FISH) using a chromosome 20 specific probe were performed on the lymphocytes and extra-embryonic tissues after birth. All of them revealed normal karyotypes. The baby is developing normally at the age of 2 years.
+['Adult', '*Chromosomes, Human, Pair 20', 'Female', 'Humans', 'In Situ Hybridization, Fluorescence', 'Infant, Newborn', 'Karyotyping', 'Male', '*Mosaicism', '*Phenotype', 'Pregnancy', '*Prenatal Diagnosis', '*Trisomy']

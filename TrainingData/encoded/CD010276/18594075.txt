@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHColoringAgents MeSHCytodiagnosis MeSHEarlyDiagnosis MeSHEndoscopy MeSHHumans MeSHLuminescence MeSHMouthNeoplasm MeSHPrecancerousCondition

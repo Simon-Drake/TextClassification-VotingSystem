@@ -1,0 +1,3 @@
+Trisomy 16 detected by first trimester screening.
+?
+['Adult', '*Chromosomes, Human, Pair 16', 'Female', 'Genetic Testing', 'Humans', 'Mosaicism', 'Placenta Diseases/genetics', 'Pregnancy', '*Pregnancy Trimester, First/genetics', 'Prenatal Diagnosis/methods', 'Trisomy/*diagnosis']

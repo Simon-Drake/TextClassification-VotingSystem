@@ -1,0 +1,3 @@
+Interference in an unconjugated estriol assay causing a false negative integrated prenatal screening report.
+?
+['Adult', 'Chorionic Gonadotropin/blood', 'Down Syndrome/*blood/*diagnosis', 'Estriol/*blood', 'False Negative Reactions', 'Female', 'Humans', '*Nuchal Translucency Measurement', 'Pregnancy', 'Pregnancy-Associated Plasma Protein-A/analysis', 'alpha-Fetoproteins/analysis']

@@ -1,0 +1,1 @@
+MeSHAnimals MeSHBaseSequence MeSHCandid MeSHCandidiasi MeSHDNAPrimer MeSHDNA MeSHFunga MeSHDNA MeSHRibosoma MeSHFemale MeSHFung MeSHHumans MeSHMice MeSHMice MeSHInbredICR MeSHMolecularSequenceData MeSHMycose MeSHPolymeraseChainReaction MeSHRNA MeSHRibosomal MeSH18 MeSHReagentKits MeSHDiagnostic MeSHSensitivityandSpecificity

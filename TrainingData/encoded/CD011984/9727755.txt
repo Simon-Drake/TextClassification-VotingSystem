@@ -1,0 +1,1 @@
+MeSHAbnormalities MeSHMultiple MeSHAdult MeSHAneuploidy MeSHChromosomes MeSHHuman MeSHPair12 MeSHChromosomes MeSHHuman MeSHPair4 MeSHFatalOutcome MeSHFemale MeSHFetalGrowthRetardation MeSHGeneticCounseling MeSHHumans MeSHInfant MeSHNewborn MeSHMale MeSHMedicalHistoryTaking MeSHPedigree MeSHTranslocation MeSHGenetic MeSHTrisomy

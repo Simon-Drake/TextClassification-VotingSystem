@@ -1,0 +1,3 @@
+Pulmonary cancer metastatic to the kidney--a common renal neoplasm.
+?
+['Adult', 'Autopsy', 'Carcinoma/diagnosis/pathology/therapy', 'Humans', '*Kidney Neoplasms/diagnosis/pathology/therapy', '*Lung Neoplasms/diagnosis/pathology/radiotherapy', 'Lymph Node Excision', 'Male', 'Neoplasm Metastasis', 'Nephrectomy', 'Radiotherapy, High-Energy', 'Retrospective Studies', 'Splenectomy', 'Tomography']

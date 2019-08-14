@@ -1,0 +1,3 @@
+Fetal cardiac abnormalities and their association with aneuploidy.
+?
+['*Aneuploidy', 'Chromosome Aberrations/diagnostic imaging/*genetics/pathology', 'Chromosome Disorders', 'Counseling', 'Female', 'Fetal Heart/*abnormalities/pathology', 'Heart Defects, Congenital/genetics', 'Humans', 'Pregnancy', 'Ultrasonography, Prenatal']

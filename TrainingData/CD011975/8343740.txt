@@ -1,0 +1,3 @@
+Psychological consequences of screening for Down's syndrome.
+?
+['Anxiety', 'Comprehension', 'Counseling', 'Down Syndrome/*diagnosis', 'Female', 'Fetal Diseases/*diagnosis', 'Humans', 'Pregnancy', '*Pregnant Women', 'Prenatal Diagnosis/*psychology']

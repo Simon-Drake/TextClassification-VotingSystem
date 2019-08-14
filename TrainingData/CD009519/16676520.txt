@@ -1,0 +1,3 @@
+[Oesophageal endoscopic ultrasound with fine-needle aspiration biopsy in the staging of non-small-cell lung carcinoma; results from 43 patients].
+?
+['Biopsy, Fine-Needle/methods', 'Carcinoma, Non-Small-Cell Lung/diagnostic imaging/*pathology', 'Endosonography/methods', 'Humans', 'Lung Neoplasms/diagnostic imaging/*pathology', 'Lymphatic Metastasis/diagnostic imaging/pathology', 'Neoplasm Staging', 'Positron-Emission Tomography/*methods']

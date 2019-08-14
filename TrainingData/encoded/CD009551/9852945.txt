@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAspergillu MeSHDNA MeSHFunga MeSHDNA-BindingProtein MeSHFungalProtein MeSHGenes MeSHFunga MeSHMitosporicFung MeSHMolecularSequenceData MeSHPhylogeny MeSHSequenceAlignment MeSHSequenceAnalysis MeSHDNA MeSHSequenceHomology MeSHAminoAcid MeSHTranscriptionFactor

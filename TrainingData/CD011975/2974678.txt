@@ -1,0 +1,3 @@
+Combined esophageal and pyloric atresia without tracheoesophageal fistula in Down's syndrome.
+?
+['Abnormalities, Multiple/*diagnosis', 'Adult', 'Down Syndrome/*complications', 'Esophageal Atresia/*diagnosis', 'Female', 'Humans', 'Infant, Newborn', 'Pregnancy', 'Prenatal Diagnosis', 'Pylorus/*abnormalities', 'Ultrasonography']

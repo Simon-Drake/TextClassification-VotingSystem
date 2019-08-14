@@ -1,0 +1,3 @@
+A solitary gastric metastasis from pulmonary adenocarcinoma: a case report.
+?
+['Adenocarcinoma/diagnosis/*secondary', 'Aged', 'Humans', 'Lung Neoplasms/*diagnosis', 'Male', 'Positron-Emission Tomography', 'Stomach Neoplasms/diagnosis/*secondary', 'Tomography, X-Ray Computed']

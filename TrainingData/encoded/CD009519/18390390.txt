@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHNon-Small-CellLun MeSHColorectalNeoplasm MeSHDiagnosis MeSHDifferential MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHLymphom MeSHPositron-EmissionTomograph MeSHPredictiveValueofTests MeSHRadiopharmaceuticals

@@ -1,0 +1,3 @@
+Clinical-Pathologic Conference in Thoracic Surgery: T1 N1 stage IIA adenocarcinoma.
+?
+['Adenocarcinoma/*diagnosis/etiology/surgery', 'Biopsy', 'Bronchoscopy', 'Cough/etiology', 'Disease Progression', 'Female', 'Forced Expiratory Volume', 'Humans', 'Lung Neoplasms/*diagnosis/etiology/surgery', 'Middle Aged', 'Neoplasm Staging', 'Smoking/adverse effects', 'Time Factors', 'Tomography, Emission-Computed', 'Tomography, X-Ray Computed', 'Ventilation-Perfusion Ratio']

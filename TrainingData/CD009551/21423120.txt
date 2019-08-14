@@ -1,0 +1,3 @@
+Standardization of Aspergillus PCR diagnosis.
+?
+['Amphotericin B/*therapeutic use', 'Antifungal Agents/*therapeutic use', 'Female', 'Hematopoietic Stem Cell Transplantation/*adverse effects', 'Humans', 'Male', 'Mycoses/*drug therapy/*microbiology']

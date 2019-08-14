@@ -1,0 +1,1 @@
+MeSHAged MeSHCase-ControlStudies MeSHCognitiveDysfunctio MeSHDementi MeSHDiagnosis MeSHDifferential MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHGlucos MeSHHumans MeSHMale MeSHMiddleAged MeSHMultimodalImaging MeSHOccipitalLob MeSHParietalLob MeSHParkinsonDiseas MeSHPositron-EmissionTomography MeSHTomography MeSHX-RayComputed

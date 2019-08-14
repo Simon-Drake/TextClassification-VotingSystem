@@ -1,0 +1,3 @@
+PIMARY BILATERAL BRONCHIAL ADENOMA. CASE REPORT.
+?
+['*Adenoma', 'Aged', 'Humans', '*Lung Neoplasms', '*Neoplasms', '*Neoplasms, Multiple Primary', '*Pathology', '*Radiography, Thoracic', '*Surgical Procedures, Operative', '*Tomography']

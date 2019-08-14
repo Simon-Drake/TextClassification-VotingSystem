@@ -1,0 +1,1 @@
+MeSHAnimals MeSHCellAdhesion MeSHLiverNeoplasm MeSHLungNeoplasm MeSHMelanoma MeSHExperimenta MeSHMice MeSHNeoplasticCells MeSHCirculating MeSHOrganSpecificity MeSHTomography MeSHEmission-Computed

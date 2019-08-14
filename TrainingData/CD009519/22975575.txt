@@ -1,0 +1,3 @@
+Malignant lung melanoma mimicking mucoid impaction on imaging.
+?
+['Aged', 'Biopsy', 'Diagnosis, Differential', 'Humans', 'Lung/pathology', 'Lung Diseases/*diagnostic imaging', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Melanoma/*diagnostic imaging', 'Positron-Emission Tomography', 'Radiography, Thoracic']

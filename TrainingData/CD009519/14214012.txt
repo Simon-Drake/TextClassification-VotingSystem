@@ -1,0 +1,3 @@
+[CLINICAL ASPECTS OF PSEUDOTUMORAL PULMONARY TUBERCULOSIS].
+?
+['*Diagnosis, Differential', 'Humans', '*Lung Neoplasms', '*Pathology', '*Radiography, Thoracic', '*Solitary Pulmonary Nodule', '*Tomography', '*Tuberculoma', '*Tuberculosis, Pulmonary']

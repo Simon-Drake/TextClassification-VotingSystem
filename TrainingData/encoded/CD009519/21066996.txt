@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAged MeSHCarcinoma MeSHSquamousCel MeSHDiagnosticError MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHLymphaticMetastasis MeSHMale MeSHNeoplasmStagin MeSHPositron-EmissionTomography MeSHTomography MeSHX-RayComputed

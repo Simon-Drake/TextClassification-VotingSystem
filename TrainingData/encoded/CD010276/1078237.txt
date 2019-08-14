@@ -1,0 +1,1 @@
+MeSHCytodiagnosi MeSHHumans MeSHMouthMucos MeSHMouthNeoplasm MeSHNeoplasmStaging MeSHPrognosis MeSHTimeFactors

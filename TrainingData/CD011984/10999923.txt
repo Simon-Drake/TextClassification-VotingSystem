@@ -1,0 +1,3 @@
+Screening for Down's syndrome. Biochemical screening offers advantages.
+?
+['Adult', 'Biomarkers/blood', 'Down Syndrome/blood/*diagnosis', 'Female', 'Gestational Age', 'Humans', 'Maternal Age', 'Predictive Value of Tests', 'Pregnancy', 'Pregnancy, High-Risk', 'Prenatal Diagnosis/*methods', 'Ultrasonography, Prenatal']

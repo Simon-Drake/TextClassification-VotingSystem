@@ -1,0 +1,3 @@
+Schwannoma mimicking lung cancer metastases demonstrated by PET/CT.
+?
+['Adenocarcinoma/*diagnosis/*secondary', 'Diagnosis, Differential', 'Female', 'Head and Neck Neoplasms/*diagnosis/*secondary', 'Humans', 'Lung Neoplasms/*diagnosis/*secondary', 'Middle Aged', 'Neurilemmoma/*diagnosis', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed']

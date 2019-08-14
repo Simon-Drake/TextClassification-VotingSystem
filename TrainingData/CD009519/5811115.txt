@@ -1,0 +1,3 @@
+[A comparative evaluation of roentgenologic studies and catheterization biopsy in the diagnosis of lung cancer].
+?
+['Adolescent', 'Adult', 'Aged', '*Biopsy', '*Bronchography', 'Catheterization', 'Female', 'Humans', 'Lung Neoplasms/*diagnosis/diagnostic imaging', 'Male', 'Methods', 'Middle Aged', '*Tomography']

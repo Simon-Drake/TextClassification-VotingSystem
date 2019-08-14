@@ -1,0 +1,3 @@
+The effectiveness of preimplantation genetic screening.
+?
+['Adult', '*Aneuploidy', 'Chromosome Aberrations', 'Female', 'Humans', 'In Situ Hybridization, Fluorescence', 'Pregnancy', 'Pregnancy Outcome', 'Pregnancy Rate', '*Preimplantation Diagnosis', 'Reproductive History', 'Research Design']

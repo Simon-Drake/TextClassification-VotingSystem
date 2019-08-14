@@ -1,0 +1,3 @@
+[On the pathogenesis of pseudo-cystic primary pulmonary carcinogenic caverns. Possible role of a phenomenon of neoplastic autophagy].
+?
+['Adenocarcinoma', 'Bronchography', 'Carcinoma, Basal Cell', 'Carcinoma, Squamous Cell', 'Cathepsins/analysis', 'Diagnosis, Differential', 'Histocytochemistry', 'Humans', 'Hypoxia', 'Lung/metabolism/pathology', 'Lung Abscess/diagnosis', 'Lung Neoplasms/*diagnosis/*pathology', 'Male', 'Middle Aged', 'Oxygen/metabolism', 'Radiography, Thoracic', 'Tomography', 'Tuberculosis, Pulmonary/diagnosis']

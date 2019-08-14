@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHNeedle MeSHDiagnosis MeSHDifferential MeSHHumans MeSHLungNeoplasm MeSHPositron-EmissionTomography MeSHPredictiveValueofTests MeSHSensitivityandSpecificity MeSHSolitaryPulmonaryNodul

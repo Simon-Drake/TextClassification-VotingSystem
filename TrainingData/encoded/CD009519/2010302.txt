@@ -1,0 +1,1 @@
+MeSHAntibodies MeSHMonoclonal MeSHGastrointestinalNeoplasm MeSHHumans MeSHImageProcessing MeSHComputer-Assisted MeSHLungNeoplasm MeSHTomography MeSHEmission-Computed MeSHSingle-Photon MeSHTomography MeSHX-RayComputed

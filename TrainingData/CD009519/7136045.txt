@@ -1,0 +1,3 @@
+[Comparative consideration of the diagnostic capacity and risks of various roentgenologic methods in the complex diagnosis of malignant bronchial obstructive diseases].
+Basing on own experience and literature reviews the significance and hazards of the various diagnostic methods in bronchial carcinoma are discussed. In routine programmes bronchography should be given up for therapeutic decision finding. Tomography and mediastinoscopy usually allow to make clear the disease pattern without increasing essentially the risk of a following surgical intervention.
+['Airway Obstruction/*diagnostic imaging/surgery', 'Bronchial Neoplasms/*diagnostic imaging/surgery', 'Bronchography', 'Diagnosis, Differential', 'Humans', 'Mediastinoscopy', 'Risk', 'Tomography']

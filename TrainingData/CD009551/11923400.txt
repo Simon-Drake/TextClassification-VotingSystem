@@ -1,0 +1,3 @@
+Anticoagulants interfere with PCR used to diagnose invasive aspergillosis.
+?
+['Animals', 'Anticoagulants/*pharmacology', 'Aspergillosis/*diagnosis/microbiology', 'Aspergillus fumigatus/genetics/*isolation & purification', 'Citrates/pharmacology', 'DNA, Fungal/blood', 'Edetic Acid/pharmacology', 'Heparin/pharmacology', 'Humans', 'Male', 'Polymerase Chain Reaction/*drug effects/*methods', 'Rats', 'Rats, Sprague-Dawley']

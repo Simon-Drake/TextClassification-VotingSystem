@@ -1,0 +1,1 @@
+MeSHAdult MeSHAminoAcidSequence MeSHBaseSequence MeSHBloodProtein MeSHCellLine MeSHCells MeSHCultured MeSHCultureTechniques MeSHDNA MeSHComplementary MeSHDefensins MeSHEpithelialCell MeSHFibroblast MeSHGeneExpression MeSHGingiv MeSHHumans MeSHMolecularSequenceData MeSHRNA MeSHMessenger MeSHbeta-Defensins

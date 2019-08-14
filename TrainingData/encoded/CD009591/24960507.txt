@@ -1,0 +1,1 @@
+MeSHCystoscopy MeSHDiagnosis MeSHDifferential MeSHEndometriosis MeSHEndoscopy MeSHFemale MeSHHumans MeSHMiddleAged MeSHTomography MeSHX-RayComputed MeSHUrinaryBladderDiseases MeSHUrinaryBladderNeckObstruction MeSHUrologicSurgicalProcedures

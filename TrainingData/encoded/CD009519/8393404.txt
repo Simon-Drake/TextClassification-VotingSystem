@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdult MeSHAged MeSHAged MeSH80andover MeSHCarbonRadioisotopes MeSHCarcinoma MeSHNon-Small-CellLun MeSHCarcinoma MeSHSmallCel MeSHCarcinoma MeSHSquamousCel MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMethionin MeSHMiddleAged MeSHTomography MeSHEmission-Computed MeSHTomography MeSHX-RayComputed MeSHTreatmentOutcome

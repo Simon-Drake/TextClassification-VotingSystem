@@ -1,0 +1,3 @@
+Hyperglycosylated hCG cannot be measured using a sialic acid-specific lectin immunoassay.
+?
+['Adult', 'Chorionic Gonadotropin/*blood', 'Chorionic Gonadotropin, beta Subunit, Human/*blood', 'Down Syndrome/blood/diagnosis', 'Female', 'Humans', 'Immunoassay/*methods', 'Lectins/*immunology', 'N-Acetylneuraminic Acid/*immunology', '*Predictive Value of Tests', 'Pregnancy', 'Pregnancy Trimester, Second', 'Prenatal Diagnosis/*methods']

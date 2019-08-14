@@ -1,0 +1,3 @@
+[Tumor diagnosis with PET-CT. Are false hopes raised in cancer patients? (interview by Ute Kempf)].
+?
+['Breast Neoplasms/diagnosis', 'Carcinoma, Bronchogenic/*diagnosis/therapy', 'Female', 'Fluorodeoxyglucose F18', 'Humans', '*Image Processing, Computer-Assisted', '*Imaging, Three-Dimensional', 'Insurance Coverage', 'Lung Neoplasms/*diagnosis/therapy', 'Male', 'National Health Programs', 'Neoplasm Recurrence, Local/diagnosis/therapy', '*Positron-Emission Tomography', 'Prostatic Neoplasms/diagnosis/therapy', 'Sensitivity and Specificity', '*Tomography, X-Ray Computed', 'Unnecessary Procedures']

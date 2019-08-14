@@ -1,0 +1,3 @@
+[Liability in obstetric gynecology].
+?
+['Cerebral Palsy/diagnosis', 'Cesarean Section', 'Delivery, Obstetric', 'Down Syndrome/diagnosis', 'Female', 'France', 'Gynecology/*legislation & jurisprudence/standards', 'Humans', '*Liability, Legal', 'Malpractice', 'Obstetrics/*legislation & jurisprudence/standards', 'Prenatal Diagnosis']

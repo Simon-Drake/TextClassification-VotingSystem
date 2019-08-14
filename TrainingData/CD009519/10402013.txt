@@ -1,0 +1,3 @@
+Thoracic actinomycosis imaging with fluorine-18 fluorodeoxyglucose positron emission tomography.
+?
+['Actinomycosis/*diagnostic imaging', 'Carcinoma, Bronchogenic/diagnostic imaging', 'Diagnosis, Differential', 'Fluorodeoxyglucose F18', 'Humans', 'Lung/*diagnostic imaging', 'Lung Diseases/*diagnostic imaging', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', '*Tomography, Emission-Computed']

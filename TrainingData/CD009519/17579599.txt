@@ -1,0 +1,3 @@
+Screening for lung cancer with spiral CT is not justified.
+?
+['Health Surveys', 'Humans', 'Lung Neoplasms/*diagnostic imaging/epidemiology/pathology', 'Neoplasm Staging', '*Tomography, Spiral Computed']

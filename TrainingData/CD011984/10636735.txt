@@ -1,0 +1,3 @@
+46,XX/46,XY at amniocentesis in a fetus with true hermaphroditism.
+?
+['*Amniocentesis', 'Disorders of Sex Development/diagnosis/*genetics', 'Female', 'Humans', 'Karyotyping', 'Male', 'Mosaicism', 'Pregnancy']

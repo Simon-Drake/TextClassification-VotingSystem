@@ -1,0 +1,1 @@
+MeSHAbdominalWall MeSHAdult MeSHDisease-FreeSurvival MeSHEndometrialNeoplasms MeSHEndometriosis MeSHFemale MeSHHumans MeSHMagneticResonanceImaging MeSHSoftTissueNeoplasms MeSHTomography MeSHX-RayComputed MeSHTreatmentOutcome

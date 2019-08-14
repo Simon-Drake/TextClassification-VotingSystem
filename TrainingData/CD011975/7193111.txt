@@ -1,0 +1,3 @@
+Translocation dicentric chromosomes in prostaglandin E2 induced abortuses and possible aneusomy through asynchronous centromeric divisions.
+?
+['Abortion, Induced', '*Aneuploidy', 'Chromosomes, Human/ultrastructure', 'Female', 'Fetal Death/*genetics', 'Humans', 'Karyotyping', 'Phenotype', 'Pregnancy', 'Prostaglandins E', '*Translocation, Genetic']

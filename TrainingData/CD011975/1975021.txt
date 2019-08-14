@@ -1,0 +1,3 @@
+Down's syndrome and fertility in older women.
+?
+['Adult', 'Down Syndrome/*epidemiology', 'Female', '*Fertility', 'Humans', 'Infant, Newborn', '*Maternal Age', 'Northern Ireland', '*Pregnancy, High-Risk', 'Prenatal Diagnosis']

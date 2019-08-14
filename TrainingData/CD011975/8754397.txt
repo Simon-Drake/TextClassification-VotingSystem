@@ -1,0 +1,3 @@
+[Down syndrome with hyperechoic bowel finding in the second trimester: a case report].
+?
+['Adult', 'Chromosome Aberrations', 'Chromosomes, Human, Pair 21', 'Down Syndrome/*diagnostic imaging/genetics', 'Female', 'Humans', 'Infant, Newborn', 'Pregnancy', '*Ultrasonography, Prenatal']

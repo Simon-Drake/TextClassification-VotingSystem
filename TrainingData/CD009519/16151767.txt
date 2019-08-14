@@ -1,0 +1,3 @@
+Generalised FDG uptake in respiratory muscles after acute respiratory distress.
+?
+['Aged', 'Diagnostic Errors/*prevention & control', 'False Positive Reactions', 'Fluorodeoxyglucose F18/*pharmacokinetics', 'Humans', 'Lung Neoplasms/diagnostic imaging/metabolism', 'Male', 'Positron-Emission Tomography', 'Radiopharmaceuticals/pharmacokinetics', 'Respiratory Distress Syndrome, Adult/*diagnostic imaging/*metabolism', 'Respiratory Muscles/*diagnostic imaging/*metabolism', 'Tissue Distribution']

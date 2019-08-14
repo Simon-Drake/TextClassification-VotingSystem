@@ -1,0 +1,3 @@
+Screening for Down's syndrome.
+?
+['Down Syndrome/*prevention & control', 'Female', 'Humans', 'Mass Screening/*methods', 'Pregnancy', 'Prenatal Diagnosis/*methods', 'alpha-Fetoproteins/*analysis']

@@ -1,0 +1,3 @@
+[What is your diagnosis? Squamous cell carcinoma of the mandible and 2 lung metastases].
+?
+['Carcinoma, Squamous Cell/diagnosis/pathology/*secondary', 'Diagnosis, Differential', 'Humans', 'Image Processing, Computer-Assisted', 'Imaging, Three-Dimensional', 'Lung Neoplasms/diagnosis/pathology/*secondary', 'Male', 'Mandible/pathology', 'Mandibular Diseases/diagnosis/pathology', 'Mandibular Neoplasms/*diagnosis/pathology', 'Middle Aged', 'Neoplasm Staging', 'Osteolysis/diagnosis/pathology', 'Osteomyelitis/diagnosis/pathology', '*Positron-Emission Tomography', 'Postoperative Complications/diagnosis/pathology', '*Radiography, Panoramic', '*Tomography, Emission-Computed, Single-Photon', '*Tomography, X-Ray Computed']

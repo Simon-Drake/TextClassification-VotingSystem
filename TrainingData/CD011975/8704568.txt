@@ -1,0 +1,3 @@
+Methods used in economic evaluations of prenatal screening are disputed.
+?
+['Cost-Benefit Analysis', 'Down Syndrome/diagnosis', 'Fetal Diseases/diagnosis', 'Humans', 'Maternal Age', 'Prenatal Diagnosis/*economics']

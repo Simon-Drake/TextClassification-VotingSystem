@@ -1,0 +1,1 @@
+MeSHAdult MeSHBaseSequence MeSHCarbonRadioisotope MeSHCarcinoma MeSHNon-Small-CellLun MeSHErlotinibHydrochloride MeSHExons MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHMultimodalImagin MeSHMutation MeSHNeoplasmStaging MeSHPositron-EmissionTomography MeSHQuinazoline MeSHReceptor MeSHEpidermalGrowthFacto MeSHTomography MeSHX-RayComputed

@@ -1,0 +1,3 @@
+Amniotic fluid AFP levels and Down syndrome.
+?
+['Adult', 'Amniotic Fluid/*analysis', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Pregnancy', 'alpha-Fetoproteins/*analysis']

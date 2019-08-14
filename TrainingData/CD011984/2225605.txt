@@ -1,0 +1,3 @@
+Medical management of abnormal pregnancy.
+?
+['Abortion, Therapeutic/*methods', 'Female', 'Humans', 'Infant, Newborn', 'Pregnancy', 'Pregnancy Complications/*therapy', 'Prostaglandins/*administration & dosage']

@@ -1,0 +1,3 @@
+[Problems of differential diagnosis in the diagnosis of mediastinal and pulmonary metastases with F-a8-FDG PET].
+?
+['Adenocarcinoma/*diagnostic imaging/pathology/surgery', 'Female', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/diagnostic imaging/*secondary', 'Mediastinal Neoplasms/diagnostic imaging/*secondary', 'Middle Aged', 'Radiography', '*Radiopharmaceuticals', 'Sigmoid Neoplasms/*diagnostic imaging/pathology/surgery', '*Tomography, Emission-Computed']

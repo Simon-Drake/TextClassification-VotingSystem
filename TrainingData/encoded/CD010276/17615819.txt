@@ -1,0 +1,1 @@
+MeSHAlcoholDrinkin MeSHCost-BenefitAnalysis MeSHForecasting MeSHHealthPolicy MeSHHealthPromotio MeSHHumans MeSHMassScreenin MeSHMouthNeoplasm MeSHOutcomeAssessment(HealthCare) MeSHPrecancerousCondition MeSHPrimaryPrevention MeSHRiskFactors MeSHSmokin

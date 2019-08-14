@@ -1,0 +1,3 @@
+Prenatal diagnosis of 45, X/46, XY.
+?
+['Adult', 'Aneuploidy', 'Female', 'Humans', '*Mosaicism', 'Pregnancy', '*Prenatal Diagnosis', 'Sex Chromosome Aberrations/diagnosis', '*X Chromosome', '*Y Chromosome']

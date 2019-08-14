@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAgeFactors MeSHAged MeSHBronchoscopy MeSHCarcinom MeSHCarcinoma MeSHSquamousCel MeSHEndoscopy MeSHFemale MeSHFinland MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMassChestX-Ray MeSHMediastinum MeSHMiddleAged MeSHRetrospectiveStudies MeSHSexFactors MeSHSmoking MeSHTimeFactors MeSHTomography

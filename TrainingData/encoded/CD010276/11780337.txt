@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHBaseSequence MeSHChromosomeMapping MeSHColorectalNeoplasm MeSHDNA MeSHComplementar MeSHHumans MeSHMolecularSequenceData MeSHSerineEndopeptidase MeSHTumorCells MeSHCultured

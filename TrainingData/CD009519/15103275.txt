@@ -1,0 +1,3 @@
+[Paraneoplasic pandysautonomia with anti-Hu antibodies: a presentation of pulmonary adenocarcinoma identified by PET scanning].
+A 74-year-old man developed pandysautonomia with severe orthostatic hypotension. Search for a paraneoplastic etiology was confirmed with the positivity of anti-Hu antibodies. [18] Fluorodeoxyglucose positron emission tomography (PET) enabled recognition of a lung adenocarcinoma. We emphasize the usefulness of PET scans for early diagnosis of cancer.
+['Adenocarcinoma/blood/complications/*diagnostic imaging', 'Aged', 'Autoantibodies/blood', 'Autonomic Nervous System Diseases/blood/*etiology', 'Humans', 'Lung Neoplasms/blood/complications/*diagnostic imaging', 'Male', 'Paraneoplastic Syndromes/blood/*etiology', '*Tomography, Emission-Computed']

@@ -1,0 +1,3 @@
+[Decrease in occurrence of Down's syndrome in Denmark 1980-1982. The effect of prenatal diagnosis].
+?
+['Adult', 'Denmark', 'Down Syndrome/*epidemiology/prevention & control', 'Female', 'Humans', 'Infant, Newborn', 'Male', 'Maternal Age', 'Middle Aged', 'Paternal Age', 'Pregnancy', '*Prenatal Diagnosis']

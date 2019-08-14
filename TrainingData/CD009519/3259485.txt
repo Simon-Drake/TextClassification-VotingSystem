@@ -1,0 +1,3 @@
+Cerebral infarction pattern identified on emission computed tomography using technetium-99m MDP.
+In the metastatic work-up of a patient with a malignant lung tumor and cerebrovascular disease, bone imaging was performed which showed abnormal uptake in the right parietal region. Emission computed tomography indicated that this was due to intracranial disease and revealed a wedge-shaped pattern indicative of cerebral infarction. A later follow-up study showed complete clearance of the abnormal uptake.
+['Cerebral Infarction/*diagnostic imaging', 'Female', 'Humans', 'Middle Aged', '*Technetium Tc 99m Medronate', '*Tomography, Emission-Computed']

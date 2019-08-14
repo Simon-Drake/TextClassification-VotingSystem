@@ -1,0 +1,3 @@
+[Lobar emphysema in children].
+?
+['Anti-Bacterial Agents/therapeutic use', 'Diagnosis, Differential', 'Female', 'Humans', 'Infant', 'Infant, Newborn', 'Infant, Newborn, Diseases/*diagnostic imaging', 'Lung Diseases/*surgery', 'Lung Neoplasms/diagnosis', 'Male', 'Pulmonary Emphysema/*diagnostic imaging', 'Radiography', 'Tomography']

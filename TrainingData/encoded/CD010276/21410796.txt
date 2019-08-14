@@ -1,0 +1,1 @@
+MeSHAdult MeSHCarcinoma MeSHSquamousCel MeSHCytologicalTechnique MeSHEarlyDetectionofCance MeSHFemale MeSHGeneDosage MeSHGenes MeSHabl MeSHGeneticMarkers MeSHHumans MeSHMale MeSHMouthMucos MeSHRN MeSHReal-TimePolymeraseChainReaction MeSHSensitivityandSpecificity MeSHSequenceAnalysis MeSHRNA MeSHSmokin MeSHYoungAdult

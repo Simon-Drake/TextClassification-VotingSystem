@@ -1,0 +1,3 @@
+Screening for chromosomal defects.
+?
+['Adult', 'Chorionic Gonadotropin, beta Subunit, Human/blood', 'Down Syndrome/diagnostic imaging', 'Female', 'Gestational Age', 'Humans', 'Mass Screening/*methods', 'Maternal Age', 'Nasal Bone/embryology', 'Neck/diagnostic imaging/embryology', 'Phenotype', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy Trimester, Second', 'Pregnancy-Associated Plasma Protein-A/analysis', 'Risk Factors', 'Trisomy/*diagnosis', 'Ultrasonography, Prenatal/*methods']

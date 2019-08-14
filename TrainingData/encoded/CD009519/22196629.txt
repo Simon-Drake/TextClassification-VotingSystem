@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHNeedle MeSHChoristom MeSHDiagnosis MeSHDifferential MeSHFollow-UpStudies MeSHHumans MeSHLungDisease MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPneumonectom MeSHPositron-EmissionTomography MeSHThymom MeSHThymusGland MeSHThymusNeoplasm MeSHTomography MeSHX-RayComputed

@@ -1,0 +1,3 @@
+[Idiopathic pericarditis in childhood. (Report on a case of idiopathic pericarditis in a 4-week-old infant)].
+?
+['Diagnosis, Differential', 'Electrocardiography', 'Female', 'Humans', 'Infant, Newborn', 'Lung Neoplasms/diagnosis', 'Pericarditis/*diagnostic imaging', 'Radiography', 'Thoracic Surgery', 'Thorax/surgery', 'Tomography']

@@ -1,0 +1,1 @@
+MeSHBiomarkers MeSHTumo MeSHCellTransformation MeSHNeoplastic MeSHCytodiagnosi MeSHDNA MeSHNeoplas MeSHFlowCytometry MeSHHumans MeSHKeratin MeSHMouthMucos MeSHMouthNeoplasm MeSHPathology MeSHOra MeSHProcessAssessment(HealthCare)

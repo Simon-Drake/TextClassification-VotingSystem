@@ -1,0 +1,1 @@
+MeSHEmergencyService MeSHHospital MeSHFractures MeSHBon MeSHHumans MeSHLasers MeSHPredictiveValueofTests MeSHRadiography MeSHRadiologyInformationSystems MeSHScaphoidBon MeSHSensitivityandSpecificity

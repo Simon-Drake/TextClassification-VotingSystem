@@ -1,0 +1,3 @@
+Incidental bronchogenic cyst detected on F-18 FDG positron emission tomography.
+?
+['Bronchogenic Cyst/*diagnostic imaging', 'Female', '*Fluorodeoxyglucose F18', 'Humans', 'Incidental Findings', 'Lung Neoplasms/diagnostic imaging', 'Middle Aged', '*Radiopharmaceuticals', '*Tomography, Emission-Computed', 'Tomography, X-Ray Computed']

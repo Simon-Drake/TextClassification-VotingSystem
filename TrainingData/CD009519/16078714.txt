@@ -1,0 +1,3 @@
+[Pulmonary cancer].
+?
+['Adenocarcinoma/blood supply/epidemiology/*pathology', 'Bronchoscopy', 'Carcinoma, Squamous Cell/blood supply/epidemiology/*pathology', 'Female', 'Humans', 'Lung Neoplasms/blood supply/epidemiology/*pathology', 'Male', 'Middle Aged', 'Neoplasm Invasiveness', 'Neoplasm Staging', 'Positron-Emission Tomography', 'Russia/epidemiology']

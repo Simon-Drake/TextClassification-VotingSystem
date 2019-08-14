@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSmallCel MeSHFemale MeSHHumans MeSHL-LactateDehydrogenas MeSHLungNeoplasm MeSHMale MeSHNeoplasmProtein MeSHNeoplasmStagin MeSHPrognosis MeSHSexFactors MeSHSurvivalAnalysis MeSHTomography MeSHX-RayCompute

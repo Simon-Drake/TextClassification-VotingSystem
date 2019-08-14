@@ -1,0 +1,3 @@
+A new look at breast cancer.
+?
+['Breast Neoplasms/*diagnostic imaging', 'Female', '*Fluorodeoxyglucose F18', 'Gamma Cameras', 'Humans', 'Lung Neoplasms/diagnostic imaging', 'Lymphatic Metastasis/diagnostic imaging', 'Neoplasm Metastasis/diagnostic imaging', '*Radiopharmaceuticals', '*Tomography, Emission-Computed']

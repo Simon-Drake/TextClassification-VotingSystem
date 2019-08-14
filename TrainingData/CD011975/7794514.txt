@@ -1,0 +1,3 @@
+Fetal hepatosplenomegaly associated with transient myeloproliferative disorder in trisomy 21.
+The in utero diagnosis of fetal myeloproliferative disease was made by cordocentesis following the ultrasound appearance of fetal hepatosplenomegaly and mild hydrops. The 2 fetuses reported both had leukocyte counts greater than 75,000/mm3 with a predominance of blast forms. In both cases the karyotype revealed trisomy 21.
+['Adult', 'Diagnosis, Differential', 'Down Syndrome/*complications', 'Female', 'Fetal Blood/cytology', 'Fetal Diseases/*diagnosis', 'Hepatomegaly/*complications', 'Humans', 'Leukemia/congenital', 'Myeloproliferative Disorders/*complications/diagnosis', 'Pregnancy', '*Prenatal Diagnosis', 'Splenomegaly/complications']

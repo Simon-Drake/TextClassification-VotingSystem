@@ -1,0 +1,1 @@
+MeSHAreaUnderCurve MeSHHumans MeSHMassScreenin MeSHMouthNeoplasm MeSHPrecancerousCondition MeSHPrimaryHealthCar MeSHQualityAssurance MeSHHealthCare MeSHSensitivityandSpecificity

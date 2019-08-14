@@ -1,0 +1,1 @@
+MeSHAged MeSHBiopsy MeSHComorbidity MeSHEurop MeSHFemale MeSHFollow-UpStudies MeSHHealthCareCosts MeSHHumans MeSHIncidence MeSHItal MeSHLun MeSHLungNeoplasm MeSHMale MeSHMassScreenin MeSHMiddleAged MeSHPrevalence MeSHSmokin MeSHSurvivalAnalysis MeSHTomography MeSHEmission-Computed MeSHTomography MeSHSpiralComputed

@@ -1,0 +1,3 @@
+Antenatal predictors for Down's syndrome.
+?
+['Anthropometry/*methods', 'Down Syndrome/*diagnosis/diagnostic imaging/epidemiology', 'Evaluation Studies as Topic', 'Female', 'Fetus/*anatomy & histology', 'Growth Hormone/*blood', 'Humans', 'Maternal Age', 'Predictive Value of Tests', 'Pregnancy/*blood', 'Risk Factors', 'Ultrasonography', 'alpha-Fetoproteins/analysis']

@@ -1,0 +1,3 @@
+[Indications for surgery on suspected bronchial carcinoma. Risks in false diagnosis].
+?
+['Adult', 'Bronchography', 'Carcinoma, Bronchogenic/*diagnosis/diagnostic imaging/surgery', 'Diagnosis, Differential', 'Diagnostic Errors', 'Humans', 'Lung Diseases/diagnosis', 'Lung Neoplasms/*diagnosis/diagnostic imaging/surgery', 'Male', 'Middle Aged', 'Tomography']

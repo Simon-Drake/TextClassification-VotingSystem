@@ -1,0 +1,3 @@
+Positron emission tomography (PET) and combined imaging modalities for staging lung cancer.
+FDG PET in its current form supplements but does not yet replace other noninvasive imaging modalities for the evaluation and staging of the patient with NSCLC. Clinicians await further data from well-designed clinical trials to help integrate FDG PET into current clinical practice. Looking forward, sophisticated radiolabeling techniques promise to improve both the diagnostic accuracy of PET and our ability to deliver targeted cancer therapy to patients.
+['Carcinoma, Non-Small-Cell Lung/*diagnostic imaging/*pathology', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/*pathology', 'Neoplasm Staging', 'Radiopharmaceuticals', '*Tomography, Emission-Computed']

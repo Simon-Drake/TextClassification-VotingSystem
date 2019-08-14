@@ -1,0 +1,3 @@
+Maternal serum screening.
+?
+['Anxiety/*psychology', 'Down Syndrome/*diagnosis', 'Female', 'Genetic Testing/*psychology', 'Humans', 'Male', 'Neural Tube Defects/*diagnosis', 'Parents/*psychology', 'Pregnancy', 'Pregnancy Complications/blood/*diagnosis', 'Prenatal Diagnosis/*psychology', 'Reproducibility of Results', 'Sensitivity and Specificity']

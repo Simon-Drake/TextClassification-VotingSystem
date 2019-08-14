@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHGiantCel MeSHChemotherapy MeSHAdjuvant MeSHCisplati MeSHEtoposid MeSHFatalOutcome MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHMultimodalImaging MeSHPositron-EmissionTomography MeSHTomography MeSHX-RayComputed

@@ -1,0 +1,1 @@
+MeSHAdult MeSHAged MeSHDiagnosis MeSHDifferential MeSHFemale MeSHFollow-UpStudies MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHNeoplasmInvasiveness MeSHNeoplasmStagin MeSHPneumonectom MeSHPositron-EmissionTomography MeSHRetrospectiveStudies MeSHThymectom MeSHThymom MeSHTimeFactors MeSHTomography MeSHX-RayComputed MeSHTreatmentOutcome

@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdenocarcinoma MeSHBronchiolo-Alveola MeSHAdult MeSHAged MeSHDiagnosis MeSHDifferential MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPositron-EmissionTomography MeSHSolitaryPulmonaryNodul MeSHTomography MeSHX-RayComputed

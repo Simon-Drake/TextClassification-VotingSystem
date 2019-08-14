@@ -1,0 +1,3 @@
+18F-fluorodeoxyglucose PET scans in lung cancer.
+?
+['Deoxyglucose/*analogs & derivatives/pharmacokinetics', '*Fluorine Radioisotopes/pharmacokinetics', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnosis/metabolism', '*Tomography, Emission-Computed']

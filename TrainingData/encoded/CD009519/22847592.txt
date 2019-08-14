@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHNeedl MeSHEvidence-BasedMedicine MeSHHumans MeSHLungNeoplasm MeSHMediastinalNeoplasm MeSHMultiplePulmonaryNodule MeSHPleur MeSHPositron-EmissionTomography MeSHPracticeGuidelinesasTopic MeSHSolitaryPulmonaryNodul MeSHThoracicNeoplasm MeSHTomography MeSHX-RayComputed

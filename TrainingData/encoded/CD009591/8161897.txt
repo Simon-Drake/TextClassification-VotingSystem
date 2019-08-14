@@ -1,0 +1,1 @@
+MeSHAbdominalNeoplasms MeSHAdult MeSHAged MeSHBariumSulfate MeSHColonicNeoplasms MeSHColonoscopy MeSHFemale MeSHHumans MeSHMale MeSHMiddleAged MeSHNeoplasmInvasiveness MeSHPelvicNeoplasms MeSHProspectiveStudies MeSHRadiography MeSHUltrasonography

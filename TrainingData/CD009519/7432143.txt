@@ -1,0 +1,3 @@
+[Weight loss, hemoptysis and pulmonary cavity images].
+?
+['Aged', '*Body Weight', 'Diagnosis, Differential', 'Granulomatosis with Polyangiitis/diagnostic imaging/pathology', 'Hemoptysis/*pathology', 'Humans', 'Lung Neoplasms/diagnostic imaging/pathology', 'Radiography', 'Solitary Pulmonary Nodule/diagnostic imaging/*pathology', 'Tomography']

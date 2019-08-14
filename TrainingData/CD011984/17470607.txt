@@ -1,0 +1,3 @@
+Pregnancy loss rates after midtrimester amniocentesis.
+?
+['Abortion, Spontaneous/*epidemiology/etiology', 'Adult', 'Amniocentesis/*adverse effects', 'Down Syndrome/diagnosis', 'Equipment Design', 'Female', 'Humans', 'Needles', 'Pregnancy', 'Pregnancy Trimester, Second', 'Research Design']

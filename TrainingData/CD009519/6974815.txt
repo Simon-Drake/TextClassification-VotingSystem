@@ -1,0 +1,3 @@
+[Improved lung tumor visualization by computerized subtraction scintigraphy using 67Ga citrate and 113mIn chloride].
+?
+['Adult', 'Aged', 'Female', '*Gallium Radioisotopes', 'Humans', '*Indium', 'Lung/diagnostic imaging', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', '*Radioisotopes', 'Tomography, Emission-Computed/*methods']

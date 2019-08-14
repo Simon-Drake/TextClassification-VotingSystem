@@ -1,0 +1,3 @@
+[Positron-emission tomography in oncology].
+?
+['Brain Neoplasms/diagnostic imaging', 'Breast Neoplasms/diagnostic imaging', 'Female', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/diagnostic imaging', 'Male', 'Neoplasms/*diagnostic imaging', '*Radiopharmaceuticals', '*Tomography, Emission-Computed']

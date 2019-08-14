@@ -1,0 +1,3 @@
+Prediction of invasive pulmonary aspergillosis from colonisation of lower respiratory tract before marrow transplantation.
+?
+['Aspergillosis, Allergic Bronchopulmonary/*etiology', 'Aspergillus/isolation & purification', 'Bone Marrow Transplantation/*adverse effects', 'Bronchoalveolar Lavage Fluid/*microbiology', 'DNA, Fungal/isolation & purification', 'Humans', 'Polymerase Chain Reaction', 'Sensitivity and Specificity']

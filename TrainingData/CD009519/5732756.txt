@@ -1,0 +1,3 @@
+Radiological presentation of bronchogenic carcinoma in Jamaica.
+?
+['Bronchial Neoplasms/*diagnostic imaging', '*Bronchography', 'Carcinoma, Bronchogenic/*diagnostic imaging', 'Humans', 'Jamaica', 'Male', 'Middle Aged', '*Tomography']

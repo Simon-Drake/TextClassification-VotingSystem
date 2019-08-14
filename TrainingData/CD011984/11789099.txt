@@ -1,0 +1,3 @@
+[Nuchal translucency measurement in early diagnosis of Down syndrome].
+?
+['Biomarkers/blood', 'Cost-Benefit Analysis', 'Down Syndrome/blood/*diagnostic imaging/embryology', 'Ethics, Medical', 'Female', 'Humans', 'Maternal Age', 'Neck/*diagnostic imaging/embryology', 'Pregnancy', 'Prenatal Diagnosis/adverse effects/*methods/psychology', 'Risk Factors', 'Ultrasonography, Prenatal/adverse effects/*methods/psychology']

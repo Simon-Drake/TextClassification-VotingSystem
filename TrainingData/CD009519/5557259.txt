@@ -1,0 +1,3 @@
+[Use of a scintillation camera for scintigraphy with mercury bichloride 197 of lesions of the right lung base].
+?
+['Humans', 'Lung Neoplasms/*diagnosis/diagnostic imaging', '*Mercury Isotopes', 'Radiography, Thoracic', '*Radionuclide Imaging', 'Tomography']

@@ -1,0 +1,3 @@
+Prenatal diagnosis and imaging of genetic syndromes.
+?
+['*Chromosome Aberrations', 'Congenital Abnormalities/diagnosis/*genetics', 'Down Syndrome/diagnosis', 'Female', 'Fetal Diseases/diagnostic imaging/*genetics', 'Humans', 'Infant, Newborn', 'Magnetic Resonance Imaging', 'Male', 'Pregnancy', '*Prenatal Diagnosis', 'Syndrome', 'Trisomy', 'Ultrasonography, Prenatal']

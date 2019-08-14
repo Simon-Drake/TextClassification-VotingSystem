@@ -1,0 +1,3 @@
+[ROLE OF BRONCHOSCOPIC, BRONCHOGRAPHIC AND RADIOTOMOGRAPHIC PICTURES IN THE DIAGNOSIS OF PULMONARY AND BRONCHIAL MALIGNANT TUMORS].
+?
+['*Bronchial Neoplasms', '*Bronchography', '*Bronchoscopy', 'Humans', '*Lung Neoplasms', 'Neoplasms/*diagnosis', '*Tomography', '*Tomography, X-Ray Computed']

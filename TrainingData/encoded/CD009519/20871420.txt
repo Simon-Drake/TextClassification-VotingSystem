@@ -1,0 +1,1 @@
+MeSHBronchoalveolarLavage MeSHDiagnosis MeSHDifferential MeSHDiagnosticErrors MeSHFluorodeoxyglucoseF1 MeSHGlucos MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHNeoplasmStaging MeSHPositron-EmissionTomography MeSHRadiopharmaceutical MeSHTimeFactors MeSHTomography MeSHX-RayComputed

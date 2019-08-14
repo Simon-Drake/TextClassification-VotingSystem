@@ -1,0 +1,3 @@
+[Combined bronchomediastinoscopy and pneumotomomediastinography in lung cancer].
+?
+['Bronchoscopy', '*Endoscopy', 'Humans', 'Lung Neoplasms/*diagnosis/*diagnostic imaging', '*Mediastinum', 'Methods', '*Pneumomediastinum, Diagnostic', 'Radiography', 'Tomography']

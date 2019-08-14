@@ -1,0 +1,3 @@
+Nodal recurrence of pulmonary carcinoid 30 years after primary resection.
+We present a case of nodal recurrence of carcinoid tumor in a 48-year-old male patient, 30 years after resection of primary tumor. Octreoscan was used for diagnosis and localization of the mass. Surgical resection was successful and histopathologic examination revealed lymph node infiltrated with atypical carcinoid.
+['Adult', 'Carcinoid Tumor/diagnosis/*surgery', 'Diagnosis, Differential', 'Follow-Up Studies', 'Humans', 'Lung Neoplasms/diagnosis/*surgery', 'Male', 'Neoplasm Recurrence, Local/*diagnosis', 'Pneumonectomy/*methods', 'Positron-Emission Tomography', 'Time Factors', 'Tomography, X-Ray Computed']

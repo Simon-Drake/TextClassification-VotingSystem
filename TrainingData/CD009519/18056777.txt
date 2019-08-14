@@ -1,0 +1,3 @@
+A Pulmonary adrenocorticotropin-secreting carcinoid tumor localized by 6-Fluoro-[18F]L-dihydroxyphenylalanine positron emission/computed tomography imaging in a patient with Cushing's syndrome.
+?
+['Adolescent', 'Adrenocorticotropic Hormone/*metabolism', 'Carcinoid Tumor/complications/*diagnostic imaging/*metabolism', 'Cushing Syndrome/*complications/*diagnostic imaging', 'Dihydroxyphenylalanine/analogs & derivatives', 'Humans', 'Lung Neoplasms/complications/*diagnostic imaging/*metabolism', 'Male', 'Positron-Emission Tomography', 'Radiopharmaceuticals', 'Tomography, X-Ray Computed']

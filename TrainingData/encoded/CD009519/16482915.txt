@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAged MeSHCarcinoma MeSHSmallCel MeSHCombinedModalityTherapy MeSHHumans MeSHLungNeoplasm MeSHMale MeSHNeoplasms MeSHSecondPrimar MeSHPositron-EmissionTomography MeSHRemissionInduction MeSHThoracicSurgery MeSHVideo-Assisted MeSHThoracicSurgicalProcedures MeSHTomography MeSHX-RayComputed

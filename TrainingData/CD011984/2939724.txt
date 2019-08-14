@@ -1,0 +1,3 @@
+A sonographic sign for fetal Down's syndrome.
+?
+['Adolescent', 'Adult', 'Down Syndrome/*diagnosis', 'Female', 'Fetal Diseases/*diagnosis', 'Humans', 'Pregnancy', '*Prenatal Diagnosis', '*Ultrasonography']

@@ -1,0 +1,1 @@
+MeSHAceticAcid MeSHBiopsy MeSHColoringAgents MeSHCytodiagnosis MeSHEducation MeSHDental MeSHHumans MeSHIndicatorsandReagents MeSHMassScreening MeSHMouthNeoplasm MeSHPhysicalExamination MeSHPrecancerousCondition MeSHToloniumChloride

@@ -1,0 +1,1 @@
+MeSHBiomarkers MeSHTumo MeSHCarcinoma MeSHSquamousCel MeSHFollow-UpStudies MeSHHLAAntigen MeSHHLA-AAntigen MeSHHLA-A11Antigen MeSHHLA-DR6Antige MeSHHeadandNeckNeoplasm MeSHHumans MeSHMale MeSHMiddleAged MeSHPrognosis MeSHSurvivalAnalysis MeSHSurvivalRate MeSHTimeFactors

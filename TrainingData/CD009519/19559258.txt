@@ -1,0 +1,3 @@
+Harlequin syndrome.
+?
+['Aged', 'Autonomic Nervous System Diseases/*diagnosis', 'Carcinoma, Non-Small-Cell Lung/pathology/*secondary/therapy', 'Combined Modality Therapy', 'Flushing/physiopathology', '*Functional Laterality', 'Humans', 'Lung Neoplasms/*pathology/therapy', 'Lymphatic Metastasis', 'Magnetic Resonance Imaging', 'Male', 'Neoplasm Recurrence, Local/*diagnostic imaging/pathology', 'Positron-Emission Tomography', 'Rare Diseases', 'Remission, Spontaneous', 'Sweating/physiology', 'Syndrome', 'Tomography, X-Ray Computed']

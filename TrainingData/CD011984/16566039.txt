@@ -1,0 +1,3 @@
+Prenatal diagnosis of low-level mosaicism for a small XIST-negative supernumerary ring X chromosome in a nondysmorphic male fetus.
+?
+['Adult', '*Amniocentesis', 'Chromosomes, Human, X/*genetics', 'Female', 'Humans', 'Karyotyping', 'Male', 'Mosaicism/*embryology', 'Phenotype', 'Polymerase Chain Reaction', 'Pregnancy', 'RNA, Long Noncoding', 'RNA, Untranslated/*analysis', '*Ring Chromosomes', 'Tandem Repeat Sequences']

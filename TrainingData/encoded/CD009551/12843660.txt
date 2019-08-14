@@ -1,0 +1,1 @@
+MeSHBaseSequence MeSHBasidiomycot MeSHCellulose1 MeSH4-beta-Cellobiosidas MeSHCloning MeSHMolecular MeSHConsensusSequence MeSHDNA MeSHComplementar MeSHGenes MeSHFungal MeSHMolecularSequenceData MeSHOrganisms MeSHGeneticallyModified MeSHPhanerochaet MeSHSequenceAlignment MeSHSequenceAnalysis MeSHDNA MeSHTransformation MeSHGenetic

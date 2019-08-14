@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHBronchoscopy MeSHDiagnosis MeSHDifferential MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPrognosis MeSHRadiography MeSHTomography MeSHTrache MeSHTrachealDisease

@@ -1,0 +1,3 @@
+A 35-year-old pregnant woman considering maternal serum screening and amniocentesis.
+?
+['Adult', 'Amniocentesis', 'Biomarkers/blood', 'Chorionic Gonadotropin/blood', 'Chorionic Villi Sampling', 'Chromosome Aberrations/diagnosis', 'Chromosome Disorders', '*Decision Making', 'Disclosure', 'Down Syndrome/diagnosis', 'Estriol/blood', 'Female', 'Genetic Counseling', 'Genetic Diseases, Inborn', 'Genetic Testing', 'Humans', 'Neural Tube Defects/diagnosis', 'Pregnancy', '*Pregnant Women', '*Prenatal Diagnosis/methods/psychology', '*Risk Assessment', 'alpha-Fetoproteins/analysis']

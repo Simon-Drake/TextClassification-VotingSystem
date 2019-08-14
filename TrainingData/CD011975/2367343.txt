@@ -1,0 +1,3 @@
+True fetal mosaicism revealed by a single abnormal colony in amniocyte culture.
+?
+['Adult', '*Amniocentesis', 'Female', 'Humans', '*Mosaicism', 'Pregnancy']

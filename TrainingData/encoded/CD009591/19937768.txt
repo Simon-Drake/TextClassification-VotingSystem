@@ -1,0 +1,1 @@
+MeSHApoptosis MeSHBiopsy MeSHCarcinomainSitu MeSHCellAggregation MeSHCellTransformation MeSHNeoplastic MeSHCervixUteri MeSHEndometriosis MeSHFemale MeSHHumans MeSHMucousMembrane MeSHPapanicolaouTest MeSHUterineCervicalNeoplasms MeSHVaginalSmears

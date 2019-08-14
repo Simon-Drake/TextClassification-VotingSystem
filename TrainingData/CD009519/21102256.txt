@@ -1,0 +1,3 @@
+Salvage surgery after stereotactic radiotherapy: a new challenge for thoracic surgeons.
+?
+['Carcinoma, Non-Small-Cell Lung/surgery', 'Humans', 'Lung Neoplasms/pathology/secondary/*surgery', 'Neoplasm Staging', 'Positron-Emission Tomography', '*Radiosurgery', '*Salvage Therapy', 'Tomography, X-Ray Computed']

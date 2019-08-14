@@ -1,0 +1,3 @@
+Biparietal diameter/femur length ratio as predictor of trisomy 21.
+?
+['Adult', 'Cephalometry', 'Down Syndrome/*diagnosis', 'Female', 'Femur/*embryology', 'Fetal Diseases/*diagnosis', 'Humans', 'Neck', 'Pregnancy', '*Prenatal Diagnosis/methods', 'Skin/embryology', 'Ultrasonography']

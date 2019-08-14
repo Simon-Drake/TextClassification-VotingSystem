@@ -1,0 +1,1 @@
+MeSHAntigens MeSHNuclear MeSHBiomarkers MeSHTumo MeSHCarcinoma MeSHSquamousCel MeSHFemale MeSHHumans MeSHMale MeSHMiddleAged MeSHMouthNeoplasm MeSHNeoplasmInvasiveness MeSHNeoplasmStaging MeSHNuclearProtein MeSHNucleolusOrganizerRegion MeSHPrognosis MeSHSilverStaining MeSHSurvivalAnalysis

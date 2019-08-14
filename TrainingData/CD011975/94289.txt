@@ -1,0 +1,3 @@
+[Reactions provoked by maternal fetal interchanges. Their application to prenatal sex determination].
+?
+['Down Syndrome/diagnosis', 'Female', 'Humans', 'Male', '*Maternal-Fetal Exchange', 'Pregnancy', '*Prenatal Diagnosis', '*Sex Determination Analysis', 'alpha-Fetoproteins/analysis']

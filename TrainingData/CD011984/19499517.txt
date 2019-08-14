@@ -1,0 +1,3 @@
+Agenesis of the ductus venosus in a fetus with nonmosaic trisomy 22.
+?
+['Adult', '*Chromosomes, Human, Pair 22', 'Coronary Vessel Anomalies/*complications/*diagnosis', 'Female', 'Fetal Heart/*abnormalities', 'Humans', 'Male', 'Mosaicism', 'Pregnancy', 'Trisomy/*diagnosis', 'Ultrasonography, Prenatal']

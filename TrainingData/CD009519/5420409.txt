@@ -1,0 +1,3 @@
+The radiological appearance of carcinoma of the trachea.
+?
+['Asthma/diagnosis', 'Bronchial Neoplasms/diagnostic imaging', 'Bronchitis/diagnosis', 'Carcinoma/*diagnostic imaging', 'Common Cold/diagnosis', 'Diagnosis, Differential', 'Female', 'Humans', 'Male', 'Pneumonia/diagnosis', 'Radiography', 'Tomography', 'Tracheal Neoplasms/*diagnostic imaging']

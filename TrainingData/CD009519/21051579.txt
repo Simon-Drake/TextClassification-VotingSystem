@@ -1,0 +1,3 @@
+Localization of metastatic parathyroid carcinoma by 18F FDG PET scanning.
+?
+['Carcinoma/*diagnostic imaging/secondary', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/secondary', 'Male', 'Middle Aged', 'Parathyroid Neoplasms/*diagnostic imaging/pathology', 'Radionuclide Imaging']

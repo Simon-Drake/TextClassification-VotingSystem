@@ -1,0 +1,1 @@
+MeSHCytodiagnosi MeSHEpithelialCell MeSHEpitheliu MeSHHumans MeSHModels MeSHBiological MeSHMouthMucos MeSHMouthNeoplasm MeSHReproducibilityofResults MeSHSensitivityandSpecificity MeSHSignalProcessing MeSHComputer-Assisted

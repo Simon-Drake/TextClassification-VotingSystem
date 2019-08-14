@@ -1,0 +1,3 @@
+Antenatal diagnosis: potential for major reduction in pediatric morbidity.
+?
+['Anencephaly/diagnosis/epidemiology', 'Child', 'Down Syndrome/*epidemiology/prevention & control', 'Erythroblastosis, Fetal/mortality/prevention & control', 'Female', 'Humans', 'Infant', 'Infant, Newborn', '*Morbidity', 'Pregnancy', '*Prenatal Diagnosis', 'Spina Bifida Occulta/diagnosis/epidemiology', 'United States']

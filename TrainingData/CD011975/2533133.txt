@@ -1,0 +1,3 @@
+[Experiences with transabdominal chorionic villi biopsy].
+?
+['Abortion, Spontaneous/pathology', 'Chorionic Villi Sampling/adverse effects/*methods', 'Chromosome Aberrations/*diagnosis', 'Chromosome Disorders', 'Down Syndrome/diagnosis', 'Female', 'Humans', 'Infant, Newborn', 'Placenta/pathology', 'Pregnancy', 'Pregnancy Trimester, First', 'Risk Factors']

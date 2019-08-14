@@ -1,0 +1,3 @@
+Prenatal diagnosis of a diploid-tetraploid fetus.
+?
+['Adult', 'Amniocentesis', 'Chromosome Aberrations/diagnosis', 'Chromosome Disorders', 'DNA Fingerprinting/*methods', '*Diploidy', 'Female', 'Fetal Death', 'Humans', 'Mosaicism/*diagnosis/genetics', '*Polyploidy', 'Pregnancy', '*Prenatal Diagnosis']

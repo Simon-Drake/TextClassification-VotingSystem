@@ -1,0 +1,3 @@
+Nuchal fluid accumulation in trisomy-21 detected by vaginosonography in first trimester.
+?
+['Down Syndrome/*diagnosis', 'Edema/*diagnosis', 'Female', 'Fetal Diseases/*diagnosis', 'Humans', 'Neck', 'Pregnancy', 'Pregnancy Trimester, First', 'Ultrasonography, Prenatal/*methods', 'Vagina']

@@ -1,0 +1,3 @@
+Prenatal cytogenetic diagnosis: a mini-review.
+?
+['Amniocentesis/methods', 'Amniotic Fluid/cytology', 'Chromosome Aberrations', 'Chromosome Disorders', 'Chromosomes, Human, 19-20', 'Chromosomes, Human, 21-22 and Y', '*Cytogenetics', 'Female', 'Genetic Counseling', 'Humans', 'Infant, Newborn', 'Klinefelter Syndrome/diagnosis', 'Male', 'Maternal Age', 'Mosaicism', 'Pregnancy', '*Prenatal Diagnosis', 'Trisomy']

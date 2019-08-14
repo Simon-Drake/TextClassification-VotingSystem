@@ -1,0 +1,3 @@
+[Giant cell carcinoma of the lung. Clinico-radiological aspects].
+?
+['Bronchography', 'Carcinoma/*diagnostic imaging', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', 'Radiography, Thoracic', 'Tomography']

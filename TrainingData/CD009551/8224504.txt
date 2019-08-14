@@ -1,0 +1,3 @@
+Galactose oxidase: molecular analysis and mutagenesis studies.
+?
+['Amino Acid Sequence', 'Aspergillus nidulans/enzymology/genetics', 'Binding Sites', 'Cloning, Molecular/methods', 'Escherichia coli/enzymology/genetics', 'Fusarium/*enzymology', 'Galactose Oxidase/*chemistry/genetics/*metabolism', 'Genes, Fungal', 'Mutagenesis', 'Polymerase Chain Reaction', '*Protein Structure, Secondary']

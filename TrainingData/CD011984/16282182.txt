@@ -1,0 +1,3 @@
+Choosing the best prenatal screening protocol.
+?
+['Chorionic Gonadotropin, beta Subunit, Human/*blood', 'Down Syndrome/*diagnosis', 'Female', 'Humans', '*Nuchal Translucency Measurement', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy Trimester, Second', 'Pregnancy-Associated Plasma Protein-A/*analysis', 'Prenatal Diagnosis/*methods']

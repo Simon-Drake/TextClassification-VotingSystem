@@ -1,0 +1,3 @@
+Noninvasive prenatal tests for Down syndrome are near.
+?
+['DNA/*blood', 'Down Syndrome/*diagnosis/genetics', 'Female', 'Humans', 'Informed Consent', 'Pregnancy', 'Prenatal Diagnosis/economics/*methods']

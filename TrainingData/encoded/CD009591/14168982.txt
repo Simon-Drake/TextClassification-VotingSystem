@@ -1,0 +1,1 @@
+MeSHDiagnosis MeSHDifferential MeSHEndometriosis MeSHFemale MeSHHumans MeSHOvarianNeoplasms MeSHPathology MeSHPolyps MeSHRadiography MeSHSigmoidNeoplasms MeSHSurgicalProcedures MeSHOperative

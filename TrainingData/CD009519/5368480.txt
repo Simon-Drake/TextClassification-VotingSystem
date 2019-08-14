@@ -1,0 +1,3 @@
+[Veins of the anterior mediastinum in bronchial cancer metastases].
+?
+['Bronchial Neoplasms/*diagnostic imaging', 'Humans', 'Lymphatic Metastasis/*diagnostic imaging', 'Male', 'Mediastinal Neoplasms/*diagnostic imaging', 'Mediastinum/*blood supply', 'Middle Aged', 'Phlebography', 'Tomography']

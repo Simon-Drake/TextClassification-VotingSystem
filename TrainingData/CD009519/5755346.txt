@@ -1,0 +1,3 @@
+[Diagnostic difficulties in chronic pneumonitis].
+?
+['Bronchography', 'Chronic Disease', 'Diagnosis, Differential', 'Female', 'Humans', 'Lung Diseases/diagnostic imaging', 'Lung Neoplasms/*diagnosis/diagnostic imaging', 'Male', 'Middle Aged', 'Pneumonia/*diagnosis', 'Tomography']

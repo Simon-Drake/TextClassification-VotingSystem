@@ -1,0 +1,1 @@
+MeSHChorionicVilliSampling MeSHChromosomes MeSHHuman MeSHPair16 MeSHChromosomes MeSHHuman MeSHPair2 MeSHChromosomes MeSHHuman MeSHPair22 MeSHChromosomes MeSHHuman MeSHPair3 MeSHChromosomes MeSHHuman MeSHPair7 MeSHChromosomes MeSHHuman MeSHPair8 MeSHChromosomes MeSHHuman MeSHPair9 MeSHFemale MeSHHumans MeSHMosaicism MeSHPlacenta MeSHPregnancy MeSHTrisomy

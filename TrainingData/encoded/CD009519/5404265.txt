@@ -1,0 +1,1 @@
+MeSHAged MeSHBronchialNeoplasm MeSHBronchography MeSHChondrom MeSHDiagnosis MeSHDifferential MeSHHemangiom MeSHHumans MeSHInflammatio MeSHLymphangiom MeSHMyxom MeSHNeoplasmMetastasi MeSHNeurilemmom MeSHPancoastSyndrom MeSHPlasmacytom MeSHThoracicDisease MeSHThoracicNeoplasm MeSHTomography

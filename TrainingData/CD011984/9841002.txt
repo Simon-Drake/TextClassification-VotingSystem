@@ -1,0 +1,3 @@
+Screening for nuchal translucency. Counselling should be considered an integral part of screening programmes.
+?
+['Awareness', 'Down Syndrome/psychology', 'Female', 'Humans', 'Neck/*embryology', '*Patient Education as Topic', 'Pregnancy', 'Surveys and Questionnaires', 'Ultrasonography, Prenatal/*psychology']

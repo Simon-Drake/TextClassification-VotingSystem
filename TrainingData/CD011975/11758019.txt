@@ -1,0 +1,3 @@
+The genetic sonogram in screening for Down syndrome.
+?
+['Down Syndrome/*diagnostic imaging/genetics', 'Female', 'Humans', 'Pregnancy', 'Risk Assessment', '*Ultrasonography, Prenatal/utilization']

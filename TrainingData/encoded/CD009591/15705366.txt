@@ -1,0 +1,1 @@
+MeSHAdult MeSHAgeDistribution MeSHBodyMassIndex MeSHFemale MeSHFertilizationinVitro MeSHHumans MeSHInfertility MeSHFemale MeSHLinearModels MeSHPredictiveValueofTests MeSHPregnancy MeSHPregnancyRate MeSHSexHormone-BindingGlobulin MeSHSmoking MeSHTestosterone

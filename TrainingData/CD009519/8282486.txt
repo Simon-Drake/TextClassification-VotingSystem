@@ -1,0 +1,3 @@
+[Nuclear medicine methods in pneumology].
+?
+['Humans', 'Lung Diseases/*diagnostic imaging', 'Lung Neoplasms/*diagnostic imaging', 'Mucociliary Clearance/physiology', 'Pneumonia/diagnostic imaging', 'Pulmonary Diffusing Capacity/physiology', 'Respiratory Function Tests/*methods', 'Tomography, Emission-Computed', 'Ventilation-Perfusion Ratio/physiology']

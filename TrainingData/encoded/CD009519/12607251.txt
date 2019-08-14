@@ -1,0 +1,1 @@
+MeSHColorectalNeoplasm MeSHHumans MeSHLiverNeoplasm MeSHLungNeoplasm MeSHNeoplasmRecurrence MeSHLoca MeSHPneumonectomy MeSHPrognosis MeSHReoperation MeSHSurvivalRate MeSHThoracicSurgery MeSHVideo-Assisted MeSHTomography MeSHSpiralComputed

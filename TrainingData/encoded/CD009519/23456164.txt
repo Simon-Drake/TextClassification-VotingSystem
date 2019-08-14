@@ -1,0 +1,1 @@
+MeSHBiomarkers MeSHTumo MeSHBiopsy MeSHDiagnosis MeSHDifferential MeSHFemale MeSHHumans MeSHMiddleAged MeSHNeoplasmStaging MeSHPneumonectomy MeSHPositron-EmissionTomography MeSHPulmonarySclerosingHemangiom MeSHRadiography MeSHThoracic MeSHTomography MeSHX-RayComputed

@@ -1,0 +1,1 @@
+MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPancreaticNeoplasm MeSHPositron-EmissionTomography MeSHTomography MeSHX-RayComputed

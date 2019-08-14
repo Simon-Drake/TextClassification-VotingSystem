@@ -1,0 +1,3 @@
+Antenatal diagnosis of cytogenetic abnormalities.
+?
+['Adult', 'Amniocentesis/adverse effects', 'Amniotic Fluid/cytology', 'Chromosome Aberrations/*diagnosis/etiology', 'Chromosome Disorders', 'Chromosome Inversion', 'Down Syndrome/diagnosis', 'Female', 'Humans', 'Male', 'Maternal Age', 'Middle Aged', 'Pregnancy', '*Prenatal Diagnosis/trends', 'Risk', 'Translocation, Genetic']

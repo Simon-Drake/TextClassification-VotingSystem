@@ -1,0 +1,3 @@
+PET-CT in preoperative staging of lung cancer.
+?
+['Carcinoma, Non-Small-Cell Lung/*diagnosis', 'Humans', 'Lung Neoplasms/*diagnosis', 'Neoplasm Staging/methods', '*Positron-Emission Tomography', '*Tomography, X-Ray Computed']

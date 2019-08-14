@@ -1,0 +1,3 @@
+Super scan using positron emission tomography in lung cancer patients.
+?
+['Bone Neoplasms/diagnostic imaging/secondary', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/pathology', 'Male', 'Middle Aged', '*Positron-Emission Tomography', 'Prognosis', 'Radiopharmaceuticals']

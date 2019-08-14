@@ -1,0 +1,3 @@
+Three stage contingent screening for Down syndrome.
+?
+['Down Syndrome/*diagnosis', 'False Positive Reactions', 'Female', 'Humans', 'Multiphasic Screening/*methods/*psychology', 'Nuchal Translucency Measurement', 'Pregnancy', 'Pregnancy Trimester, Second', 'Prenatal Diagnosis/*methods']

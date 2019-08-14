@@ -1,0 +1,3 @@
+[EXPLORATION OF THE BRONCHIAL TREE].
+?
+['*Anatomy', '*Angiography', '*Bronchi', '*Bronchial Neoplasms', '*Bronchography', '*Cardiovascular Diseases', '*Hematoma', '*Hodgkin Disease', 'Humans', '*Thyroid Diseases', '*Tomography', '*Tomography, X-Ray Computed', '*Trees']

@@ -1,0 +1,3 @@
+Cytogenetic variability in the proportion of abnormal cells between the various tissues in prenatally detected mosaic tetrasomy 12p.
+?
+['Adult', 'Chromosome Disorders/*embryology/*genetics', '*Chromosomes, Human, Pair 12', 'Cytogenetics', 'Fatal Outcome', 'Female', 'Humans', 'Male', 'Mosaicism/*embryology', 'Pregnancy']

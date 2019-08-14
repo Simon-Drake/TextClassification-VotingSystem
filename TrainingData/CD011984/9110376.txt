@@ -1,0 +1,3 @@
+Inhibin-A in Down's syndrome pregnancies: revised estimate of standard deviation.
+?
+['Biomarkers/blood', 'Down Syndrome/*blood', 'False Positive Reactions', 'Female', 'Humans', 'Inhibins/*blood', 'Linear Models', 'Mass Screening/standards', 'Pregnancy', 'Pregnancy Complications/*blood', 'Probability']

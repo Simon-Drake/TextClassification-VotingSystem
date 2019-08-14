@@ -1,0 +1,3 @@
+Prenatal diagnosis of genetic diseases.
+?
+['Amniocentesis/history', 'Aneuploidy', 'Chorionic Villi Sampling/history', 'Embryonic Development', 'Female', 'Genetic Diseases, Inborn/diagnosis/*history', 'History, 19th Century', 'History, 20th Century', 'Humans', 'Pregnancy', 'Prenatal Diagnosis/*history']

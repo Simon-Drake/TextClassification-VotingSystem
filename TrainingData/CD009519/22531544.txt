@@ -1,0 +1,3 @@
+Isolated axillary lymph node metastasis at presentation in bronchogenic carcinoma.
+?
+['Aged', 'Axilla', 'Biopsy', 'Carcinoma, Bronchogenic/*diagnosis/diagnostic imaging/pathology', 'Humans', 'Lung Neoplasms/*diagnosis/diagnostic imaging/pathology', 'Lymph Nodes/pathology', 'Lymphatic Metastasis', 'Male', 'Multimodal Imaging', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed']

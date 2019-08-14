@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHBronchography MeSHHumans MeSHLungInjury MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPulmonaryFibrosi MeSHRadiography MeSHThoracic MeSHThoracicInjurie MeSHTomography MeSHWounds MeSHGunsho

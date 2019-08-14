@@ -1,0 +1,3 @@
+[Radiological aspects of pulmonary actinomycosis. Apropos of 4 cases].
+?
+['Actinomycosis/diagnosis/*diagnostic imaging', 'Adult', 'Bronchography', 'Diagnosis, Differential', 'Humans', 'Lung/*diagnostic imaging', 'Lung Diseases, Fungal/diagnosis/*diagnostic imaging', 'Lung Neoplasms/diagnosis', 'Male', 'Middle Aged', 'Tomography']

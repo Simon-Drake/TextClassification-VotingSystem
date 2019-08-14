@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHNeedle MeSHCarcinoma MeSHCystadenoma MeSHDiagnosis MeSHDifferential MeSHDysgerminoma MeSHEndometriosis MeSHFemale MeSHFibroma MeSHGranulosaCellTumor MeSHHumans MeSHNeoplasmMetastasis MeSHOvarianCysts MeSHOvarianNeoplasms MeSHTeratoma MeSHThecoma

@@ -1,0 +1,3 @@
+Diagnosis of invasive fungal infections: advances in nonculture systems.
+?
+['Antifungal Agents/pharmacology', 'Antigens, Fungal/blood', 'Aspergillosis/diagnosis/microbiology', 'Candida/growth & development', 'Candidiasis/diagnosis/microbiology', 'Coccidioidomycosis/diagnosis', 'Cryptococcosis/diagnosis/microbiology', 'DNA, Fungal', 'Fungemia/diagnosis/microbiology', 'Fusarium', 'Histoplasmosis/diagnosis', 'Humans', 'Immunoassay', 'Microbial Sensitivity Tests', 'Mycoses/*diagnosis/microbiology', 'Polymerase Chain Reaction', 'Pseudallescheria', 'Trichosporon', 'Zygomycosis/diagnosis']

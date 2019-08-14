@@ -1,0 +1,3 @@
+[Trisomy 21: contribution of free beta HCG for the screening of pregnancies at risk].
+?
+['Adult', 'Age Factors', 'Chorionic Gonadotropin/*analysis', 'Chorionic Gonadotropin, beta Subunit, Human', 'Down Syndrome/diagnosis/*prevention & control', 'Female', 'Humans', 'Mass Screening', 'Middle Aged', 'Peptide Fragments/*analysis', 'Pregnancy', 'Pregnancy Complications/*prevention & control', 'Risk Factors']

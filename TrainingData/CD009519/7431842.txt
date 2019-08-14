@@ -1,0 +1,3 @@
+Metastatic squamous-cell carcinoma in a gerbil (Meriones unguiculatus).
+A 3 year old pet male gerbil developed a squamous-cell carcinoma in close proximity to the caudal border of the sebaceous ventral marking gland. The neoplasm invaded locally and metastasized to the lung and right axillary lymph node.
+['Animals', 'Carcinoma, Squamous Cell/*veterinary', '*Gerbillinae', 'Lung Neoplasms/veterinary', 'Lymphatic Metastasis', 'Male', 'Rodent Diseases/pathology', 'Sebaceous Gland Neoplasms/ultrastructure']

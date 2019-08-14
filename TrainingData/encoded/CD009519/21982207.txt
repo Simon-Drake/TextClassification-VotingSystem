@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHNon-Small-CellLung MeSHCarcinoma MeSHSquamousCell MeSHHumans MeSHLungNeoplasms MeSHPositron-EmissionTomograph MeSHTomography MeSHX-RayCompute MeSHTumorBurden

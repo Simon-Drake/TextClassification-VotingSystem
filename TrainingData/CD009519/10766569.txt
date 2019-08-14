@@ -1,0 +1,3 @@
+Unsubstantiated conclusions can impede progress in lung cancer.
+?
+['*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/*radiotherapy', '*Radiopharmaceuticals', 'Tomography, Emission-Computed']

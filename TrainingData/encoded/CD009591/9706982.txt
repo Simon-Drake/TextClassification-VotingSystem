@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHCellNucleus MeSHEndometrialHyperplasia MeSHEndometrialNeoplasms MeSHEndometrium MeSHFemale MeSHHumans MeSHMetaplasia MeSHObserverVariation MeSHReproducibilityofResults

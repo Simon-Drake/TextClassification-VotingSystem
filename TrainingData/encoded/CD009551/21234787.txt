@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAspergillu MeSHBaseSequence MeSHCloning MeSHMolecular MeSHDNA MeSHComplementar MeSHDNA MeSHFunga MeSHEndo-1 MeSH4-betaXylanase MeSHModels MeSHMolecular MeSHMolecularSequenceData MeSHMolecularWeight MeSHOpenReadingFrames MeSHProteinSortingSignals MeSHProteinStructure MeSHTertiary MeSHSequenceAnalysis MeSHDNA

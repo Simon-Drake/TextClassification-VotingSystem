@@ -1,0 +1,3 @@
+Is PET ready for prime time?
+?
+['Costs and Cost Analysis', 'Humans', 'Insurance, Health, Reimbursement', 'Lung Neoplasms/*diagnostic imaging/economics', 'Sensitivity and Specificity', 'Tomography, Emission-Computed/economics/*utilization', 'Tomography, X-Ray Computed/economics']

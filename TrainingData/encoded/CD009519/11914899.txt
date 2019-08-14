@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSmallCel MeSHFluorodeoxyglucoseF1 MeSHHumans MeSHLungNeoplasm MeSHOrganotechnetiumCompound MeSHRadiopharmaceutical MeSHReceptors MeSHSomatostati MeSHSomatostati MeSHTomography MeSHEmission-Compute

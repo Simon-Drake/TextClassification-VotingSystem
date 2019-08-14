@@ -1,0 +1,3 @@
+[PET-CT scan in a case of suspicion of metastatic dissemination due to the presence of multiple pulmonary nodules].
+?
+['Adult', '*Brucella melitensis', 'Brucellosis/*diagnostic imaging', 'Diagnosis, Differential', 'Granuloma/diagnostic imaging/microbiology', 'Humans', 'Lung Diseases/*diagnostic imaging/*microbiology', 'Lung Neoplasms/diagnostic imaging/secondary', 'Male', '*Multimodal Imaging', 'Multiple Pulmonary Nodules/diagnostic imaging', '*Positron-Emission Tomography', '*Tomography, X-Ray Computed']

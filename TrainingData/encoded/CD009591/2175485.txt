@@ -1,0 +1,1 @@
+MeSHAbdominalPain MeSHAdult MeSHDiagnosis MeSHDifferential MeSHEndometriosis MeSHFemale MeSHGastrointestinalHemorrhage MeSHHumans MeSHMenstruation MeSHMiddleAged MeSHProctoscopy MeSHRectalNeoplasms MeSHRectum

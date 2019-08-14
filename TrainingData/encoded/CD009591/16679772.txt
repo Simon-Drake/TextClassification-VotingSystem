@@ -1,0 +1,1 @@
+MeSHAsciticFluid MeSHBiomarkers MeSHC-ReactiveProtein MeSHChemokineCCL2 MeSHChemokineCCL5 MeSHEndometriosis MeSHFemale MeSHHumans MeSHInflammation MeSHIntercellularAdhesionMolecule-1 MeSHInterleukins MeSHReceptors MeSHCCR1 MeSHReceptors MeSHChemokine MeSHSerumAmyloidAProtein MeSHTumorNecrosisFactor-alpha

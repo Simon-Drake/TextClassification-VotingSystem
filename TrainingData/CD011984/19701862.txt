@@ -1,0 +1,3 @@
+Rapid aneuploidy test for positive Down screening: who is willing to pay for it?
+?
+['Adult', '*Aneuploidy', 'Down Syndrome/*diagnosis/*genetics', 'Female', 'Genetic Testing/economics/methods', 'Health Care Costs', 'Humans', 'Pilot Projects', 'Predictive Value of Tests', 'Pregnancy', 'Prenatal Diagnosis/*economics/*methods', 'Retrospective Studies', 'Validation Studies as Topic', 'Volition/physiology']

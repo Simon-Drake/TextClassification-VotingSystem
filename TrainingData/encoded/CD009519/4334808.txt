@@ -1,0 +1,1 @@
+MeSHAdenocarcinoma MeSHBronchiolo-Alveola MeSHAged MeSHCalcinosi MeSHDiagnosis MeSHDifferential MeSHFemale MeSHGranulom MeSHHumans MeSHLungDisease MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPulmonaryAlveol MeSHRadiography MeSHSexFactors MeSHSputu MeSHTimeFactors MeSHTomography

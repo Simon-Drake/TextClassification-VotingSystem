@@ -1,0 +1,3 @@
+Aspergillus alliaceus and Aspergillus flavus co-infection in an acute myeloid leukemia patient.
+We report a case of a pulmonary infection caused by Aspergillus flavus and Aspergillus alliaceus in an acute myeloid leukemia patient. These isolates were identified using traditional and sequencing-based molecular methods.
+['Aspergillosis/*complications/diagnosis/*microbiology', 'Aspergillus/classification/genetics/*isolation & purification', 'Aspergillus flavus/*classification/genetics/isolation & purification', 'DNA, Intergenic/genetics', 'Fungal Proteins/genetics', 'Humans', 'Leukemia, Myeloid, Acute/*complications', 'Lung Diseases, Fungal/*complications/diagnosis/*microbiology', 'Male', 'Middle Aged', 'Phylogeny', 'Polymerase Chain Reaction', 'Tubulin/genetics']

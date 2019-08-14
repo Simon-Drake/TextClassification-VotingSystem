@@ -1,0 +1,1 @@
+MeSHAttitudetoHealth MeSHComprehension MeSHDentist-PatientRelations MeSHHealthServicesNeedsandDemand MeSHHumans MeSHMassScreening MeSHMouthNeoplasm MeSHPatientAcceptanceofHealthCare MeSHPatientEducationasTopic

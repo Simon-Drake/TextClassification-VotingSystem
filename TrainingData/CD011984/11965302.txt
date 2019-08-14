@@ -1,0 +1,3 @@
+Absence of nasal bone and detection of trisomy 21.
+?
+['Down Syndrome/*diagnosis', 'Female', 'Humans', 'Nasal Bone/*abnormalities', 'Pregnancy', 'Pregnancy Trimester, Second', 'Reproducibility of Results', 'Ultrasonography, Prenatal/*methods']

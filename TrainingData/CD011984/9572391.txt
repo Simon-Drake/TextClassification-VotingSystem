@@ -1,0 +1,3 @@
+Prenatal sonographic diagnosis of nuchal edema and double aneuploidy (48,XXY,+21): discrepancy between results of chorionic villi and amniotic fluid sampling.
+?
+['Adult', 'Amniocentesis', 'Aneuploidy', 'Chorionic Villi Sampling', 'Chromosome Aberrations/*diagnostic imaging', 'Chromosome Disorders', 'Edema/*diagnostic imaging/pathology', 'Female', 'Fetal Diseases/*diagnostic imaging/genetics', 'Humans', 'Neck/diagnostic imaging/pathology', 'Pregnancy', '*Ultrasonography, Prenatal']

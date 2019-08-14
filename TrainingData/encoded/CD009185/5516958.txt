@@ -1,0 +1,1 @@
+MeSHArthritis MeSHRheumatoi MeSHAzathioprin MeSHBloodCellCount MeSHBloodProtein MeSHBloodSedimentation MeSHCortison MeSHDrugHypersensitivity MeSHDrugSynergism MeSHDuodenalUlce MeSHHumans MeSHPyelonephriti MeSHSerologicTests MeSHUremi

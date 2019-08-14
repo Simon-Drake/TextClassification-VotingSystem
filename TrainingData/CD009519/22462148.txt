@@ -1,0 +1,3 @@
+[Compilation of Tokai Section Educational Seminar: Current diagnostic imaging].
+?
+['Coronary Angiography', 'Diagnostic Imaging/*methods', 'Diffusion Magnetic Resonance Imaging', 'Endoscopy, Gastrointestinal/methods', 'Humans', 'Lung Neoplasms/diagnosis', 'Multimodal Imaging/methods', 'Neurodegenerative Diseases/diagnosis', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed']

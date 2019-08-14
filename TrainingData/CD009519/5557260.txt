@@ -1,0 +1,3 @@
+[Clinical use of pulmonary scintigraphy with mercury bichloride].
+?
+['Aged', 'Humans', 'Lung Neoplasms/*diagnosis/diagnostic imaging/therapy', 'Male', '*Mercury Isotopes', 'Middle Aged', 'Radiography, Thoracic', '*Radionuclide Imaging', 'Tomography']

@@ -1,0 +1,3 @@
+Screening and diagnosis of fetal neural tube defects, abdominal wall defects and Down's syndrome. With special reference to biochemical and ultrasound screening in the second trimester of pregnancy and to early amniocentesis.
+?
+['Acetylcholinesterase/analysis', 'Amniocentesis', 'Denmark', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Multiphasic Screening/*methods', 'Muscle Development', 'Neural Tube Defects/*diagnosis', 'Patient Acceptance of Health Care', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy Trimester, Second', 'Prenatal Diagnosis/*methods', '*Rectus Abdominis/*abnormalities', 'Ultrasonography, Prenatal', 'alpha-Fetoproteins/analysis']

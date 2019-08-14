@@ -1,0 +1,3 @@
+[Fetal ascites].
+?
+['Adult', 'Ascites/*embryology', 'Down Syndrome/complications', 'Female', 'Humans', 'Pregnancy', 'Pregnancy Trimester, Third', 'Prenatal Diagnosis', 'Ultrasonography']

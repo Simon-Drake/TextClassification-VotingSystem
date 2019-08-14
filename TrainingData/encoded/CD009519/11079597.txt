@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdrenalGlandNeoplasm MeSHAdrenocorticalAdenom MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHMiddleAged MeSHRadiopharmaceuticals MeSHTomography MeSHEmission-Computed MeSHTomography MeSHX-RayComputed

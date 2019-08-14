@@ -1,0 +1,3 @@
+Evaluating pulmonary nodules.
+?
+['Biopsy, Needle/*methods', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/diagnosis', 'Positron-Emission Tomography/*methods', 'Practice Guidelines as Topic', "Practice Patterns, Physicians'", 'Radiopharmaceuticals', 'Solitary Pulmonary Nodule/*diagnosis', 'Tomography, X-Ray Computed/*methods']

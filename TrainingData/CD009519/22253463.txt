@@ -1,0 +1,3 @@
+Metabolic-morphologic discordant solitary skeletal muscle metastasis on [(18)F]fluorodeoxyglucose positron emission tomography/computed tomography scan in synchronous lung and esophageal cancer: a lesson.
+?
+['Aged', 'Esophageal Neoplasms/*diagnostic imaging/metabolism/*pathology', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/metabolism/*pathology', 'Male', '*Multimodal Imaging', 'Muscle Neoplasms/*diagnostic imaging/*secondary', 'Neoplasm Staging/methods', 'Neoplasms, Multiple Primary/*pathology', '*Positron-Emission Tomography', '*Tomography, X-Ray Computed']

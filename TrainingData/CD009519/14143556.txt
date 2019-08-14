@@ -1,0 +1,3 @@
+[ON 2 CASES OF CAVERNOUS LUNG CANCER WITH SPECIAL FEATURES].
+?
+['*Diagnosis, Differential', '*Geriatrics', '*Lung Neoplasms', '*Pleurisy', '*Radiography, Thoracic', '*Tomography', '*Tuberculosis', '*Tuberculosis, Pulmonary']

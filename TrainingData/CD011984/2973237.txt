@@ -1,0 +1,3 @@
+Prenatal diagnosis in metropolitan Atlanta and the impact on autosomal trisomies.
+?
+['*Chromosomes, Human, Pair 13', '*Chromosomes, Human, Pair 18', 'Down Syndrome/*diagnosis/epidemiology', 'Female', 'Georgia', 'Humans', 'Pregnancy', '*Prenatal Diagnosis', '*Trisomy']

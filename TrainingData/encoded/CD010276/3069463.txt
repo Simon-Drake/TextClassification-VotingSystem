@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHFemale MeSHHumans MeSHMale MeSHMiddleAged MeSHMouthFloor MeSHMouthNeoplasm MeSHNeoplasmStaging MeSHProspectiveStudies MeSHTomography MeSHX-RayComputed MeSHTongueNeoplasm MeSHUltrasonography

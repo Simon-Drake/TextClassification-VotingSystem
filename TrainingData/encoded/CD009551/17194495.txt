@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAspergillu MeSHCloning MeSHMolecular MeSHGeneExpression MeSHGlycosylation MeSHMolecularSequenceData MeSHPichi MeSHSequenceAnalysis MeSHDNA MeSHSequenceHomology MeSHAminoAcid MeSHbeta-Mannosidas

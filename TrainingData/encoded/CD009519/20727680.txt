@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHBiomarkers MeSHTumo MeSHBiopsy MeSHCellDifferentiation MeSHColorectalNeoplasm MeSHDiagnosis MeSHDifferential MeSHFemale MeSHHumans MeSHImmunohistochemistry MeSHKeratin- MeSHLungNeoplasm MeSHMiddleAged MeSHPneumonectomy MeSHPredictiveValueofTests MeSHTreatmentOutcome

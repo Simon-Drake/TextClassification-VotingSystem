@@ -1,0 +1,1 @@
+MeSHFemale MeSHHeadandNeckNeoplasm MeSHHumans MeSHHydrogen-IonConcentration MeSHMale MeSHParotidGlan MeSHRadiationInjurie MeSHRadiationTolerance MeSHRadiotherapyDosage MeSHRadiotherapy MeSHHigh-Energy MeSHSaliv MeSHSalivaryGland MeSHSalivatio MeSHTimeFactors

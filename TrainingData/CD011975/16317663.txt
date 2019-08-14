@@ -1,0 +1,3 @@
+Which contingent sequential screening protocol?
+?
+['Biomarkers/analysis', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Mass Screening/*methods', 'Nuchal Translucency Measurement', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy Trimester, Second', 'Prenatal Diagnosis/*methods']

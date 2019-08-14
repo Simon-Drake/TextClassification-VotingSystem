@@ -1,0 +1,3 @@
+Fatal pulmonary tumour thrombotic microangiopathy: do typical FDG-PET findings exist?
+?
+['Adult', 'Fatal Outcome', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Positron-Emission Tomography/*methods', 'Radiopharmaceuticals', 'Reference Values', 'Syndrome', 'Thrombotic Microangiopathies/*diagnostic imaging']

@@ -1,0 +1,3 @@
+Reply to M.S. Hofman et al.
+?
+['Carcinoma, Non-Small-Cell Lung/*pathology', 'Female', 'Humans', 'Lung Neoplasms/*pathology', 'Male', 'Positron-Emission Tomography/*methods']

@@ -1,0 +1,1 @@
+MeSHAdenocarcinoma MeSHAdult MeSHAged MeSHEndometrialNeoplasms MeSHFemale MeSHGeneExpression MeSHGenes MeSHerbB-2 MeSHGenes MeSHp53 MeSHHumans MeSHImmunohistochemistry MeSHMiddleAged MeSHNeoplasmRecurrence MeSHLocal MeSHNeoplasmStaging MeSHPrognosis MeSHReceptor MeSHErbB-2 MeSHTumorSuppressorProteinp53

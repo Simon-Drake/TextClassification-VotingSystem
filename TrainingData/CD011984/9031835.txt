@@ -1,0 +1,3 @@
+Established markers in second trimester maternal serum.
+?
+['Biomarkers/*blood', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Pregnancy', 'Pregnancy Trimester, Second', '*Prenatal Diagnosis']

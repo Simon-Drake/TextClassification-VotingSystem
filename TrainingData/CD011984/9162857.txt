@@ -1,0 +1,3 @@
+[Prenatal diagnosis for trisomy 21: triple test more efficient than age criterion].
+?
+['Biomarkers/*blood', 'Down Syndrome/*blood', 'Female', 'Fetal Diseases/blood', 'Humans', 'Maternal Age', 'Pregnancy', 'Prenatal Diagnosis/*methods']

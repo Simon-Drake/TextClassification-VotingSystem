@@ -1,0 +1,3 @@
+Is non-echogenic nuchal oedema a marker in trisomy 21 screening?
+?
+['Adult', 'Down Syndrome/*diagnosis', '*Edema', 'Female', 'Humans', 'Lymphangioma, Cystic', 'Maternal Age', 'Neck', 'Pregnancy', '*Prenatal Diagnosis']

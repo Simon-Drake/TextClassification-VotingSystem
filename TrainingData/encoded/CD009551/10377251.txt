@@ -1,0 +1,1 @@
+MeSHAlcoholOxidoreductase MeSHAminoAcidSequence MeSHBaseSequence MeSHBindingSite MeSHCatalyticDomai MeSHCloning MeSHMolecular MeSHFlavin-AdenineDinucleotide MeSHGenes MeSHFungal MeSHLigni MeSHMolecularSequenceData MeSHPleurotu MeSHSequenceAnalysis MeSHDNA MeSHSequenceHomology MeSHAminoAcid

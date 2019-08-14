@@ -1,0 +1,3 @@
+Aspergillus oryzae laeA regulates kojic acid synthesis genes.
+Kojic acid synthesis genes regulation was investigated in Aspergillus oryzae. Our results indicate that kojic acid production was lost in the laeA disruption strain, but was recovered in the LaeA complement strain. Real-time PCR also confirmed that expression of kojic acid biosynthesis genes decreased in the laeA disruption strain, indicating that these genes are under the control of LaeA.
+['*Aspergillus oryzae/enzymology/genetics', 'Fungal Proteins/genetics/*metabolism', 'Gene Deletion', '*Gene Expression Regulation, Fungal', 'Genetic Complementation Test', 'Methyltransferases/genetics/*metabolism', 'Physical Chromosome Mapping', 'Pyrones/*metabolism', 'Real-Time Polymerase Chain Reaction']

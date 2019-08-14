@@ -1,0 +1,3 @@
+Primary pulmonary diffuse large B-cell lymphoma.
+?
+['Aged', 'Female', 'Humans', 'Lung Neoplasms/*diagnosis/pathology', 'Lymphoma, Large B-Cell, Diffuse/*diagnosis/pathology', 'Multimodal Imaging', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed']

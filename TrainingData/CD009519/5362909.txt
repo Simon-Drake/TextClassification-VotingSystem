@@ -1,0 +1,3 @@
+Pulmonary leiomyoma.
+?
+['Adult', 'Child', 'Female', 'Humans', '*Leiomyoma/diagnostic imaging/pathology', '*Lung Neoplasms/diagnostic imaging/pathology', 'Male', 'Middle Aged', 'Radiography', 'Tomography']

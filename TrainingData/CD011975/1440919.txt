@@ -1,0 +1,3 @@
+[Value of molecular-genetic examination of patients with the Shereshevsky-Terner syndrome and married couples with disorders of reproductive function].
+The molecular-cytogenetic investigation gives a significant opportunity for diagnosis of gonosome mosaics. Due to the molecular-cytogenetic method additional chromosomes in karyotypes in 4 of 13 patients are determined. A significant spreading of mosaicism type 45, XO/46, X among women with early spontaneous abortions is revealed.
+['Abortion, Spontaneous/genetics', 'Female', 'Humans', 'Karyotyping', 'Male', '*Monosomy', 'Mosaicism/genetics', 'Pregnancy', 'Reproduction/*genetics', 'Sex Chromosome Aberrations/*genetics', 'Syndrome', '*X Chromosome']

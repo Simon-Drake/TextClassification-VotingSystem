@@ -1,0 +1,3 @@
+[Study of guidelines for the MDCT-imaging method for lung cancer screening].
+?
+['Guidelines as Topic', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Mass Screening', 'Phantoms, Imaging', 'Quality Control', 'Radiation Dosage', 'Tomography, Spiral Computed/instrumentation/*methods/*standards']

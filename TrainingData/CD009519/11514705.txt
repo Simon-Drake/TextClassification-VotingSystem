@@ -1,0 +1,3 @@
+18-Fluorodeoxyglucose positron emission tomography (FDG-PET) and the staging of early lung cancer.
+?
+['Carcinoma, Non-Small-Cell Lung/*diagnostic imaging/pathology', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/pathology', 'Neoplasm Staging', '*Radiopharmaceuticals', 'Tomography, Emission-Computed/*methods']

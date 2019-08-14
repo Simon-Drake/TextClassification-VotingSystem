@@ -1,0 +1,3 @@
+Pulmonary sarcoidosis mimicking metastases in breast cancer patients.
+?
+['Breast Neoplasms/*diagnosis/pathology/therapy', 'Carcinoma, Ductal, Breast/diagnosis/pathology/*secondary/therapy', 'Combined Modality Therapy', 'Diagnosis, Differential', 'Female', 'Follow-Up Studies', 'Humans', 'Lung Neoplasms/diagnosis/*secondary', 'Lymph Nodes/pathology', 'Lymphatic Metastasis', '*Magnetic Resonance Imaging', 'Middle Aged', 'Neoplasm Staging', '*Positron-Emission Tomography', 'Sarcoidosis, Pulmonary/*diagnosis', '*Tomography, X-Ray Computed']

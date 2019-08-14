@@ -1,0 +1,3 @@
+Incidental second primary in the breast detected by F-18 FDG positron emission tomography scan.
+?
+['Adult', 'Breast Neoplasms/*diagnostic imaging', 'Carcinoma, Ductal, Breast/*diagnostic imaging', 'Female', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/diagnostic imaging', 'Neoplasms, Second Primary/*diagnostic imaging', '*Radiopharmaceuticals', 'Teratoma/diagnostic imaging', '*Tomography, Emission-Computed']

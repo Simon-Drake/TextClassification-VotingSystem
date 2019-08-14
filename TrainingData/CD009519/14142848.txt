@@ -1,0 +1,3 @@
+[ON THE DIFFERENTIAL DIAGNOSIS OF PULMONARY CANCER FROM TUBERCULOSIS].
+?
+['*Bronchitis', '*Bronchoscopy', '*Carcinoma', '*Diagnosis, Differential', '*Heart Diseases', 'Humans', '*Influenza, Human', '*Lung Abscess', '*Lung Neoplasms', 'Neoplasms/*diagnosis', '*Pneumonectomy', '*Pneumonia', '*Pulmonary Atelectasis', '*Radiography, Thoracic', '*Tomography', '*Tuberculosis', '*Tuberculosis, Pulmonary']

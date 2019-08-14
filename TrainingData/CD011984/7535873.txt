@@ -1,0 +1,3 @@
+[Serum analysis in pregnant women. Mass screening is an effective way to discover chromosome aberrations--arguments for and against].
+?
+['Adult', 'Cost-Benefit Analysis', 'Down Syndrome/*diagnosis/genetics', 'Female', '*Genetic Testing', 'Humans', '*Mass Screening/economics', 'Maternal Age', 'Neural Tube Defects/*diagnosis/genetics', 'Pregnancy', 'Pregnancy, High-Risk', '*Prenatal Diagnosis/adverse effects/economics/methods', 'alpha-Fetoproteins/*analysis']

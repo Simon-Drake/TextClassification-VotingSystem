@@ -1,0 +1,3 @@
+Recent advances in capillary electrophoresis of DNA fragments and PCR products.
+?
+['Bacillus anthracis/genetics/isolation & purification', 'Cystic Fibrosis Transmembrane Conductance Regulator/genetics', 'DNA/chemistry/*isolation & purification', 'Down Syndrome/diagnosis', 'Electrophoresis, Capillary/*methods', 'Exons', 'Gene Dosage', 'Humans', 'Oligodeoxyribonucleotides/chemistry/isolation & purification', 'Oligonucleotides, Antisense/chemistry/isolation & purification', '*Point Mutation', 'Polymerase Chain Reaction/*methods', 'Prenatal Diagnosis', 'Soil Microbiology']

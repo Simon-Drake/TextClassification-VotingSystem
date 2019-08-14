@@ -1,0 +1,1 @@
+MeSHAdult MeSHAngiography MeSHBronchialNeoplasm MeSHCobaltIsotope MeSHFemale MeSHHumans MeSHMale MeSHMiddleAged MeSHOvarianNeoplasm MeSHPhlebography MeSHRadiography MeSHThoracic MeSHRadioisotopeTeletherapy MeSHTomography MeSHUterineCervicalNeoplasm

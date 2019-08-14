@@ -1,0 +1,3 @@
+Overview of screening techniques. Recent advances in prenatal diagnosis for aneuploidy.
+?
+['*Chromosome Aberrations', 'Congenital Abnormalities/*diagnosis', 'Female', 'Humans', 'Pregnancy', 'Prenatal Diagnosis/*methods']

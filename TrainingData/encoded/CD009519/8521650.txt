@@ -1,0 +1,1 @@
+MeSHBoneNeoplasm MeSHCarcinoma MeSHBronchogeni MeSHDeoxyglucos MeSHFluorineRadioisotopes MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHHypercalcemi MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHStomac MeSHTechnetiumTc99mMedronate MeSHTomography MeSHEmission-Computed MeSHTomography MeSHEmission-Computed MeSHSingle-Photon

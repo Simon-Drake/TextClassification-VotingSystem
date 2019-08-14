@@ -1,0 +1,3 @@
+Clinical practice. The solitary pulmonary nodule.
+?
+['Biopsy, Needle', 'Bronchoscopy', 'Diagnosis, Differential', 'Humans', 'Lung/diagnostic imaging', 'Lung Diseases/*diagnosis', 'Lung Neoplasms/*diagnosis', 'Male', 'Middle Aged', 'Pneumonia/diagnostic imaging', 'Smoking', 'Solitary Pulmonary Nodule/diagnosis/*diagnostic imaging/surgery', 'Thoracic Surgery, Video-Assisted', 'Tomography, Emission-Computed', 'Tomography, X-Ray Computed']

@@ -1,0 +1,3 @@
+Cesium attenuation correction of the liver dome revealing hepatic lesion missed with computed tomography attenuation correction because of the respiratory motion artifact.
+?
+['Aged', '*Artifacts', '*Cesium', 'Colorectal Neoplasms/*diagnostic imaging', 'False Negative Reactions', '*Fluorodeoxyglucose F18', 'Humans', 'Image Enhancement/*methods', 'Liver Neoplasms/*diagnostic imaging/secretion', 'Lung Neoplasms/diagnostic imaging/secretion', 'Male', '*Movement', 'Positron-Emission Tomography/methods', 'Radiopharmaceuticals', '*Respiratory Mechanics', '*Subtraction Technique', 'Tomography, X-Ray Computed/methods']

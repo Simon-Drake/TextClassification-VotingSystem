@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHNeedle MeSHCarcinom MeSHCytodiagnosis MeSHCytoplasmicGranule MeSHDiagnosis MeSHDifferential MeSHHumans MeSHMale MeSHMicroscopy MeSHElectron MeSHMiddleAged MeSHNeoplasmMetastasis MeSHNeoplasmRecurrence MeSHLocal MeSHOrganoid MeSHParotidNeoplasm MeSHX-RayTherapy

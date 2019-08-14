@@ -1,0 +1,3 @@
+Cat-eye syndrome in a fetus with increased nuchal translucency: three-dimensional ultrasound and echocardiographic evaluation of the fetal phenotype.
+?
+['*Aneuploidy', 'Chromosomes, Human, Pair 22/*genetics', 'Ear, External/*abnormalities', 'Eye Abnormalities/*diagnostic imaging', 'Humans', 'Infant, Newborn', 'Male', 'Neck/*diagnostic imaging/embryology', 'Syndrome', 'Ultrasonography, Prenatal/*methods']

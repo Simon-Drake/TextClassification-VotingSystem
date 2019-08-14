@@ -1,0 +1,3 @@
+[Tracheo-bronchial tomography in the prognosis of the operability of bronchial cancer].
+?
+['*Bronchi', '*Bronchial Neoplasms', '*Carcinoma, Bronchogenic', 'Humans', '*Neoplasms', 'Prognosis', '*Tomography']

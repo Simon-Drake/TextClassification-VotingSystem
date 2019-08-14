@@ -1,0 +1,1 @@
+MeSHAdult MeSHClusterAnalysis MeSHCohortStudies MeSHComputerSimulation MeSHEndometriosis MeSHFemale MeSHFollow-UpStudies MeSHHumans MeSHInfertility MeSHFemale MeSHLifeTables MeSHPrognosis MeSHRegressionAnalysis MeSHRetrospectiveStudies MeSHTissueAdhesions

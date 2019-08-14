@@ -1,0 +1,1 @@
+MeSHAged MeSHBiopsy MeSHBronchoscopy MeSHColorectalNeoplasm MeSHDiagnosis MeSHDifferential MeSHHumans MeSHLungNeoplasm MeSHMale MeSHPositron-EmissionTomography MeSHTomography MeSHX-RayComputed MeSHTuberculosis MeSHPulmonar

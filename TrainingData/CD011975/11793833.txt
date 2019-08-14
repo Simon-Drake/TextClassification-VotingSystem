@@ -1,0 +1,3 @@
+[Health Council of Netherlands recommendation 'Serum screening for risk assessment of Down syndrome for all women poorly supported].
+?
+['Adult', 'Age Factors', 'Down Syndrome/epidemiology/*prevention & control', 'Female', 'Humans', 'Incidence', 'Mass Screening/contraindications/*standards', 'Netherlands/epidemiology', 'Neural Tube Defects/epidemiology/*prevention & control', 'Practice Guidelines as Topic', 'Pregnancy', 'Prenatal Diagnosis/standards', 'Risk Assessment', 'Sensitivity and Specificity', 'Socioeconomic Factors']

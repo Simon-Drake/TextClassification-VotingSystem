@@ -1,0 +1,3 @@
+Carbon-11-L-methionine uptake with PET as a predictor of prognosis for bronchogenic carcinoma patients.
+?
+['Carbon Radioisotopes', 'Carcinoma, Bronchogenic/diagnostic imaging/*metabolism', 'Humans', 'Lung Neoplasms/diagnostic imaging/*metabolism', 'Methionine/*pharmacokinetics', 'Prognosis', 'Radionuclide Imaging']

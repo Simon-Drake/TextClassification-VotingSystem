@@ -1,0 +1,3 @@
+Elective nodal irradiation for locally advanced non-small-cell lung cancer: it's called cancer for a reason.
+?
+['Carcinoma, Non-Small-Cell Lung/diagnostic imaging/*radiotherapy/*secondary', 'Humans', 'Lung Neoplasms/diagnostic imaging/pathology/*radiotherapy', 'Lymphatic Irradiation/*utilization', 'Lymphatic Metastasis/diagnostic imaging/pathology/*radiotherapy', 'Positron-Emission Tomography', 'Sensitivity and Specificity']

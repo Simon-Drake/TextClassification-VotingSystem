@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHDiffusion MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHMagneticResonanceImaging MeSHMale MeSHMiddleAged MeSHPositron-EmissionTomography MeSHSplenicNeoplasm MeSHTomography MeSHX-RayComputed

@@ -1,0 +1,1 @@
+MeSHBoneNeoplasm MeSHBreastNeoplasm MeSHFatalOutcome MeSHFemale MeSHHumans MeSHKidneyNeoplasm MeSHLeiomyosarcom MeSHLiverNeoplasm MeSHLungNeoplasm MeSHMiddleAged MeSHMultimodalImaging MeSHNeoplasms MeSHUnknownPrimar MeSHPositron-EmissionTomography MeSHTomography MeSHX-RayComputed MeSHWatchfulWaiting

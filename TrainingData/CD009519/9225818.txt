@@ -1,0 +1,3 @@
+Effectively using evidence for decision analysis.
+?
+['Carcinoma, Non-Small-Cell Lung/*diagnostic imaging/economics', '*Decision Support Techniques', 'Humans', 'Lung Neoplasms/*diagnostic imaging/economics', 'Tomography, Emission-Computed/economics']

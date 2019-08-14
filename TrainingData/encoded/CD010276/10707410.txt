@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHBreastNeoplasm MeSHCellNucleu MeSHCheek MeSHCytologicalTechnique MeSHEpithelialCell MeSHFemale MeSHFibroadenom MeSHGoiter MeSHNodula MeSHHumans MeSHInterphase MeSHMouthMucos MeSHPrecancerousCondition MeSHThyroidNeoplasm MeSHThyroiditis MeSHAutoimmun

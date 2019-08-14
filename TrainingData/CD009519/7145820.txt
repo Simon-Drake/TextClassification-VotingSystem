@@ -1,0 +1,3 @@
+[Post-tussive tomography--a useful supplement to radiologic tracheobronchial examination].
+?
+['Aged', 'Bronchography', 'Carcinoma, Bronchogenic/*diagnostic imaging', 'Cough/*diagnostic imaging', 'Diagnosis, Differential', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', 'Tomography/*methods', 'Tracheal Neoplasms/*diagnostic imaging']

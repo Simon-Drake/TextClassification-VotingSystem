@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHNon-Small-CellLun MeSHCarcinoma MeSHSmallCel MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMethyltyrosines MeSHMiddleAged MeSHRadiopharmaceuticals MeSHReproducibilityofResults MeSHSensitivityandSpecificity MeSHTomography MeSHEmission-Compute MeSHTomography MeSHEmission-Computed MeSHSingle-Photo MeSHWhole-BodyCountin

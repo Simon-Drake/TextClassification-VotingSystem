@@ -1,0 +1,3 @@
+Twins discordant for Down's syndrome.
+?
+['Adult', 'Amniocentesis', 'Diagnosis, Differential', '*Diseases in Twins', 'Down Syndrome/*diagnosis', 'Female', 'Fetus/anatomy & histology', 'Head/anatomy & histology', 'Humans', '*Labor Presentation', 'Pregnancy', 'Prenatal Diagnosis', 'Twins, Dizygotic', 'Ultrasonics']

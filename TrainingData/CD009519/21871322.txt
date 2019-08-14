@@ -1,0 +1,3 @@
+Extension of metastatic lung cancer from cervix cancer through pulmonary vein into the left atrium.
+?
+['Adult', 'Antineoplastic Agents/therapeutic use', 'Biopsy, Fine-Needle', 'Cardiac Surgical Procedures', 'Diagnosis, Differential', 'Female', 'Follow-Up Studies', 'Heart Neoplasms/diagnosis/*secondary/surgery', 'Humans', 'Lung Neoplasms/diagnosis/*secondary/surgery', 'Magnetic Resonance Imaging, Cine', 'Neoplastic Cells, Circulating', 'Pneumonectomy', 'Positron-Emission Tomography', 'Pulmonary Veins/diagnostic imaging/*pathology', 'Tomography, X-Ray Computed', 'Uterine Cervical Neoplasms/drug therapy/*pathology']

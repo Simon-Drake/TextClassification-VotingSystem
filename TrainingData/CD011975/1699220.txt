@@ -1,0 +1,3 @@
+Elevated maternal serum alpha-fetoprotein level and sex chromosome aneuploidy.
+?
+['Adult', 'Amniocentesis', '*Aneuploidy', 'Female', 'Humans', 'Pregnancy', '*Sex Chromosome Aberrations', 'Ultrasonography', 'alpha-Fetoproteins/*analysis']

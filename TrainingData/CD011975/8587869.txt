@@ -1,0 +1,3 @@
+Full blood count and second-trimester markers of Down's syndrome.
+?
+['Biomarkers/*blood', 'Blood Cell Count', 'Chorionic Gonadotropin/blood', 'Down Syndrome/*diagnosis', 'Estriol/blood', 'Female', 'Humans', 'Pregnancy', 'Pregnancy Trimester, Second', 'alpha-Fetoproteins/metabolism']

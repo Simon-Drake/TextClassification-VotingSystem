@@ -1,0 +1,3 @@
+Sequential pathways of testing after first-trimester screening for trisomy 21.
+?
+['Adult', 'Down Syndrome/diagnosis/*genetics', 'False Negative Reactions', 'False Positive Reactions', 'Female', 'Genetic Testing/*methods', 'Humans', 'Maternal Age', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy Trimester, Second', 'Pregnancy-Associated Plasma Protein-A/*genetics', 'Prenatal Diagnosis/methods', 'Risk Assessment', 'Sensitivity and Specificity', 'Time Factors']

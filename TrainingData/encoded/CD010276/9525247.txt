@@ -1,0 +1,1 @@
+MeSHEndoscopy MeSHFluorescence MeSHHeadandNeckNeoplasm MeSHHumans MeSHLasers MeSHMouthNeoplasm MeSHOtorhinolaryngologicNeoplasm MeSHPredictiveValueofTests MeSHSensitivityandSpecificity

@@ -1,0 +1,3 @@
+Images in clinical radiology. Diagnosis of pulmonary embolism with 16-slice CT.
+?
+['Adult', '*Angiography', 'Heart Neoplasms/diagnostic imaging/secondary', 'Humans', '*Image Processing, Computer-Assisted', '*Imaging, Three-Dimensional', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Pericardial Effusion/diagnostic imaging', 'Pulmonary Embolism/*diagnostic imaging', '*Tomography, Spiral Computed']

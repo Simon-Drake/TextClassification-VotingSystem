@@ -1,0 +1,3 @@
+False positive fixation of fluorodeoxyglucose positron emission tomography after correction of a vocal cord paralysis.
+?
+['Dimethylpolysiloxanes', 'False Positive Reactions', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/surgery', 'Pneumonectomy/adverse effects', 'Positron-Emission Tomography/methods', 'Prostheses and Implants', 'Radiopharmaceuticals', 'Recurrence', 'Vocal Cord Paralysis/*diagnostic imaging/etiology/therapy']

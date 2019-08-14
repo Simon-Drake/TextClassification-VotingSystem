@@ -1,0 +1,3 @@
+Monosomy 10qter due to a balanced maternal translocation: t(10;8)(q23;p23).
+A new case of partial monosomy 10q is described. The clinical symptoms are similar to the previous cases reported, although the segment lost is larger (q23-qter). The mother was a balanced carrier of 46,XX,t(10;8)(q23;p23). Amniocentesis was carried out since the mother was again pregnant and the result was a female fetus 46,XX,t(10;8)(q23;p23).
+['Abnormalities, Multiple/genetics', '*Aneuploidy', 'Chromosome Aberrations/*genetics', 'Chromosome Disorders', 'Chromosomes, Human, 6-12 and X/*ultrastructure', 'Female', 'Heterozygote Detection', 'Humans', 'Infant', 'Intellectual Disability/genetics', 'Muscle Hypotonia/genetics', 'Translocation, Genetic']

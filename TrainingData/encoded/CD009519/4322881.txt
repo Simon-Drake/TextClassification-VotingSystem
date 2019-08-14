@@ -1,0 +1,1 @@
+MeSHAdenocarcinoma MeSHBronchiolo-Alveola MeSHAdult MeSHBiopsy MeSHBronchography MeSHDiagnosis MeSHDifferential MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMethods MeSHMiddleAged MeSHPneumoni MeSHTomography MeSHTuberculom MeSHTuberculosis MeSHPulmonar

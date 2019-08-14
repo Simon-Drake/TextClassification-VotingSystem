@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHBronchialNeoplasm MeSHBronchography MeSHHumans MeSHLungNeoplasm MeSHMassChestX-Ray MeSHPneumomediastinum MeSHDiagnostic MeSHTomography

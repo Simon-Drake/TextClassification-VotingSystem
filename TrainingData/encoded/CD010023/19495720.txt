@@ -1,0 +1,1 @@
+MeSHDiagnosis MeSHDifferential MeSHHumans MeSHMagneticResonanceImagin MeSHTomography MeSHX-RayCompute MeSHWristInjurie

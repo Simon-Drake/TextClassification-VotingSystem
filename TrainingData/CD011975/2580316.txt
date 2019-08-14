@@ -1,0 +1,3 @@
+Population screening: report of a workshop.
+?
+['Amino Acid Metabolism, Inborn Errors/prevention & control', 'Anemia, Sickle Cell/prevention & control', 'Congenital Abnormalities/*prevention & control', 'Congenital Hypothyroidism', 'Cost-Benefit Analysis', 'Cystic Fibrosis/prevention & control', 'Developmental Disabilities/prevention & control', 'Down Syndrome/prevention & control', 'Female', 'Galactosemias/prevention & control', 'Genetic Counseling', 'Genetic Diseases, Inborn/*prevention & control', 'Genetic Testing', 'Heterozygote Detection', 'Humans', 'Infant, Newborn', 'Male', '*Mass Screening', 'Muscular Dystrophies/prevention & control', 'Neural Tube Defects/prevention & control', 'Population Surveillance', 'Pregnancy', 'Prenatal Diagnosis', 'Risk']

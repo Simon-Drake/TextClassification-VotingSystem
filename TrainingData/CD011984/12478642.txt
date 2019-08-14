@@ -1,0 +1,3 @@
+Trisomy 7 mosaicism: prognosis after prenatal diagnosis.
+?
+['Adult', 'Amniocentesis', 'Chorionic Villi Sampling', 'Chromosome Disorders/*diagnosis', '*Chromosomes, Human, Pair 7', 'Diagnosis, Differential', 'Female', 'Humans', 'Infant, Newborn', '*Mosaicism', 'Pregnancy', '*Prenatal Diagnosis', 'Prognosis', 'Trisomy/*genetics/pathology', 'Uniparental Disomy/*diagnosis']

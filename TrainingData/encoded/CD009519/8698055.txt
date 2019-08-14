@@ -1,0 +1,1 @@
+MeSHBreastNeoplasm MeSHCarcinoma MeSHNon-Small-CellLun MeSHCase-ControlStudies MeSHDeoxyglucos MeSHFalseNegativeReactions MeSHFemale MeSHFluorineRadioisotopes MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHImageProcessing MeSHComputer-Assisted MeSHLun MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHTimeFactors MeSHTomography MeSHEmission-Computed

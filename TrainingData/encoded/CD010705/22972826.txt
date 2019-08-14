@@ -1,0 +1,1 @@
+MeSHBacteriologicalTechnique MeSHDrugResistance MeSHBacterial MeSHGenotype MeSHHumans MeSHMolecularDiagnosticTechnique MeSHMycobacteriumtuberculosi MeSHSensitivityandSpecificity MeSHTuberculosi

@@ -1,0 +1,3 @@
+Lung cancer: new opportunities--changing algorithm in staging.
+?
+['*Algorithms', 'Biopsy, Needle/methods', 'Carcinoma, Non-Small-Cell Lung/*pathology', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/diagnostic imaging/*pathology/surgery', 'Lymphatic Metastasis', 'Mediastinoscopy/methods', 'Neoplasm Staging/methods', 'Positron-Emission Tomography']

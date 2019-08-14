@@ -1,0 +1,1 @@
+MeSHAbdominalPain MeSHAdult MeSHBiopsy MeSHNeedle MeSHDiagnosis MeSHDifferential MeSHEmergencyTreatment MeSHEndometriosis MeSHFemale MeSHHumans MeSHHysterectomy MeSHMagneticResonanceImaging MeSHMuscularDiseases MeSHPalpation MeSHPeriodicity MeSHRectusAbdominis MeSHTomography MeSHX-RayComputed

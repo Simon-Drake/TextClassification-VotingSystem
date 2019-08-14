@@ -1,0 +1,3 @@
+Sounding the mediastinum.
+?
+['Biopsy, Fine-Needle/methods', 'Endosonography', 'Humans', 'Lung Neoplasms/*pathology', 'Mediastinal Neoplasms/*diagnosis/*secondary', 'Neoplasm Staging/*methods', 'Tomography, Emission-Computed', 'Tomography, X-Ray Computed']

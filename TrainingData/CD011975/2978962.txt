@@ -1,0 +1,3 @@
+[Down's syndrome: obstetrical aspects].
+?
+['Chile/epidemiology', 'Delivery, Obstetric', '*Down Syndrome/diagnostic imaging/epidemiology', 'Female', 'Humans', 'Infant, Newborn', 'Infant, Small for Gestational Age', 'Maternal Age', 'Pregnancy', 'Prenatal Diagnosis', 'Ultrasonography']

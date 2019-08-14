@@ -1,0 +1,3 @@
+Requirements for clinical PET: the situation in Switzerland.
+?
+['Cost-Benefit Analysis/*methods', '*Decision Support Techniques', 'Europe/epidemiology', 'Humans', 'Lung Neoplasms/*diagnostic imaging/*economics/epidemiology', '*Models, Economic', 'Positron-Emission Tomography/*economics/methods/*utilization', 'Reproducibility of Results', 'Sensitivity and Specificity', 'Switzerland/epidemiology', 'United Kingdom/epidemiology']

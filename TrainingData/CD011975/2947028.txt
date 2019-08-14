@@ -1,0 +1,3 @@
+[Diagnosis of trisomy-21 associated with spina bifida and cheilo-gnatho-palato-schisis during the first trimester of pregnancy].
+?
+['Abnormalities, Multiple/*diagnosis', 'Adult', 'Cleft Lip/complications/diagnosis', 'Cleft Palate/complications/diagnosis', 'Down Syndrome/complications/*diagnosis', 'Female', 'Humans', 'Karyotyping', 'Pregnancy', 'Pregnancy Trimester, First', 'Prenatal Diagnosis', 'Spina Bifida Occulta/complications/diagnosis']

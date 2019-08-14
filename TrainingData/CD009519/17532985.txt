@@ -1,0 +1,3 @@
+Primary Ewing sarcoma invading the heart: resection and reconstruction.
+?
+['Adolescent', 'Combined Modality Therapy', 'Diagnosis, Differential', 'Heart Neoplasms/diagnosis/*therapy', 'Humans', 'Lung Neoplasms/diagnosis/*therapy', 'Magnetic Resonance Imaging', 'Male', 'Neoplasm Invasiveness', 'Pneumonectomy', 'Reconstructive Surgical Procedures', 'Respiratory Function Tests', 'Sarcoma, Ewing/diagnosis/pathology/*therapy', 'Tomography, Emission-Computed', 'Tomography, X-Ray Computed', 'Vena Cava, Superior/surgery']

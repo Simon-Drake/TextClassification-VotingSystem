@@ -1,0 +1,3 @@
+[Q & A. A case showing notable accumulation of FDG in the stomach in PET following surgery of lung cancer].
+?
+['Aged', 'Female', '*Fluorodeoxyglucose F18', 'Helicobacter Infections/*diagnostic imaging', '*Helicobacter pylori', 'Humans', 'Lung Neoplasms/surgery', '*Positron-Emission Tomography', 'Postoperative Complications', '*Radiopharmaceuticals', 'Stomach Diseases/*diagnostic imaging']

@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHNon-Small-CellLun MeSHCellDivision MeSHDeoxyglucos MeSHHumans MeSHLungNeoplasm MeSHMethionin MeSHThymidin MeSHTimeFactors MeSHTomography MeSHEmission-Compute MeSHTritiu MeSHTumorCells MeSHCultured

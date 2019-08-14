@@ -1,0 +1,3 @@
+[Medical universal human counter (MUHC) and a new scanning method].
+?
+['Aged', 'Bronchial Neoplasms/diagnostic imaging', 'Female', 'Humans', 'Lung Neoplasms/diagnostic imaging', 'Male', 'Middle Aged', 'Radiography', '*Radionuclide Imaging', 'Tomography']

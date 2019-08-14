@@ -1,0 +1,3 @@
+[Tl-201/Ga-67 uptake ratio in lung tumors--comparison between planar and SPECT methods].
+?
+['Adenocarcinoma/diagnostic imaging', 'Aged', 'Aged, 80 and over', 'Carcinoma, Small Cell/diagnostic imaging', 'Carcinoma, Squamous Cell/diagnostic imaging', '*Citrates/pharmacokinetics', 'Citric Acid', 'Humans', 'Lung/*diagnostic imaging/metabolism', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', '*Thallium/pharmacokinetics', '*Tomography, Emission-Computed, Single-Photon']

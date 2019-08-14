@@ -1,0 +1,1 @@
+MeSHBiops MeSHCarcinoma MeSHBasalCel MeSHFemale MeSHHumans MeSHImageInterpretation MeSHComputer-Assiste MeSHLeukoplakia MeSHOra MeSHMale MeSHMicroscopy MeSHFluorescenc MeSHReproducibilityofResults MeSHSensitivityandSpecificity MeSHSkinNeoplasm MeSHSpectrometry MeSHFluorescenc

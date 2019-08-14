@@ -1,0 +1,3 @@
+A normal 20-week scan of a euploid fetus with a history of first-trimester increased nuchal translucency: caution or reassurance?
+?
+['*Aneuploidy', 'Chromosome Disorders/diagnosis/*diagnostic imaging', 'Diagnosis, Differential', 'Female', 'Fetal Diseases/diagnosis/*diagnostic imaging', 'Humans', 'Neck/*diagnostic imaging', 'Nuchal Translucency Measurement/*methods', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy, High-Risk', 'Risk Factors', 'Sensitivity and Specificity']

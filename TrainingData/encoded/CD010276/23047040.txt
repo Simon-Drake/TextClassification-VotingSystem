@@ -1,0 +1,1 @@
+MeSHAminoAcid MeSHBiomarkers MeSHTumo MeSHCarcinoma MeSHSquamousCel MeSHCase-ControlStudies MeSHChromatography MeSHHighPressureLiquid MeSHFemale MeSHHumans MeSHMale MeSHMouthNeoplasm MeSHSaliv MeSHStatistics MeSHNonparametric

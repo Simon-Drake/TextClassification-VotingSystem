@@ -1,0 +1,3 @@
+[Positron emission tomography (PET) with 18F-fluorodeoxyglucose (18F-FDG) in ORL and pulmonary oncology].
+?
+['*Fluorodeoxyglucose F18', 'Glucose/metabolism', 'Humans', 'Lung Neoplasms/*diagnostic imaging/pathology/secondary', 'Lymph Nodes/diagnostic imaging', 'Neoplasm Recurrence, Local/diagnostic imaging', 'Neoplasm Staging', 'Neoplasms, Unknown Primary/diagnostic imaging', 'Otorhinolaryngologic Neoplasms/*diagnostic imaging/pathology/secondary', 'Prognosis', '*Radiopharmaceuticals', 'Sensitivity and Specificity', 'Tomography, Emission-Computed']

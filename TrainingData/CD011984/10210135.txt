@@ -1,0 +1,3 @@
+Regression curves for maternal serum inhibin A.
+?
+['Down Syndrome/blood/*diagnosis', 'Female', 'Humans', 'Inhibins/*blood', 'Mass Screening/*methods', 'Pregnancy', '*Prenatal Diagnosis', 'Regression Analysis']

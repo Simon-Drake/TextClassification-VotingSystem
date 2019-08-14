@@ -1,0 +1,3 @@
+Technetium-99m-tetrofosmin SPECT imaging of lung lesions: a not-so-negative study.
+?
+['Humans', 'Lung Diseases/diagnostic imaging', 'Lung Neoplasms/*diagnostic imaging', '*Organophosphorus Compounds', '*Organotechnetium Compounds', '*Radiopharmaceuticals', 'Sensitivity and Specificity', '*Tomography, Emission-Computed, Single-Photon']

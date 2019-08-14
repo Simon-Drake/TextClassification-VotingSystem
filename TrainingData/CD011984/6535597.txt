@@ -1,0 +1,3 @@
+Counseling dilemmas in the prenatal diagnosis of 45,XO/46,XX mosaicism.
+?
+['Adult', 'Amniotic Fluid/cytology', 'Female', '*Genetic Counseling', 'Humans', 'Karyotyping', 'Lymphocytes/ultrastructure', 'Maternal Age', '*Mosaicism', 'Pregnancy', 'Pregnancy, High-Risk', '*Prenatal Diagnosis', 'Turner Syndrome/*genetics']

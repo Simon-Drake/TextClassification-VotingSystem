@@ -1,0 +1,3 @@
+An aggressive radio-resistant papillary thyroid cancer.
+?
+['Adrenal Gland Neoplasms/diagnostic imaging/secondary', 'Aged', 'Bone Neoplasms/diagnostic imaging/secondary', 'Carcinoma, Papillary/*radiotherapy/secondary/surgery', 'Female', 'Humans', 'Iodine Radioisotopes/*therapeutic use', 'Lung Neoplasms/diagnostic imaging/secondary', 'Positron-Emission Tomography', '*Radiation Tolerance', 'Thyroid Neoplasms/pathology/*radiotherapy/surgery', 'Thyroidectomy', 'Tomography, X-Ray Computed']

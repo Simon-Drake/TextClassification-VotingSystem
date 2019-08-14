@@ -1,0 +1,1 @@
+MeSHBrainNeoplasms MeSHBreastNeoplasms MeSHCarcinoma MeSHDiabetesInsipidus MeSHDiagnosis MeSHOral MeSHEyeDiseases MeSHHumans MeSHLungNeoplasms MeSHNeoplasmMetastasis MeSHPathology MeSHPituitaryNeoplasms MeSHStomachNeoplasms MeSHTomography MeSHTomography MeSHX-RayComputed

@@ -1,0 +1,3 @@
+Somatic mutation theory.
+The evidence is reviewed that supports the role of genetic lesions in carcinogenesis; such lesions may be initiating events in the multistep process leading to clinically detectable tumor. Other possible manifestations of alterations in the hereditary material of somatic cells are discussed; DNA damage may lead to benign tumors responsible for atherosclerosis, to neurological deterioration, and to senescence of the individual. During embryonal development, transplacental mutagens may cause somatic mosaicism in the fetus, which may manifest as congenital malformations, spontaneous abortions, and childhood cancers.
+['Aging', 'DNA Repair', 'Embryo, Mammalian/physiology', 'Female', 'Humans', '*Mutation', 'Neoplasms/*genetics', 'Pregnancy']

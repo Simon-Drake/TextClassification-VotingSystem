@@ -1,0 +1,3 @@
+Computerized axial tomography in the diagnosis of cerebral metastases.
+?
+['Adolescent', 'Adult', 'Aged', 'Brain Neoplasms/*diagnosis/secondary', 'Child', 'Child, Preschool', 'Female', 'Humans', 'Image Enhancement', 'Infant', 'Lung Neoplasms', 'Male', 'Middle Aged', 'Tomography, Emission-Computed']

@@ -1,0 +1,3 @@
+AN ANALYSIS OF 155 SOLITARY LUNG LESIONS ILLUSTRATING THE DIFFERENTIAL DIAGNOSIS OF MIXED TUMOURS OF THE LUNG.
+?
+['*Carcinoma, Bronchogenic', '*Diagnosis, Differential', '*Geriatrics', 'Humans', '*Lung Neoplasms', '*Neoplasm Metastasis', '*Neoplasms', '*Neoplasms, Germ Cell and Embryonal', '*Pathology', '*Solitary Pulmonary Nodule', '*Tomography', '*Tomography, X-Ray Computed', '*Tuberculosis', '*Tuberculosis, Pulmonary']

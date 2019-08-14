@@ -1,0 +1,3 @@
+Bronchial atresia on FDG PET/CT: imaging characteristics of a rare pulmonary pseudonodule.
+?
+['Bronchi/*abnormalities/*diagnostic imaging', 'Bronchography/*methods', 'Diagnosis, Differential', 'Female', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/diagnosis', 'Middle Aged', 'Positron-Emission Tomography/*methods', 'Pulmonary Atresia/*diagnosis', 'Radiopharmaceuticals', 'Tomography, X-Ray Computed/methods']

@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHFine-Needle MeSHCarcinoma MeSHRenalCel MeSHContrastMedia MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHKidneyNeoplasm MeSHLun MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHMultimodalImaging MeSHPositron-EmissionTomography MeSHTomography MeSHX-RayComputed

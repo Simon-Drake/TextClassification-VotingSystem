@@ -1,0 +1,3 @@
+Invited commentary.
+?
+['Carcinoma, Non-Small-Cell Lung/*diagnostic imaging/therapy', 'Combined Modality Therapy', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/therapy', '*Positron-Emission Tomography']

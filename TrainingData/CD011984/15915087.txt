@@ -1,0 +1,3 @@
+Technical standards and guidelines: prenatal screening for Down syndrome.
+?
+['Biomarkers/*blood', 'Down Syndrome/*genetics', 'Female', 'Genetic Testing/*methods/*standards', 'Humans', 'Patient Education as Topic/standards', 'Pregnancy', 'Pregnancy Trimester, Second/blood', 'Reproducibility of Results', 'Research Design/*standards', 'Specimen Handling/standards']

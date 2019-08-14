@@ -1,0 +1,3 @@
+Inhibin A and non-Down syndrome aneuploidy.
+?
+['*Aneuploidy', 'Biomarkers', 'Female', 'Humans', 'Inhibins/*blood', 'Predictive Value of Tests', 'Pregnancy', '*Prenatal Diagnosis', 'Trisomy', 'Turner Syndrome/diagnosis']

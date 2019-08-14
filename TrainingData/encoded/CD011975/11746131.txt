@@ -1,0 +1,1 @@
+MeSHAneuploidy MeSHCellNucleus MeSHChorionicVilliSampling MeSHChromosomes MeSHHuman MeSHPair18 MeSHErythrocytes MeSHFemale MeSHFetalBlood MeSHGestationalAge MeSHHemoglobinE MeSHHumans MeSHInSituHybridization MeSHFluorescence MeSHMonosomy MeSHPregnancy MeSHTrisomy MeSHXChromosome MeSHYChromosome

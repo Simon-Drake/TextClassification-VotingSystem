@@ -1,0 +1,1 @@
+MeSHAtrophy MeSHBiopsy MeSHCD4LymphocyteCount MeSHCD4-CD8Ratio MeSHChromate MeSHDermatitis MeSHAllergicContac MeSHEosinophil MeSHHumans MeSHHypertrophy MeSHLichenPlanu MeSHLichenPlanus MeSHOra MeSHMale MeSHMiddleAged MeSHMouthMucos MeSHNails MeSHMalforme MeSHPigmentationDisorder MeSHPruritus MeSHTi

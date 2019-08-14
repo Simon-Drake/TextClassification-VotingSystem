@@ -1,0 +1,3 @@
+[Is an elevated hCG a good marker of the risk of trisomy 21?].
+?
+['Adult', 'Amniocentesis/standards', '*Biomarkers', 'Chorionic Gonadotropin/*blood', 'Down Syndrome/*blood/diagnosis/epidemiology', 'Ethnic Groups', 'Evaluation Studies as Topic', 'Female', 'Humans', 'Maternal Age', 'Pregnancy/*blood', 'Prenatal Diagnosis/*standards']

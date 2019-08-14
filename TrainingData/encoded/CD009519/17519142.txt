@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHBronchogeni MeSHDiagnosis MeSHDifferential MeSHFalsePositiveReactions MeSHForeignBodie MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPositron-EmissionTomography MeSHSurgicalSponges MeSHThorax

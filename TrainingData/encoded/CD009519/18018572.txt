@@ -1,0 +1,1 @@
+MeSHBiomarkers MeSHTumo MeSHBoneNeoplasm MeSHFollow-UpStudies MeSHHumans MeSHLungNeoplasm MeSHLymphaticMetastasis MeSHPositron-EmissionTomography MeSHPredictiveValueofTests MeSHThyroglobuli MeSHThyroidNeoplasm MeSHThyroidectomy MeSHWholeBodyImaging

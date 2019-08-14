@@ -1,0 +1,3 @@
+Two incorrect FDG positron emission tomographic interpretations of a pulmonary mass and mediastinal lymphadenopathy.
+?
+['Adenocarcinoma/*diagnostic imaging', '*Diagnostic Errors', 'Female', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Mediastinal Diseases/*diagnostic imaging', 'Middle Aged', '*Radiopharmaceuticals', '*Tomography, Emission-Computed']

@@ -1,0 +1,3 @@
+Fluoro-deoxy glucose-avid endobronchial inflammatory myofibroblastic tumor mimicking bronchial malignancy: report of a case.
+?
+['Bronchial Diseases/*diagnosis/diagnostic imaging/pathology/surgery', 'Bronchial Neoplasms/*diagnosis', 'Diagnosis, Differential', 'Female', 'Fluorodeoxyglucose F18', 'Granuloma, Plasma Cell/*diagnosis/diagnostic imaging/pathology/surgery', 'Humans', 'Lung Neoplasms/diagnosis/surgery', 'Middle Aged', 'Multimodal Imaging', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed']

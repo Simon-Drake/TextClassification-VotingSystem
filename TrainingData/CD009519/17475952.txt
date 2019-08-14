@@ -1,0 +1,3 @@
+PET/CT attenuation correction: breathing lessons.
+?
+['*Artifacts', 'Clinical Trials as Topic', 'Heart Neoplasms/*diagnosis', 'Humans', 'Image Enhancement/*methods', 'Image Interpretation, Computer-Assisted/*methods', 'Lung Neoplasms/*diagnosis', 'Movement', 'Positron-Emission Tomography/*methods', '*Respiratory Mechanics', 'Subtraction Technique']

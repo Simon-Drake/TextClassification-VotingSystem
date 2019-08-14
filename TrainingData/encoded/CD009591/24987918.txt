@@ -1,0 +1,1 @@
+MeSHAdenocarcinoma MeSHClearCell MeSHAdult MeSHAged MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHMiddleAged MeSHMultimodalImaging MeSHOvarianNeoplasms MeSHPositron-EmissionTomography MeSHPrognosis MeSHReferenceValues MeSHRetrospectiveStudies MeSHTomography MeSHX-RayComputed

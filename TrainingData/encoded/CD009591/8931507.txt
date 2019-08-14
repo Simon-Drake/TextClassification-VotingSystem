@@ -1,0 +1,1 @@
+MeSHAdult MeSHBiopsy MeSHCase-ControlStudies MeSHEndometriosis MeSHEndometrium MeSHFemale MeSHHumans MeSHHyperprolactinemia MeSHIncidence MeSHInfertility MeSHFemale MeSHLaparoscopy MeSHLeiomyoma MeSHLutealPhase MeSHMale MeSHProgesterone MeSHSpermCount MeSHSpermMotility MeSHSpermatozoa MeSHUterineNeoplasms

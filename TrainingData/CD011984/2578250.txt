@@ -1,0 +1,3 @@
+Genetic counseling for low maternal serum alpha-fetoprotein.
+?
+['Adult', 'Down Syndrome/*diagnosis', 'Female', '*Genetic Counseling', 'Humans', 'Maternal Age', 'Pregnancy', 'Pregnancy, High-Risk', 'Prenatal Diagnosis', '*alpha-Fetoproteins']

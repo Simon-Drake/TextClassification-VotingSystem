@@ -1,0 +1,3 @@
+Are symptoms reliable as an indication for the necessity of bone scans in lung cancer metastases?
+?
+['Bone Neoplasms/*diagnostic imaging/*secondary', 'Clinical Trials as Topic', 'Humans', 'Lung Neoplasms/*pathology', 'Prognosis', 'Sensitivity and Specificity', 'Tomography, Emission-Computed']

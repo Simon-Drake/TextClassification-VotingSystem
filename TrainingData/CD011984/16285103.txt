@@ -1,0 +1,3 @@
+Kassama v. Magat.
+?
+['Down Syndrome/diagnosis', 'Female', 'Humans', 'Informed Consent/legislation & jurisprudence', 'Malpractice/*legislation & jurisprudence', 'Maryland', 'Physicians/*legislation & jurisprudence', 'Pregnancy', 'Pregnant Women', '*Prenatal Diagnosis', '*Wrongful Life', 'alpha-Fetoproteins']

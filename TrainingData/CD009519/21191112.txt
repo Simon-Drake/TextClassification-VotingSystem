@@ -1,0 +1,3 @@
+Lung cancer screening: ready for prime time?
+?
+['Cost-Benefit Analysis', 'Early Detection of Cancer', 'Humans', 'Lung Neoplasms/*diagnostic imaging/economics/etiology/*prevention & control', 'Mass Chest X-Ray', 'Mass Screening/*methods', 'Randomized Controlled Trials as Topic', 'Risk Factors', 'Smoking/*adverse effects', '*Tomography, Spiral Computed/economics', 'United States']

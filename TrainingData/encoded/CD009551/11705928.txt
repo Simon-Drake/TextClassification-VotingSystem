@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHBaseSequence MeSHChitinSynthas MeSHCloning MeSHMolecular MeSHEnzymeActivation MeSHExophial MeSHFungalProtein MeSHGeneExpression MeSHMolecularSequenceData MeSHMutation MeSHMycose MeSHTemperature

@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSquamousCel MeSHCytodiagnosis MeSHEarlyDiagnosis MeSHErythroplasi MeSHFemale MeSHHumans MeSHLeukoplakia MeSHOra MeSHMale MeSHMiddleAged MeSHMouthNeoplasm MeSHPrecancerousCondition MeSHStatistics MeSHNonparametric MeSHSurveysandQuestionnaires

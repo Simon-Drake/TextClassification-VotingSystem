@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHDiagnosis MeSHDifferential MeSHDyspne MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHMultiplePulmonaryNodule MeSHPositron-EmissionTomography MeSHSarcoma MeSHAlveolarSoftPar MeSHTomography MeSHX-RayComputed MeSHYoungAdult

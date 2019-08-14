@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSquamousCel MeSHCellNucleus MeSHClinicalTrialsasTopic MeSHCytodiagnosis MeSHHumans MeSHMouthMucos MeSHMouthNeoplasm MeSHPrognosis MeSHRadiationEffects MeSHTimeFactors

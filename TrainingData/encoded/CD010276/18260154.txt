@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSquamousCel MeSHCase-ControlStudies MeSHDiseaseProgression MeSHFluorescence MeSHHumans MeSHHyperplasi MeSHLasers MeSHMouthNeoplasm MeSHPrognosis MeSHReferenceStandards MeSHSensitivityandSpecificity MeSHSpectrometry MeSHFluorescence

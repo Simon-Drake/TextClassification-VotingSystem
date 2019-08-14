@@ -1,0 +1,3 @@
+Double aneuploidy of trisomy 18 and Klinefelter syndrome: prenatal diagnosis and perinatal outcome.
+?
+['Abnormalities, Multiple/diagnosis/diagnostic imaging/*genetics', '*Aneuploidy', '*Chromosomes, Human, Pair 18', 'Female', 'Humans', 'Infant, Newborn', 'Karyotyping', 'Klinefelter Syndrome/diagnosis/diagnostic imaging/*genetics', 'Male', 'Pregnancy', 'Prenatal Diagnosis', '*Trisomy', 'Ultrasonography']

@@ -1,0 +1,3 @@
+Selective birth in twin pregnancy with discordancy for Down's syndrome.
+?
+['Abortion, Induced/*methods', 'Amniocentesis', '*Diseases in Twins', '*Down Syndrome', 'Female', 'Fetal Death', 'Genetic Counseling', 'Humans', 'Infant, Newborn', 'Male', 'Pregnancy', 'Ultrasonography']

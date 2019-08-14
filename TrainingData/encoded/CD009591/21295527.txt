@@ -1,0 +1,1 @@
+MeSHAdnexalDiseases MeSHAdult MeSHCohortStudies MeSHFemale MeSHGynecologicSurgicalProcedures MeSHHumans MeSHLaparoscopy MeSHLaparotomy MeSHOvary MeSHPelvicPain MeSHRetrospectiveStudies MeSHTreatmentOutcome MeSHUltrasonography

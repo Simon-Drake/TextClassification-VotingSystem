@@ -1,0 +1,1 @@
+MeSH6-Phytas MeSHAminoAcidSequence MeSHAspergillusnige MeSHBaseSequence MeSHCloning MeSHMolecular MeSHDNAPrimers MeSHDNA MeSHFunga MeSHGenes MeSHFungal MeSHMolecularSequenceData MeSHSequenceAnalysis MeSHDNA MeSHSequenceHomology

@@ -1,0 +1,1 @@
+MeSHBiomarkers MeSHTumo MeSHDiagnosis MeSHComputer-Assiste MeSHHumans MeSHMouthNeoplasm MeSHNeoplasmProtein MeSHOxyhemoglobin MeSHPhotometr MeSHReproducibilityofResults MeSHSensitivityandSpecificity MeSHSpectrumAnalysi

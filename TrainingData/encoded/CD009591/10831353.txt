@@ -1,0 +1,1 @@
+MeSHApoptosis MeSHCarcinoma MeSHAdenosquamous MeSHCellTransformation MeSHNeoplastic MeSHEndometrialNeoplasms MeSHFemale MeSHGeneExpressionRegulation MeSHNeoplastic MeSHGenes MeSHbcl-2 MeSHHumans MeSHPhenotype MeSHProto-OncogeneProteinsc-bcl-2 MeSHTransfection MeSHTumorCells MeSHCultured MeSHbcl-XProtein

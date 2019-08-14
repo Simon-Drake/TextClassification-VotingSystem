@@ -1,0 +1,3 @@
+Decision analysis and screening for Down's syndrome. Estimate of uptake of amniocentesis is overoptimistic.
+?
+['Adult', 'Amniocentesis/utilization', '*Decision Support Techniques', 'Down Syndrome/*prevention & control', 'Female', 'Humans', 'Male', 'Patient Acceptance of Health Care', 'Pregnancy', '*Prenatal Diagnosis']

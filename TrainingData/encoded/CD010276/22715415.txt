@@ -1,0 +1,1 @@
+MeSHAlleles MeSHAnimals MeSHCattle MeSHCattleDisease MeSHCodon MeSHTerminato MeSHCollagenTypeVI MeSHEpidermolysisBullosaDystrophic MeSHExon MeSHFemale MeSHHumans MeSHMale MeSHMutation MeSHPolymorphism MeSHSingleNucleotide

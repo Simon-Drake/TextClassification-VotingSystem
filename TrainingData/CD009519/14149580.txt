@@ -1,0 +1,3 @@
+[PULMONARY LEIOMYOMA (2 CASES)].
+?
+['*Bronchography', '*Leiomyoma', '*Lung Neoplasms', 'Neoplasms/*diagnosis', '*Pathology', '*Pneumonectomy', '*Radiography, Thoracic', '*Tomography']

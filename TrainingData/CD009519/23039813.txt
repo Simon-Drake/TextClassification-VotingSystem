@@ -1,0 +1,3 @@
+Colonic metastases from non-small cell lung cancer.
+?
+['Aged', 'Carcinoma, Non-Small-Cell Lung/pathology/*secondary/surgery', 'Colonic Neoplasms/pathology/*secondary/surgery', 'Fatal Outcome', 'Female', 'Humans', 'Lung Neoplasms/*pathology', 'Positron-Emission Tomography', 'Smoking/adverse effects', 'Tomography, X-Ray Computed']

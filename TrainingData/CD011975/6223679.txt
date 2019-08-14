@@ -1,0 +1,3 @@
+A current appraisal of Down's syndrome.
+?
+['Africa', '*Down Syndrome/diagnosis/epidemiology/genetics', 'Europe', 'Female', 'Humans', 'Japan', 'Male', 'Pregnancy', 'Prenatal Diagnosis', 'Prognosis', 'United States']

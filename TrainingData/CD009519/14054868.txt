@@ -1,0 +1,3 @@
+[CONTRIBUTION TO THE CLINICAL PICTURE OF SO-CALLED CHRONIC SECONDARY PNEUMONIA].
+?
+['*Bronchial Diseases', '*Bronchial Neoplasms', '*Bronchography', '*Calcification, Physiologic', '*Diagnosis, Differential', '*Drug Therapy', 'Humans', '*Lung Neoplasms', '*Lymph Nodes', '*Pneumonia', '*Surgical Procedures, Operative', '*Tomography']

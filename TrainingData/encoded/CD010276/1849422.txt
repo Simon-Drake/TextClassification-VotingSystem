@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHDurapatite MeSHHumans MeSHHydroxyapatites MeSHMolecularSequenceData MeSHParotidGlan MeSHPeptide MeSHPhosphoprotein MeSHProline-RichProteinDomains MeSHSaliv MeSHSalivaryProteinsandPeptide MeSHSequenceHomology MeSHNucleicAcid

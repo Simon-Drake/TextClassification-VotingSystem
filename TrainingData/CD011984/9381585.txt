@@ -1,0 +1,3 @@
+[Maternal serum screening for Down syndrome].
+?
+['Denmark', 'Down Syndrome/blood/*prevention & control', 'Female', 'Guidelines as Topic', 'Humans', 'Mass Screening', 'Pregnancy', '*Prenatal Diagnosis/methods']

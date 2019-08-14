@@ -1,0 +1,3 @@
+The effect of estimating gestational age by ultrasound cephalometry on the sensitivity of alpha-fetoprotein screening for Down's syndrome.
+?
+['Cephalometry', 'Down Syndrome/*diagnosis', 'Female', '*Gestational Age', 'Humans', 'Pregnancy', '*Prenatal Diagnosis', '*Ultrasonography', 'alpha-Fetoproteins/*analysis']

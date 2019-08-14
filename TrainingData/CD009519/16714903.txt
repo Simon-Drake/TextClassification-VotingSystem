@@ -1,0 +1,3 @@
+Single F-18 fluorodeoxyglucose positron emission tomography hypermetabolic focus containing metastatic papillary thyroid cancer within a primary scarring adenocarcinoma lung cancer.
+?
+['Adenocarcinoma/complications/*metabolism', 'Adenocarcinoma, Papillary/*diagnostic imaging/*secondary', 'Cicatrix/diagnostic imaging/etiology', 'Female', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/complications/*diagnostic imaging', 'Middle Aged', 'Radiopharmaceuticals', 'Thyroid Neoplasms/*diagnostic imaging/*secondary', 'Tomography, Emission-Computed, Single-Photon/methods']

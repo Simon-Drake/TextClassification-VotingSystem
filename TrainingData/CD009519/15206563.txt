@@ -1,0 +1,3 @@
+Metastatic tumor in the right atrium.
+?
+['Adenocarcinoma/pathology/*secondary/surgery', 'Biomarkers, Tumor/analysis', 'Carcinoembryonic Antigen/analysis', 'Diagnostic Imaging/methods', 'Female', 'Follow-Up Studies', 'Heart Atria/*pathology/radiation effects', 'Heart Neoplasms/*diagnosis/radiotherapy/*secondary', 'Humans', 'Lung Neoplasms/*pathology/surgery', 'Magnetic Resonance Imaging/*methods', 'Middle Aged', 'Pneumonectomy', 'Sensitivity and Specificity', 'Tomography, Emission-Computed/methods', 'Treatment Outcome']

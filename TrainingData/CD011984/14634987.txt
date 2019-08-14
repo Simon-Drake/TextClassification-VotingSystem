@@ -1,0 +1,3 @@
+Counseling patients with trisomy 17 mosaicism found at genetic amniocentesis.
+?
+['Adult', '*Amniocentesis', 'Cells, Cultured', 'Chimera/genetics', '*Chromosomes, Human, Pair 17', 'Female', '*Genetic Counseling', 'Humans', 'Infant, Newborn', 'Mosaicism/*diagnosis/genetics', 'Pregnancy', 'Pregnancy Outcome', 'Trisomy/*genetics']

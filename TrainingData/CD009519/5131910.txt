@@ -1,0 +1,3 @@
+[Pulmonary neoplasms with clinically atypical evolution].
+?
+['Bronchography', 'Carcinoma/diagnostic imaging/*pathology', 'Humans', 'Lung Neoplasms/diagnostic imaging/*pathology', 'Male', 'Middle Aged', 'Neoplasm Metastasis', 'Radiography, Thoracic', 'Tomography']

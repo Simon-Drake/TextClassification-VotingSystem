@@ -1,0 +1,3 @@
+[A case of trisomy 19 pseudomosaicism--originated an extra fetal organ].
+?
+['Adult', 'Amniocentesis', '*Chromosomes, Human, Pair 19', 'Female', 'Fetal Blood', 'Humans', 'Infant, Newborn', 'Karyotyping', 'Male', 'Mosaicism/*diagnosis', '*Prenatal Diagnosis', 'Trisomy/*diagnosis']

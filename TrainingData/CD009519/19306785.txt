@@ -1,0 +1,3 @@
+[Contribution of PET/CT for staging and prognosis of non-small cell lung carcinoma. Assessment of the pathological response].
+?
+['Carcinoma, Non-Small-Cell Lung/*pathology/therapy', 'Humans', 'Lung Neoplasms/*pathology/therapy', 'Neoplasm Staging', '*Positron-Emission Tomography', 'Prognosis', '*Tomography, X-Ray Computed']

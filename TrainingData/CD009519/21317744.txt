@@ -1,0 +1,3 @@
+T4 or MI?
+?
+['Aged', 'Carcinoma, Squamous Cell/diagnostic imaging/*secondary', 'Humans', 'Liver Neoplasms/diagnostic imaging/*secondary', 'Lung Neoplasms/diagnostic imaging/*pathology', 'Male', 'Neoplasm Staging', 'Positron-Emission Tomography', 'Treatment Outcome']

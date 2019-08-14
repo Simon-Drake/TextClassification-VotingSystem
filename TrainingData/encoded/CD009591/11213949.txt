@@ -1,0 +1,1 @@
+MeSHAbdominalPain MeSHAcuteDisease MeSHAdult MeSHAppendectomy MeSHAppendicitis MeSHChronicDisease MeSHDiagnosis MeSHDifferential MeSHEndometriosis MeSHFemale MeSHHumans MeSHLaparoscopy MeSHPelvicPain MeSHTomography MeSHX-RayComputed MeSHUltrasonography MeSHVagina

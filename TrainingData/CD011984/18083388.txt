@@ -1,0 +1,3 @@
+Preimplantation aneuploidy screening: a research tool for now.
+?
+['Adult', '*Aneuploidy', 'Female', 'Fertilization in Vitro', 'Humans', 'Mosaicism', 'Pregnancy', 'Preimplantation Diagnosis/*methods']

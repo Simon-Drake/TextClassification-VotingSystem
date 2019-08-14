@@ -1,0 +1,3 @@
+Georgia Supreme Court strikes down "wrongful birth" action.
+?
+['Adult', 'Amniocentesis', 'Animals', 'Chick Embryo', 'Down Syndrome/*diagnosis', 'Female', 'Georgia', 'Humans', 'Infant, Newborn', 'Pregnancy', '*Wrongful Life']

@@ -1,0 +1,1 @@
+MeSHCellNucleu MeSHCytodiagnosis MeSHCytoplas MeSHFoamCell MeSHHistiocyte MeSHHumans MeSHKlebsiell MeSHKlebsiellapneumonia MeSHLaryngealDisease MeSHLaryn MeSHMacrophage MeSHMale MeSHPalat MeSHPlasmaCell MeSHRhinosclerom MeSHVocalCord

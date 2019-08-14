@@ -1,0 +1,1 @@
+MeSHAbdominalPain MeSHAdolescent MeSHBiomarkers MeSHTumor MeSHDiagnosis MeSHDifferential MeSHEndometriosis MeSHFemale MeSHHumans MeSHOvarianCysts MeSHOvarianNeoplasms MeSHPhysicalExamination MeSHTorsionAbnormality

@@ -1,0 +1,3 @@
+Role of integrated PET/CT in the staging of non-small cell lung cancer.
+?
+['Carcinoma, Non-Small-Cell Lung/*pathology', 'Humans', 'Lung Neoplasms/*pathology', 'Neoplasm Staging', 'Positron-Emission Tomography/*methods', 'Tomography, X-Ray Computed/*methods']

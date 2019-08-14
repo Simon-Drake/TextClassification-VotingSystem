@@ -1,0 +1,1 @@
+MeSHAdenocarcinoma MeSHBronchography MeSHCarcinoma MeSHBasalCell MeSHCarcinoma MeSHSquamousCell MeSHCathepsin MeSHDiagnosis MeSHDifferential MeSHHistocytochemistry MeSHHumans MeSHHypoxia MeSHLun MeSHLungAbsces MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHOxyge MeSHRadiography MeSHThoracic MeSHTomography MeSHTuberculosis MeSHPulmonar

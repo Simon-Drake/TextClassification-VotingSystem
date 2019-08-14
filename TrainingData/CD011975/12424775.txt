@@ -1,0 +1,3 @@
+Estimation of risk in second trimester serum screening for Down syndrome among women who have already had first trimester screening.
+?
+['Adult', 'Biomarkers/blood', 'Down Syndrome/blood/*diagnosis', 'Effect Modifier, Epidemiologic', 'Female', 'Humans', 'Mass Screening/methods', 'Maternal Age', 'Neck/diagnostic imaging/embryology', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy Trimester, Second', 'Pregnancy, High-Risk', 'Risk Assessment', 'Risk Factors', 'Ultrasonography, Prenatal']

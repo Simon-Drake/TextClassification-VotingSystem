@@ -1,0 +1,3 @@
+Needle aspiration biopsy of localized pulmonary lesions with amplified fluoroscopic guidance.
+?
+['Adenocarcinoma/pathology', 'Aged', '*Biopsy/adverse effects/instrumentation', 'Carcinoma/diagnostic imaging', 'Carcinoma, Bronchogenic/diagnostic imaging', 'Diagnosis, Differential', 'Female', '*Fluoroscopy', 'Hamartoma/diagnostic imaging', 'Humans', 'Lung Abscess/diagnostic imaging', 'Lung Diseases/*pathology', 'Lung Neoplasms/diagnostic imaging/pathology', 'Male', 'Methods', 'Middle Aged', 'Pneumothorax/etiology', 'Specimen Handling', 'Tomography']

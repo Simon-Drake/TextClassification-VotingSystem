@@ -1,0 +1,3 @@
+[Screening for bronchial carcinoma -- pro].
+?
+['Bronchoscopy/methods', 'Carcinoma, Bronchogenic/*diagnosis', 'Humans', 'Lung Neoplasms/*diagnosis', '*Mass Screening', 'Positron-Emission Tomography', 'Prognosis', 'Risk Factors', 'Smoking/adverse effects', 'Sputum/cytology', 'Tomography, X-Ray Computed']

@@ -1,0 +1,3 @@
+Mucoid impaction of the bronchus.
+?
+['Adolescent', 'Adult', 'Bronchial Diseases/*diagnosis/diagnostic imaging/surgery', 'Bronchiectasis/diagnosis', 'Bronchography', 'Bronchoscopy', 'Diagnosis, Differential', 'Female', 'Humans', 'Lung Neoplasms/diagnosis', 'Male', '*Mucus', 'Pneumonia/diagnosis', 'Tomography']

@@ -1,0 +1,3 @@
+[Clinico-radiological aspects of diaphragmatic pathology. (Case reports)].
+?
+['Aged', 'Bronchography', 'Diagnosis, Differential', 'Female', 'Hernia, Diaphragmatic/*diagnostic imaging', 'Humans', 'Lung Neoplasms', 'Male', 'Middle Aged', 'Radiography, Thoracic', 'Solitary Pulmonary Nodule', 'Tomography']

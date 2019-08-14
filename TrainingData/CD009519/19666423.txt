@@ -1,0 +1,3 @@
+Incidental detection of a lung tumor on Thallium-201 myocardial perfusion SPECT imaging.
+?
+['Angina Pectoris/diagnostic imaging', 'Heart/*diagnostic imaging', 'Humans', 'Incidental Findings', 'Lung Neoplasms/*diagnostic imaging', 'Male', '*Thallium Radioisotopes', '*Tomography, Emission-Computed, Single-Photon']

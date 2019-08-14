@@ -1,0 +1,3 @@
+[Reflections on the possibilities of simple radiography in diagnosis of bronchial cancer at the onset].
+?
+['Aged', 'Bronchial Neoplasms/*diagnostic imaging', 'Humans', 'Male', 'Methods', 'Radiography', 'Time Factors', 'Tomography']

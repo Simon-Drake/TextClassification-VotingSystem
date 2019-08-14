@@ -1,0 +1,1 @@
+MeSHAntineoplasticAgent MeSHBiopsy MeSHCombinedModalityTherapy MeSHEndometrialNeoplasm MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHMiddleAged MeSHSplenectomy MeSHSplenicNeoplasm

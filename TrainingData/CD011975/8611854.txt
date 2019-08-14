@@ -1,0 +1,3 @@
+Recent advances in obstetrics. Testing for Down's syndrome carries too much stress.
+?
+['Down Syndrome/*diagnosis', 'Female', 'Humans', 'Pregnancy', 'Prenatal Diagnosis/*adverse effects', 'Stress, Psychological/*etiology']

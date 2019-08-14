@@ -1,0 +1,3 @@
+Nuchal translucency screening in monochorionic twin pregnancies.
+?
+['Down Syndrome/*diagnostic imaging/genetics', 'Female', 'Humans', 'Mothers/*psychology', 'Nuchal Translucency Measurement/*methods', 'Personal Autonomy', 'Pregnancy', 'Pregnancy Trimester, First', 'Risk Assessment', 'Twins, Monozygotic/*genetics']

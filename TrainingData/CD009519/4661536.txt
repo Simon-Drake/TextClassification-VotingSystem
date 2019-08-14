@@ -1,0 +1,3 @@
+[Simultaneous development of a bronchial cancer and a pulmonary tuberculosis: difficulty of the diagnosis].
+?
+['Aged', 'Biopsy', 'Bronchial Neoplasms/*complications/diagnostic imaging/pathology', 'Carcinoma/*complications/diagnostic imaging/pathology', 'Humans', 'Male', 'Middle Aged', 'Radiography', 'Skin Tests', 'Sputum/analysis', 'Tomography', 'Tuberculosis, Pulmonary/*complications/diagnostic imaging']

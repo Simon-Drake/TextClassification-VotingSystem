@@ -1,0 +1,1 @@
+MeSHChromatography MeSHHighPressureLiquid MeSHChromatography MeSHThinLayer MeSHColorimetry MeSHElectrophoresis MeSHCapillary MeSHEnzyme-LinkedImmunosorbentAssay MeSHImmunochemistry MeSHIndoles MeSHMycotoxins

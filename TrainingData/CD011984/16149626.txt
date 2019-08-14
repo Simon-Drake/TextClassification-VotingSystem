@@ -1,0 +1,3 @@
+[Pregnancy specific beta1 glycoprotein (SP-1)].
+?
+['Abortion, Threatened/diagnosis', 'Biomarkers, Tumor/*blood', 'Breast Neoplasms/diagnosis', 'Down Syndrome/diagnosis', 'Female', 'Fetal Growth Retardation/diagnosis', 'Gastrointestinal Neoplasms/diagnosis', 'Humans', 'Hydatidiform Mole/*diagnosis', 'Leukemia/diagnosis', 'Lung Neoplasms/diagnosis', 'Lymphoma/diagnosis', 'Pregnancy', 'Pregnancy-Specific beta 1-Glycoproteins/*analysis', 'Prenatal Diagnosis', 'Reference Values', 'Uterine Neoplasms/*diagnosis', 'Waldenstrom Macroglobulinemia/diagnosis']

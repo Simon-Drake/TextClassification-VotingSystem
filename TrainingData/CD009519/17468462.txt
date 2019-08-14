@@ -1,0 +1,3 @@
+A "fat chance" it's malignant: lipoid pneumonia simulating lung cancer on PET scan.
+?
+['Aged', 'Diagnosis, Differential', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Pneumonia, Lipid/*diagnostic imaging', 'Positron-Emission Tomography', '*Radiopharmaceuticals']

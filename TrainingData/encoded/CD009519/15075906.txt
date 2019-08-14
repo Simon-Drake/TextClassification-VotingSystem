@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHCost-BenefitAnalysis MeSHFluorodeoxyglucoseF1 MeSHHumans MeSHLungNeoplasm MeSHMassScreenin MeSHRadiography MeSHThoraci MeSHSmoking MeSHSolitaryPulmonaryNodul MeSHSputu MeSHTomography MeSHEmission-Compute MeSHTomography MeSHSpiralCompute

@@ -1,0 +1,3 @@
+[Trisomy 21. Epidemiology, diagnosis, disease outcome].
+?
+['Cytogenetics', '*Down Syndrome/complications/diagnosis/epidemiology/genetics/therapy', 'Female', 'France/epidemiology', 'Genetic Counseling', 'Humans', 'Infant, Newborn', 'Karyotyping', 'Male', 'Perinatal Care', 'Prenatal Diagnosis/methods', 'Sex Distribution']

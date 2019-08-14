@@ -1,0 +1,3 @@
+Case report of fetus-in-fetu diagnosed in a neonate with trisomy 21.
+?
+['*Down Syndrome/complications', 'Fetus/*abnormalities', 'Humans', 'Infant, Newborn', 'Male']

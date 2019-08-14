@@ -1,0 +1,1 @@
+MeSHCytodiagnosis MeSHMouthDisease MeSHMouthNeoplasm MeSHSurgery MeSHOral

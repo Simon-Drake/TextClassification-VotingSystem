@@ -1,0 +1,1 @@
+MeSHFalseNegativeReactions MeSHFemale MeSHHumans MeSHIntraoperativeCar MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPalpation MeSHPositron-EmissionTomography MeSHRetrospectiveStudies MeSHThoracicSurgery MeSHVideo-Assisted MeSHThoracotom MeSHTomography MeSHX-RayComputed

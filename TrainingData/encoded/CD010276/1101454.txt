@@ -1,0 +1,1 @@
+MeSHCytodiagnosi MeSHDiagnosis MeSHDifferential MeSHGingiv MeSHHumans MeSHMouthMucos MeSHMouthNeoplasm MeSHNeoplasmRecurrence MeSHLoca MeSHPeriodontalDisease MeSHPrecancerousCondition MeSHSmoking

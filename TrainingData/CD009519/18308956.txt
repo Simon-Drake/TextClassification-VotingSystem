@@ -1,0 +1,3 @@
+A 50-year-old man with bilateral pulmonary tumours.
+?
+['Humans', 'Lung Neoplasms/diagnostic imaging/*pathology', 'Lymphoma, B-Cell, Marginal Zone/diagnostic imaging/*pathology', 'Male', 'Middle Aged', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed']

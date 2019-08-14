@@ -1,0 +1,3 @@
+Unsuspected synchronous lung cancer unveiled on FDG PET after chemotherapy for non-Hodgkin lymphoma.
+?
+['Aged', 'Carcinoma, Squamous Cell/*diagnostic imaging', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Lymphoma, Non-Hodgkin/*diagnostic imaging', 'Male', 'Neoplasms, Multiple Primary/*diagnostic imaging', '*Positron-Emission Tomography', '*Radiopharmaceuticals']

@@ -1,0 +1,3 @@
+[Case of bronchopneumonia treated as lung cancer and paragonimiasis of the lung].
+?
+['Aged', 'Bronchopneumonia/*diagnosis', 'Diagnosis, Differential', 'Humans', 'Lung/surgery', 'Lung Diseases, Parasitic/*diagnosis', 'Lung Neoplasms/*diagnosis', 'Male', 'Paragonimiasis/*diagnosis', 'Radiography, Thoracic', 'Tomography']

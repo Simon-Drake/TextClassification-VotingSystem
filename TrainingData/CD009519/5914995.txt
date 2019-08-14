@@ -1,0 +1,3 @@
+Pyopneumothorax in rheumatoid lung disease.
+?
+['Adult', 'Arthritis, Rheumatoid/complications', 'Coal Mining', 'Female', 'Humans', 'Lung Neoplasms/*diagnosis', 'Male', 'Middle Aged', 'Pneumoconiosis/*diagnosis', '*Pneumothorax', 'Radiography, Thoracic', 'Rheumatoid Nodule/*diagnosis', 'Tomography']

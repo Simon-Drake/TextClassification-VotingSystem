@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHNeedle MeSHBreastNeoplasm MeSHCarcinoma MeSHBasalCel MeSHCarcinoma MeSHSquamousCel MeSHCytodiagnosis MeSHFemale MeSHHistocytologicalPreparationTechnique MeSHHumans MeSHLipNeoplasm MeSHMale MeSHMouthMucos MeSHMouthNeoplasm MeSHNeoplasm MeSH"PagetsDisease MeSHMammar MeSHSkinNeoplasm MeSHTongueNeoplasm

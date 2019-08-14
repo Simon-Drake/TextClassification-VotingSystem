@@ -1,0 +1,3 @@
+Pretherapeutic assessment of tumour metabolism using a dual tracer PET technique.
+?
+['Adolescent', 'Bone Neoplasms/*diagnostic imaging/metabolism', 'Female', 'Fluorine Radioisotopes', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/diagnostic imaging/metabolism/secondary', 'Mediastinal Neoplasms/diagnostic imaging/metabolism/secondary', 'Osteosarcoma/*diagnostic imaging/metabolism/secondary', 'Radiopharmaceuticals', '*Sodium Fluoride', 'Soft Tissue Neoplasms/*diagnostic imaging/metabolism/secondary', 'Tomography, Emission-Computed/*methods']

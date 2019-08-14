@@ -1,0 +1,3 @@
+[Trisomy 21: genetics and diagnosis].
+?
+['Causality', '*Down Syndrome/diagnosis/epidemiology/genetics', 'Genetic Counseling', 'Humans', 'Infant, Newborn', 'Mosaicism', 'Prenatal Diagnosis', 'Translocation, Genetic']

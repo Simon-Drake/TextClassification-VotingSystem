@@ -1,0 +1,3 @@
+The evolving role of thoracoscopic lobectomy for non-small cell lung cancer.
+?
+['Carcinoma, Non-Small-Cell Lung/diagnosis/mortality/*surgery', 'Follow-Up Studies', 'Humans', 'Length of Stay', 'Lung Neoplasms/diagnosis/mortality/*surgery', 'Neoplasm Staging', 'Pneumonectomy/*methods', 'Positron-Emission Tomography', 'South Carolina/epidemiology', 'Survival Rate/trends', 'Thoracic Surgery, Video-Assisted/*methods', 'Tomography, X-Ray Computed', 'Treatment Outcome']

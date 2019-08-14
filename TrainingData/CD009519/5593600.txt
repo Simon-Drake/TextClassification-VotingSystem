@@ -1,0 +1,3 @@
+[Solitary, papillary, fibroepithelial polyp of the bronchus].
+?
+['Bronchial Neoplasms/*pathology', 'Bronchoscopy', 'Diagnosis, Differential', 'Female', 'Fibroma/pathology', 'Humans', 'Middle Aged', 'Papilloma/*pathology', 'Tomography']

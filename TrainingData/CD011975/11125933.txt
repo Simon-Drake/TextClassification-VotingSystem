@@ -1,0 +1,3 @@
+Fetal diagnosis of atrioventricular septal defect with dextrocardia in trisomy 18.
+On prenatal ultrasound atrioventricular septal defect is often diagnosed in infants with Down syndrome based on an abnormal four-chamber view of the heart. A unique case of atrioventricular septal defect with dextroposition of the heart in an infant with trisomy 18 is presented.
+['Adult', 'Dextrocardia/complications/diagnostic imaging/*genetics', 'Echocardiography', 'Female', 'Heart Septal Defects, Atrial/complications/diagnostic imaging/*genetics', 'Heart Septal Defects, Ventricular/complications/diagnostic imaging/*genetics', 'Humans', 'Pregnancy', '*Trisomy', '*Ultrasonography, Prenatal']

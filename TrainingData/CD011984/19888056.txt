@@ -1,0 +1,3 @@
+Triple-marker prenatal screening program for chromosomal defects.
+?
+['California/epidemiology', 'Down Syndrome/*diagnostic imaging/epidemiology/ethnology', 'Female', 'Hispanic Americans', 'Humans', 'Mass Screening', 'Pregnancy', 'Prevalence', '*Ultrasonography, Prenatal']

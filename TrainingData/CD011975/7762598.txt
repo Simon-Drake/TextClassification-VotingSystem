@@ -1,0 +1,3 @@
+Another case of prenatally diagnosed 48,XYY,+21.
+?
+['Adult', '*Aneuploidy', 'Down Syndrome/*genetics', 'Female', 'Humans', 'Infant', 'Male', 'Phenotype', 'Pregnancy', 'Prenatal Diagnosis', '*Y Chromosome']

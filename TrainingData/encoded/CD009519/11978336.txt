@@ -1,0 +1,1 @@
+MeSHAged MeSHCarcinoma MeSHNon-Small-CellLun MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMediastinoscopy MeSHMiddleAged MeSHNeoplasmStaging MeSHPredictiveValueofTests MeSHRadiopharmaceuticals MeSHThoracotom MeSHTimeFactors MeSHTomography MeSHEmission-Compute MeSHUnnecessaryProcedure

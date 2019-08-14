@@ -1,0 +1,3 @@
+Multiplex single-color PCR with amplicon melting analysis for identification of Aspergillus species.
+?
+['Aspergillus/*classification/genetics', 'Polymerase Chain Reaction', 'RNA, Fungal/genetics', 'RNA, Ribosomal, 5.8S/genetics']

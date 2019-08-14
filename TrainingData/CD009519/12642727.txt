@@ -1,0 +1,3 @@
+Hiatal hernia mimics centrally necrotic cancer in the lung on FDG positron emission tomographic imaging.
+?
+['Aged', 'Carcinoma, Squamous Cell/*diagnostic imaging/pathology', 'Diagnosis, Differential', 'False Positive Reactions', 'Female', '*Fluorodeoxyglucose F18', 'Hernia, Hiatal/*diagnostic imaging', 'Humans', 'Lung/diagnostic imaging/pathology', 'Lung Neoplasms/*diagnostic imaging/pathology', 'Male', 'Middle Aged', 'Necrosis', 'Radiography', 'Radiopharmaceuticals', 'Solitary Pulmonary Nodule/diagnostic imaging/pathology', 'Tomography, Emission-Computed']

@@ -1,0 +1,1 @@
+MeSHAdult MeSHBronchialDisease MeSHBronchialNeoplasm MeSHCarcinoidTumo MeSHDiagnosis MeSHDifferential MeSHFemale MeSHHumans MeSHLithiasi MeSHPositron-EmissionTomography MeSHTomography MeSHX-RayComputed

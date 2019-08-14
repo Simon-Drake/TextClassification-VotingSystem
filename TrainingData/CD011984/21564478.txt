@@ -1,0 +1,3 @@
+Offering aneuploidy screening to HIV-positive women: routine counselling or not?
+?
+['*Aneuploidy', 'Chorionic Gonadotropin, beta Subunit, Human/*blood', 'Female', 'HIV Seropositivity/*complications', 'Humans', '*Nuchal Translucency Measurement', 'Pregnancy', '*Pregnancy Complications, Infectious', '*Pregnancy Trimester, First', 'Pregnancy-Associated Plasma Protein-A/*metabolism', 'Reproductive Control Agents/*blood']

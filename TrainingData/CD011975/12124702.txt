@@ -1,0 +1,3 @@
+Reporting partial screening results: is it confusing and unsatisfactory?
+?
+['Adult', '*Disclosure', 'Down Syndrome/*diagnosis/prevention & control', 'Female', 'Genetic Testing/*methods', 'Health Knowledge, Attitudes, Practice', 'Humans', 'Maternal Age', '*Maternal Behavior', 'Patient Acceptance of Health Care', 'Predictive Value of Tests', 'Pregnancy', 'Pregnancy, High-Risk', '*Prenatal Diagnosis', 'Prospective Studies', 'Risk Assessment']

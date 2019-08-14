@@ -1,0 +1,1 @@
+MeSHAspergillusnige MeSHBaseSequence MeSHDNA MeSHFunga MeSHDNA MeSHRibosoma MeSHDeoxyribonucleases MeSHTypeIISite-Specifi MeSHGenes MeSHrRNA MeSHMolecularSequenceData MeSHPolymeraseChainReactio MeSHPolymorphism MeSHRestrictionFragmentLength MeSHRNA MeSHRibosomal MeSH5.8 MeSHSequenceAnalysis MeSHDNA

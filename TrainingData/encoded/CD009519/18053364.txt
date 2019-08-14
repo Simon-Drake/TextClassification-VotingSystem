@@ -1,0 +1,1 @@
+MeSHDiagnosis MeSHDifferential MeSHHumans MeSHLungNeoplasm MeSHNeoplasmMetastasis MeSHNeoplasmStaging MeSHPositron-EmissionTomography MeSHSolitaryPulmonaryNodul MeSHTomography MeSHX-RayComputed

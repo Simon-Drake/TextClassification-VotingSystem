@@ -1,0 +1,1 @@
+MeSHBronchialNeoplasm MeSHEsophagealNeoplasm MeSHHumans MeSHNeoplasm MeSHTomography MeSHEmission-Compute MeSHTomography MeSHX-RayCompute

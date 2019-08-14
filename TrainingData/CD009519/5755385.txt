@@ -1,0 +1,3 @@
+[X-ray diagnosis of malignant tumors of the lung and the mediastinum].
+?
+['Adenocarcinoma/*diagnostic imaging', 'Adult', 'Angiography', 'Bronchography', 'Carcinoma, Squamous Cell/*diagnostic imaging', 'Contrast Media', 'Female', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Mediastinal Neoplasms/*diagnostic imaging', 'Middle Aged', 'Pneumonectomy', 'Tomography']

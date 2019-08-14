@@ -1,0 +1,3 @@
+PET scans for lung nodules: costs and cost-effectiveness.
+?
+['Cost-Benefit Analysis', 'Diagnosis, Differential', 'Humans', 'Lung Neoplasms/*diagnostic imaging/economics', 'Positron-Emission Tomography/*economics', 'Reproducibility of Results', 'Solitary Pulmonary Nodule/*diagnostic imaging/economics']

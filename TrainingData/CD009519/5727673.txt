@@ -1,0 +1,3 @@
+[Primary pulmonary leiomyosarcoma. Case report and review of literature].
+?
+['Adult', 'Humans', '*Leiomyosarcoma', '*Lung Neoplasms', 'Male', 'Pneumonectomy', 'Prognosis', 'Radiography, Thoracic', 'Tomography']

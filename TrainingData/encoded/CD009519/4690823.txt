@@ -1,0 +1,1 @@
+MeSHAdult MeSHDiagnosis MeSHDifferential MeSHHematom MeSHHumans MeSHLungDisease MeSHLungNeoplasm MeSHMale MeSHNeoplasmMetastasis MeSHRadiography MeSHThoracicInjurie MeSHTomography

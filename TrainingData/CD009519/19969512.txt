@@ -1,0 +1,3 @@
+Lung cancer presenting with gastrointestinal symptoms: a tricky diagnosis.
+?
+['Aged', 'Carcinoma, Squamous Cell/*diagnostic imaging/*secondary', 'Humans', 'Ileal Neoplasms/diagnostic imaging/secondary', 'Jejunal Neoplasms/diagnostic imaging/*secondary', 'Lung Neoplasms/*diagnostic imaging', 'Male', '*Positron-Emission Tomography', '*Tomography, X-Ray Computed']

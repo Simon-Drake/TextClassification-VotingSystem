@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHColonicNeoplasm MeSHDiagnosis MeSHDifferential MeSHHumans MeSHInvasivePulmonaryAspergillosi MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPositron-EmissionTomography MeSHTomography MeSHX-RayComputed

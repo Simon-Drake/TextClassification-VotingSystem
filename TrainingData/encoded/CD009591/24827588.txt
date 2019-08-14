@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHFine-Needle MeSHDiagnosticErrors MeSHEndometriosis MeSHFallopianTubeNeoplasms MeSHFemale MeSHHumans MeSHLiverAbscess MeSHLiverDiseases MeSHMiddleAged MeSHTeratoma MeSHTomography MeSHX-RayComputed

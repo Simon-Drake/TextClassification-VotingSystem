@@ -1,0 +1,3 @@
+Trisomy 8 in chorionic villi-unpredictable results in follow-up.
+?
+['Adult', '*Chorionic Villi Sampling', '*Chromosomes, Human, Pair 8', 'Female', 'Genetic Counseling', 'Humans', 'Karyotyping', '*Mosaicism', 'Pregnancy', '*Trisomy']

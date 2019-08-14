@@ -1,0 +1,3 @@
+Is it time to incorporate quantitative functional imaging data, FDG PET in particular, into the response evaluation criteria in solid tumours?
+?
+['*Fluorodeoxyglucose F18', 'Humans', 'Image Interpretation, Computer-Assisted/*methods', 'Lung Neoplasms/*diagnostic imaging', 'Outcome Assessment (Health Care)/*methods', 'Positron-Emission Tomography/*methods', 'Practice Guidelines as Topic', "Practice Patterns, Physicians'", 'Prognosis', 'Radiopharmaceuticals', '*Severity of Illness Index', 'Solitary Pulmonary Nodule/*diagnostic imaging', 'Treatment Outcome', 'United States']

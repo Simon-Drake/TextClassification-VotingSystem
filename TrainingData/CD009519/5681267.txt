@@ -1,0 +1,3 @@
+[On the diagnostic difficulties in cases of aneurysm of the aortic arch].
+?
+['Aged', 'Aortic Aneurysm/*diagnostic imaging', 'Aortography', 'Bronchography', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', 'Radiography, Thoracic', 'Tomography']

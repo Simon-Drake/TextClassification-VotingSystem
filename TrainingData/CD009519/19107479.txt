@@ -1,0 +1,3 @@
+Image of the month. FDG-PET in paraneoplastic limbic encephalitis.
+?
+['Carcinoma, Small Cell/diagnosis', 'Fluorine Radioisotopes', 'Fluorodeoxyglucose F18', 'Humans', 'Limbic Encephalitis/*diagnostic imaging', 'Lung Neoplasms/diagnosis', 'Middle Aged', 'Positron-Emission Tomography', 'Radiopharmaceuticals']

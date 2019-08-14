@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdult MeSHBiopsy MeSHNeedle MeSHDiagnosis MeSHDifferential MeSHHumans MeSHLungNeoplasm MeSHMale MeSHPlasmaCellGranuloma MeSHPulmonar MeSHPositron-EmissionTomograph MeSHTomography MeSHX-RayCompute

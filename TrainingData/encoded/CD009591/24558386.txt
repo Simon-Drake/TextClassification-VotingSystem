@@ -1,0 +1,1 @@
+MeSHAdenomyosis MeSHAdult MeSHBodyMassIndex MeSHEndometriosis MeSHEndometritis MeSHFemale MeSHHumans MeSHHysterectomy MeSHLeiomyoma MeSHLogisticModels MeSHMenstrualCycle MeSHMiddleAged MeSHRegressionAnalysis MeSHSyndecan-1 MeSHUterus

@@ -1,0 +1,3 @@
+Multidisciplinary management of the solitary pulmonary nodule (SPN): our opinion.
+?
+['Adenocarcinoma/*diagnostic imaging/surgery', 'Age Factors', 'Aged', 'Carcinoma, Bronchogenic/*diagnostic imaging/surgery', 'Diagnosis, Differential', 'Follow-Up Studies', 'Humans', 'Incidence', 'Italy', 'Lung Neoplasms/*diagnostic imaging/surgery', 'Mass Screening', 'Positron-Emission Tomography', 'Radiation Dosage', 'Radiation Protection', '*Radiography, Thoracic/economics', 'Reference Standards', 'Sensitivity and Specificity', 'Smoking/adverse effects', 'Solitary Pulmonary Nodule/*diagnostic imaging/epidemiology/*surgery', '*Thoracic Surgery, Video-Assisted', 'Time Factors', '*Tomography, Spiral Computed/economics', 'United States']

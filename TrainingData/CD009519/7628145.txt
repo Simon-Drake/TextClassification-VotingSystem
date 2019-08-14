@@ -1,0 +1,3 @@
+Krukenberg tumor and lung metastases from colon carcinoma diagnosed with F-18 FDG PET.
+The authors report a case of a patient with postsurgical colorectal carcinoma and metastatic disease to the ovaries (Krukenberg tumor), the lung, and the liver first revealed by F-18 FDG PET imaging. The value of PET in a patient with an unexplained rising CEA is cited.
+['Carcinoembryonic Antigen/analysis', 'Colorectal Neoplasms/*pathology', 'Deoxyglucose/*analogs & derivatives', 'Female', '*Fluorine Radioisotopes', 'Fluorodeoxyglucose F18', 'Humans', 'Krukenberg Tumor/*diagnostic imaging/*secondary', 'Liver Neoplasms/secondary', 'Lung Neoplasms/*diagnostic imaging/*secondary', 'Middle Aged', 'Ovarian Neoplasms/*diagnostic imaging/*secondary', '*Tomography, Emission-Computed']

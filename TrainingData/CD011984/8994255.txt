@@ -1,0 +1,3 @@
+Similarities in women's decision-making in the U.S. and U.K. during prenatal screening for Down's syndrome.
+?
+['Abortion, Induced', 'Amniocentesis', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Pregnancy', '*Prenatal Diagnosis', 'United Kingdom', 'United States']

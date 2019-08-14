@@ -1,0 +1,1 @@
+MeSHAdult MeSHBiomarkers MeSHTumor MeSHBiopsy MeSHCarcinoma MeSHEndometrioid MeSHEndometrialNeoplasms MeSHFemale MeSHHumans MeSHImmunohistochemistry MeSHMiddleAged MeSHReceptors MeSHEstrogen MeSHReceptors MeSHProgesterone MeSHReproducibilityofResults MeSHTissueArrayAnalysis

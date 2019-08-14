@@ -1,0 +1,3 @@
+Second-trimester sonographic demonstration of retrognathia and bilateral pyelectasis in a fetus with a duplication of chromosome 10q24.1-->qter.
+?
+['Adult', '*Aneuploidy', 'Chromosomes, Human, Pair 10/*genetics', 'Dilatation, Pathologic/diagnostic imaging', 'Female', 'Humans', 'Infant, Newborn', 'Kidney Pelvis/*abnormalities/diagnostic imaging', 'Pregnancy', 'Pregnancy Trimester, Second', 'Retrognathia/*diagnostic imaging/genetics', 'Translocation, Genetic', 'Ultrasonography, Prenatal/*methods']

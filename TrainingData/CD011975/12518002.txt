@@ -1,0 +1,3 @@
+Seeking other disorders within antenatal serum screening programmes for Down's syndrome.
+?
+['Algorithms', 'Amniocentesis/statistics & numerical data', 'Chorionic Gonadotropin/blood', 'Chromosome Disorders/blood/epidemiology/genetics', 'Chromosomes, Human, Pair 18', 'Down Syndrome/*diagnosis/epidemiology/genetics', 'Female', 'Fetal Diseases/*diagnosis/epidemiology/genetics', 'Humans', 'Mass Screening/*methods', 'Pregnancy', 'Prenatal Diagnosis/*methods', 'Trisomy', 'alpha-Fetoproteins/analysis']

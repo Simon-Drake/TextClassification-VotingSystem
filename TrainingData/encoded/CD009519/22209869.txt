@@ -1,0 +1,1 @@
+MeSHAdult MeSHAgeDistribution MeSHAged MeSHEarlyDetectionofCance MeSHFemale MeSHHealthBehavior MeSHHumans MeSHIncidence MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPrognosis MeSHRiskFactors MeSHSexDistribution MeSHSmokin MeSHSmokingCessatio MeSHSurvivalAnalysis MeSHTomography MeSHSpiralCompute MeSHYoungAdult

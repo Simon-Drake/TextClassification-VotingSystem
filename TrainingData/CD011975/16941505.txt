@@ -1,0 +1,3 @@
+Should fetal echogenic cardiac foci be concordant in monochorionic twin pregnancy?
+?
+['Down Syndrome/*diagnostic imaging/epidemiology', 'Echocardiography', 'Female', 'Fetal Heart/*diagnostic imaging', 'Humans', 'Pregnancy', 'Pregnancy, Multiple', 'Prenatal Diagnosis/methods', 'Prevalence', 'Twins', '*Ultrasonography, Prenatal']

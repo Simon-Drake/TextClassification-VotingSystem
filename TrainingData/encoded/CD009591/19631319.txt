@@ -1,0 +1,1 @@
+MeSHBiomarkers MeSHBiopsy MeSHCA-125Antigen MeSHCA-19-9Antigen MeSHCase-ControlStudies MeSHEndometriosis MeSHFemale MeSHHumans MeSHIntraoperativePeriod MeSHOvarianDiseases MeSHPredictiveValueofTests MeSHReferenceValues MeSHSensitivityandSpecificity

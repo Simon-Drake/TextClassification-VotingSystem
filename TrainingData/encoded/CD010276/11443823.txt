@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHCarcinoma MeSHSquamousCel MeSHColoringAgents MeSHCombinedModalityTherapy MeSHCytodiagnosis MeSHDentists MeSHFemale MeSHHumans MeSHMale MeSHMassScreening MeSHMouthNeoplasm MeSHPlants MeSHToxic MeSHPrecancerousCondition MeSHRiskFactors MeSHSmokin MeSHTimeFactors MeSHTobacc

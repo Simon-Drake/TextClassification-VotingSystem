@@ -1,0 +1,3 @@
+Are we coming full circle for lung cancer screening a second time?
+?
+['Aged', 'Female', 'Humans', 'Lung Neoplasms/*diagnosis', 'Male', 'Mass Screening/methods/*trends', 'Middle Aged', 'Predictive Value of Tests', 'Radiography, Thoracic', 'Randomized Controlled Trials as Topic', 'Survival Rate', 'Tomography, Spiral Computed']

@@ -1,0 +1,3 @@
+False-positive technetium 99m depreotide scintigraphy resulting from round atelectasis.
+The authors report two cases of round atelectasis that showed increased accumulation of technetium (Tc) 99m depreotide on planar and single photon emission computed tomographic scintigraphy. It should be considered that round atelectasis is a potential nonmalignant cause for positive 99mTc depreotide scintigraphy.
+['Aged', 'Diagnosis, Differential', 'False Positive Reactions', 'Humans', 'Lung Neoplasms/*diagnostic imaging/surgery', 'Male', 'Peptides', 'Pulmonary Atelectasis/*diagnostic imaging', 'Respiratory Function Tests', 'Sensitivity and Specificity', 'Solitary Pulmonary Nodule/*diagnostic imaging/surgery', 'Tomography, Emission-Computed, Single-Photon']

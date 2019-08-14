@@ -1,0 +1,3 @@
+First- and second-trimester ADAM12s in Down syndrome screening.
+?
+['ADAM Proteins/*blood', 'ADAM12 Protein', 'Adult', 'Down Syndrome/*blood/prevention & control', 'Female', 'Humans', 'Mass Screening', 'Membrane Proteins/*blood', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy Trimester, Second']

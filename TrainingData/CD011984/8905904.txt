@@ -1,0 +1,3 @@
+Ethnic origin and maternal serum markers of Down syndrome in Israel.
+?
+['Arabs', 'Chorionic Gonadotropin/*blood', 'Down Syndrome/*ethnology', 'Estriol/*blood', 'False Positive Reactions', 'Female', 'Humans', 'Israel', 'Jews', 'Predictive Value of Tests', 'Pregnancy', 'alpha-Fetoproteins/*analysis']

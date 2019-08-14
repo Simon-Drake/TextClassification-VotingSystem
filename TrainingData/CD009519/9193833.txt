@@ -1,0 +1,3 @@
+Scintigraphic evaluation of metastatic osteosarcoma. The importance of SPECT bone scintigraphy and correlative imaging.
+?
+['Adult', 'Bone Neoplasms/*diagnostic imaging', 'Humans', 'Lung Neoplasms/diagnostic imaging/*secondary', 'Male', 'Osteosarcoma/diagnostic imaging/*secondary', 'Radiopharmaceuticals', 'Ribs/diagnostic imaging', 'Solitary Pulmonary Nodule/diagnostic imaging', 'Technetium Tc 99m Medronate', '*Tomography, Emission-Computed, Single-Photon', 'Tomography, X-Ray Computed']

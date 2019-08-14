@@ -1,0 +1,3 @@
+Diffusion rates of positron emitters in pion irradiated patients.
+?
+['Diffusion', '*Elementary Particles', 'Head and Neck Neoplasms/radiotherapy', 'Lung Neoplasms/radiotherapy', 'Methods', 'Models, Biological', 'Pancreatic Neoplasms/radiotherapy', 'Rectal Neoplasms/radiotherapy', 'Tomography, Emission-Computed']

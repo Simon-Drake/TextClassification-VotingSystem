@@ -1,0 +1,3 @@
+[Problems caused by genetic diseases. Part 3: Chromosomal disorders: trisomy 21].
+?
+['Down Syndrome/*diagnosis/epidemiology/genetics/prevention & control', 'France/epidemiology', 'Genetic Counseling', 'Humans', 'Maternal Age', 'Prenatal Diagnosis', 'Risk Factors']

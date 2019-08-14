@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHColonicNeoplasms MeSHColposcopy MeSHCuldoscopy MeSHEndometriosis MeSHFemale MeSHHumans MeSHLaparoscopy MeSHProctoscopy MeSHRadiography MeSHSigmoidoscopy

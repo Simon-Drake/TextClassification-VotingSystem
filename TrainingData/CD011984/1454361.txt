@@ -1,0 +1,3 @@
+[Nuchal edema as an ultrasonic sign of trisomy 21 during the first trimester of pregnancy].
+?
+['Edema/diagnostic imaging', 'Female', 'Humans', 'Infant, Newborn', 'Neck/diagnostic imaging', 'Pregnancy', 'Trisomy/*diagnosis/genetics', 'Ultrasonography, Prenatal']

@@ -1,0 +1,3 @@
+Sarcoidosis.
+?
+['Diagnosis, Differential', 'False Positive Reactions', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnosis', 'Positron-Emission Tomography', '*Radiopharmaceuticals', 'Sarcoidosis/*diagnosis']

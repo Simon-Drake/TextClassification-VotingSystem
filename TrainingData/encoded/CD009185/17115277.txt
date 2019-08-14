@@ -1,0 +1,1 @@
+MeSHAnimals MeSHAntibodies MeSHMonoclona MeSHAntibodyAffinity MeSHCrossReactions MeSHEnzyme-LinkedImmunosorbentAssay MeSHGlycoprotein MeSHHumans MeSHMice MeSHMice MeSHInbredBALBC MeSHReferenceStandards MeSHSpectrometry MeSHMass MeSHMatrix-AssistedLaserDesorption-Ionization MeSHTrypsinInhibitor

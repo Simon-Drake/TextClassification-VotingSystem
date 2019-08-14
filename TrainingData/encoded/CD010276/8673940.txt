@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSquamousCel MeSHDiagnosis MeSHOra MeSHHumans MeSHLikelihoodFunctions MeSHMouthNeoplasm MeSHOddsRatio MeSHProbability MeSHSensitivityandSpecificity

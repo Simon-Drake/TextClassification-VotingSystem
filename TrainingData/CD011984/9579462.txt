@@ -1,0 +1,3 @@
+Current Down syndrome risk estimates are reliable.
+?
+['Chorionic Gonadotropin, beta Subunit, Human/blood', 'Down Syndrome/*diagnosis', 'False Negative Reactions', 'Female', 'Humans', 'Pregnancy', 'Risk Factors', 'alpha-Fetoproteins/analysis']

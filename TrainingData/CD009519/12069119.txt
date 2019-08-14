@@ -1,0 +1,3 @@
+Positron emission tomography (PET)--evaluation of 'indeterminate pulmonary lesions'.
+?
+['Cost-Benefit Analysis', 'Fluorodeoxyglucose F18', 'Humans', 'Lung/*diagnostic imaging', 'Lung Neoplasms/*diagnostic imaging/economics', 'Radiopharmaceuticals/economics', '*Tomography, Emission-Computed/economics', 'Tomography, X-Ray Computed', 'United Kingdom']

@@ -1,0 +1,1 @@
+MeSHChromosomes MeSHHuman MeSHPair18 MeSHDownSyndrome MeSHFemale MeSHGeneticMarkers MeSHHumans MeSHPolymeraseChainReaction MeSHPolymorphism MeSHGenetic MeSHPregnancy MeSHPrenatalDiagnosis MeSHTandemRepeatSequences MeSHTrisomy

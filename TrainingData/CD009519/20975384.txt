@@ -1,0 +1,3 @@
+Severe local toxicity after lung stereotactic body radiation therapy: lesional abscess leading to bronchocutaneous fistula requiring surgical marsupialization.
+?
+['Bronchial Fistula/diagnostic imaging/*etiology/surgery', 'Carcinoma, Squamous Cell/*surgery', 'Debridement', 'Humans', 'Lung/diagnostic imaging/pathology', 'Lung Abscess/diagnostic imaging/*etiology/surgery', 'Lung Neoplasms/*surgery', 'Male', 'Middle Aged', 'Necrosis', 'Neoplasm Recurrence, Local/*surgery', 'Positron-Emission Tomography', 'Radiosurgery/*adverse effects']

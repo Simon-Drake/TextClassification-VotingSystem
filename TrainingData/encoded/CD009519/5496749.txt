@@ -1,0 +1,1 @@
+MeSHBronchialDisease MeSHBronchialNeoplasm MeSHBronchography MeSHChild MeSHContrastMedia MeSHHumans MeSHLun MeSHLungNeoplasm MeSHMale MeSHTomography MeSHTrache MeSHTuberculosis MeSHPulmonar

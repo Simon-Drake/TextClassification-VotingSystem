@@ -1,0 +1,3 @@
+Long term follow-up of developmental delay in a child with prenatally-diagnosed trisomy 20 mosaicism.
+?
+['Adult', 'Child', 'Child, Preschool', 'Chromosomes, Human, Pair 20/*genetics', 'Developmental Disabilities/*genetics', 'Female', 'Fetal Diseases/*genetics', 'Follow-Up Studies', 'Humans', 'In Situ Hybridization, Fluorescence', '*Mosaicism', 'Pregnancy', '*Prenatal Diagnosis', 'Time Factors', 'Trisomy/*diagnosis']

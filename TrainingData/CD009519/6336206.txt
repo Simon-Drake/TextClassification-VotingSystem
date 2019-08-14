@@ -1,0 +1,3 @@
+The role of whole body bone scan in bronchogenic carcinoma.
+?
+['Adult', 'Aged', 'Bone Neoplasms/diagnostic imaging/*secondary', 'Bone and Bones/*diagnostic imaging', 'Carcinoma, Bronchogenic/*diagnostic imaging', 'Female', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', 'Radiography', 'Technetium', 'Tomography, Emission-Computed']

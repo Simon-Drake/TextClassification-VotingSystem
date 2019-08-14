@@ -1,0 +1,1 @@
+MeSHAreaUnderCurve MeSHComputerSimulation MeSHDiagnosticImaging MeSHEndometriosis MeSHFemale MeSHHumans MeSHLongitudinalStudies MeSHROCCurve MeSHStatistics MeSHNonparametric

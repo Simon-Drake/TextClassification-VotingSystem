@@ -1,0 +1,3 @@
+Trisomy 12 mosaicism in CVS culture confirmed in the fetus.
+?
+['Adult', 'Amniocentesis', 'Chorionic Villi Sampling', '*Chromosomes, Human, Pair 12', 'Female', 'Genetic Counseling', 'Humans', 'Mosaicism/*diagnosis', 'Pregnancy', 'Trisomy/*diagnosis', '*Ultrasonography, Prenatal']

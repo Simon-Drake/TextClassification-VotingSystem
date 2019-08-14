@@ -1,0 +1,1 @@
+MeSHAged MeSHAnimals MeSHBiomarkers MeSHTumo MeSHBiopsy MeSHCarcinoma MeSHSquamousCel MeSHCellDivisio MeSHCellLine MeSHDNA MeSHNeoplas MeSHFemale MeSHFlowCytometry MeSHHumans MeSHMale MeSHMice MeSHMice MeSHNude MeSHMicroscopy MeSHElectron MeSHMiddleAged MeSHMouthFloo MeSHMouthNeoplasm MeSHNeoplasmStaging MeSHNeoplasmTransplantation MeSHTongueNeoplasm MeSHTumorCells MeSHCulture

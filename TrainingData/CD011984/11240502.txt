@@ -1,0 +1,3 @@
+[Trisomy 21 screening: value of ultrasound and serum markers in a combined approach].
+?
+['Algorithms', 'Biomarkers/blood', 'Chorionic Gonadotropin, beta Subunit, Human/*blood', 'Decision Trees', 'Down Syndrome/*blood/*diagnosis/etiology', 'Estriol/*blood', 'Female', 'Gestational Age', 'Humans', 'Mass Screening/*methods', 'Maternal Age', 'Patient Selection', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy-Associated Plasma Protein-A/*metabolism', 'Prenatal Diagnosis/*methods', 'Reproducibility of Results', 'Risk Factors', 'Sensitivity and Specificity', 'Ultrasonography, Prenatal/*methods', 'alpha-Fetoproteins/*metabolism']

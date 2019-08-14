@@ -1,0 +1,1 @@
+MeSHCellLine MeSHChorionicVilliSampling MeSHFemale MeSHHumans MeSHKaryotyping MeSHMicrosatelliteRepeats MeSHMosaicism MeSHPlacenta MeSHPolymeraseChainReaction MeSHPregnancy MeSHTrisomy

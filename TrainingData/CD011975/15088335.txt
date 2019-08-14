@@ -1,0 +1,3 @@
+Toronto's Mount Sinai Hospital offers first-trimester screening across Ontario.
+?
+['Down Syndrome/*diagnosis', 'Female', '*Hospitals, Urban', 'Humans', 'Ontario', 'Pregnancy', '*Pregnancy Trimester, First', '*Prenatal Diagnosis']

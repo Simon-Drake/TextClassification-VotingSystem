@@ -1,0 +1,3 @@
+[Microbiological techniques for testing bacteria and fungi--diagnosis of mycoses by non-culture methods].
+?
+['Aspergillosis/diagnosis', 'Candidiasis/diagnosis', 'Cryptococcosis/diagnosis', 'Humans', 'Mycoses/*diagnosis', '*Polymerase Chain Reaction', '*Serologic Tests']

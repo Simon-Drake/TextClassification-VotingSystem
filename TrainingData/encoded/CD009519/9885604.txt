@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdult MeSHAged MeSHAged MeSH80andover MeSHCarcinoma MeSHSquamousCel MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHeadandNeckNeoplasm MeSHHumans MeSHLymphaticMetastasi MeSHMale MeSHMiddleAged MeSHNeoplasms MeSHUnknownPrimar MeSHRadiopharmaceuticals MeSHTomography MeSHEmission-Computed

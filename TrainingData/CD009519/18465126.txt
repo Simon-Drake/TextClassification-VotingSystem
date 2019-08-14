@@ -1,0 +1,3 @@
+The power of synergy in the mediastinal staging of lung cancer.
+?
+['Biopsy, Fine-Needle', 'Fluorine Radioisotopes', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*pathology', 'Lymphatic Metastasis/diagnostic imaging/*pathology', 'Mediastinal Neoplasms/diagnostic imaging/*pathology/*secondary', 'Neoplasm Staging/*methods', 'Positron-Emission Tomography', 'Practice Guidelines as Topic', 'Radiopharmaceuticals', 'Tomography, X-Ray Computed']

@@ -1,0 +1,3 @@
+Incidental detection of renal transplantation urinary leakage on FDG-PET/CT imaging for evaluation of lung metastases.
+?
+['Carcinoma, Renal Cell/complications/diagnosis/secondary', '*Fluorodeoxyglucose F18', 'Humans', 'Kidney Neoplasms/complications/diagnosis', 'Kidney Transplantation/*adverse effects/diagnostic imaging', 'Lung Neoplasms/complications/diagnosis/secondary', 'Male', 'Middle Aged', 'Positron-Emission Tomography/*methods', 'Radiopharmaceuticals', 'Tomography, X-Ray Computed/*methods', 'Urination Disorders/*diagnosis/*etiology']

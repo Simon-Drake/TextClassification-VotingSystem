@@ -1,0 +1,3 @@
+Pallister-Killian syndrome presenting with a complex congenital heart defect and increased nuchal translucency.
+?
+['Adult', '*Aneuploidy', 'Chromosomes, Human, Pair 12/genetics', 'Craniofacial Abnormalities/genetics', 'Female', 'Gestational Age', 'Heart Defects, Congenital/*complications/*diagnosis/genetics', 'Humans', 'Male', '*Nuchal Translucency Measurement', 'Pregnancy', 'Risk Factors', 'Syndrome']

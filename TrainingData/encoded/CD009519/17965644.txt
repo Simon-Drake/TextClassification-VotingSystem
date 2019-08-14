@@ -1,0 +1,1 @@
+MeSHCarcinom MeSHDiagnosis MeSHDifferential MeSHHumans MeSHIodineRadioisotope MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHNeoplasmMetastasis MeSHNeoplasmRecurrence MeSHLoca MeSHNeoplasmStaging MeSHRadiography MeSHRadiopharmaceutical MeSHThyroidNeoplasm

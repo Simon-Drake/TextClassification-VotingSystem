@@ -1,0 +1,1 @@
+MeSHAdult MeSHDiagnosis MeSHDifferential MeSHEndometriosis MeSHFemale MeSHHumans MeSHLaparotomy MeSHMenstrualCycle MeSHReconstructiveSurgicalProcedures MeSHTomography MeSHX-RayComputed MeSHTreatmentOutcome MeSHUmbilicus

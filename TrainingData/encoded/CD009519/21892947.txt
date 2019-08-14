@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHDiagnosis MeSHDifferential MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHMultimodalImaging MeSHMultiplePulmonaryNodule MeSHPharyngealNeoplasm MeSHPositron-EmissionTomography MeSHSarcoidosis MeSHPulmonar MeSHThoracoscopy MeSHTomography MeSHX-RayComputed

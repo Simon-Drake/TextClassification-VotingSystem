@@ -1,0 +1,3 @@
+Monitoring targeted therapy: is fluorodeoxylucose uptake a marker of early response?
+?
+['Animals', 'Antineoplastic Agents/*therapeutic use', 'Carcinoma, Non-Small-Cell Lung/*diagnostic imaging/drug therapy', '*Fluorodeoxyglucose F18', 'Glucose/pharmacokinetics', 'Humans', 'Lung Neoplasms/*diagnostic imaging/drug therapy', 'Quinazolines/*therapeutic use', 'Radionuclide Imaging', 'Receptor, Epidermal Growth Factor/*antagonists & inhibitors']

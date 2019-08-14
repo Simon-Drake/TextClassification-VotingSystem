@@ -1,0 +1,3 @@
+Diffusion-weighted MRI as predictor of tumor treatment response.
+?
+['Carcinoma, Non-Small-Cell Lung/*diagnostic imaging/*therapy', '*Chemoradiotherapy', 'Diffusion Magnetic Resonance Imaging/*methods', 'Female', 'Humans', 'Lung Neoplasms/*pathology/*therapy', 'Male', 'Multimodal Imaging/*methods', '*Positron-Emission Tomography', '*Tomography, X-Ray Computed']

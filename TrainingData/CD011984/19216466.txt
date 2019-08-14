@@ -1,0 +1,3 @@
+[Enlarged nuchal translucency with normal karyotype].
+?
+['Abortion, Therapeutic', 'Adult', 'Chromosomes', 'Down Syndrome/*diagnostic imaging', 'Female', 'Genetic Counseling', 'Heart Defects, Congenital/*diagnostic imaging', 'Humans', 'Karyotyping', 'Neck/diagnostic imaging/*embryology', '*Nuchal Translucency Measurement', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy Trimester, Second', '*Ultrasonography, Prenatal']

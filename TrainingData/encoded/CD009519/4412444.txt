@@ -1,0 +1,1 @@
+MeSHAdult MeSHAminosalicylicAcid MeSHBliste MeSHCarcinom MeSHChronicDisease MeSHCough MeSHDiagnosis MeSHDifferential MeSHHumans MeSHIsoniazi MeSHLun MeSHLungDisease MeSHLungNeoplasm MeSHMale MeSHRadiography MeSHSmoking MeSHSpirometry MeSHSputu MeSHStreptomyci MeSHSyncop MeSHTetracyclin MeSHTomography

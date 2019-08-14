@@ -1,0 +1,3 @@
+Mosaicism of 46,XX/47,XX,+9/47,XX,+?mar in the same amniotic fluid with apparent loss of one cell line after delivery.
+A 46,XX;47,XX,+9;47,XX,+?mar karyotype was detected in an amniotic fluid cell culture and confirmed in a subsequent fetal blood sample from a 40-year-old woman. After termination of the pregnancy, none of the 186 mitoses obtained from a second blood sample was trisomic for chromosome 9 (p less than 0.001). Selection against cells containing trisomy 9 is postulated to explain the disappearance of the lymphocyte clone.
+['Adult', 'Amniotic Fluid/*cytology', 'Cells, Cultured', '*Chromosomes, Human, Pair 9', 'Female', 'Fetal Blood/cytology', 'Humans', 'Karyotyping', '*Mosaicism', 'Pregnancy', '*Prenatal Diagnosis', '*Trisomy']

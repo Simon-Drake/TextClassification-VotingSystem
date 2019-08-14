@@ -1,0 +1,1 @@
+MeSHBronchialNeoplasm MeSHCalcinosi MeSHDiagnosis MeSHDifferential MeSHFalseNegativeReactions MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHLymphaticMetastasis MeSHMale MeSHPleuralNeoplasm MeSHPneumothora MeSHRadiography MeSHThoracic MeSHTomography MeSHTomography MeSHX-RayComputed

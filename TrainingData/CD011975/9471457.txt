@@ -1,0 +1,3 @@
+[Screening for trisomy 21 using biological markers and ultrasonography].
+?
+['Adult', 'Amniocentesis', 'Biomarkers', 'Chorionic Gonadotropin, beta Subunit, Human/*blood', 'Down Syndrome/*prevention & control', 'Female', 'Humans', 'Mass Screening/*methods', 'Pregnancy/*blood', 'Prospective Studies', 'Reproducibility of Results', 'Risk Factors', 'Sensitivity and Specificity', 'Ultrasonography, Prenatal/*methods', 'alpha-Fetoproteins/*metabolism']

@@ -1,0 +1,3 @@
+Carrier detection and prenatal diagnosis of Duchenne/Becker muscular dystrophy (D/BMD) by DNA-analysis.
+?
+['DNA/*analysis', 'Female', 'Forecasting', 'Genetic Counseling', '*Genetic Testing', 'Gonads/ultrastructure', '*Heterozygote Detection/methods', 'Humans', 'Male', 'Mosaicism', 'Muscular Dystrophies/diagnosis/*genetics', 'Pedigree', 'Pregnancy', 'Prenatal Diagnosis']

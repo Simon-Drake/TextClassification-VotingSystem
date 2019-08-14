@@ -1,0 +1,3 @@
+Paternal age and Down's syndrome genotypes diagnosed prenatally: no association in New York state data.
+?
+['Adult', 'Down Syndrome/etiology/*genetics', 'Female', '*Genotype', 'Humans', 'Male', 'Maternal Age', 'Middle Aged', 'New York', '*Paternal Age', 'Pregnancy', '*Prenatal Diagnosis', 'Registries', 'Regression Analysis', 'Risk']

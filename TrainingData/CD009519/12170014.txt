@@ -1,0 +1,3 @@
+Increased FDG uptake in the right cardiac chambers in a patient with pulmonary emphysema.
+?
+['Adenocarcinoma/*diagnostic imaging', '*Fluorodeoxyglucose F18', 'Heart Diseases/diagnostic imaging/etiology', 'Humans', 'Hypertension, Pulmonary/complications', 'Hypertrophy, Right Ventricular/*diagnostic imaging/etiology', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', 'Pulmonary Emphysema/complications', 'Radiography', 'Radiopharmaceuticals', 'Tomography, Emission-Computed']

@@ -1,0 +1,3 @@
+An additional report of prenatal detection of mosaic isochromosome 20q at amniocentesis.
+?
+['Amniocentesis/*methods', 'Chromosomes, Human, Pair 20/*genetics', 'Female', 'Humans', 'Isochromosomes/*genetics', '*Mosaicism', 'Pregnancy']

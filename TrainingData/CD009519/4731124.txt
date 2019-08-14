@@ -1,0 +1,3 @@
+Lower tracheal and carinal resection associated with subtotal oesophagectomy for carcinoma of oesophagus involving trachea.
+?
+['Adult', 'Bronchial Neoplasms/*surgery', 'Carcinoma, Squamous Cell/epidemiology/*surgery', 'Esophageal Neoplasms/epidemiology/*surgery', 'Female', 'Humans', 'Male', 'Middle Aged', 'Postoperative Care', 'Tomography', 'Tracheal Neoplasms/*surgery', 'United Kingdom', 'Zimbabwe']

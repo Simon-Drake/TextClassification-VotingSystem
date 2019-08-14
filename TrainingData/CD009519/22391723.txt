@@ -1,0 +1,3 @@
+Sarcomatoid carcinoma (carcinosarcoma) of the lung mimics malignant pleural mesothelioma on 18F-FDG PET/CT: a report of 2 cases.
+?
+['Aged', 'Carcinosarcoma/*diagnostic imaging/pathology/physiopathology', 'Diagnosis, Differential', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/pathology/physiopathology', 'Male', 'Mesothelioma/*diagnostic imaging', 'Middle Aged', '*Multimodal Imaging', 'Pleural Neoplasms/*diagnostic imaging', '*Positron-Emission Tomography', '*Tomography, X-Ray Computed']

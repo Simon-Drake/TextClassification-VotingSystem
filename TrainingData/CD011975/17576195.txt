@@ -1,0 +1,3 @@
+Antenatal care implications of population-based trends in Down syndrome birth rates.
+?
+['Down Syndrome/*diagnosis', 'Female', 'Humans', 'Maternal Health Services', '*Medically Underserved Area', 'Pregnancy', '*Prenatal Care', '*Prenatal Diagnosis', 'Queensland']

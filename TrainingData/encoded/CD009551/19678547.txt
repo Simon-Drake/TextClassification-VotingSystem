@@ -1,0 +1,1 @@
+MeSHAminoAcids MeSHSulfu MeSHAnti-BacterialAgent MeSHAnti-InfectiveAgent MeSHAntifungalAgent MeSHDNAPrimers MeSHDNA MeSHFunga MeSHDNA MeSHRibosoma MeSHEscherichiacol MeSHFung MeSHGeneAmplification MeSHHumans MeSHMetschnikowi MeSHPiperidine MeSHPolymeraseChainReaction MeSHProteusvulgari MeSHViti

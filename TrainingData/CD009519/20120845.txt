@@ -1,0 +1,3 @@
+Recurrent urothelial carcinoma with pulmonary metastasis.
+?
+['Antineoplastic Agents/therapeutic use', 'Carcinoma, Papillary/diagnostic imaging/*secondary', 'Cisplatin/therapeutic use', 'Female', 'Humans', 'Kidney Neoplasms/*pathology', 'Lung Neoplasms/diagnostic imaging/*secondary', 'Middle Aged', 'Neoplasm Recurrence, Local/drug therapy', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed', 'Urinary Bladder Neoplasms/diagnostic imaging/*secondary']

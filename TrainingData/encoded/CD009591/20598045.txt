@@ -1,0 +1,1 @@
+MeSHAdult MeSHEmbryoImplantation MeSHEmbryoTransfer MeSHFemale MeSHFertilizationinVitro MeSHHumans MeSHInfertility MeSHLogisticModels MeSHMagneticResonanceImaging MeSHMale MeSHOddsRatio MeSHPregnancy MeSHProspectiveStudies MeSHTreatmentOutcome MeSHUterus

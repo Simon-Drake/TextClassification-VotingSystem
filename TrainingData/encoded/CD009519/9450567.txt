@@ -1,0 +1,1 @@
+MeSHBreastNeoplasm MeSHCarcinoma MeSHNon-Small-CellLun MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHMedicare MeSHTomography MeSHEmission-Compute MeSHUnitedStates

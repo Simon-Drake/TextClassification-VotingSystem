@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHDentalRecords MeSHDiagnosis MeSHDifferential MeSHDiagnosticError MeSHFemale MeSHHumans MeSHLiability MeSHLegal MeSHMale MeSHMalpractic MeSHMouthNeoplasm MeSHPhysicalExamination MeSHReferralandConsultation

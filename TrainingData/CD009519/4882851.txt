@@ -1,0 +1,3 @@
+[Primary lymphoblastomas of the lung].
+?
+['Adult', 'Aged', 'Female', 'Humans', '*Lung Neoplasms/diagnosis/diagnostic imaging/surgery', '*Lymphoma/classification/diagnosis/diagnostic imaging/surgery', 'Lymphoma, Follicular', 'Lymphoma, Large B-Cell, Diffuse', 'Lymphoma, Non-Hodgkin', 'Male', 'Middle Aged', 'Prognosis', 'Radiography', 'Tomography']

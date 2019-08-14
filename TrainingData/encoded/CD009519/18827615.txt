@@ -1,0 +1,1 @@
+MeSHAged MeSHCarcinoma MeSHSmallCel MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHMediastinalNeoplasm MeSHPositron-EmissionTomograph MeSHRadiopharmaceuticals MeSHRecurrentLaryngealNerv MeSHTomography MeSHX-RayCompute MeSHVocalCordParalysi MeSHVocalCord

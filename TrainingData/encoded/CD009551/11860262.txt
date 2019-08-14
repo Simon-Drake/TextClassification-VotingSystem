@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHCloning MeSHMolecular MeSHFungalProtein MeSHGeneExpressionRegulation MeSHFungal MeSHGlyceraldehyde-3-PhosphateDehydrogenase MeSHMolecularSequenceData MeSHMuco MeSHPromoterRegions MeSHGenetic MeSHRecombinantProtein MeSHTranscription MeSHGenetic

@@ -1,0 +1,3 @@
+Contingent screening for Down syndrome.
+?
+['Down Syndrome/*diagnosis', 'Female', 'Humans', 'Pregnancy', 'Prenatal Diagnosis/*methods', 'Risk']

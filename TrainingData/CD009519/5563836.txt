@@ -1,0 +1,3 @@
+[Isolated papillomas of the bronchus].
+?
+['Age Factors', '*Bronchial Neoplasms/diagnosis/diagnostic imaging', 'Bronchoscopy', 'Humans', 'Male', 'Middle Aged', '*Papilloma/diagnosis/diagnostic imaging', 'Radiography', 'Sex Factors', 'Tomography']

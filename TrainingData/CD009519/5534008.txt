@@ -1,0 +1,3 @@
+[Radiodiagnosis of the esophagus in bronchial carcinoma in relation to tumor stage (TNM), tumor localization and histology].
+?
+['Bronchial Neoplasms/classification/diagnostic imaging', 'Carcinoma, Squamous Cell/diagnostic imaging', 'Contrast Media', 'Diagnosis, Differential', 'Esophageal Neoplasms/*diagnostic imaging/pathology', 'Humans', 'Lymphatic Metastasis', 'Neoplasm Metastasis', 'Prognosis', 'Radiography', 'Statistics as Topic', 'Tomography']

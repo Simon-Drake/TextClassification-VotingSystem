@@ -1,0 +1,3 @@
+[Resections in primary sarcoma of the lungs].
+?
+['Fibrosarcoma/*surgery', 'Humans', 'Lung Neoplasms/*surgery', '*Pneumonectomy', 'Radiography, Thoracic', 'Sarcoma/*surgery', 'Tomography']

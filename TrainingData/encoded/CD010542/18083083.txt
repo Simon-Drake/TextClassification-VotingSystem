@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHCollagenTypeVI MeSHDiseaseProgression MeSHElasticity MeSHElasticityImagingTechnique MeSHFattyLive MeSHFemale MeSHFollow-UpStudies MeSHHumans MeSHLive MeSHLiverCirrhosi MeSHMale MeSHMiddleAged MeSHProspectiveStudies MeSHROCCurve MeSHSeverityofIllnessIndex MeSHTomography MeSHX-RayComputed

@@ -1,0 +1,3 @@
+[Study of the hepatobiliary system using 99mTc-p-butyl-IDA].
+?
+['Biliary Tract/*diagnostic imaging', 'Biliary Tract Diseases/diagnostic imaging', 'Gastrointestinal Diseases/diagnostic imaging', 'Humans', '*Imino Acids', 'Liver/*diagnostic imaging', 'Liver Neoplasms/diagnostic imaging/secondary', 'Lung Neoplasms/diagnostic imaging', '*Organotechnetium Compounds', '*Technetium', 'Tomography, Emission-Computed']

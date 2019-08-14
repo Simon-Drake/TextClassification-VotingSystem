@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHNon-Small-CellLun MeSHCostSavings MeSHDeoxyglucos MeSHFluorineRadioisotopes MeSHFluorodeoxyglucoseF18 MeSHHospitalCosts MeSHHumans MeSHLungNeoplasm MeSHMediastinalNeoplasm MeSHNeoplasmStagin MeSHSolitaryPulmonaryNodul MeSHTomography MeSHEmission-Compute

@@ -1,0 +1,3 @@
+Tenth anniversary of preimplantation genetic diagnosis.
+?
+['Aneuploidy', '*Blastocyst', 'Female', 'Genetic Diseases, Inborn/*diagnosis', 'Genetic Testing', 'Humans', 'Male', 'Pregnancy', '*Preimplantation Diagnosis', 'Translocation, Genetic/physiology']

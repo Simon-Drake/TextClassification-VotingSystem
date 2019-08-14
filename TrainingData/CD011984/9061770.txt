@@ -1,0 +1,3 @@
+Stability of hCG free beta-subunit and beta-core fragment in urine.
+?
+['Chorionic Gonadotropin, beta Subunit, Human/*urine', 'Down Syndrome/*diagnosis/urine', 'Female', 'Humans', 'Pregnancy', '*Prenatal Diagnosis']

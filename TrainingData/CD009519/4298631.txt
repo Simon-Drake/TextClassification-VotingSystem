@@ -1,0 +1,3 @@
+[Pathology and clinical picture of alveolar-cell carcinoma appearing as a circular focus].
+?
+['Adenocarcinoma, Bronchiolo-Alveolar/*diagnostic imaging/pathology/surgery', 'Adult', 'Aged', 'Diagnosis, Differential', 'Female', 'Follow-Up Studies', 'Humans', 'Lung Neoplasms/*diagnostic imaging/pathology/surgery', 'Male', 'Middle Aged', 'Pneumonectomy', 'Pulmonary Alveoli/pathology', 'Radiography', 'Tomography']

@@ -1,0 +1,1 @@
+MeSHAntineoplasticAgent MeSHCarcinoma MeSHPapillar MeSHCisplati MeSHFemale MeSHHumans MeSHKidneyNeoplasm MeSHLungNeoplasm MeSHMiddleAged MeSHNeoplasmRecurrence MeSHLoca MeSHPositron-EmissionTomography MeSHTomography MeSHX-RayComputed MeSHUrinaryBladderNeoplasm

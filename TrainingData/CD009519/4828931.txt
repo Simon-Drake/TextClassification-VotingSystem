@@ -1,0 +1,3 @@
+[Clinico-radiological aspects of peripheral pulmonary cancer].
+?
+['Bronchitis/diagnosis', 'Cough/etiology', 'Cysts/diagnosis', 'Diagnosis, Differential', 'Dyspnea/etiology', 'Hemoptysis/etiology', 'Humans', 'Influenza, Human/diagnosis', 'Lung Abscess/diagnosis', 'Lung Diseases/*diagnosis', 'Lung Neoplasms/complications/*diagnosis/diagnostic imaging', 'Pneumonia/diagnosis', 'Radiography, Thoracic', 'Respiratory Function Tests', 'Tomography', 'Tuberculosis, Pulmonary/diagnosis']

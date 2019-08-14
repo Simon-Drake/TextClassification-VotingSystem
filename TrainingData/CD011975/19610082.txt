@@ -1,0 +1,3 @@
+Prenatal diagnosis of mosaic complete trisomy 1q.
+?
+['Brain Diseases/diagnostic imaging', 'Chromosomes, Human, Pair 1/*genetics', 'Fatal Outcome', 'Female', 'Gestational Age', 'Hand Deformities, Congenital/genetics', 'Humans', 'Infant, Newborn', 'Karyotyping', 'Male', '*Mosaicism', 'Phenotype', 'Pregnancy', '*Prenatal Diagnosis', 'Trisomy/*diagnosis/*genetics', 'Ultrasonography', 'Young Adult']

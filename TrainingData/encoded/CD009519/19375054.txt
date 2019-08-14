@@ -1,0 +1,1 @@
+MeSHHumans MeSHLun MeSHLungNeoplasm MeSHOutcomeAssessment(HealthCare) MeSHPositron-EmissionTomography MeSHReproducibilityofResults

@@ -1,0 +1,3 @@
+False-positive maternal serum screening in systemic lupus erythematosis: a case report.
+?
+['Adult', 'Amniocentesis', 'Biomarkers/*blood', 'Down Syndrome/*diagnosis', 'False Positive Reactions', 'Female', 'Humans', 'Infant, Newborn', 'Lupus Coagulation Inhibitor/*blood', '*Lupus Erythematosus, Systemic', 'Pregnancy', '*Pregnancy Complications', 'Pregnancy Trimester, Second', '*Prenatal Diagnosis']

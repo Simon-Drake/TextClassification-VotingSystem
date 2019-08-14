@@ -1,0 +1,3 @@
+A rational approach to prenatal screening and intervention.
+?
+['Abortion, Induced', 'Breast Neoplasms/genetics/prevention & control', 'Down Syndrome/diagnosis/genetics/prevention & control', 'Ethics, Medical', 'Female', 'Genes, BRCA1', 'Genetic Counseling', '*Genetic Testing', 'Humans', 'Mutation', 'Pregnancy', '*Prenatal Diagnosis']

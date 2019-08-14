@@ -1,0 +1,3 @@
+[Pulmonary metastatic angiosarcoma].
+?
+['Hemangiosarcoma/*pathology/*secondary', 'Humans', 'Lung Neoplasms/*secondary', 'Male', 'Middle Aged', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed', 'Vascular Neoplasms/pathology', 'Vena Cava, Superior/pathology']

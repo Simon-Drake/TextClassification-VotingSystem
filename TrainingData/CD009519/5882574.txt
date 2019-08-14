@@ -1,0 +1,3 @@
+[Eye symptoms as first manifestations of bronchial carcinoma].
+?
+['Aged', 'Blindness/etiology', 'Bronchial Neoplasms/*diagnosis', 'Bronchoscopy', 'Humans', 'Male', 'Middle Aged', 'Neoplasm Metastasis/*diagnosis', 'Optic Nerve/*physiopathology', 'Radiography, Thoracic', 'Radiotherapy', 'Retinal Detachment/*etiology', 'Tomography']

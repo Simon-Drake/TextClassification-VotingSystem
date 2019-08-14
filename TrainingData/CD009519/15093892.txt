@@ -1,0 +1,3 @@
+FDG-PET in radiotherapy treatment planning: Pandora's box?
+?
+['Carcinoma, Non-Small-Cell Lung/*diagnostic imaging', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Radiation Oncology/standards', '*Radiopharmaceuticals', '*Tomography, Emission-Computed', 'Tomography, X-Ray Computed', 'Treatment Outcome']

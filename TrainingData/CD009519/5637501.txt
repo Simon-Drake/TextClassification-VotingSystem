@@ -1,0 +1,3 @@
+Endobronchial teratoma associated with bronchiectasis and bronchiolectasis.
+?
+['Bronchial Neoplasms/*complications/diagnostic imaging/pathology', 'Bronchiectasis/*complications/pathology', 'Bronchography', 'Diagnosis, Differential', 'Humans', 'Male', 'Mycetoma/diagnostic imaging', 'Pneumonectomy', 'Teratoma/*complications/diagnostic imaging/pathology', 'Tomography']

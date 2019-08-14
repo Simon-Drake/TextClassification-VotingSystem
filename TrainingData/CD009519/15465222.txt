@@ -1,0 +1,3 @@
+In regard to Paulino and Johnstone: Use of PET and CT imaging data in radiation therapy planning. Int J Radit Oncol Biol Phys 2004;59:4-5.
+?
+['Carcinoma, Non-Small-Cell Lung/*diagnostic imaging', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Radiation Oncology/standards', '*Radiopharmaceuticals', 'Tomography, Emission-Computed', 'Tomography, X-Ray Computed']

@@ -1,0 +1,1 @@
+MeSHCost-BenefitAnalysis MeSHDatabases MeSHFactual MeSHDiagnosticImagin MeSHEconomics MeSHMedical MeSHFemale MeSHGermany MeSHHealthCareCosts MeSHHumans MeSHMale MeSHNeoplasm MeSHPatientCarePlannin MeSHPatientSelection MeSHPositron-EmissionTomograph MeSHPrecisionMedicin MeSHRetrospectiveStudies MeSHTomography MeSHX-RayCompute

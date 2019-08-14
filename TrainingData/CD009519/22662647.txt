@@ -1,0 +1,3 @@
+Pulmonary sarcoidosis mimicking multiple pulmonary metastases.
+?
+['Aged', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnosis/*secondary', 'Male', 'Positron-Emission Tomography', 'Sarcoidosis/*diagnosis', 'Tomography, X-Ray Computed']

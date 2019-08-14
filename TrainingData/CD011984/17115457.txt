@@ -1,0 +1,3 @@
+Limited value of echography to predict true fetal mosaicism for trisomy 12.
+?
+['Abortion, Induced', 'Adult', 'Chromosome Disorders/*diagnosis/genetics', '*Chromosomes, Human, Pair 12', '*Electrocardiography', 'Female', 'Humans', '*Mosaicism', 'Predictive Value of Tests', 'Pregnancy', 'Prenatal Diagnosis/*methods', '*Trisomy']

@@ -1,0 +1,3 @@
+Ultrasonographic screening for fetal chromosomal abnormalities in early pregnancy.
+?
+['*Aneuploidy', 'Chromosome Aberrations/*diagnostic imaging/embryology', 'Chromosome Disorders', 'Female', 'Fetal Diseases/diagnostic imaging', 'Humans', 'Pregnancy', 'Pregnancy Complications/*diagnostic imaging', 'Pregnancy Trimester, Second', '*Ultrasonography, Prenatal']

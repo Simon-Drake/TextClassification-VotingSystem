@@ -1,0 +1,3 @@
+Maternal serum total hCG and free beta-hCG in the first trimester from trisomy 21 pregnancies.
+?
+['Adult', 'Chorionic Gonadotropin, beta Subunit, Human/*blood', 'Down Syndrome/*blood/diagnosis', 'Female', 'Humans', 'Pregnancy/*blood', '*Pregnancy Trimester, First', 'Reference Values']

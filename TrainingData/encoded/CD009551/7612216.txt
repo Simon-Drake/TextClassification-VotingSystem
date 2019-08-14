@@ -1,0 +1,1 @@
+MeSHAcidPhosphatas MeSHAminoAcidSequence MeSHAspergillu MeSHBaseSequence MeSHCloning MeSHMolecular MeSHMolecularSequenceData MeSHPhyticAci MeSHRecombinantProtein

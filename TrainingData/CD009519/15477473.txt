@@ -1,0 +1,3 @@
+Using 18F-fluoro-2-deoxyglucose positron emission tomography to detect primary lung cancer in an isolated choroidal metastasis.
+?
+['Choroid Neoplasms/*secondary', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/*pathology', 'Magnetic Resonance Imaging', 'Male', 'Middle Aged', 'Radiopharmaceuticals', 'Tomography, Emission-Computed/*methods']

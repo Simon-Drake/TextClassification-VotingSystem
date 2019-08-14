@@ -1,0 +1,1 @@
+MeSHAbdominalPain MeSHAdult MeSHBiomarkers MeSHTumor MeSHCarcinoma MeSHEndometrioid MeSHDiagnosis MeSHDifferential MeSHEndodermalSinusTumor MeSHFemale MeSHHumans MeSHImmunohistochemistry MeSHOvarianNeoplasms MeSHTomography MeSHX-RayComputed MeSHYolkSac MeSHalpha-Fetoproteins

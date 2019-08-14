@@ -1,0 +1,3 @@
+Whole-body magnetic resonance imaging: a viable alternative to positron emission tomography/CT in the evaluation of neoplastic diseases.
+?
+['Humans', 'Lung Neoplasms/*diagnosis', 'Magnetic Resonance Imaging/economics/*standards', 'Neoplasm Staging', 'Positron-Emission Tomography/economics/*standards', 'Whole Body Imaging/economics/*standards']

@@ -1,0 +1,3 @@
+[Solitary pulmonary nodule--still actual diagnostic problem].
+?
+['Diagnosis, Differential', 'Diagnostic Errors/prevention & control', 'Diagnostic Imaging/methods', 'Humans', 'Image Interpretation, Computer-Assisted', 'Lung Diseases/diagnosis/diagnostic imaging/pathology', 'Lung Neoplasms/diagnosis/diagnostic imaging/pathology', 'Radiographic Image Enhancement', 'Radiography, Thoracic', 'Solitary Pulmonary Nodule/*diagnosis', 'Tomography, Emission-Computed/methods', 'Tomography, X-Ray Computed/methods']

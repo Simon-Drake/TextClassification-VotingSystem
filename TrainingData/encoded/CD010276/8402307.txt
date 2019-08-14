@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHHumans MeSHMedicalHistoryTaking MeSHMouthNeoplasm MeSHPhysicalExamination MeSHPrecancerousCondition

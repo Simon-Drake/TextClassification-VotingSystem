@@ -1,0 +1,1 @@
+MeSHAceticAcid MeSHAlcoholDrinking MeSHBiopsy MeSHColoringAgents MeSHCytodiagnosi MeSHEpitheliu MeSHErythroplasi MeSHFemale MeSHHumans MeSHLeukoplakia MeSHOra MeSHMale MeSHMouthMucos MeSHMouthNeoplasm MeSHPrecancerousCondition MeSHSensitivityandSpecificity MeSHSmoking MeSHToloniumChloride

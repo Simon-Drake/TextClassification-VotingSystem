@@ -1,0 +1,1 @@
+MeSHAmnioticFluid MeSHChromosomes MeSHHuman MeSHPair18 MeSHCollagenTypeI MeSHDownSyndrome MeSHFemale MeSHFetalProteins MeSHGestationalAge MeSHHumans MeSHImmunoelectrophoresis MeSHPeptideFragments MeSHPregnancy MeSHProcollagen MeSHRadioimmunoassay MeSHReferenceValues MeSHTrisomy

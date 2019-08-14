@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHRenalCel MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHKidneyNeoplasm MeSHKidneyTransplantatio MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPositron-EmissionTomograph MeSHRadiopharmaceuticals MeSHTomography MeSHX-RayCompute MeSHUrinationDisorder

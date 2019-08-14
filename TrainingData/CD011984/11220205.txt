@@ -1,0 +1,3 @@
+High immunocontent of S100 beta protein in amniotic fluid of pregnancies with Down syndrome.
+?
+['Amniocentesis', 'Amniotic Fluid/*chemistry', 'Analysis of Variance', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Pregnancy', 'S100 Proteins/*analysis']

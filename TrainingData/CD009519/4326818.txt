@@ -1,0 +1,3 @@
+[An anatomo-clinical and therapeutic study of alveolobronchiolar carcinoma].
+?
+['Adenocarcinoma, Bronchiolo-Alveolar/*diagnosis/surgery', 'Bronchography', 'Female', 'Histological Techniques', 'Humans', 'Lung Neoplasms/*diagnosis/surgery', 'Middle Aged', 'Pneumonectomy', 'Radiography, Thoracic', 'Tomography']

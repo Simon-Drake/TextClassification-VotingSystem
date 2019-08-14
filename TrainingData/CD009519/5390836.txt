@@ -1,0 +1,3 @@
+[Carcinoma blockage of central bronchi without poststenotic obstructive atelectasis with unilateral perfusion throttling and collateral circulation in the pulmonary circulatory system (comparison of native and tomographic findings with the perfusion scintigram)].
+?
+['Bronchial Diseases/etiology', 'Bronchial Neoplasms/complications/*diagnosis/diagnostic imaging/physiopathology', 'Collateral Circulation', 'Humans', 'Male', 'Middle Aged', 'Perfusion', 'Pulmonary Atelectasis/etiology', 'Pulmonary Circulation', 'Radiography', '*Radionuclide Imaging', 'Respiration', '*Tomography']

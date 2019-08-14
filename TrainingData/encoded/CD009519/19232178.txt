@@ -1,0 +1,1 @@
+MeSHCryptogenicOrganizingPneumoni MeSHDiagnosis MeSHDifferential MeSHFalsePositiveReactions MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPositron-EmissionTomography MeSHSolitaryPulmonaryNodul MeSHTomography MeSHX-RayComputed

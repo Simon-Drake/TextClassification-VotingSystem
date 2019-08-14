@@ -1,0 +1,3 @@
+Simple chemical extraction method for DNA isolation from Aspergillus fumigatus and other Aspergillus species.
+DNA was successfully isolated from numerous Aspergillus spp. by use of a commercial kit. DNA that was easily digested and yielded PCR products up to 8.5 kb in size was recovered from broth or agar cultures. The ease and speed of this protocol provide an alternative to physical methods of DNA isolation.
+['Aspergillus/*genetics/isolation & purification', 'Aspergillus fumigatus/*genetics/isolation & purification', 'Base Sequence', 'Blotting, Southern/methods', 'DNA Primers', 'DNA, Fungal/*isolation & purification', 'Humans', 'Polymerase Chain Reaction/methods', 'Reagent Kits, Diagnostic']

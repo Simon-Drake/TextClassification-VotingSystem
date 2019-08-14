@@ -1,0 +1,3 @@
+Lobar extent of pulmonary lymphangitic carcinomatosis. Tl-201 chloride and Tc-99m MIBI scintigraphic findings.
+Two cases of histologically proven lobar pulmonary lymphangitic carcinomatosis are reported in which well-defined sites of accumulation of Tl-201 and Tc-99m MIBI were observed. The combination of Tl-201 and Tc-99m MIBI SPECT can detect the extent of pulmonary lymphangitic carcinomatosis.
+['Aged', 'Female', 'Humans', 'Lung/*diagnostic imaging', 'Lung Neoplasms/*diagnostic imaging', 'Lymph Nodes/diagnostic imaging', 'Lymphatic Metastasis/diagnostic imaging', 'Mediastinum/diagnostic imaging', 'Middle Aged', 'Radiography', 'Technetium Tc 99m Sestamibi', '*Thallium', '*Thallium Radioisotopes', 'Tomography, Emission-Computed, Single-Photon']

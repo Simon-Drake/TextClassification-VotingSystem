@@ -1,0 +1,3 @@
+Detection of Down's syndrome.
+?
+['Down Syndrome/*diagnostic imaging', 'Humans', 'Nasal Bone/*diagnostic imaging', 'Neck/diagnostic imaging', '*Ultrasonography, Prenatal']

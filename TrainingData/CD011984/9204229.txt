@@ -1,0 +1,3 @@
+Fetal testing in twins.
+The incidence of twin pregnancies continues to rise with increasing use of assisted fertility techniques. The search for accurate methods of chorionicity determination and aneuploidy screening, and the outcome following multi-fetal pregnancy reduction dominate the recent literature. In addition, debate on the aetiology and management of the transfusional complications of monochorionicity continues.
+['Chromosome Aberrations/diagnosis', 'Chromosome Disorders', 'Female', 'Fetal Diseases/diagnosis', 'Fetal Monitoring/*methods', 'Gestational Age', 'Humans', 'Mass Screening/methods', 'Pregnancy', 'Pregnancy Complications/therapy', 'Pregnancy Outcome', 'Reproducibility of Results', '*Twins', 'Ultrasonography, Prenatal/methods']

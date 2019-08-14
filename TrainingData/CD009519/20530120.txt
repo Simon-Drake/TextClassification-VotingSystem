@@ -1,0 +1,3 @@
+Benign intercostal schwannoma mimicking a solitary metastasis from lung cancer.
+?
+['Adenocarcinoma, Bronchiolo-Alveolar/diagnosis/*secondary', 'Diagnosis, Differential', 'Female', 'Humans', '*Intercostal Nerves', 'Lung Neoplasms/*diagnosis', 'Magnetic Resonance Imaging', 'Middle Aged', 'Neoplasms, Multiple Primary/*diagnosis', 'Neurilemmoma/*diagnosis', 'Peripheral Nervous System Neoplasms/diagnosis/*secondary', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed']

@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHDiagnosticImaging MeSHHumans MeSHLungNeoplasm MeSHNeoplasmStagin MeSHPathology MeSHSurgical

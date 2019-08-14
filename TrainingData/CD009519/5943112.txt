@@ -1,0 +1,3 @@
+Primary pulmonary lymphoma. Review of the literature and two case reports.
+?
+['Humans', '*Lung Neoplasms', '*Lymphoma', 'Male', 'Middle Aged', 'Pneumonectomy', 'Radiography, Thoracic', 'Tomography']

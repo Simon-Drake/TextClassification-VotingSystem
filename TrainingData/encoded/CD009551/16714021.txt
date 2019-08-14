@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHBaseSequence MeSHDNAPrimers MeSHGenome MeSHFungal MeSHMatingFactor MeSHMolecularSequenceData MeSHPenicilliu MeSHPeptide MeSHPhylogeny MeSHPolymeraseChainReaction MeSHSequenceHomology MeSHAminoAcid

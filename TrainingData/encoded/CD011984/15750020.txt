@@ -1,0 +1,1 @@
+MeSHAbnormalities MeSHMultiple MeSHAdult MeSHAmnioticFluid MeSHAneuploidy MeSHCells MeSHCultured MeSHChromosomeBanding MeSHChromosomes MeSHHuman MeSHPair12 MeSHCytogeneticAnalysis MeSHFemale MeSHHumans MeSHInSituHybridization MeSHFluorescence MeSHIsochromosomes MeSHKaryotyping MeSHMetaphase MeSHMosaicism MeSHSyndrome

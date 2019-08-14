@@ -1,0 +1,1 @@
+MeSHAdult MeSHFemale MeSHHumans MeSHJa MeSHJawDisease MeSHJawNeoplasm MeSHMale MeSHMolar MeSHThir MeSHOralSurgicalProcedure MeSHPatientCarePlanning MeSHPreoperativeCare MeSHRadiography MeSHDenta MeSHSurgery MeSHComputer-Assisted MeSHTomography MeSHX-RayCompute MeSHTooth MeSHImpacte

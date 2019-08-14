@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAged MeSHBoneMarro MeSHCarcinom MeSHCarcinoma MeSHNon-Small-CellLun MeSHFluorodeoxyglucoseF1 MeSHGranulocyteColony-StimulatingFacto MeSHGranulocyte MeSHHumans MeSHLeukocyteCount MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPositron-EmissionTomography MeSHTomography MeSHX-RayComputed

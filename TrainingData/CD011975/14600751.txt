@@ -1,0 +1,3 @@
+[The new biotechnology law and the old maternal age criterium].
+?
+['Amniocentesis/ethics', 'Biotechnology/*legislation & jurisprudence', 'Down Syndrome/prevention & control', 'Female', 'Humans', '*Maternal Age', 'Norway', 'Pregnancy', '*Pregnancy, High-Risk', 'Prenatal Diagnosis/*ethics', 'Ultrasonography, Prenatal/ethics']

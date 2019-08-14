@@ -1,0 +1,3 @@
+[Role of (18)F-FDG PET for therapeutic monitoring in non-small-cell lung cancer].
+?
+['Carcinoma, Non-Small-Cell Lung/*diagnostic imaging/therapy', 'Humans', 'Lung Neoplasms/*diagnostic imaging/therapy', '*Positron-Emission Tomography', 'Treatment Outcome']

@@ -1,0 +1,1 @@
+MeSHBiomarkers MeSHTumo MeSHCarcinoma MeSHSquamousCel MeSHCheckpointKinase2 MeSHCohortStudies MeSHFemale MeSHHumans MeSHImmunohistochemistry MeSHMale MeSHMouthNeoplasm MeSHPrecancerousCondition MeSHProtein-Serine-ThreonineKinase MeSHRetrospectiveStudies

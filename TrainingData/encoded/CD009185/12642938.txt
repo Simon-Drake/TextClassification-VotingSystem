@@ -1,0 +1,1 @@
+MeSHBiomarker MeSHC-ReactiveProtei MeSHCase-ControlStudies MeSHEndocarditis MeSHBacteria MeSHEnzyme-LinkedImmunosorbentAssay MeSHHeartValveDisease MeSHHumans MeSHInterleukin- MeSHPredictiveValueofTests MeSHSensitivityandSpecificity MeSHTimeFactors MeSHUrinaryTractInfection

@@ -1,0 +1,3 @@
+Screening for a 21-chromosome abnormality in preimplanted embryos of elderly women.
+?
+['Adult', '*Chromosome Aberrations', '*Chromosomes, Human, Pair 21', 'Down Syndrome/*diagnosis', 'Female', '*Fertilization in Vitro', 'Humans', 'In Situ Hybridization, Fluorescence', 'Maternal Age', 'Pregnancy', 'Pregnancy, High-Risk', '*Preimplantation Diagnosis']

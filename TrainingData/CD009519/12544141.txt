@@ -1,0 +1,3 @@
+The heart or a tumor? Lung cancer in the lower left thorax can mimic myocardial FDG uptake on PET imaging.
+?
+['Carcinoma, Squamous Cell/*diagnostic imaging', 'Diagnosis, Differential', '*Fluorodeoxyglucose F18', 'Heart/*diagnostic imaging', 'Humans', 'Lung/diagnostic imaging', 'Lung Neoplasms/*diagnostic imaging', 'Middle Aged', '*Radiopharmaceuticals', 'Thorax/diagnostic imaging', '*Tomography, Emission-Computed']

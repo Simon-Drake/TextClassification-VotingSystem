@@ -1,0 +1,1 @@
+MeSHAdult MeSHCough MeSHDiaphragm MeSHEndometriosis MeSHEndoscopy MeSHFemale MeSHHumans MeSHLungDiseases MeSHMenstruation MeSHMuscularDiseases MeSHPleuralDiseases MeSHPneumothorax MeSHThoracoscopy

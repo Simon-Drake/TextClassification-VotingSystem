@@ -1,0 +1,1 @@
+MeSHAdult MeSHAged MeSHCarcinoma MeSHNon-Small-CellLun MeSHFemale MeSHFluorodeoxyglucoseF1 MeSHHumans MeSHKaplan-MeierEstimate MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPositron-EmissionTomograph MeSHRadiopharmaceutical MeSHRadiosurgery MeSHRetrospectiveStudies MeSHTomography MeSHX-RayComputed MeSHTreatmentFailure

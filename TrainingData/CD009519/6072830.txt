@@ -1,0 +1,3 @@
+[Roentogenological diagnosis of lung diseases, essential in general surgery].
+?
+['Adult', 'Bronchography', 'Female', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', '*Radiography, Thoracic', 'Tomography']

@@ -1,0 +1,3 @@
+Screening for cancer: colon, lung and skin cancers.
+?
+['Colonic Neoplasms/*diagnosis', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Melanoma/*diagnosis/pathology', 'Occult Blood', 'Sensitivity and Specificity', 'Sigmoidoscopy', 'Skin Neoplasms/*diagnosis/pathology', 'Tomography, Spiral Computed']

@@ -1,0 +1,3 @@
+Maternal serum screening for neural tube defects and Down's syndrome.
+?
+['Australia', 'Down Syndrome/*prevention & control', 'Female', 'Humans', 'Mass Screening/*organization & administration', 'Neural Tube Defects/*prevention & control', 'Pregnancy', '*Prenatal Diagnosis']

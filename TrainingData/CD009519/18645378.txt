@@ -1,0 +1,3 @@
+F-18 FDG PET imaging in a patient with granulocyte colony stimulating factor producing pulmonary pleomorphic carcinoma.
+?
+['Adenoma, Pleomorphic/*blood/complications/*diagnostic imaging', 'Aged', 'Biomarkers, Tumor/blood', 'Bone Marrow Diseases/*blood/*diagnostic imaging/etiology', 'Diagnosis, Differential', '*Fluorodeoxyglucose F18', 'Granulocyte Colony-Stimulating Factor/*blood', 'Humans', 'Hyperplasia/blood/diagnostic imaging/etiology', 'Lumbar Vertebrae/diagnostic imaging', 'Lung Neoplasms/*blood/complications/*diagnostic imaging', 'Male', 'Positron-Emission Tomography/*methods', 'Radiopharmaceuticals', 'Spinal Neoplasms/diagnostic imaging/secondary']

@@ -1,0 +1,3 @@
+Cost-effectiveness and Down syndrome.
+?
+['Cost-Benefit Analysis', '*Decision Support Techniques', 'Down Syndrome/*diagnosis', 'Humans', 'Mass Screening/*economics', 'Prenatal Diagnosis/*economics', 'Sensitivity and Specificity', 'Spain']

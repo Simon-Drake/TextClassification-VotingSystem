@@ -1,0 +1,3 @@
+[Importance of transverse axial tomography in the study of bronchopulmonary tumors].
+?
+['Humans', 'Lung Neoplasms/*diagnosis', '*Neoplasms', '*Tomography', '*Tomography, X-Ray Computed']

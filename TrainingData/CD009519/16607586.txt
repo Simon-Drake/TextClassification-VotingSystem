@@ -1,0 +1,3 @@
+[Significance of radiology for occupational and environmental lung diseases].
+?
+['Air Pollutants/*adverse effects', 'Air Pollutants, Occupational/*adverse effects', 'Causality', 'Diagnosis, Differential', 'Germany', 'Humans', 'Lung Neoplasms/*diagnostic imaging/mortality', 'Mass Screening', 'Neoplasms, Radiation-Induced/*diagnostic imaging/mortality', 'Occupational Diseases/*diagnostic imaging/mortality', 'Pneumoconiosis/*diagnostic imaging/mortality', 'Pulmonary Fibrosis/*diagnostic imaging/mortality', 'Sensitivity and Specificity', '*Tomography, Spiral Computed']

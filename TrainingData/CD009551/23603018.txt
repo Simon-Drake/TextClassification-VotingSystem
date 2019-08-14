@@ -1,0 +1,3 @@
+A rapid DNA assembling strategy mediated by direct full-length polymerase chain reaction.
+An efficient DNA assembling strategy was developed here modified from Class-IIS endonuclease mediated DNA splicing by directed ligation (SDL). Benefited from the full-length PCR directly using ligation products as template, this strategy required less effort and less time to obtain the assembled full-length DNA. The advantages of this strategy made it a rapid and easy-to-perform gene splicing and multiple site-directed mutagenesis approach especially practicable when more fragments need to be assembled at the same time.
+['Aspergillus niger/genetics', 'Cloning, Molecular/*methods', 'DNA, Complementary', 'Gene Order', 'Genome, Fungal', '*Polymerase Chain Reaction']

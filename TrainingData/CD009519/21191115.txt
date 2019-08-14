@@ -1,0 +1,3 @@
+StatBite: Comparing radiation doses from screening procedures.
+?
+['Breast Neoplasms/diagnostic imaging/*prevention & control', 'Female', 'Humans', 'Lung Neoplasms/diagnostic imaging/*prevention & control', 'Mammography', 'Mass Chest X-Ray', 'Mass Screening/*methods/statistics & numerical data', '*Radiation Dosage', 'Tomography, Spiral Computed', 'United States']

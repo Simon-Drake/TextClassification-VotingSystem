@@ -1,0 +1,3 @@
+False-negative results of trisomy 21 on direct analysis on chorionic villus sampling.
+?
+['Adult', '*Chorionic Villi Sampling', 'Down Syndrome/*diagnosis', 'False Negative Reactions', 'Female', 'Humans', 'Middle Aged', 'Pregnancy']

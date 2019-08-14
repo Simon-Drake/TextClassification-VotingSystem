@@ -1,0 +1,1 @@
+MeSHEarlyDiagnosis MeSHFemale MeSHHumans MeSHHungar MeSHIncidence MeSHLungNeoplasm MeSHMale MeSHMassChestX-Ray MeSHMassScreenin MeSHPublicHealt MeSHSensitivityandSpecificity MeSHSputu MeSHTomography MeSHSpiralComputed

@@ -1,0 +1,3 @@
+What factors regulate HCG production in Down's syndrome pregnancies?. Screening for Down's syndrome using HCG concentrations - a common practice but still an enigma.
+?
+['Biomarkers/blood', 'Chorionic Gonadotropin/*biosynthesis/blood/genetics', 'Chorionic Gonadotropin, beta Subunit, Human/blood/genetics', 'Down Syndrome/*diagnosis/genetics/*metabolism', 'Female', 'Gene Expression Regulation', 'Humans', 'Mass Screening', 'Pregnancy', 'Prenatal Diagnosis']

@@ -1,0 +1,3 @@
+False-positive results for hepatic hemangioma on Tc-99m RBC SPECT caused by a liver metastasis from small-cell lung carcinoma.
+?
+['Carcinoma, Small Cell/*diagnostic imaging/*secondary', 'Erythrocytes', 'False Positive Reactions', 'Hemangioma/*diagnostic imaging', 'Humans', 'Liver Neoplasms/*diagnostic imaging/*secondary', 'Lung Neoplasms/*pathology', 'Technetium', '*Tomography, Emission-Computed, Single-Photon']

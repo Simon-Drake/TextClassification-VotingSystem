@@ -1,0 +1,3 @@
+Transvaginal sonographic examination of the fetal nasal bone is unable to predict Down syndrome at 14-16 weeks' gestation.
+?
+['Down Syndrome/*diagnostic imaging', 'Female', 'Humans', 'Nasal Bone/*diagnostic imaging/embryology', 'Pregnancy', 'Pregnancy Trimester, Second', 'Sensitivity and Specificity', 'Ultrasonography, Prenatal/*standards']

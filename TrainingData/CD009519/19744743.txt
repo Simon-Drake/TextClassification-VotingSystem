@@ -1,0 +1,3 @@
+Plasma DNA levels in spiral CT-detected and clinically detected lung cancer patients: a validation analysis.
+?
+['Aged', 'DNA/*blood', 'Female', 'Humans', 'Lung Neoplasms/blood/*diagnosis', 'Male', 'Middle Aged', 'Tomography, Spiral Computed/*methods']

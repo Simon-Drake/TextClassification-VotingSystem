@@ -1,0 +1,3 @@
+The bronchological indications of pulmonary resections in children.
+?
+['Adolescent', 'Adult', 'Angiography', 'Animals', 'Bronchial Diseases/*surgery', 'Bronchial Neoplasms/surgery', 'Bronchiectasis/surgery', 'Cardiac Catheterization', 'Child', 'Child, Preschool', 'Echinococcosis, Pulmonary/surgery', 'Female', 'Follow-Up Studies', 'Humans', 'Hyperplasia/etiology', 'Hypertrophy/etiology', 'Lung Abscess/surgery', 'Lung Diseases/*etiology/surgery', 'Male', 'Pneumonectomy/*adverse effects/mortality', 'Rabbits', 'Spirometry', 'Time Factors', 'Tomography', 'Tuberculosis, Pulmonary/surgery']

@@ -1,0 +1,3 @@
+F-18 FDG PET/CT imaging in a case of primary choriocarcinoma in the retroperitoneum.
+?
+['Adult', 'Choriocarcinoma/*diagnostic imaging/secondary', 'Fluorodeoxyglucose F18', 'Humans', 'Liver Neoplasms/diagnostic imaging/secondary', 'Lung Neoplasms/*diagnostic imaging/secondary', 'Male', 'Positron-Emission Tomography', 'Radiopharmaceuticals', 'Retroperitoneal Neoplasms/*diagnostic imaging/pathology', 'Testicular Neoplasms/*diagnostic imaging/pathology', 'Tomography, X-Ray Computed']

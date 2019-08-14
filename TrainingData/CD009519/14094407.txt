@@ -1,0 +1,3 @@
+[BRONCHO-PULMONARY CANCER DUE TO CHRONIC ARSENIC POISONING AMONG THE WINEGROWERS OF BEAUJOLAIS].
+?
+["*Agricultural Workers' Diseases", '*Arsenic', '*Arsenic Poisoning', '*Bronchial Neoplasms', '*Carcinoma, Squamous Cell', 'France', 'Humans', '*Keratosis', '*Lung Neoplasms', 'Neoplasms/*etiology', '*Tomography', '*Toxicology']

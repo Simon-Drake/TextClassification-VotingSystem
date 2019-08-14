@@ -1,0 +1,3 @@
+Cough as the presenting symptom of pancreatic adenocarcinoma.
+?
+['Adenocarcinoma/*diagnosis/secondary', 'Cough/etiology', 'Humans', 'Lung Neoplasms/diagnosis/*secondary', 'Male', 'Middle Aged', 'Pancreatic Neoplasms/*diagnosis/pathology', 'Tomography, Spiral Computed']

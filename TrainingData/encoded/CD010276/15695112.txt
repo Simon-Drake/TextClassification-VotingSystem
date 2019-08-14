@@ -1,0 +1,1 @@
+MeSHHumans MeSHImageInterpretation MeSHComputer-Assiste MeSHMouthMucos MeSHMouthNeoplasm MeSHOropharyngealNeoplasm MeSHPrecancerousCondition MeSHSensitivityandSpecificity MeSHSpectrometry MeSHFluorescenc MeSHSpectrumAnalysis

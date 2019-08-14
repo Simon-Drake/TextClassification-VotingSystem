@@ -1,0 +1,3 @@
+Sequence-based identification of Aspergillus, fusarium, and mucorales species in the clinical mycology laboratory: where are we and where should we go from here?
+?
+['Aspergillus/*isolation & purification', 'Clinical Laboratory Techniques/*methods/*trends', 'DNA, Fungal/chemistry/genetics', 'Fusarium/*isolation & purification', 'Humans', 'Mucorales/*isolation & purification', 'Mycoses/*diagnosis', 'Polymerase Chain Reaction/methods', 'Sequence Analysis, DNA/methods']

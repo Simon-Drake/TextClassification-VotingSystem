@@ -1,0 +1,3 @@
+[Antenatal detection of a 46,XY/47,XYY mosaicism (author's transl)].
+?
+['Adult', 'Amniotic Fluid/cytology', 'Aneuploidy', 'Female', 'Humans', '*Mosaicism', 'Mouth Mucosa/cytology', 'Pregnancy', 'Prenatal Diagnosis', 'Sex Chromatin/analysis', 'Sex Chromosome Aberrations/*diagnosis/psychology']

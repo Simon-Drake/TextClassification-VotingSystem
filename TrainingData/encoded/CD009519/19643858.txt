@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPneumonectomy MeSHPositron-EmissionTomography MeSHTomography MeSHX-RayComputed

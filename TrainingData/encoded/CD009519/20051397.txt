@@ -1,0 +1,1 @@
+MeSHCost-BenefitAnalysis MeSHDiagnosis MeSHDifferential MeSHHumans MeSHLungNeoplasm MeSHPositron-EmissionTomograph MeSHReproducibilityofResults MeSHSolitaryPulmonaryNodul

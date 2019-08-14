@@ -1,0 +1,3 @@
+Integrated, sequential, and contingent screening for Down syndrome - local needs should drive methodology.
+?
+['Adult', 'Biomarkers/blood', 'Cost-Benefit Analysis', 'Down Syndrome/blood/*diagnosis/economics', 'Female', 'Humans', 'Mass Screening/*methods', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy Trimester, Second', 'Prenatal Diagnosis/economics/*methods', 'Risk Assessment']

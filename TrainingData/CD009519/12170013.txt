@@ -1,0 +1,3 @@
+Mucosa-associated lymphoid tissue lymphoma of the lung detected with Ga-67 SPECT imaging.
+?
+['Adult', 'Chest Pain/*etiology', '*Citrates', 'Fever of Unknown Origin/*etiology', '*Gallium', 'Humans', 'Lung Neoplasms/complications/*diagnostic imaging/pathology', 'Lymphoma, B-Cell, Marginal Zone/complications/*diagnostic imaging/pathology', 'Male', 'Radiopharmaceuticals', 'Tomography, Emission-Computed, Single-Photon/methods']

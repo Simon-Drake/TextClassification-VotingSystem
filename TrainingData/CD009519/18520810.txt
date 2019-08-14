@@ -1,0 +1,3 @@
+Image of the month. Rash in a patient treated with pemetrexed for relapsed non-small cell lung cancer.
+?
+['Administration, Topical', 'Aged', 'Antineoplastic Agents/*adverse effects/therapeutic use', 'Biopsy', 'Carcinoma, Non-Small-Cell Lung/diagnostic imaging/*drug therapy', 'Diagnosis, Differential', 'Exanthema/*chemically induced/pathology', 'Follow-Up Studies', 'Glucocorticoids/administration & dosage', 'Glutamates/*adverse effects/therapeutic use', 'Guanine/adverse effects/*analogs & derivatives/therapeutic use', 'Humans', 'Lung Neoplasms/diagnostic imaging/*drug therapy', 'Male', 'Ointments/administration & dosage', 'Pemetrexed', 'Positron-Emission Tomography', 'Thymidylate Synthase/antagonists & inhibitors']

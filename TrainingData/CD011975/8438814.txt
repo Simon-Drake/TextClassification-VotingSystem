@@ -1,0 +1,3 @@
+Radiological case of the month. Congenital pyloric atresia in Down syndrome.
+?
+['Abnormalities, Multiple/*diagnostic imaging/epidemiology/surgery', 'Diagnosis, Differential', 'Down Syndrome/*complications/epidemiology', 'Female', 'Humans', 'Incidence', 'Infant, Newborn', 'Pregnancy', 'Prognosis', 'Pyloric Antrum/*abnormalities', 'Radiography', 'Ultrasonography, Prenatal']

@@ -1,0 +1,3 @@
+Psychological aspects of integrated testing.
+?
+['Decision Making', 'Down Syndrome/diagnosis/*psychology', 'Female', 'Humans', 'Mass Screening/psychology/*standards', 'Pregnancy', 'Prenatal Diagnosis/psychology/*standards']

@@ -1,0 +1,3 @@
+Squamous cell carcinoma "mimicking" passive atelectasis from thoracic aortic aneurysm compression.
+?
+['Aged', 'Aortic Aneurysm, Thoracic/*diagnostic imaging/pathology/surgery', 'Biopsy, Needle', 'Bronchoscopy', 'Carcinoma, Squamous Cell/*diagnostic imaging/pathology/surgery', 'Constriction, Pathologic/diagnostic imaging/etiology', 'Diagnosis, Differential', 'Humans', '*Image Processing, Computer-Assisted', 'Lung/diagnostic imaging/pathology', 'Lung Neoplasms/*diagnostic imaging/pathology/surgery', 'Male', '*Multimodal Imaging', 'Neoplasm Staging', 'Pneumonectomy', '*Positron-Emission Tomography', 'Pulmonary Atelectasis/*diagnostic imaging/*etiology', '*Tomography, X-Ray Computed']

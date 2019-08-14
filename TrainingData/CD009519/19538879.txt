@@ -1,0 +1,3 @@
+[Advances in research of molecular imaging of epidermal growth factor receptor in non-small cell lung cancer].
+?
+['Animals', 'Carcinoma, Non-Small-Cell Lung/genetics/*metabolism', 'Humans', 'Lung Neoplasms/genetics/*metabolism', '*Molecular Imaging', 'Mutation', 'Positron-Emission Tomography', 'RNA, Messenger/metabolism', 'Receptor, Epidermal Growth Factor/*biosynthesis/genetics']

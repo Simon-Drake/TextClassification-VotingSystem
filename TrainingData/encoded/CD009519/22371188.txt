@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAnimals MeSHDiagnosticImagin MeSHHydrogen-IonConcentration MeSHKidne MeSHLive MeSHMale MeSHMembraneProtein MeSHMice MeSHMice MeSHInbredC57BL MeSHMolecularSequenceData MeSHNeoplasm MeSHPeptides MeSHCycli MeSHRats MeSHTechnetiu MeSHTomography MeSHEmission-Computed MeSHSingle-Photon MeSHTomography MeSHX-RayComputed

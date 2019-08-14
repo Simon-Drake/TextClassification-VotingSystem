@@ -1,0 +1,1 @@
+MeSHAbdomen MeSHAdenocarcinom MeSHBiopsy MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHIncidentalFindings MeSHLun MeSHLungNeoplasm MeSHLymphNodeExcision MeSHLymphNode MeSHLymphaticMetastasi MeSHMiddleAged MeSHNeoplasmStaging MeSHPositron-EmissionTomography MeSHTomography MeSHX-RayComputed

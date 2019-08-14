@@ -1,0 +1,3 @@
+Growing complexity in the choice of Down's syndrome screening policy.
+?
+['Biomarkers/blood', 'Decision Making', 'Down Syndrome/*diagnosis', 'Female', '*Health Policy', 'Humans', '*Mass Screening/economics/methods/standards', 'Pregnancy', 'Pregnancy Trimester, Second/blood/physiology', '*Prenatal Diagnosis/economics/methods/standards']

@@ -1,0 +1,3 @@
+Maternal serum screening for Down's syndrome taking account of the result in a previous pregnancy.
+?
+['Adolescent', 'Adult', 'Biomarkers', 'Down Syndrome/*diagnosis', 'Female', 'Genetic Markers', 'Genetic Testing', 'Humans', 'Middle Aged', 'Pregnancy', 'Reproductive History', 'Risk Factors']

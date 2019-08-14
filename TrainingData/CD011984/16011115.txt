@@ -1,0 +1,3 @@
+[A test system of prenatal screen for Down's syndrome].
+This paper presents a test system of prenatal screen for Dow's syndrome, based on the quantitative test technology of gold immunochromotographic assay (GICA). The prenatal screen for Down's syndrome and the risk rate of Down's syndrome are given by calculating with the screen software. The test system features easy operation, fastness and individual tests.
+['Adult', 'Chromatography/methods', 'Colloids', 'Computers', 'Down Syndrome/*diagnosis', 'Equipment Failure Analysis', 'Estriol/blood', 'Female', 'Gold', 'Humans', 'Pregnancy', 'Prenatal Diagnosis/instrumentation/*methods', 'Sensitivity and Specificity', 'Signal Processing, Computer-Assisted', '*Software Design', 'alpha-Fetoproteins/analysis']

@@ -1,0 +1,3 @@
+[Differential radiological diagnosis of sol itary pulmonary masses and nodules, with special reference to the criterion of surgical treatment].
+?
+['Bronchography', 'Diagnosis, Differential', 'Humans', 'Lung Diseases/*diagnostic imaging/surgery', 'Lung Neoplasms/*diagnostic imaging/surgery', 'Radiography, Thoracic', 'Tomography']

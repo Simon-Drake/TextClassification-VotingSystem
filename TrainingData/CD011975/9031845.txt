@@ -1,0 +1,3 @@
+The pathophysiology of Down's syndrome pregnancies.
+?
+['Abortion, Induced', 'Chorionic Gonadotropin/metabolism', 'Down Syndrome/*physiopathology', 'Female', 'Gestational Age', 'Humans', 'Intestines/embryology/enzymology', 'Liver/embryology/enzymology', 'Placenta/metabolism', 'Pregnancy', 'Pregnancy-Specific beta 1-Glycoproteins/metabolism', 'alpha-Fetoproteins/metabolism', 'gamma-Glutamyltransferase/metabolism']

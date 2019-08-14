@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHNon-Small-CellLun MeSHFluorodeoxyglucoseF1 MeSHHumans MeSHLungNeoplasm MeSHMultimodalImagin MeSHPositron-EmissionTomography MeSHSmallCellLungCarcinom MeSHTomography MeSHX-RayComputed

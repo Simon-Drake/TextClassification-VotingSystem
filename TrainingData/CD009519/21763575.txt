@@ -1,0 +1,3 @@
+A case of lung cancer with unilateral anhidrosis and contralateral hyperhidrosis as the first clinical manifestation.
+?
+['Adenocarcinoma/*diagnosis/radiotherapy/secondary', 'Adult', 'Biopsy, Needle', 'Bone Neoplasms/diagnosis/radiotherapy/*secondary', 'Diagnosis, Differential', 'Follow-Up Studies', 'Humans', 'Hyperhidrosis/*diagnosis', 'Hypohidrosis/*diagnosis', 'Immunohistochemistry', 'Lung Neoplasms/*diagnosis/radiotherapy/secondary', 'Magnetic Resonance Imaging/methods', 'Male', 'Neoplasm Staging', 'Positron-Emission Tomography/methods', 'Ribs', 'Thoracic Vertebrae', 'Tomography, X-Ray Computed']

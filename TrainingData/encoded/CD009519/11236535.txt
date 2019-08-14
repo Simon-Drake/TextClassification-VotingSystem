@@ -1,0 +1,1 @@
+MeSHBronchialNeoplasm MeSHDiagnosis MeSHDifferential MeSHHumans MeSHLungNeoplasm MeSHNeoplasmMetastasis MeSHNeoplasmRecurrence MeSHLoca MeSHTomography MeSHEmission-Computed

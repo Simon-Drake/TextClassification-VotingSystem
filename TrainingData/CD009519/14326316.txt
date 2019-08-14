@@ -1,0 +1,3 @@
+[LUNG TUMOR AND LATE REGRESSING BRAIN DISTURBANCES].
+?
+['*Brain', '*Cerebrovascular Disorders', 'Humans', '*Lung Neoplasms', '*Tomography', '*Tomography, X-Ray Computed']

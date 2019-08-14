@@ -1,0 +1,1 @@
+MeSHBindingSites MeSHCloning MeSHMolecular MeSHFungalProtein MeSHGlycosideHydrolase MeSHMolecularSequenceData MeSHPenicilliumchrysogenu MeSHSubstrateSpecificity MeSHXylan

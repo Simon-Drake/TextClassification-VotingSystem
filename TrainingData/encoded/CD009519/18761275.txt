@@ -1,0 +1,1 @@
+MeSHAlgorithms MeSHCoronaryAngiograph MeSHElectrocardiograph MeSHHeartNeoplasm MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHMyocardialInfarctio MeSHMyocardiu MeSHNeoplasmMetastasis MeSHNeoplasm MeSHPositron-EmissionTomograph MeSHSyndrome MeSHTomography MeSHX-RayCompute

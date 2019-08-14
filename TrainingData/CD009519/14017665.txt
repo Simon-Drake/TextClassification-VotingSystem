@@ -1,0 +1,3 @@
+[The stratigraphical study of the azygos vein in mediastino-pulmonary neoplasms].
+?
+['*Azygos Vein', 'Humans', '*Lung Neoplasms', '*Mediastinal Neoplasms', '*Tomography', '*Tomography, X-Ray Computed']

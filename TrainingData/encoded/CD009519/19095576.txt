@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHCDX2TranscriptionFactor MeSHColorectalNeoplasm MeSHFemale MeSHHomeodomainProtein MeSHHumans MeSHKeratin-2 MeSHLungNeoplasm MeSHMiddleAged MeSHPositron-EmissionTomography MeSHTrans-Activator

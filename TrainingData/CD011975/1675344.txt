@@ -1,0 +1,3 @@
+Chorionic villus sampling for Down's syndrome.
+?
+['Amniocentesis', 'Chorionic Villi Sampling/*methods', 'Down Syndrome/*diagnosis', 'Female', 'Gestational Age', 'Humans', 'Infant, Newborn', 'Pregnancy', 'Retrospective Studies']

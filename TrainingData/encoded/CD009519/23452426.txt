@@ -1,0 +1,1 @@
+MeSHFemale MeSHHumans MeSHKaplan-MeierEstimate MeSHLungNeoplasm MeSHLymphNodeExcisio MeSHLymphaticMetastasi MeSHMale MeSHMediastinu MeSHMiddleAged MeSHPositron-EmissionTomograph MeSHPreoperativeCar MeSHPrognosis MeSHSarcom MeSHTomography MeSHX-RayCompute

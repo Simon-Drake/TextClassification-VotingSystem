@@ -1,0 +1,3 @@
+Roentgenogram of the month. A patient referred for steroid-resistant asthma.
+?
+['Adult', 'Asthma/*diagnostic imaging/drug therapy', 'Bronchial Neoplasms/*diagnostic imaging/surgery', 'Carcinoid Tumor/*diagnostic imaging/surgery', 'Diagnosis, Differential', 'Drug Resistance', 'Female', 'Humans', 'Lung/*diagnostic imaging', 'Prednisone/*therapeutic use', 'Radiography', 'Tomography']

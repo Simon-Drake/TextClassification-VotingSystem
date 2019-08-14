@@ -1,0 +1,3 @@
+Nuchal translucency and gestational age.
+?
+['Down Syndrome/*diagnostic imaging', 'Female', '*Gestational Age', 'Humans', '*Nuchal Translucency Measurement', 'Pregnancy', 'Reference Values', '*Ultrasonography, Prenatal']

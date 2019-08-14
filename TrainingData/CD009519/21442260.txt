@@ -1,0 +1,3 @@
+PET/CT for staging lung cancer: costly or cost-saving?
+?
+['Carcinoma, Non-Small-Cell Lung/diagnosis/diagnostic imaging/pathology', 'Cost-Benefit Analysis', 'Humans', 'Lung Neoplasms/*diagnosis/diagnostic imaging/*pathology', 'Neoplasm Staging/*economics', 'Positron-Emission Tomography/*economics', 'Tomography, X-Ray Computed/*economics']

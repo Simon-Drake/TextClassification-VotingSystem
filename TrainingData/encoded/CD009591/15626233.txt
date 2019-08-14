@@ -1,0 +1,1 @@
+MeSHColonicDiseases MeSHColorectalNeoplasms MeSHConstriction MeSHPathologic MeSHDiagnosis MeSHDifferential MeSHHumans MeSHIntestinalObstruction MeSHRadiography MeSHRectalDiseases MeSHSensitivityandSpecificity

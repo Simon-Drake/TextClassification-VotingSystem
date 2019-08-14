@@ -1,0 +1,1 @@
+MeSHAnimals MeSHCarcinoma MeSHSmallCel MeSHCarcinoma MeSHSquamousCel MeSHGlucose MeSHHumans MeSHLiverNeoplasm MeSHLungNeoplasm MeSHNeoplasm MeSHPancreaticNeoplasm MeSHRabbits MeSHTomography MeSHEmission-Compute

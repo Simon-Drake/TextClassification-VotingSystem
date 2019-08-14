@@ -1,0 +1,3 @@
+[Significance of genetic investigations in medical practice].
+?
+['Adult', 'Chromosome Aberrations/*diagnosis/genetics', 'Chromosome Disorders', 'Down Syndrome/diagnosis', 'Female', 'Heterozygote Detection', 'Humans', 'Infant', 'Infant, Newborn', '*Karyotyping', 'Male', 'Maternal Age', 'Middle Aged', 'Pedigree', 'Pregnancy', 'Prenatal Diagnosis', 'Translocation, Genetic']

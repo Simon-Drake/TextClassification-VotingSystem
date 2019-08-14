@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSquamousCel MeSHFemale MeSHHeadandNeckNeoplasm MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMultimodalImagin MeSHPositron-EmissionTomography MeSHTomography MeSHX-RayComputed

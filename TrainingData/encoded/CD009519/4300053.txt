@@ -1,0 +1,1 @@
+MeSHAdenocarcinoma MeSHBronchiolo-Alveola MeSHBiopsy MeSHFluoroscopy MeSHHumans MeSHInhalation MeSHLungDisease MeSHLungNeoplasm MeSHMethods MeSHOutpatientClinics MeSHHospital MeSHTomography

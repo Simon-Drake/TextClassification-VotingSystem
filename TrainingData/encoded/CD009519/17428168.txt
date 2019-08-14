@@ -1,0 +1,1 @@
+MeSHCost-BenefitAnalysis MeSHFluorodeoxyglucoseF1 MeSHHumans MeSHLungNeoplasm MeSHPositron-EmissionTomograph MeSHTomography MeSHX-RayCompute

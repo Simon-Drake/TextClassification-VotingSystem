@@ -1,0 +1,3 @@
+Optimal care for children with Down syndrome in India.
+Medical problems which arise in Down Syndrome are reviewed. Guidelines for management including early diagnosis of congenital heart defects, gastrointestinal anomalies, eye problems, hearing defects, thyroid dysfunction, at lanto-axial instability, prognosis for mental retardation, and role of early stimulation are provided. Prenatal diagnosis in high risk pregnancies is recommended.
+['Adolescent', 'Adult', 'Child', 'Child, Preschool', 'Delivery of Health Care/standards', 'Down Syndrome/*diagnosis/*therapy', 'Female', 'Genetic Counseling', '*Guidelines as Topic', 'Humans', 'India', 'Infant', 'Male', 'Pregnancy', '*Prenatal Diagnosis', 'Quality of Life']

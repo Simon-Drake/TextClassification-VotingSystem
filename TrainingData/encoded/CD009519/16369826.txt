@@ -1,0 +1,1 @@
+MeSHArtifacts MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHMovement MeSHPositron-EmissionTomograph MeSHRespiratoryMechanics MeSHStatisticsasTopic MeSHSubtractionTechnique MeSHThora MeSHTomography MeSHX-RayCompute

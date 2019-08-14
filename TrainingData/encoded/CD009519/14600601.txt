@@ -1,0 +1,1 @@
+MeSHBoneNeoplasm MeSHBreastNeoplasm MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHMale MeSHNeoplasms MeSHUnknownPrimar MeSHProstaticNeoplasm MeSHRadiopharmaceuticals MeSHTomography MeSHEmission-Computed

@@ -1,0 +1,1 @@
+MeSHAlgorithms MeSHCarcinoma MeSHSquamousCel MeSHHumans MeSHLeast-SquaresAnalysis MeSHMouthMucos MeSHMouthNeoplasm MeSHNeuralNetworks(Computer) MeSHPrecancerousCondition MeSHSpectrometry MeSHFluorescence

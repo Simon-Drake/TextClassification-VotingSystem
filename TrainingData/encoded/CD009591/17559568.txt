@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHFine-Needle MeSHCytodiagnosis MeSHEndometriosis MeSHEndometrium MeSHEndosonography MeSHEpithelialCells MeSHFemale MeSHHumans MeSHImmunohistochemistry MeSHMiddleAged MeSHMyocytes MeSHSmoothMuscle MeSHNeprilysin MeSHRectalDiseases MeSHStromalCells MeSHVaginalDiseases MeSHbetaCatenin

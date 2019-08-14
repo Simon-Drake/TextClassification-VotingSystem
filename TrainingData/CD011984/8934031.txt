@@ -1,0 +1,3 @@
+Maternal serum screening for fetal Down syndrome: the detection of other pathologies.
+?
+['Chromosome Aberrations/*prevention & control', 'Chromosome Disorders', 'Female', 'Fetal Death/diagnosis', '*Genetic Testing', 'Gestational Age', 'Humans', 'Neural Tube Defects/*prevention & control', 'Pregnancy/*blood', 'Pregnancy Outcome', 'Pregnancy, Multiple', '*Prenatal Diagnosis', 'alpha-Fetoproteins/*metabolism']

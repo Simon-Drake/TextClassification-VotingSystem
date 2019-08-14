@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAged MeSHDose-ResponseRelationship MeSHRadiation MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHIncidentalFindings MeSHLungNeoplasm MeSHMyocardialReperfusion MeSHPositron-EmissionTomography MeSHTomography MeSHEmission-Computed MeSHSingle-Photon MeSHTomography MeSHX-RayComputed

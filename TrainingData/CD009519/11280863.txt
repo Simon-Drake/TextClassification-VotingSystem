@@ -1,0 +1,3 @@
+[Positron-emission tomography (PET) and non-small cell bronchial cancer].
+?
+['Bronchial Neoplasms/*diagnostic imaging/pathology', 'Carcinoma, Non-Small-Cell Lung/*diagnostic imaging/secondary', 'France', 'Humans', '*Lung Neoplasms', 'Lymphatic Metastasis', 'Neoplasm Staging', '*Tomography, Emission-Computed']

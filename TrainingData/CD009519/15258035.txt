@@ -1,0 +1,3 @@
+Whole body PET/CT imaging for detection of metastatic choroidal melanoma.
+?
+['Aged', 'Bone Neoplasms/secondary', '*Choroid Neoplasms', 'Female', 'Humans', 'Liver Neoplasms/secondary', 'Lung Neoplasms/secondary', 'Melanoma/diagnostic imaging/*secondary', '*Tomography, Emission-Computed', '*Tomography, X-Ray Computed']

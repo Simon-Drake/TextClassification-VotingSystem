@@ -1,0 +1,3 @@
+Localization of a tumor of unknown origin by means of 18-fluorodeoxyglucose positron emission tomography.
+?
+['Aged', 'Aged, 80 and over', 'Fluorodeoxyglucose F18', 'Humans', 'Liver Neoplasms/*diagnostic imaging/*secondary', 'Lung Neoplasms/*diagnostic imaging/*secondary', 'Male', 'Neoplasms, Unknown Primary/*diagnostic imaging', 'Radiopharmaceuticals', 'Rectal Neoplasms/*diagnostic imaging/pathology', 'Tomography, Emission-Computed']

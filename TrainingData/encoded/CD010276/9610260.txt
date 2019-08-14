@@ -1,0 +1,1 @@
+MeSHHumans MeSHMedicalHistoryTaking MeSHMouthNeoplasm MeSHPhysicalExamination MeSHRadiography MeSHDental

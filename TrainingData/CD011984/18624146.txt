@@ -1,0 +1,3 @@
+Emerging issues in genetic testing in Sri Lanka.
+?
+['Abnormalities, Multiple/diagnosis/genetics', 'Abortion, Eugenic/*ethics', 'Down Syndrome/diagnosis/genetics', 'Genetic Counseling/ethics', 'Genetic Privacy/*ethics', 'Genetic Testing/*ethics', 'Humans', 'Infant', 'Infant, Newborn', 'Informed Consent/ethics', 'Male', 'Prenatal Diagnosis/*ethics', 'Sri Lanka', 'Technology Assessment, Biomedical']

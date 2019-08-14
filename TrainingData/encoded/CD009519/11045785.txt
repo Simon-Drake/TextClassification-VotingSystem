@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAged MeSHCase-ControlStudies MeSHFemale MeSHGenes MeSHp5 MeSHGeneticPredispositiontoDisease MeSHGenotype MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPolymeraseChainReaction MeSHPolymorphism MeSHGenetic MeSHRiskAssessment MeSHSmokin

@@ -1,0 +1,1 @@
+MeSHAdult MeSHBronchoscopy MeSHCurettage MeSHDiagnosis MeSHDifferential MeSHEndometriosis MeSHFemale MeSHHumans MeSHHysterectomy MeSHLaparoscopy MeSHLungDiseases MeSHPregnancy MeSHSolitaryPulmonaryNodule MeSHTimeFactors MeSHTreatmentOutcome MeSHUterineDiseases

@@ -1,0 +1,3 @@
+Prenatal screening for open neural tube defects and Down syndrome: three decades of progress.
+?
+['Down Syndrome/*diagnosis', 'Female', 'History, 20th Century', 'Humans', 'Inhibins/*analysis', 'Neural Tube Defects/*diagnosis', 'Nuchal Translucency Measurement/methods', 'Pregnancy', 'Prenatal Diagnosis/*history/methods/trends', 'alpha-Fetoproteins/*analysis']

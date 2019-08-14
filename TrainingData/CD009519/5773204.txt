@@ -1,0 +1,3 @@
+Pulmonary angiography in lung cancer suspects.
+?
+['Adult', 'Angiography', 'Calcinosis/diagnostic imaging', 'Carcinoma, Bronchogenic/*diagnostic imaging', 'Diagnosis, Differential', 'Female', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Lymphatic Diseases/diagnostic imaging', 'Male', 'Methods', 'Middle Aged', 'Pulmonary Artery/*diagnostic imaging', 'Pulmonary Veins/*diagnostic imaging', 'Tomography', 'Vascular Diseases/diagnostic imaging', 'Vena Cava, Superior/diagnostic imaging']

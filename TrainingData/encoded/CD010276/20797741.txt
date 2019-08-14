@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHColoringAgents MeSHCytodiagnosis MeSHEarlyDetectionofCance MeSHGeneticTesting MeSHHumans MeSHMassScreenin MeSHMouthNeoplasm MeSHPrecancerousCondition MeSHPrognosis MeSHSensitivityandSpecificity

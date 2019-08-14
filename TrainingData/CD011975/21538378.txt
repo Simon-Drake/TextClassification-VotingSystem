@@ -1,0 +1,3 @@
+First-trimester septated cystic hygroma and cavum velum interpositum cyst.
+First-trimester septated cystic hygroma, frequently noted during general obstetric first-trimester screening, is strongly associated with fetal aneuploidy and structural anomalies and is considered an ominous finding. We present the case of a fetus with a first-trimester septated cystic hygroma and cavum velum interpositum cyst.
+['Adult', 'Brain Neoplasms/*diagnostic imaging', 'Female', 'Fetal Diseases/*diagnostic imaging/genetics', 'Humans', 'Lymphangioma, Cystic/*diagnostic imaging/genetics', 'Male', 'Pregnancy', 'Pregnancy Outcome', 'Pregnancy Trimester, First', 'Ultrasonography, Prenatal']

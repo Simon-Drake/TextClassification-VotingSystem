@@ -1,0 +1,3 @@
+Accessory findings on F-18 FDG positron emission tomography in bronchogenic carcinoma.
+?
+['Aged', 'Carcinoma, Bronchogenic/*diagnostic imaging/secondary', 'Dermatomyositis/*diagnostic imaging', '*Fluorodeoxyglucose F18', 'Humans', 'Incidental Findings', 'Lung Neoplasms/*diagnostic imaging', 'Lymph Nodes/diagnostic imaging', 'Lymphatic Metastasis', 'Male', 'Paraneoplastic Syndromes/*diagnosis', '*Radiopharmaceuticals', '*Tomography, Emission-Computed']

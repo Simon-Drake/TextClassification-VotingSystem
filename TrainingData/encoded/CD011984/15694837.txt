@@ -1,0 +1,1 @@
+MeSHAnimals MeSHBaseSequence MeSHBrain MeSHDNAPrimers MeSHHumans MeSHMixedFunctionOxygenases MeSHPC12Cells MeSHPhosphorylation MeSHProtein-Serine-ThreonineKinases MeSHProtein-TyrosineKinases MeSHRats MeSHSubstrateSpecificity

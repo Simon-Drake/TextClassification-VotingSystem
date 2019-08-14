@@ -1,0 +1,3 @@
+[Prospects for abdominal nuclear spin resonance diagnosis].
+?
+['Adrenal Gland Neoplasms/diagnosis', 'Carcinoma, Bronchogenic/diagnosis', 'Humans', 'Lung Neoplasms/diagnosis', '*Magnetic Resonance Spectroscopy', 'Maxillary Sinus', 'Mediastinal Neoplasms/diagnosis', 'Paranasal Sinus Neoplasms/diagnosis', 'Pheochromocytoma/diagnosis', 'Tomography/instrumentation/methods']

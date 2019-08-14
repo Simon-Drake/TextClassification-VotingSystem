@@ -1,0 +1,3 @@
+[Value of FDG PET in diagnosis and management of lung cancer].
+?
+['Diagnosis, Differential', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/pathology/surgery', 'Monosaccharide Transport Proteins/metabolism', 'Neoplasm Invasiveness', 'Neoplasm Staging', 'Positron-Emission Tomography/*standards', 'Prognosis', 'Proliferating Cell Nuclear Antigen/metabolism']

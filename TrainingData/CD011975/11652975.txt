@@ -1,0 +1,3 @@
+The triple screen in prenatal care: not just a simple blood test.
+?
+['Abortion, Eugenic', 'Biomarkers', 'Blood Specimen Collection', 'California', 'Chromosome Aberrations', 'Chromosome Disorders', 'Congenital, Hereditary, and Neonatal Diseases and Abnormalities', 'Cost-Benefit Analysis', 'Disclosure', 'Down Syndrome', 'Eugenics', 'Freedom', 'Genetic Counseling', 'Genetic Diseases, Inborn', '*Genetic Testing', 'Humans', 'Informed Consent', 'Insurance, Health, Reimbursement', 'Mandatory Testing', 'Mass Screening', '*Methods', 'Neural Tube Defects', 'Paternalism', 'Personal Autonomy', 'Pregnancy', 'Pregnant Women', '*Prenatal Diagnosis', 'Public Policy', 'Risk', 'Risk Assessment', 'Stress, Psychological', 'alpha-Fetoproteins']

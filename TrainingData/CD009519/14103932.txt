@@ -1,0 +1,3 @@
+DIFFICULTIES AND ERRORS POSSIBLE IN CLINICO-ROENTGENOLOGICAL DIAGNOSIS OF CANCER OF THE LUNGS AND LUNG LYMPHOGRANULOMATOSIS.
+?
+['*Bronchography', '*Bronchoscopy', '*Diagnosis, Differential', '*Hodgkin Disease', 'Humans', '*Lung Neoplasms', 'Neoplasms/*diagnosis', '*Tomography']

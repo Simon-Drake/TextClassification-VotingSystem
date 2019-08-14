@@ -1,0 +1,1 @@
+MeSHAdolescent MeSHBodyWeight MeSHBronch MeSHBronchography MeSHCellNucleus MeSHCollage MeSHCoug MeSHCytoplasm MeSHEosinophils MeSHFemale MeSHFibrom MeSHHemoptysi MeSHHistiocytes MeSHHumans MeSHLun MeSHLungNeoplasm MeSHLymphocytes MeSHPlasmaCells MeSHTomography

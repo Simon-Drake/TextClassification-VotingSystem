@@ -1,0 +1,3 @@
+Routine fetal echocardiography and detection of congenital heart disease.
+?
+['Amniocentesis', '*Aneuploidy', 'Electrocardiography', 'Female', 'Fetal Diseases/*diagnostic imaging', 'Heart Defects, Congenital/*diagnostic imaging', 'Humans', 'Pregnancy', '*Ultrasonography, Prenatal']

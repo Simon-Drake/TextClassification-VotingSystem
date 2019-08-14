@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHEndoplasmicReticulu MeSHFungalProtein MeSHGlycosylation MeSHHumans MeSHMolecularSequenceData MeSHSequenceAlignment MeSHSporothri MeSHalpha-Glucosidase

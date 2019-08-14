@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHFine-Needle MeSHCarcinoma MeSHSquamousCel MeSHDiagnosis MeSHDifferential MeSHFemale MeSHHornerSyndrom MeSHHumans MeSHLungNeoplasm MeSHMagneticResonanceImaging MeSHMiddleAged MeSHPositron-EmissionTomography MeSHTomography MeSHX-RayComputed

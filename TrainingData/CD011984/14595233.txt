@@ -1,0 +1,3 @@
+The genetic sonogram in second trimester down syndrome screening.
+?
+['Down Syndrome/*diagnostic imaging', 'Female', 'Genetic Testing/*methods/standards', 'Humans', 'Pregnancy', 'Pregnancy Trimester, Second', 'Sensitivity and Specificity', '*Ultrasonography, Prenatal']

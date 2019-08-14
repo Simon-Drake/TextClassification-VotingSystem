@@ -1,0 +1,3 @@
+Re: Prognostic value of FDG uptake in early stage non-small cell lung cancer.
+?
+['*Carcinoma, Non-Small-Cell Lung/diagnostic imaging/mortality', 'Data Interpretation, Statistical', 'Fluorodeoxyglucose F18', 'Humans', '*Lung Neoplasms/diagnostic imaging/mortality', 'Prognosis', 'Radionuclide Imaging', 'Radiopharmaceuticals']

@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAged MeSHDiagnosis MeSHDifferential MeSHHumans MeSHLun MeSHLungDisease MeSHLungNeoplasm MeSHMale MeSHOssification MeSHHeterotopi MeSHPositron-EmissionTomography MeSHSolitaryPulmonaryNodul MeSHThoracotomy MeSHTomography MeSHX-RayComputed

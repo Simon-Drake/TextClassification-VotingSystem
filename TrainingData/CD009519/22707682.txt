@@ -1,0 +1,3 @@
+Multi-modality imaging for accurate diagnosis of lipomatous hypertrophy of interatrial septum in a patient with lung cancer and increased FDG uptake on PET.
+?
+['Aged', '*Atrial Septum', 'Carcinoma, Small Cell/complications/diagnosis/metabolism', 'Cardiomegaly/complications/*diagnosis/metabolism', 'Diagnosis, Differential', 'Echocardiography, Transesophageal/methods', 'Female', 'Fluorodeoxyglucose F18/*pharmacokinetics', 'Humans', 'Lipomatosis/complications/*diagnosis/metabolism', 'Lung Neoplasms/*complications/diagnosis/metabolism', 'Positron-Emission Tomography/*methods', 'Radiopharmaceuticals/pharmacokinetics', 'Reproducibility of Results', 'Tomography, X-Ray Computed/methods']

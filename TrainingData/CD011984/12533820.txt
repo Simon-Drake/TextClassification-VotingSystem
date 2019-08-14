@@ -1,0 +1,3 @@
+Detection of mosaic isochromosome 20q in amniotic fluid in a pregnancy with fetal arthrogryposis multiplex congenita and normal karyotype in fetal blood and postnatal samples of placenta, skin, and liver.
+?
+['Adult', 'Amniocentesis', 'Amniotic Fluid/cytology', 'Arthrogryposis/*diagnosis/genetics', 'Chromosomes, Human, Pair 20', 'Cordocentesis', 'Fatal Outcome', 'Female', 'Fetal Diseases/*diagnosis/genetics', 'Gestational Age', 'Humans', 'Infant, Newborn', 'Isochromosomes/*genetics', 'Karyotyping', 'Liver', '*Mosaicism', 'Placenta', 'Pregnancy', 'Skin', 'Ultrasonography, Prenatal']

@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHNon-Small-CellLun MeSHCost-BenefitAnalysis MeSHDecisionTrees MeSHDeoxyglucos MeSHFemale MeSHFluorineRadioisotopes MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLifeExpectancy MeSHLungNeoplasm MeSHMale MeSHNeoplasmStaging MeSHSensitivityandSpecificity MeSHTomography MeSHEmission-Compute MeSHTomography MeSHX-RayCompute

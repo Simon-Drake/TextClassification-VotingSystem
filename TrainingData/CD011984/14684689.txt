@@ -1,0 +1,3 @@
+Rapid, high throughput prenatal detection of aneuploidy using a novel quantitative method (MLPA).
+?
+['*Aneuploidy', 'Female', 'Humans', 'Polymerase Chain Reaction/*methods', 'Pregnancy', 'Prenatal Diagnosis/*methods', 'Prospective Studies', 'Time Factors']

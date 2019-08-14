@@ -1,0 +1,3 @@
+Should all pregnant patients be offered prenatal diagnosis regardless of age?
+?
+['Beneficence', 'Costs and Cost Analysis', 'Disclosure', 'Down Syndrome/prevention & control', '*Ethics, Medical', 'Female', 'Genetic Testing/*economics', 'Home Care Services', 'Humans', 'Intellectual Disability/prevention & control', 'Personal Autonomy', 'Pregnancy', '*Pregnant Women', 'Prenatal Diagnosis/*economics']

@@ -1,0 +1,3 @@
+Radiological notes. Case No. 345.
+?
+['Calcinosis/diagnostic imaging', 'Carcinoma/*diagnostic imaging', 'Female', 'Humans', 'Lung Diseases/diagnostic imaging', 'Lung Neoplasms/*diagnostic imaging', 'Middle Aged', 'Posture', 'Radiography', 'Tomography']

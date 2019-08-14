@@ -1,0 +1,3 @@
+Does measurement of inhibin have a clinical role?
+?
+['Down Syndrome/diagnosis', 'Enzyme-Linked Immunosorbent Assay', 'Female', 'Fertilization in Vitro', 'Humans', 'Inhibins/*analysis/*chemistry/*physiology', 'Male', 'Models, Biological', 'Ovarian Neoplasms/metabolism', 'Prenatal Diagnosis', 'Puberty', 'Reproduction', 'Sex Factors', 'Tissue Distribution']

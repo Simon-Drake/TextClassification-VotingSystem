@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHCarcinoma MeSHNon-Small-CellLun MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHNeoplasmStaging MeSHPositron-EmissionTomography MeSHPredictiveValueofTests MeSHPreoperativeCare MeSHPrognosis MeSHRadiopharmaceuticals MeSHTomography MeSHX-RayComputed

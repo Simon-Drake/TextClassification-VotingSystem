@@ -1,0 +1,3 @@
+Cutaneous and eyes Aspergillus fumigatus infection.
+?
+['Aspergillosis/*diagnosis/microbiology', 'Aspergillus fumigatus/genetics/*isolation & purification', 'DNA, Fungal/genetics/isolation & purification', 'Dermatomycoses/*diagnosis/microbiology', 'Eye Diseases/*diagnosis/microbiology', 'Female', 'Humans', 'Middle Aged', 'Polymerase Chain Reaction']

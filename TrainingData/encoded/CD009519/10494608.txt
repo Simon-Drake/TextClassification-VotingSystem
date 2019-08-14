@@ -1,0 +1,1 @@
+MeSHAdult MeSHBileDuctNeoplasm MeSHBileDucts MeSHIntrahepati MeSHCholangiocarcinom MeSHCholangitis MeSHSclerosin MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHImageProcessing MeSHComputer-Assisted MeSHLungNeoplasm MeSHMale MeSHSensitivityandSpecificity MeSHTomography MeSHEmission-Computed MeSHTomography MeSHX-RayComputed

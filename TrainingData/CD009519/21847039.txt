@@ -1,0 +1,3 @@
+Erlotinib accumulation in brain metastases from non-small cell lung cancer: visualization by positron emission tomography in a patient harboring a mutation in the epidermal growth factor receptor.
+?
+['Brain Neoplasms/*diagnostic imaging/*genetics', 'Carcinoma, Non-Small-Cell Lung/*diagnostic imaging/*genetics', 'Drug Resistance, Neoplasm/*genetics', 'Erlotinib Hydrochloride', 'Female', 'Humans', 'Mutation/*genetics', 'Quinazolines/*pharmacology', 'Radionuclide Imaging', 'Receptor, Epidermal Growth Factor/*genetics']

@@ -1,0 +1,3 @@
+Separation of the great toe in fetuses with Down syndrome.
+?
+['Adult', 'Down Syndrome/*diagnostic imaging', 'Female', 'Fetal Diseases/*diagnostic imaging', 'Humans', 'Karyotyping', 'Pregnancy', 'Toes/*abnormalities/diagnostic imaging', '*Ultrasonography, Prenatal']

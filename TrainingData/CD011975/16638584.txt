@@ -1,0 +1,3 @@
+Nuchal translucency and first-trimester screening.
+?
+['Biomarkers/blood', 'Clinical Competence', 'Down Syndrome/*diagnosis', 'Female', 'Humans', '*Nuchal Translucency Measurement/standards/statistics & numerical data', 'Pregnancy', 'Pregnancy Trimester, First', 'Reproducibility of Results', 'Risk Assessment', 'Sensitivity and Specificity']

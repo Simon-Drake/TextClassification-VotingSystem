@@ -1,0 +1,3 @@
+Complete response after treatment with imatinib in pretreated disseminated testicular seminoma with overexpression of c-KIT.
+?
+['Adult', 'Antineoplastic Agents/*therapeutic use', 'Benzamides', 'Drug Resistance, Neoplasm', 'Humans', 'Imatinib Mesylate', 'Lung Neoplasms/diagnosis/*drug therapy/secondary', 'Male', 'Piperazines/*therapeutic use', 'Proto-Oncogene Proteins c-kit/*biosynthesis', 'Pyrimidines/*therapeutic use', 'Recurrence', 'Remission Induction', 'Salvage Therapy', 'Seminoma/diagnosis/*drug therapy/secondary', 'Testicular Neoplasms/diagnosis/*drug therapy/metabolism', 'Tomography, Spiral Computed', 'Treatment Outcome', 'Up-Regulation']

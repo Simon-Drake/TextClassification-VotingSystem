@@ -1,0 +1,3 @@
+Down's syndrome screening using urine beta-core fragment test: choice of immunoassay.
+?
+['Chorionic Gonadotropin, beta Subunit, Human/immunology/*urine', 'Cross Reactions', 'Down Syndrome/*diagnosis/genetics', 'Female', 'Genetic Testing/*methods/standards', 'Humans', 'Immunoassay', 'Pregnancy', '*Prenatal Diagnosis']

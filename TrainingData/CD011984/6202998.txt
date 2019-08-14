@@ -1,0 +1,3 @@
+Prenatal screening for Down syndrome.
+?
+['Adult', 'Amniocentesis', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Infant, Newborn', 'Pregnancy', '*Pregnant Women', '*Prenatal Diagnosis', 'Risk Assessment', 'alpha-Fetoproteins/*analysis']

@@ -1,0 +1,1 @@
+MeSHAntifungalAgent MeSHCandid MeSHCandidiasis MeSHOra MeSHChi-SquareDistribution MeSHColonyCount MeSHMicrobial MeSHCytodiagnosis MeSHDNA MeSHFunga MeSHFemale MeSHHumans MeSHHyphae MeSHLichenPlanus MeSHOra MeSHMale MeSHSequenceAnalysis MeSHDNA MeSHSpeciesSpecificity MeSHStatistics MeSHNonparametric

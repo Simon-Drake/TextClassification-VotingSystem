@@ -1,0 +1,3 @@
+What can we do to prepare patients for test results during pregnancy?
+?
+['Anxiety', 'Biomarkers/*blood', '*Chromosomes, Human, Pair 18', 'Down Syndrome/*diagnosis', 'False Positive Reactions', 'Female', 'Humans', 'Mass Screening/methods/*psychology', 'Neural Tube Defects/*diagnosis', '*Patient Participation', 'Pregnancy', 'Prenatal Diagnosis/methods/*psychology', 'Trisomy/*diagnosis']

@@ -1,0 +1,1 @@
+MeSHAbdominalWall MeSHAdult MeSHCholecystectomy MeSHLaparoscopic MeSHDiagnosis MeSHDifferential MeSHEndometriosis MeSHFemale MeSHGallstones MeSHHernia MeSHVentral MeSHHumans MeSHHysterectomy MeSHIncidentalFindings MeSHLaparoscopy MeSHLeiomyoma MeSHTomography MeSHX-RayComputed MeSHUterineNeoplasms

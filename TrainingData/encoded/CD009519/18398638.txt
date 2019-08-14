@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHNeedl MeSHCoug MeSHDiffusionMagneticResonanceImaging MeSHEmbolism MeSHAi MeSHFollow-UpStudies MeSHHumans MeSHHyperbaricOxygenatio MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPositron-EmissionTomography MeSHRadiography MeSHInterventiona MeSHRiskAssessment MeSHStrok MeSHTomography MeSHX-RayCompute MeSHTreatmentOutcome

@@ -1,0 +1,3 @@
+[The value of tomography in the diagnosis of a small peripheral cancer of the lung].
+?
+['Adult', 'Aged', 'Diagnosis, Differential', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', 'Radiography', 'Solitary Pulmonary Nodule/*diagnostic imaging', 'Tomography']

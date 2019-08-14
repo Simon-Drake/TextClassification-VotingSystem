@@ -1,0 +1,1 @@
+MeSHAsciticFluid MeSHCase-ControlStudies MeSHCytokines MeSHEndometriosis MeSHFemale MeSHHumans MeSHInterferon-gamma MeSHInterleukin-12 MeSHInterleukin-1beta MeSHInterleukin-6 MeSHInterleukin-8 MeSHPeritonitis MeSHSeverityofIllnessIndex MeSHTissueAdhesions MeSHTumorNecrosisFactor-alpha MeSHVascularEndothelialGrowthFactorA

@@ -1,0 +1,1 @@
+MeSHAceticAcid MeSHBiopsy MeSHCase-ControlStudies MeSHDiagnosis MeSHDifferential MeSHFemale MeSHHumans MeSHLeukoplakia MeSHOra MeSHLichenPlanus MeSHOra MeSHLuminescence MeSHMale MeSHMiddleAged MeSHMouthMucos MeSHMouthNeoplasm MeSHPhoticStimulatio MeSHPilotProjects MeSHPrecancerousCondition MeSHSmoking

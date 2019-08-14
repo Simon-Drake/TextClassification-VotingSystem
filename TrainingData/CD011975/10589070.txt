@@ -1,0 +1,3 @@
+Maternal serum s100b protein is ineffective for Down syndrome screening.
+?
+['Biomarkers/blood', 'Calcium-Binding Proteins/*blood', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Nerve Growth Factors/*blood', 'Predictive Value of Tests', 'Pregnancy', 'Prenatal Diagnosis/*standards', 'S100 Calcium Binding Protein beta Subunit', '*S100 Proteins']

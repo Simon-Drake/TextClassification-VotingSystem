@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHColon MeSHSigmoid MeSHDiagnosis MeSHEndometriosis MeSHFemale MeSHHumans MeSHPathology MeSHRadiography MeSHSigmoidNeoplasms

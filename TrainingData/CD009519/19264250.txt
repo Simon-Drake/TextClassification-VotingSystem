@@ -1,0 +1,3 @@
+Fluorodeoxyglucose-positron emission tomography differentiating thrombus from tumor in the left ventricle.
+?
+['Bronchial Neoplasms/pathology', 'Carcinoma/*diagnostic imaging/secondary', 'Diagnosis, Differential', 'Fluorodeoxyglucose F18', 'Heart Diseases/*diagnostic imaging', 'Heart Neoplasms/*diagnostic imaging/secondary', 'Heart Ventricles/diagnostic imaging', 'Humans', 'Positron-Emission Tomography', 'Thrombosis/*diagnostic imaging']

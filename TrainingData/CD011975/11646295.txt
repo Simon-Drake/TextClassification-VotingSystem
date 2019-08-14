@@ -1,0 +1,3 @@
+Tests of fetuses rise sharply amid doubts.
+?
+['Amniocentesis', 'Chorionic Villi Sampling', 'Congenital, Hereditary, and Neonatal Diseases and Abnormalities', 'Down Syndrome', 'Genetic Diseases, Inborn', '*Genetic Testing', 'Humans', 'Liability, Legal', '*Mass Screening', 'Neural Tube Defects', 'Physicians', '*Pregnancy', '*Pregnant Women', '*Prenatal Diagnosis', '*Risk', '*Risk Assessment', 'Statistics as Topic', 'Tay-Sachs Disease', 'United States']

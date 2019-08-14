@@ -1,0 +1,3 @@
+RTOG current clinical trials in lung cancer. Overview.
+?
+['Carcinoma, Non-Small-Cell Lung', 'Carcinoma, Small Cell/*diagnostic imaging/*radiotherapy', 'Clinical Trials as Topic', 'Combined Modality Therapy/methods', 'Humans', 'Lung Neoplasms/*diagnostic imaging/*radiotherapy', 'Meta-Analysis as Topic', '*Positron-Emission Tomography/methods', 'Radiography', 'Radiotherapy Dosage']

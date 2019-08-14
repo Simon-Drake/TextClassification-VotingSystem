@@ -1,0 +1,3 @@
+Affect of late-onset prenatal care on antenatal diagnosis.
+?
+['Birth Certificates', 'Congenital Abnormalities/*epidemiology', '*Documentation', 'Down Syndrome/epidemiology', 'Female', 'Humans', 'Pregnancy', '*Prenatal Care', '*Prenatal Diagnosis', 'Virginia']

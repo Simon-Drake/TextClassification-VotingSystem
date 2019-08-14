@@ -1,0 +1,3 @@
+[Comparison of computed tomography with radionuclide tomography in chest diagnosis (author's transl)].
+?
+['Female', 'Gallium Radioisotopes', 'Humans', 'Lung/diagnostic imaging', 'Lung Neoplasms/*diagnosis', 'Lymphoma/diagnosis', '*Tomography, Emission-Computed', '*Tomography, X-Ray Computed']

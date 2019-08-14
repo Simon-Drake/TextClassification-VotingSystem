@@ -1,0 +1,3 @@
+Case report: clinical utility of ultrasound nasal bone determination in the prenatal diagnosis of Down syndrome.
+?
+['Abortion, Eugenic', 'Adult', 'Down Syndrome/*diagnosis', 'Female', 'Genetic Counseling', 'Humans', 'Maternal Age', 'Nasal Bone/*abnormalities/*diagnostic imaging', 'Neck/abnormalities/diagnostic imaging', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy, High-Risk', '*Ultrasonography, Prenatal']

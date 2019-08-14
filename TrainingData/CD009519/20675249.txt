@@ -1,0 +1,3 @@
+Multiple FDG-avid sclerosing hemangiomas mimicking pulmonary metastases in a case of soft tissue sarcoma.
+Non-neoplastic lesions have been known to mimic malignancies and metastases on positron emission tomography/computed tomography. We report the rare occurrence of multiple fluorodeoxyglucose-concentrating sclerosing hemangiomas in a patient with soft tissue sarcoma mimicking lung metastases.
+['Adult', 'Diagnosis, Differential', 'Female', 'Fluorodeoxyglucose F18', 'Histiocytoma, Benign Fibrous/*diagnostic imaging', 'Humans', 'Lung Neoplasms/diagnostic imaging', 'Positron-Emission Tomography/*methods', 'Radiopharmaceuticals', 'Sarcoma/*diagnostic imaging', 'Tomography, X-Ray Computed/*methods']

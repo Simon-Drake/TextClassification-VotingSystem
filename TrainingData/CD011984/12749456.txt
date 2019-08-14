@@ -1,0 +1,3 @@
+"Floating denominators"--effect of verification bias on accuracy estimates for preimplantation diagnosis.
+?
+['*Aneuploidy', 'Female', 'Fertilization in Vitro/*methods', 'Humans', 'Predictive Value of Tests', 'Pregnancy', 'Preimplantation Diagnosis/*methods/standards', '*Reproductive Techniques, Assisted']

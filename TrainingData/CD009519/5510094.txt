@@ -1,0 +1,3 @@
+[Characteristics of the x-ray manifestations of lung neoplasm recurrence following radiotherapy].
+?
+['Aged', 'Female', 'Humans', 'Lung Neoplasms/diagnostic imaging/*radiotherapy', 'Male', 'Middle Aged', 'Neoplasm Recurrence, Local/*diagnostic imaging', 'Radiography', 'Tomography']

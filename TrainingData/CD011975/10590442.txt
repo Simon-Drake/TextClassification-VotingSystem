@@ -1,0 +1,3 @@
+Down syndrome fetal loss rate in early pregnancy.
+?
+['Abortion, Spontaneous/*epidemiology', 'Adult', 'Amniocentesis/statistics & numerical data', 'Chorionic Villi Sampling/statistics & numerical data', 'Down Syndrome/embryology/*epidemiology', 'Female', 'Humans', 'Meta-Analysis as Topic', 'Pregnancy', 'Pregnancy Trimester, First', 'Prevalence', 'Registries', 'United Kingdom/epidemiology']

@@ -1,0 +1,1 @@
+MeSHAbdominalPain MeSHAdult MeSHDiagnosis MeSHDifferential MeSHEndometriosis MeSHFemale MeSHHumans MeSHIlealDiseases MeSHInfertility MeSHIntestinalObstruction MeSHIntestine MeSHSmall MeSHLaparoscopy MeSHRadiography MeSHTreatmentOutcome

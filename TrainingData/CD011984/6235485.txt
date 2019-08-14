@@ -1,0 +1,3 @@
+Maternal age specific rates for chromosome aberrations and factors influencing them: report of a collaborative european study on 52 965 amniocenteses.
+?
+['Abortion, Spontaneous/genetics', 'Adult', '*Amniocentesis', '*Chromosome Aberrations/epidemiology/*genetics', '*Chromosome Disorders', 'Chromosomes, Human, 13-15', 'Chromosomes, Human, 16-18', 'Down Syndrome/epidemiology/genetics', 'Europe', 'Female', 'Humans', 'Male', '*Maternal Age', 'Middle Aged', 'Paternal Age', 'Pregnancy', 'Probability', 'Regression Analysis', 'Sex Chromosome Aberrations/epidemiology/genetics', 'Turner Syndrome/epidemiology/genetics']

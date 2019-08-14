@@ -1,0 +1,3 @@
+Comparison of three typing methods for clinical and environmental isolates of Aspergillus fumigatus.
+?
+['Aspergillosis/microbiology', 'Aspergillus fumigatus/*classification/genetics/isolation & purification', 'Environmental Microbiology', 'Evaluation Studies as Topic', 'Humans', 'Mycology/*methods', 'Random Amplified Polymorphic DNA Technique']

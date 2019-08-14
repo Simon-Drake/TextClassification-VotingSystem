@@ -1,0 +1,3 @@
+Endobronchial ultrasonography (EBUS)--its role in staging of non-small cell lung cancer and who should do it?
+?
+['Algorithms', '*Biopsy, Needle/standards', 'Bronchoscopy/*methods/standards', 'Carcinoma, Non-Small-Cell Lung/*diagnosis/diagnostic imaging/pathology/therapy', '*Clinical Competence/standards', 'Cooperative Behavior', '*Endosonography/standards', 'Humans', 'Lung Neoplasms/*diagnosis/diagnostic imaging/pathology/therapy', 'Multimodal Imaging', 'Neoplasm Staging', 'Patient Care Team', 'Positron-Emission Tomography', 'Predictive Value of Tests', 'Prognosis', 'Reproducibility of Results', 'Tomography, X-Ray Computed']

@@ -1,0 +1,1 @@
+MeSHBiomarker MeSHCase-ControlStudies MeSHDexamethason MeSHEnzyme-LinkedImmunosorbentAssay MeSHEpithelialCell MeSHFemale MeSHHumans MeSHImmunohistochemistry MeSHInterleukin-1 MeSHLichenPlanus MeSHOra MeSHLipopolysaccharide MeSHMale MeSHMiddleAged MeSHPhotomicrography MeSHReal-TimePolymeraseChainReaction MeSHSaliv MeSHToll-LikeReceptor MeSHToll-LikeReceptor

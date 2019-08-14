@@ -1,0 +1,3 @@
+Pulmonary metastases.
+?
+['Bronchial Neoplasms/diagnostic imaging/secondary', 'Calcinosis/diagnostic imaging', 'Diagnosis, Differential', 'False Negative Reactions', 'Female', 'Humans', 'Lung Neoplasms/diagnostic imaging/pathology/*secondary', 'Lymphatic Metastasis', 'Male', 'Pleural Neoplasms/diagnostic imaging/secondary', 'Pneumothorax/diagnostic imaging', 'Radiography, Thoracic', 'Tomography', 'Tomography, X-Ray Computed']

@@ -1,0 +1,3 @@
+Decision tree sensitivity analysis for cost-effectiveness of FDG-PET in the staging and management of non-small-cell lung carcinoma.
+?
+['Carcinoma, Non-Small-Cell Lung/*diagnostic imaging/economics', 'Cost Savings', 'Cost-Benefit Analysis', '*Decision Support Techniques', 'Deoxyglucose/*analogs & derivatives', 'Fluorine Radioisotopes', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/economics', 'Tomography, Emission-Computed/*economics']

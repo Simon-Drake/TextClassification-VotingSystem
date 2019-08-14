@@ -1,0 +1,3 @@
+[A new test to estimate risk for chromosomal trisomy in the first pregnancy trimester].
+?
+['Biomarkers/analysis', 'Down Syndrome/*diagnosis/embryology', 'Female', 'Fetal Diseases/*diagnosis/embryology', 'Humans', 'Neck/diagnostic imaging', 'Pregnancy', 'Pregnancy Trimester, First', 'Risk Factors', 'Ultrasonography, Prenatal']

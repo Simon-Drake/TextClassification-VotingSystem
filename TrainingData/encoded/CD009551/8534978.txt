@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAspergillusoryza MeSHBaseSequence MeSHCloning MeSHMolecular MeSHDNA MeSHComplementar MeSHDNA MeSHFungal MeSHMolecularSequenceData MeSHPromoterRegions MeSHGenetic MeSHRibonucleaseT MeSHSaccharomycescerevisiae

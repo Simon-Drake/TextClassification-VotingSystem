@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSmallCel MeSHHumans MeSHLungNeoplasm MeSHNeoplasmStaging MeSHPositron-EmissionTomograph MeSHTomography MeSHX-RayComputed

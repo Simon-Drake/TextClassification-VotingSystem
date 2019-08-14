@@ -1,0 +1,3 @@
+Collaborative study of Down syndrome screening using maternal serum alpha-fetoprotein and maternal age.
+?
+['Clinical Trials as Topic', 'Down Syndrome/*diagnosis', 'Female', 'Humans', '*Maternal Age', 'Pregnancy', '*Prenatal Diagnosis', 'Risk', 'alpha-Fetoproteins/*analysis']

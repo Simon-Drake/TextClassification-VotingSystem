@@ -1,0 +1,3 @@
+[Improvement of thoracic tomography by shortening exposure time].
+?
+['Aged', 'Bronchial Neoplasms/diagnostic imaging', 'Heart/diagnostic imaging', 'Humans', 'Male', 'Mediastinum/diagnostic imaging', 'Neoplasm Metastasis', '*Radiography, Thoracic', 'Time Factors', '*Tomography']

@@ -1,0 +1,3 @@
+Contingent triple-screening for Down syndrome in the second trimester is not a cost-effective prenatal screening strategy in Mainland Chinese population.
+?
+['Adult', 'China', 'Chorionic Gonadotropin, beta Subunit, Human/blood', 'Cost-Benefit Analysis', 'Down Syndrome/blood/*diagnosis', 'Estriol/blood', 'Female', 'Humans', 'Pregnancy', 'Pregnancy Trimester, Second', 'Prenatal Diagnosis/*economics/methods', 'alpha-Fetoproteins/analysis']

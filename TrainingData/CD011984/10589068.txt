@@ -1,0 +1,3 @@
+Validation of risk estimation using the quadruple test in prenatal screening for Down syndrome.
+?
+['Down Syndrome/*diagnosis', 'Female', 'Humans', 'Pregnancy', 'Prenatal Diagnosis/*statistics & numerical data', 'Reproducibility of Results', 'Risk']

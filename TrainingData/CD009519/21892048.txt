@@ -1,0 +1,3 @@
+Lung cancer metastasis to an adrenal myelolipoma detected by PET/CT.
+?
+['Adrenal Gland Neoplasms/*diagnostic imaging/*secondary', 'Female', 'Humans', 'Lung Neoplasms/*pathology', 'Middle Aged', '*Multimodal Imaging', 'Myelolipoma/*diagnostic imaging', '*Positron-Emission Tomography', '*Tomography, X-Ray Computed']

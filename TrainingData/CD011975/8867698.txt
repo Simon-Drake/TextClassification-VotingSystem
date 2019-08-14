@@ -1,0 +1,3 @@
+Prenatal biochemical diagnostics of inborn developmental defects.
+Screening of pathological pregnancies with the use of biochemical markers determined in maternal serum is now widely accepted as a useful procedure. In our experience, the main contribution is a finding of abnormal values of one or more of the markers, which will advise gynecologist upon a possibility of a risk pregnancy.
+['Adolescent', 'Adult', 'Biomarkers/*blood', 'Chorionic Gonadotropin/blood', 'Chromosomes, Human, Pair 18', 'Down Syndrome/blood/diagnosis', 'Female', 'Humans', 'Neural Tube Defects/blood/diagnosis', 'Pregnancy', 'Pregnancy-Specific beta 1-Glycoproteins/analysis', '*Prenatal Diagnosis', 'Trisomy', 'alpha-Fetoproteins/analysis']

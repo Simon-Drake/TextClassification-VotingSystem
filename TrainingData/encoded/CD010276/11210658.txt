@@ -1,0 +1,1 @@
+MeSHBiops MeSHClinicalLaboratoryTechniques MeSHHumans MeSHMedicalHistoryTaking MeSHMouthDisease MeSHMouthMucos MeSHPalpation MeSHPhysicalExamination MeSHTimeFactors

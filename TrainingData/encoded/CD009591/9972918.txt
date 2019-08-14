@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHBronchoscopy MeSHChoristoma MeSHDiagnosis MeSHDifferential MeSHEndometriosis MeSHEndoscopy MeSHFemale MeSHFollow-UpStudies MeSHHumans MeSHMiddleAged MeSHPelvis MeSHSolitaryPulmonaryNodule MeSHThoracicSurgicalProcedures MeSHThoracoscopy MeSHTomography MeSHX-RayComputed MeSHVideoRecording

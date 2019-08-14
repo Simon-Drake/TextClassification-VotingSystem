@@ -1,0 +1,3 @@
+Management of fetal choroid plexus cysts.
+?
+['Brain Diseases/genetics/therapy', '*Choroid Plexus', 'Chromosomes, Human, Pair 18', 'Cysts/genetics/*therapy', 'Down Syndrome/etiology', 'Female', 'Fetal Diseases/genetics/*therapy', 'Humans', 'Pregnancy', 'Risk Factors', 'Trisomy/*genetics', 'Ultrasonography, Prenatal']

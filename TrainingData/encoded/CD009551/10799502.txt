@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAscomycot MeSHAspergillusnidulan MeSHBaseSequence MeSHCloning MeSHMolecular MeSHCultureMedia MeSHDNAPrimers MeSHMolecularSequenceData MeSHOrnithineDecarboxylas MeSHTransformation MeSHGenetic MeSHTriticu MeSHVirulence

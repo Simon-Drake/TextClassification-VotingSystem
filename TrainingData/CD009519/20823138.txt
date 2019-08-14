@@ -1,0 +1,3 @@
+Primary Ewing's sarcoma presenting as a Pancoast tumour.
+?
+['Bone Neoplasms/*complications/diagnosis', 'Female', 'Humans', 'Magnetic Resonance Imaging', 'Middle Aged', 'Pancoast Syndrome/*etiology', 'Positron-Emission Tomography', '*Ribs', 'Sarcoma, Ewing/*complications/diagnosis', 'Tomography, X-Ray Computed']

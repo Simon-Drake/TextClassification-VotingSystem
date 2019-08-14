@@ -1,0 +1,3 @@
+Metastatic lung cancer to the pancreas.
+?
+['Humans', 'Lung Neoplasms/*complications', 'Male', 'Middle Aged', 'Pancreatic Neoplasms/diagnosis/*secondary', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed']

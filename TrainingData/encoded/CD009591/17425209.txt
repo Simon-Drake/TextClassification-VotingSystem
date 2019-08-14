@@ -1,0 +1,1 @@
+MeSHAbdominalWall MeSHAdult MeSHAxilla MeSHBiopsy MeSHFine-Needle MeSHBreast MeSHChoristoma MeSHDiagnosis MeSHDifferential MeSHDiagnosticErrors MeSHEndometriosis MeSHEndometrium MeSHFemale MeSHHumans MeSHNeoplasms MeSHSubmandibularGland MeSHThyroidGland MeSHThyroiditis

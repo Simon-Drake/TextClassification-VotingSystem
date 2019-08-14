@@ -1,0 +1,1 @@
+MeSHAbnormalities MeSHMultiple MeSHAdult MeSHAneuploidy MeSHChromosomeBreakage MeSHChromosomes MeSHHuman MeSHPair18 MeSHCleftLip MeSHCleftPalate MeSHCytogeneticAnalysis MeSHFemale MeSHFetalBlood MeSHFibroblasts MeSHHumans MeSHInfant MeSHNewborn MeSHLymphocytes MeSHMale MeSHSpectralKaryotyping MeSHSyndrome MeSHTrisomy

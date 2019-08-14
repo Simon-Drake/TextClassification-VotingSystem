@@ -1,0 +1,3 @@
+The value of HRCT and Tc-depreotide in the evaluation of pulmonary lesions.
+?
+['Adult', 'Aged', 'Aged, 80 and over', 'False Negative Reactions', 'Female', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/pathology', 'Male', 'Middle Aged', '*Organotechnetium Compounds', 'Radionuclide Imaging', 'Receptors, Somatostatin/analysis', 'Sensitivity and Specificity', 'Somatostatin/*analogs & derivatives', '*Tomography, X-Ray Computed']

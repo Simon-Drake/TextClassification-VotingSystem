@@ -1,0 +1,1 @@
+MeSHBronchialNeoplasm MeSHFluorodeoxyglucoseF1 MeSHHumans MeSHLungNeoplasm MeSHPleuralNeoplasm MeSHPrognosis MeSHRadiopharmaceutical MeSHTomography MeSHEmission-Compute MeSHTreatmentOutcome

@@ -1,0 +1,3 @@
+Sensitivity of remediastinoscopy: influence of adhesions, multilevel N2 involvement, or surgical technique?
+?
+['Carcinoma, Non-Small-Cell Lung/*pathology', 'Humans', 'Lung Neoplasms/*pathology', 'Lymph Nodes/*pathology', 'Lymphatic Metastasis/diagnosis', 'Mediastinoscopes', '*Mediastinoscopy/methods', 'Neoplasm Staging/methods', 'Positron-Emission Tomography', 'Prognosis', 'Sensitivity and Specificity', 'Thoracotomy', 'Tissue Adhesions', 'Tomography, X-Ray Computed', 'Videotape Recording']

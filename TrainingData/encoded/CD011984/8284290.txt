@@ -1,0 +1,1 @@
+MeSHAmniocentesis MeSHArtifacts MeSHChorionicVilliSampling MeSHFemale MeSHHumans MeSHKaryotyping MeSHMosaicism MeSHPredictiveValueofTests MeSHPregnancy MeSHPregnancyOutcome MeSHPregnancyTrimester MeSHFirst MeSHPregnancyTrimester MeSHSecond MeSHRiskFactors

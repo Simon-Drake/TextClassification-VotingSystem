@@ -1,0 +1,3 @@
+Ultrasound dating in first-trimester biochemical screening for Down syndrome.
+?
+['Aneuploidy', 'Chromosome Aberrations/diagnostic imaging/embryology', 'Chromosome Disorders', 'Down Syndrome/*diagnostic imaging/embryology', 'Female', 'Humans', 'Karyotyping', 'Pregnancy', 'Pregnancy Trimester, First', '*Ultrasonography, Prenatal']

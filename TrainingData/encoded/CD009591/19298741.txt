@@ -1,0 +1,1 @@
+MeSHBaseSequence MeSHBiomarkers MeSHCase-ControlStudies MeSHDNA MeSHDNAPrimers MeSHEndometriosis MeSHFemale MeSHHumans MeSHPolymeraseChainReaction MeSHRetrospectiveStudies

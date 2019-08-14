@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAged MeSHCarcinoma MeSHNon-Small-CellLun MeSHColonicPolyp MeSHFluorodeoxyglucoseF1 MeSHHumans MeSHIncidentalFindings MeSHLungNeoplasm MeSHMale MeSHPositron-EmissionTomograph MeSHRectalNeoplasm MeSHSubtractionTechnique MeSHTomography MeSHX-RayCompute

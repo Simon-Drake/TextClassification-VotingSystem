@@ -1,0 +1,3 @@
+[Low maternal serum alpha fetoprotein in a familial case with trisomy 21 by translocation].
+?
+['Down Syndrome/*diagnosis', 'Female', 'Humans', 'Pregnancy', 'Pregnancy Proteins/blood', '*Translocation, Genetic', 'alpha-Fetoproteins/*blood']

@@ -1,0 +1,1 @@
+MeSHDiagnosis MeSHDifferential MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLogisticModels MeSHLungNeoplasm MeSHMale MeSHMultivariateAnalysis MeSHPositron-EmissionTomograph MeSHPredictiveValueofTests MeSHSolitaryPulmonaryNodul MeSHTomography MeSHX-RayComputed

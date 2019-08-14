@@ -1,0 +1,3 @@
+Restaging patients with N2 (stage IIIa) non-small cell lung cancer after neoadjuvant chemoradiotherapy: a closer look at redo mediastinoscopy.
+?
+['Carcinoma, Non-Small-Cell Lung/pathology/*surgery/therapy', 'Humans', 'Lung Neoplasms/pathology/*surgery/therapy', 'Lymphatic Metastasis', '*Mediastinoscopy', '*Neoadjuvant Therapy', 'Neoplasm Staging', 'Positron-Emission Tomography', 'Reoperation', 'Tomography, X-Ray Computed']

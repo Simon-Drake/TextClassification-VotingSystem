@@ -1,0 +1,3 @@
+Second-trimester ultrasound markers for the detection of Down's syndrome: are they worth the effort.
+?
+['Down Syndrome/*diagnostic imaging', 'Female', 'Humans', 'Infant, Newborn', 'Pregnancy', 'Pregnancy Trimester, Second', 'Sensitivity and Specificity', '*Ultrasonography, Prenatal']

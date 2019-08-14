@@ -1,0 +1,3 @@
+Choice between using delta-NT or NT MoM.
+?
+['Algorithms', 'Down Syndrome/*diagnostic imaging', 'Female', 'Fetal Diseases/*diagnostic imaging', 'Humans', 'Neck/diagnostic imaging', 'Pregnancy', 'Risk Assessment/methods', 'Ultrasonography, Prenatal/*methods']

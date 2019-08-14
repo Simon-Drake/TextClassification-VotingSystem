@@ -1,0 +1,3 @@
+[Screening for Down syndrome and congenital abnormalities in the first versus the second trimester].
+?
+['Biomarkers/*analysis', 'Congenital Abnormalities/*diagnosis/diagnostic imaging/genetics', 'Down Syndrome/*diagnosis/diagnostic imaging/genetics', 'Female', 'Humans', '*Mass Screening', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy Trimester, Second', '*Ultrasonography, Prenatal']

@@ -1,0 +1,3 @@
+The resolving nuchal fold in second trimester fetuses: not necessarily reassuring.
+?
+['Adult', 'Down Syndrome/diagnostic imaging', 'Female', 'Fetal Diseases/*diagnostic imaging', 'Gestational Age', 'Humans', 'Middle Aged', 'Pregnancy', 'Pregnancy Trimester, Second', '*Skinfold Thickness', '*Ultrasonography, Prenatal']

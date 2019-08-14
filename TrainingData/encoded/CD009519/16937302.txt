@@ -1,0 +1,1 @@
+MeSHBreastNeoplasm MeSHCarcinom MeSHColorectalNeoplasm MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHLymphom MeSHNeoplasmStagin MeSHNeoplasm MeSHPositron-EmissionTomograph MeSHTomography MeSHEmission-Compute MeSHWholeBodyImagin

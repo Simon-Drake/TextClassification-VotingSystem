@@ -1,0 +1,3 @@
+Prenatal diagnosis of de novo mosaic distal 18q deletion associated with congenital anomalies.
+?
+['*Chromosome Deletion', 'Chromosomes, Human, Pair 18/*genetics', 'Female', 'Humans', 'Karyotyping', 'Mandibulofacial Dysostosis/*diagnostic imaging/genetics', '*Mosaicism', 'Pregnancy', 'Ultrasonography, Prenatal/*methods']

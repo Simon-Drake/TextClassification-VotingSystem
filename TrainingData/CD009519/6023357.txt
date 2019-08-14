@@ -1,0 +1,3 @@
+Pulmonary infarction simulating bronchial carcinoma.
+?
+['Adult', 'Aged', 'Bronchial Neoplasms/*diagnosis/*diagnostic imaging', 'Diagnosis, Differential', 'Humans', 'Male', 'Middle Aged', 'Pulmonary Embolism/*diagnosis/*diagnostic imaging', 'Radiography', 'Tomography']

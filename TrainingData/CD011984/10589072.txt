@@ -1,0 +1,3 @@
+Satellited chromosome 10 detected prenatally in a fetus and confirmed as mosaic in a parent.
+?
+['Adult', '*Chromosomes, Human, Pair 10', 'DNA Probes', 'Diagnosis, Differential', 'Fathers', 'Female', 'Genetic Counseling', 'Humans', 'Male', 'Maternal Age', 'Mosaicism/*diagnosis', 'Pregnancy', 'Pregnancy, High-Risk', '*Prenatal Diagnosis']

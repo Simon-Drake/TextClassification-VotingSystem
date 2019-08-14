@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHBodyMassIndex MeSHElasticityImagingTechnique MeSHHumans MeSHLiverCirrhosi MeSHLiverTransplantatio MeSHObesit MeSHPrognosis MeSHProspectiveStudies MeSHReproducibilityofResults MeSHWeightGain

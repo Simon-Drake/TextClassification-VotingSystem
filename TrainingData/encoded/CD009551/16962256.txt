@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAspergillu MeSHGenes MeSHFungal MeSHHumans MeSHMolecularSequenceData MeSHPeptideSynthase MeSHPhylogeny MeSHProteinStructure MeSHTertiary MeSHRNA MeSHFunga MeSHRNA MeSHMessenge MeSHSequenceHomology MeSHAminoAcid

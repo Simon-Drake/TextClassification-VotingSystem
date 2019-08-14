@@ -1,0 +1,3 @@
+PET in management of small pulmonary nodules.
+?
+['Diagnosis, Differential', 'Humans', 'Lung Neoplasms/*diagnostic imaging/therapy', 'Positron-Emission Tomography/*methods', '*Practice Guidelines as Topic', 'Radiography, Thoracic', 'Solitary Pulmonary Nodule/*diagnostic imaging/therapy', 'Tomography, X-Ray Computed/*methods']

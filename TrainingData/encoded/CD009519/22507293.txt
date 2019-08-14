@@ -1,0 +1,1 @@
+MeSHAmeloblastom MeSHBiopsy MeSHFollow-UpStudies MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMandibularNeoplasm MeSHMiddleAged MeSHMultimodalImagin MeSHNeoplasmRecurrence MeSHLoca MeSHPositron-EmissionTomography MeSHRadiography MeSHThoracic MeSHTomography MeSHX-RayCompute MeSHWatchfulWaiting

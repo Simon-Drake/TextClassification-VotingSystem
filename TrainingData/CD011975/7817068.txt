@@ -1,0 +1,3 @@
+[Prenatal diagnosis of genetic diseases: Lausanne experience 1989-1993].
+?
+['Amniotic Fluid/chemistry', 'Chorionic Villi Sampling', 'Chromosome Aberrations/*diagnosis', 'Chromosome Disorders', 'Cytogenetics/methods', 'Down Syndrome/genetics', 'Female', 'Genetic Counseling', 'Gestational Age', 'Humans', 'Infant, Newborn', 'Pregnancy', 'Prenatal Diagnosis/*methods', 'Specimen Handling', 'Switzerland', 'Ultrasonography, Prenatal']

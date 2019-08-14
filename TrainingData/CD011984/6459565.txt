@@ -1,0 +1,3 @@
+Genetic counseling in prenatally diagnosed trisomy 18 and 21: psychosocial aspects.
+?
+['Abortion, Eugenic/psychology', 'Amniocentesis/psychology', '*Chromosomes, Human, 16-18', '*Chromosomes, Human, 21-22 and Y', 'Depression/psychology', 'Down Syndrome/diagnosis', 'Female', '*Genetic Counseling', 'Humans', 'Male', 'Pregnancy', '*Trisomy']

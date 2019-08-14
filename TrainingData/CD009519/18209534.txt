@@ -1,0 +1,3 @@
+Choroidal and extraocular muscle metastases from non-small-cell lung carcinoma: F-18 FDG PET/CT imaging.
+?
+['Aged', 'Carcinoma, Non-Small-Cell Lung/*diagnostic imaging', 'Choroid Neoplasms/*diagnostic imaging/secondary', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*pathology', 'Male', 'Oculomotor Muscles/*diagnostic imaging/pathology', 'Radiopharmaceuticals', '*Tomography, Emission-Computed', '*Tomography, X-Ray Computed']

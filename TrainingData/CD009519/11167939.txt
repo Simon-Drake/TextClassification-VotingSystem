@@ -1,0 +1,3 @@
+Ectopic ACTH syndrome: a diagnostic challenge!
+?
+['ACTH Syndrome, Ectopic/*diagnosis/etiology', 'Bronchial Neoplasms/complications/diagnosis', 'Carcinoid Tumor/complications/diagnosis', 'Carcinoma, Small Cell/complications/diagnosis', 'Humans', 'Lung Neoplasms/complications/diagnosis', 'Tomography, Emission-Computed', 'Tomography, X-Ray Computed']

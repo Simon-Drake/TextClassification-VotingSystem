@@ -1,0 +1,1 @@
+MeSHAged MeSHCoug MeSHDiagnosis MeSHDifferential MeSHDyspne MeSHHumans MeSHLeukemia MeSHLymphoi MeSHLeukemia MeSHMyeloi MeSHLungAbsces MeSHLungDisease MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHRadiography MeSHThoracic MeSHRespiratoryInsufficienc MeSHTomography MeSHTuberculosis MeSHPulmonar

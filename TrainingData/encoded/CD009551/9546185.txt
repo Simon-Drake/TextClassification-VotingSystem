@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAscomycot MeSHBaseSequence MeSHCloning MeSHMolecular MeSHDNA MeSHFunga MeSHGeneExpression MeSHGeneTargeting MeSHGenes MeSHFungal MeSHGlycosideHydrolase MeSHMolecularSequenceData MeSHMutation MeSHPectin MeSHPhenotype MeSHPolygalacturonas MeSHRestrictionMapping MeSHVirulenc MeSHZeamay

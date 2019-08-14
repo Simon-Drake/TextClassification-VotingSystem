@@ -1,0 +1,3 @@
+[CLINICO-STATISTICAL OBSERVATIONS ON THE EARLY STAGE OF BRONCHIAL CARCINOMA].
+?
+['*Carcinoma', '*Carcinoma, Bronchogenic', 'Humans', '*Radiography, Thoracic', '*Tomography', '*Tomography, X-Ray Computed']

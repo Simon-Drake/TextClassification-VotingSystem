@@ -1,0 +1,3 @@
+Compton radiography. VII. Compton tomographic fluoroscopy and its probable application to radiotherapy planning.
+?
+['Fluoroscopy', 'Humans', 'Lung Neoplasms/*diagnostic imaging/radiotherapy', 'Tomography, Emission-Computed/*methods']

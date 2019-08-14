@@ -1,0 +1,3 @@
+First-trimester nasal bone evaluation for aneuploidy in the general population.
+?
+['*Aneuploidy', 'Evaluation Studies as Topic', 'Female', 'Humans', 'Nasal Bone/diagnostic imaging/*embryology', 'Predictive Value of Tests', 'Pregnancy', 'Pregnancy Trimester, First', '*Ultrasonography, Prenatal']

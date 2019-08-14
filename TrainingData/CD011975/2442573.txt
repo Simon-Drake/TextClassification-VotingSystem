@@ -1,0 +1,3 @@
+Screening for Down syndrome.
+?
+['Adult', 'Down Syndrome/*diagnosis', 'Female', 'Fetal Diseases/*diagnosis', 'Humans', 'Middle Aged', 'Pregnancy', 'Pregnancy Trimester, Second', '*Prenatal Diagnosis', 'alpha-Fetoproteins/analysis']

@@ -1,0 +1,3 @@
+Use of maternal serum alpha-fetoprotein measurements to screen for Down's syndrome.
+?
+['Adult', 'Algorithms', 'Amniocentesis', 'Down Syndrome/*diagnosis/epidemiology', 'Female', 'Humans', '*Mass Screening', 'Maternal Age', 'Pregnancy', 'Pregnancy Outcome/blood/diagnosis', '*Prenatal Diagnosis', 'Reagent Kits, Diagnostic/standards', 'Risk', 'alpha-Fetoproteins/*metabolism']

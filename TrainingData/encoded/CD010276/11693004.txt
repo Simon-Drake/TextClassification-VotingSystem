@@ -1,0 +1,1 @@
+MeSHBiops MeSHCytodiagnosi MeSHDiagnosis MeSHDifferential MeSHHumans MeSHMouthDisease MeSHMouthNeoplasm MeSHPatientCompliance MeSHPatientSatisfaction MeSHPrecancerousCondition MeSHSensitivityandSpecificity

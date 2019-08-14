@@ -1,0 +1,3 @@
+Prenatal diagnosis on fetal cells from maternal peripheral blood in cases of confined placental mosaicism.
+?
+['Blood Cells/*ultrastructure', '*Cytogenetic Analysis', 'Female', 'Fetus/*cytology', 'Humans', '*Mosaicism', 'Placenta/*ultrastructure', 'Pregnancy', '*Prenatal Diagnosis']

@@ -1,0 +1,3 @@
+Unilateral diaphragmatic crus uptake on FDG positron emission tomographic imaging.
+?
+['Aged', 'Carcinoma, Squamous Cell/secondary', 'Diaphragm/*diagnostic imaging/*physiopathology', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/pathology', 'Male', 'Pleural Neoplasms/secondary', '*Radiopharmaceuticals', '*Tomography, Emission-Computed', 'Work of Breathing']

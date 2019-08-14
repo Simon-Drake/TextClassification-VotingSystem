@@ -1,0 +1,3 @@
+[Problems posed by genetic diseases. Chromosomal disorders, trisomy 21].
+?
+['Abnormalities, Multiple/genetics', 'Down Syndrome/*complications/*diagnosis', 'Female', 'Genetic Counseling', 'Humans', 'Pregnancy', 'Prenatal Diagnosis']

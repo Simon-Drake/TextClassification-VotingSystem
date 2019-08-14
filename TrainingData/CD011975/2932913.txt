@@ -1,0 +1,3 @@
+A sonographic sign for detection of Down's syndrome.
+?
+['Down Syndrome/*diagnosis', 'Edema/diagnosis', 'Female', 'Follow-Up Studies', 'Humans', 'Pregnancy', 'Pregnancy Trimester, Second', '*Prenatal Diagnosis', '*Ultrasonography']

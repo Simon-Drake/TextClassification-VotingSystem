@@ -1,0 +1,3 @@
+The effect of smoking in pregnancy on maternal serum alpha-fetoprotein, unconjugated oestriol, human chorionic gonadotrophin, progesterone and dehydroepiandrosterone sulphate levels.
+?
+['Chorionic Gonadotropin/*blood', 'Dehydroepiandrosterone/analogs & derivatives/blood', 'Dehydroepiandrosterone Sulfate', 'Down Syndrome/diagnosis', 'Estriol/blood', 'Female', 'Fetal Diseases/diagnosis', 'Gonadal Steroid Hormones/*blood', 'Humans', 'Pregnancy/*blood', 'Prenatal Diagnosis/methods', 'Progesterone/blood', 'Smoking/*adverse effects/blood', 'alpha-Fetoproteins/*analysis']

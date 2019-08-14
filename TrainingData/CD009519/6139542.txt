@@ -1,0 +1,3 @@
+Cancer diagnosis with positron computed tomography and carbon-11-labelled L-methionine.
+?
+['Aged', 'Carbon Radioisotopes', 'Carcinoma, Squamous Cell/*diagnostic imaging', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Methionine', '*Tomography, Emission-Computed']

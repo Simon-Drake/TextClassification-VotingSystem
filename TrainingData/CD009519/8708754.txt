@@ -1,0 +1,3 @@
+1996 SNM annual meeting: medical problem solving.
+?
+['Artifacts', 'Breast Neoplasms/diagnostic imaging', 'Colorectal Neoplasms/diagnostic imaging', 'Contrast Media', 'Dementia/genetics', 'Deoxyglucose/analogs & derivatives', 'Eye Neoplasms/diagnostic imaging', 'Female', 'Fluorine Radioisotopes', 'Fluorodeoxyglucose F18', 'Genetic Therapy', 'Head and Neck Neoplasms/diagnostic imaging', 'Humans', 'Lung Neoplasms/diagnostic imaging', 'Male', 'Melanoma/diagnostic imaging', 'Neoplasms/genetics', 'P-Glycoprotein/genetics', 'Radioisotopes', 'Radiotherapy', 'Rhenium', 'Societies, Medical', 'Technetium', '*Tomography, Emission-Computed', '*Tomography, Emission-Computed, Single-Photon']

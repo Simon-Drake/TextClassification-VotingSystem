@@ -1,0 +1,1 @@
+MeSHAdenosineTriphosphat MeSHAnimals MeSHApoptosi MeSHBodyWeigh MeSHCarcinoma MeSHLewisLun MeSHCellLine MeSHTumor MeSHDoxorubici MeSHDrugResistance MeSHNeoplas MeSHFemale MeSHGeneExpressionRegulation MeSHNeoplasti MeSHHumans MeSHLeukemia MeSHT-Cel MeSHMice MeSHMice MeSHInbredC57BL MeSHPoloxame MeSHTomography MeSHEmission-Computed MeSHSingle-Photon

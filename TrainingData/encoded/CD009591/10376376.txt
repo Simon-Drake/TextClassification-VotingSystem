@@ -1,0 +1,1 @@
+MeSHAbdominalPain MeSHAdult MeSHColon MeSHColonicDiseases MeSHDiagnosis MeSHDifferential MeSHEndometriosis MeSHFemale MeSHHumans MeSHLaparoscopy MeSHMagneticResonanceImaging MeSHPelvicInflammatoryDisease MeSHPelvis MeSHRadiography MeSHUltrasonography

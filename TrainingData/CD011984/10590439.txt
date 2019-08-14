@@ -1,0 +1,3 @@
+Prenatal diagnosis of bilateral ventriculomegaly and an enlarged cisterna magna in a fetus with partial trisomy 9 and partial trisomy 21.
+?
+['Abnormalities, Multiple/*diagnostic imaging', 'Adult', 'Cerebral Ventricles/*abnormalities/diagnostic imaging', '*Chromosomes, Human, Pair 21', '*Chromosomes, Human, Pair 9', 'Cisterna Magna/*abnormalities/diagnostic imaging', 'Female', 'Genetic Counseling', 'Humans', 'Pregnancy', 'Trisomy/*diagnosis', '*Ultrasonography, Prenatal']

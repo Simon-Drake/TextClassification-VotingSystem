@@ -1,0 +1,3 @@
+Additional value of I-123 MIBG SPECT in neuroblastoma.
+?
+['*3-Iodobenzylguanidine', 'Abdominal Pain/diagnosis/etiology', 'Child, Preschool', 'Fever of Unknown Origin/diagnosis/etiology', 'Humans', 'Hypoventilation/diagnosis/etiology', 'Lung Neoplasms/complications/*diagnostic imaging', 'Male', 'Neuroblastoma/complications/*diagnostic imaging', 'Radiography', 'Radiopharmaceuticals', 'Tomography, Emission-Computed, Single-Photon/*methods']

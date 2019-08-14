@@ -1,0 +1,3 @@
+Radiologic notes. Case no. 355: pulmonary chondromatous hamartoma with radiolucent clefts.
+?
+['Bronchial Neoplasms/*diagnostic imaging', 'Chondroma/*diagnostic imaging', 'Female', 'Hamartoma/*diagnostic imaging', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Middle Aged', 'Radiography', 'Tomography']

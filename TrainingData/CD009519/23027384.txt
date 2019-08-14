@@ -1,0 +1,3 @@
+Potential for truncating the scan length of restaging 18F-FDG PET/CT after chemoradiotherapy in head and neck squamous cell carcinoma.
+?
+['Carcinoma, Squamous Cell/*diagnostic imaging', 'Female', 'Head and Neck Neoplasms/*diagnostic imaging', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Multimodal Imaging/*methods', '*Positron-Emission Tomography', '*Tomography, X-Ray Computed']

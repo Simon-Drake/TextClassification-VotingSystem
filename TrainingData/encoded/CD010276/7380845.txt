@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAnimals MeSHCalcium-BindingProteins MeSHFishes MeSHHumans MeSHParotidGlan MeSHPeptideFragment MeSHPeptides MeSHProline-RichProteinDomains MeSHSaliv MeSHSalivaryProteinsandPeptides MeSHSpeciesSpecificity

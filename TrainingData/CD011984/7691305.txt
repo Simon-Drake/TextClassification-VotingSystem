@@ -1,0 +1,3 @@
+Serum screening for Down's syndrome. Vacutainer system can lead to inaccurate results.
+?
+['Adult', 'Chorionic Gonadotropin/analysis', 'Down Syndrome/*prevention & control', 'Female', 'Humans', 'Pregnancy', 'Prenatal Diagnosis/*standards', 'alpha-Fetoproteins/analysis']

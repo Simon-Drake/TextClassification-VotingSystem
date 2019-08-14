@@ -1,0 +1,3 @@
+Lepidic spread of primary lung adenocarcinoma on FDG-PET.
+?
+['Adenocarcinoma/diagnosis/*diagnostic imaging/*secondary', 'Aged', 'Bronchial Neoplasms/diagnosis/*diagnostic imaging/*secondary', 'Carcinoma, Non-Small-Cell Lung/diagnosis/diagnostic imaging/secondary', 'Diagnosis, Differential', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/diagnosis/*diagnostic imaging/pathology', 'Neoplasm Invasiveness/diagnosis/*diagnostic imaging', 'Neoplasm Staging/methods', 'Pulmonary Alveoli/*diagnostic imaging/pathology', 'Radionuclide Imaging', 'Radiopharmaceuticals']

@@ -1,0 +1,1 @@
+MeSHAbdominalPain MeSHAdult MeSHColon MeSHSigmoid MeSHDiagnosis MeSHDifferential MeSHEndometriosis MeSHFemale MeSHGastrointestinalHemorrhage MeSHHumans MeSHOvarianCysts MeSHRectalDiseases MeSHSigmoidDiseases

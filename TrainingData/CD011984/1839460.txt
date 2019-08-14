@@ -1,0 +1,3 @@
+[Trisomy 21. Epidemiology, pre and postnatal diagnosis, development, prognosis].
+?
+['Adult', 'Cytogenetics', 'Down Syndrome/*diagnosis/genetics/physiopathology', 'Female', 'Fetal Diseases/*diagnosis/genetics/physiopathology', 'Humans', 'Infant, Newborn', 'Middle Aged', 'Pregnancy', 'Prenatal Diagnosis']

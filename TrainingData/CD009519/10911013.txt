@@ -1,0 +1,3 @@
+Metabolic staging of lung cancer.
+?
+['Carcinoma, Non-Small-Cell Lung/diagnostic imaging/*pathology/*secondary', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/diagnostic imaging/*pathology', 'Lymphatic Metastasis', 'Mediastinal Neoplasms/diagnostic imaging/*secondary', 'Neoplasm Staging/*methods', 'Sensitivity and Specificity', '*Tomography, Emission-Computed', 'Tomography, X-Ray Computed']

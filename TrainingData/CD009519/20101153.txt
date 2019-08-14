@@ -1,0 +1,3 @@
+Preoperative radiation therapy and chemotherapy for pulmonary blastoma: a case report.
+?
+['Antineoplastic Combined Chemotherapy Protocols/therapeutic use', 'Cisplatin/administration & dosage', 'Combined Modality Therapy', 'Diagnosis, Differential', 'Dose Fractionation', 'Etoposide/administration & dosage', 'Humans', 'Lung Neoplasms/*drug therapy/*radiotherapy/surgery', 'Male', 'Pulmonary Blastoma/*drug therapy/*radiotherapy/surgery', 'Radiotherapy Dosage', 'Tomography, Emission-Computed', 'Tomography, X-Ray Computed', 'Young Adult']

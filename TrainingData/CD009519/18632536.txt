@@ -1,0 +1,3 @@
+New studies target lung cancer prevention, imaging, and treatment.
+?
+['Antibodies, Monoclonal/*therapeutic use', 'Antibodies, Monoclonal, Humanized', 'Antineoplastic Agents/*therapeutic use', 'Cetuximab', 'Cyclooxygenase 2 Inhibitors/*administration & dosage', 'Humans', '*Lung Neoplasms/diagnosis/drug therapy/prevention & control', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed']

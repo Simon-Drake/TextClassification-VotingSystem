@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHNeedle MeSHBronchoscopy MeSHDiagnosis MeSHDifferential MeSHHumans MeSHLun MeSHLungDisease MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPneumoni MeSHSmoking MeSHSolitaryPulmonaryNodul MeSHThoracicSurgery MeSHVideo-Assisted MeSHTomography MeSHEmission-Computed MeSHTomography MeSHX-RayComputed

@@ -1,0 +1,3 @@
+Invited commentary.
+?
+['Adenocarcinoma/*diagnostic imaging', 'Biomarkers, Tumor/*analysis', 'Cyclooxygenase 2/*analysis', 'Female', '*Fluorine Radioisotopes', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', '*Multimodal Imaging', 'Neoplasm Proteins/*analysis', '*Positron-Emission Tomography', '*Radiopharmaceuticals', '*Tomography, X-Ray Computed']

@@ -1,0 +1,3 @@
+Pregnancy outcome and long term prognosis in 868 children born after second trimester amniocentesis for maternal serum positive triple test screening and normal prenatal karyotype.
+?
+['Abnormalities, Multiple/diagnosis/genetics', 'Adult', 'Amniocentesis/*statistics & numerical data', 'Chorionic Gonadotropin/*analysis', 'Congenital Abnormalities/*diagnosis/genetics', 'Down Syndrome/diagnosis/genetics', 'Estriol/*blood', 'Female', 'Heart Defects, Congenital/diagnosis/genetics', 'Humans', 'Infant', 'Intellectual Disability/diagnosis/genetics', 'Karyotyping', 'Pregnancy', 'Pregnancy Outcome/*epidemiology', 'Pregnancy Trimester, Second/blood/*physiology', 'Prognosis', 'Surveys and Questionnaires', 'Syndrome', 'alpha-Fetoproteins/*analysis']

@@ -1,0 +1,3 @@
+Transitory pleural effusion in a trisomy 21 fetus at 14 weeks' gestation: case report.
+?
+['Down Syndrome/complications/*diagnostic imaging', 'Female', 'Fetal Diseases/*diagnostic imaging', 'Humans', 'Pleural Effusion/*diagnostic imaging/etiology', 'Pregnancy', '*Ultrasonography, Prenatal']

@@ -1,0 +1,3 @@
+Statistical flaw in SURUSS model.
+?
+['Biomarkers/analysis', 'Chorionic Gonadotropin, beta Subunit, Human/analysis', '*Data Interpretation, Statistical', 'Down Syndrome/*diagnosis', 'Female', 'Humans', '*Models, Statistical', 'Monte Carlo Method', 'Neck/*diagnostic imaging/embryology', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy-Associated Plasma Protein-A/analysis', 'Prenatal Diagnosis/*methods', 'Ultrasonography']

@@ -1,0 +1,1 @@
+MeSHChronicDisease MeSHDust MeSHFlour MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLun MeSHMale MeSHMiddleAged MeSHMultiplePulmonaryNodule MeSHOccupationalDisease MeSHPositron-EmissionTomography MeSHRadiography MeSHThoracic MeSHSilicosi MeSHSpirometry MeSHTomography MeSHX-RayComputed MeSHWorkplace

@@ -1,0 +1,3 @@
+Radiologists urge FDA to accept PET-based tumor response criteria in clinical trials.
+?
+['Biomarkers, Tumor/*metabolism', 'Clinical Trials as Topic/*methods', 'Fluorodeoxyglucose F18/metabolism', 'Humans', 'Lung Neoplasms/diagnostic imaging', 'Lymphoma/diagnostic imaging', 'Molecular Targeted Therapy', 'Neoplasms/*diagnostic imaging/*drug therapy/metabolism', 'Nuclear Medicine/manpower/*trends', '*Positron-Emission Tomography/methods', 'Radiopharmaceuticals/metabolism', 'Treatment Outcome', 'United States', 'United States Food and Drug Administration']

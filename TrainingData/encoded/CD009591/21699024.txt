@@ -1,0 +1,1 @@
+MeSHAbdominalPain MeSHAdnexalDiseases MeSHAdult MeSHAgeFactors MeSHAged MeSHFemale MeSHHumans MeSHLaparoscopy MeSHLaparotomy MeSHMiddleAged MeSHOvarianNeoplasms MeSHPostmenopause MeSHProspectiveStudies MeSHYoungAdult

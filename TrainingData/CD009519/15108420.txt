@@ -1,0 +1,3 @@
+Screening for lung cancer: what is the evidence?
+?
+['Humans', 'Lung Neoplasms/*diagnostic imaging/*prevention & control', '*Mass Screening', 'Sensitivity and Specificity', 'Sputum/cytology', '*Tomography, Spiral Computed']

@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHBiopsy MeSHFine-Needle MeSHCarcinoma MeSHSquamousCel MeSHCellTransformation MeSHNeoplasti MeSHDiagnosis MeSHDifferential MeSHHumans MeSHLun MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHNeoplasmInvasiveness MeSHPositron-EmissionTomography MeSHSolitaryPulmonaryNodul MeSHTimeFactors MeSHTomography MeSHX-RayComputed

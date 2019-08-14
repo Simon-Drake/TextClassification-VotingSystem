@@ -1,0 +1,3 @@
+CYSTIC PULMONARY HAMARTOMA.
+?
+['*Hamartoma', 'Humans', '*Lung Neoplasms', 'Neoplasms/*diagnosis', '*Radiography, Thoracic', '*Tomography', '*Tomography, X-Ray Computed']

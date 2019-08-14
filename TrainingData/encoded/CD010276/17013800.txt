@@ -1,0 +1,1 @@
+MeSHAdult MeSHBiomarkers MeSHTumo MeSHCarcinoma MeSHSquamousCel MeSHFemale MeSHGeneExpression MeSHHumans MeSHIndi MeSHMale MeSHMiddleAged MeSHMouthNeoplasm MeSHMultivariateAnalysis MeSHSTAT3TranscriptionFacto MeSHSurvivalAnalysis

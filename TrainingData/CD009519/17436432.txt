@@ -1,0 +1,3 @@
+Five-gene signature in non-small-cell lung cancer.
+?
+['Carcinoma, Non-Small-Cell Lung/*genetics/mortality', 'Gene Expression', '*Gene Expression Profiling', 'Humans', 'Lung Neoplasms/*genetics/mortality', 'Polymerase Chain Reaction', 'Positron-Emission Tomography', 'Prognosis', 'Survival Analysis']

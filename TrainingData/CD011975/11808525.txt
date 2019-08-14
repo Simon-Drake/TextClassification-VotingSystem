@@ -1,0 +1,3 @@
+Screening for Down's syndrome. Nuchal translucency screening may help detect congenital heart disease.
+?
+['Female', 'Fetal Diseases/*diagnostic imaging', 'Heart Defects, Congenital/*diagnostic imaging', 'Humans', 'Neck/*diagnostic imaging', 'Pregnancy', 'Ultrasonography, Prenatal/*methods']

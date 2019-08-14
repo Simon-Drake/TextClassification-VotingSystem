@@ -1,0 +1,3 @@
+[Site-specific microbiological tests and the diagnostic significance-- respiratory tract infections].
+?
+['Aspergillus/isolation & purification', 'Candida/isolation & purification', 'Humans', '*Microbiological Techniques', 'Polymerase Chain Reaction', 'Respiratory Tract Infections/*diagnosis/microbiology/virology', 'Specimen Handling', 'Sputum/*microbiology/virology', 'Staphylococcus/isolation & purification', 'Streptococcus/isolation & purification']

@@ -1,0 +1,3 @@
+A further case of prenatally detected mosaic isochromosome 20q.
+?
+['Adult', '*Amniocentesis', '*Chromosome Aberrations', '*Chromosomes, Human, Pair 20', 'Female', 'Humans', 'Karyotyping', '*Mosaicism', 'Pregnancy', 'Pregnancy Outcome']

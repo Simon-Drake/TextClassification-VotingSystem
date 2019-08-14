@@ -1,0 +1,3 @@
+[Silicosis callosities or bronchial carcinoma: on the problem of functional differentiation using FDG-PET].
+?
+['Callosities/*diagnostic imaging', 'Diagnosis, Differential', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', 'Radiography', 'Radiopharmaceuticals', 'Silicosis/*diagnostic imaging', '*Tomography, Emission-Computed']

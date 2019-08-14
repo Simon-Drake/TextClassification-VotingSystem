@@ -1,0 +1,1 @@
+MeSHBronchoscopy MeSHCarcinoma MeSHSquamousCel MeSHDiagnosis MeSHDifferential MeSHHumans MeSHLungNeoplasm MeSHSensitivityandSpecificity MeSHTomography MeSHEmission-Computed

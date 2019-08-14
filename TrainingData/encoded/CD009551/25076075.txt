@@ -1,0 +1,1 @@
+MeSHCoinfectio MeSHDNA MeSHFunga MeSHHumans MeSHMitosporicFung MeSHOnychomycosi MeSHPolymeraseChainReaction MeSHPolymorphism MeSHRestrictionFragmentLength

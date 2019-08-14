@@ -1,0 +1,3 @@
+Amniocentesis and informed consent.
+?
+['Age Factors', '*Amniocentesis', '*Decision Making', 'Disclosure', 'Down Syndrome', 'Genetic Counseling', 'Health Care Rationing', 'Humans', 'Informed Consent', '*National Health Programs', 'Patient Participation', 'Patient Selection', 'Pregnancy', 'Pregnant Women', '*Prenatal Diagnosis', 'Public Policy', 'Resource Allocation', '*Risk', '*Risk Assessment', 'Social Values', 'United Kingdom']

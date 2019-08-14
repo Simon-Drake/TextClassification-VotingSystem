@@ -1,0 +1,3 @@
+[SPECT in lung carcinoma: noninvasive prognostic assessment].
+?
+['Humans', 'Lung Neoplasms/*diagnostic imaging/mortality', 'Lymphatic Metastasis', 'Neoplasm Metastasis', 'Prognosis', 'Thallium Radioisotopes', 'Time Factors', '*Tomography, Emission-Computed, Single-Photon']

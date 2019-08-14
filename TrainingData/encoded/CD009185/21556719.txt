@@ -1,0 +1,1 @@
+MeSHAcute-PhaseProtein MeSHAreaUnderCurve MeSHBiomarker MeSHChild MeSHCystiti MeSHEnzyme-LinkedImmunosorbentAssay MeSHFemale MeSHHumans MeSHLipocalin-2 MeSHLipocalin MeSHMale MeSHMatrixMetalloproteinase MeSHProspectiveStudies MeSHProto-OncogeneProtein MeSHROCCurve MeSHSensitivityandSpecificity MeSHUrinaryTractInfection

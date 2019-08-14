@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHBrainNeoplasm MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHIntracranialHemorrhage MeSHLungNeoplasm MeSHMagneticResonanceImaging MeSHMiddleAged MeSHPositron-EmissionTomography

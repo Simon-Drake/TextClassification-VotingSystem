@@ -1,0 +1,3 @@
+[Unusual forms of appearance of lung cancer in the roentgenogram].
+?
+['Lung Neoplasms/*diagnosis', 'Radiography, Thoracic', 'Tomography']

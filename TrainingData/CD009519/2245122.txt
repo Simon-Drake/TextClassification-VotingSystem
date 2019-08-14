@@ -1,0 +1,3 @@
+Pulmonary uptake of MDP: demonstration of site by correlation of emission and transmission computed tomography.
+?
+['Adolescent', 'Bone Neoplasms/pathology', 'Bone and Bones/diagnostic imaging', 'Diagnosis, Differential', 'Female', 'Humans', 'Lung/*diagnostic imaging', 'Lung Neoplasms/diagnostic imaging/*secondary', 'Middle Aged', 'Technetium Tc 99m Medronate', '*Tomography, Emission-Computed', '*Tomography, X-Ray Computed']

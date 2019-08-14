@@ -1,0 +1,3 @@
+PET scanning used for monitoring treatment response in Mycobacterium avium complex infection mimicking malignancy.
+?
+['Aged', 'Diagnosis, Differential', 'Female', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Mycobacterium avium-intracellulare Infection/*diagnostic imaging/*therapy', '*Positron-Emission Tomography', 'Treatment Outcome']

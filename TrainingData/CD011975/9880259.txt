@@ -1,0 +1,3 @@
+Down's syndrome, cardiac anomalies, and nuchal translucency.
+?
+['Down Syndrome/*diagnosis', 'Female', 'Heart Defects, Congenital/*diagnosis', 'Humans', 'Neck/*embryology', 'Pregnancy', 'Prenatal Diagnosis/*methods']

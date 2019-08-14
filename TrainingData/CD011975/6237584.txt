@@ -1,0 +1,3 @@
+Diagnosis of trisomy 21 by chorionic villus biopsy.
+?
+['Adult', 'Biopsy, Needle', '*Chorionic Villi', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Pregnancy', '*Prenatal Diagnosis']

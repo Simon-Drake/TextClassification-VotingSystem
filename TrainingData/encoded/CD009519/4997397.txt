@@ -1,0 +1,1 @@
+MeSHAdult MeSHAutopsy MeSHCarcinom MeSHHumans MeSHKidneyNeoplasm MeSHLungNeoplasm MeSHLymphNodeExcision MeSHMale MeSHNeoplasmMetastasis MeSHNephrectomy MeSHRadiotherapy MeSHHigh-Energy MeSHRetrospectiveStudies MeSHSplenectomy MeSHTomography

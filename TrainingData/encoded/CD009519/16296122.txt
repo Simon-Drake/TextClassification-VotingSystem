@@ -1,0 +1,1 @@
+MeSHColonicNeoplasm MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMelanom MeSHOccultBlood MeSHSensitivityandSpecificity MeSHSigmoidoscopy MeSHSkinNeoplasm MeSHTomography MeSHSpiralComputed

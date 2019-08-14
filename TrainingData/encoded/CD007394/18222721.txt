@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHBlotting MeSHWestern MeSHCarboxypeptidases MeSHCultureMedia MeSHDNA MeSHFungal MeSHHumans MeSHMolecularSequenceData MeSHProteins MeSHSequenceAnalysis MeSHDNA MeSHSequenceHomology MeSHAminoAcid MeSHTrichophyton MeSHVirulenceFactors

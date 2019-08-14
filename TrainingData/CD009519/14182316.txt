@@ -1,0 +1,3 @@
+[APROPOS OF DIFFERENTIAL DIAGNOSIS OF SOME COIN LESIONS OF THE LUNG].
+?
+['*Bronchography', '*Diagnosis, Differential', 'Humans', '*Lung', '*Lung Diseases', '*Lung Neoplasms', '*Radiography, Thoracic', '*Tomography', '*Tomography, X-Ray Computed', '*Tuberculosis', '*Tuberculosis, Pulmonary']

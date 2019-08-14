@@ -1,0 +1,3 @@
+[Early pregnancy serum screening in Helsinki: results and mothers' opinions].
+?
+['Biomarkers/blood', 'Chorionic Gonadotropin/blood', 'Cross-Sectional Studies', 'Down Syndrome/*diagnosis/epidemiology', 'Estriol/blood', 'Female', 'Finland/epidemiology', 'Humans', 'Patient Satisfaction', 'Pregnancy', 'Pregnancy Trimester, Second/*blood', 'Prenatal Diagnosis/*methods', 'alpha-Fetoproteins/analysis']

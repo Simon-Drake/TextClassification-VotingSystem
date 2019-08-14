@@ -1,0 +1,3 @@
+[Should routines for fetal trisomy screening be changed?].
+?
+['Down Syndrome/*diagnosis/epidemiology/*prevention & control', 'Ethics, Medical', 'Female', 'Humans', 'Male', "Practice Patterns, Physicians'/economics", 'Pregnancy', 'Prenatal Diagnosis/*methods', 'Risk Factors', 'Time Factors']

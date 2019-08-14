@@ -1,0 +1,3 @@
+[Spiral computed tomography for lung cancer screening].
+?
+['Humans', 'Lung Neoplasms/*diagnostic imaging/mortality', '*Tomography, Spiral Computed']

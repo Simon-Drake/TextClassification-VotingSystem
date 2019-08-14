@@ -1,0 +1,3 @@
+Postnatally confirmed trisomy 16 mosaicism: follow-up on a previously reported patient.
+?
+['Abnormalities, Multiple/*genetics', 'Amniocentesis', 'Child, Preschool', 'Chromosomes, Human, Pair 16/*genetics', 'Facies', 'Female', 'Follow-Up Studies', 'Humans', 'Mosaicism', 'Pregnancy', 'Trisomy/*genetics', 'Ultrasonography, Prenatal']

@@ -1,0 +1,3 @@
+Challenging the strategy of maternal age-based prenatal genetic counseling.
+?
+['Aneuploidy', 'Female', '*Genetic Counseling/standards/trends', 'Humans', '*Maternal Age', 'Pregnancy', '*Prenatal Diagnosis/standards/trends', 'Risk Assessment']

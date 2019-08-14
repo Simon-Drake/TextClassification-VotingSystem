@@ -1,0 +1,3 @@
+[Neoplastic metastases in the lung. Bronchological investigations].
+?
+['Adult', '*Bronchography', 'Female', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', 'Neoplasm Metastasis/*diagnostic imaging', 'Radiography, Thoracic', 'Tomography']

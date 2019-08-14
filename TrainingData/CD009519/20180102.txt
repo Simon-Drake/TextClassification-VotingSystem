@@ -1,0 +1,3 @@
+Tracheobronchial papillomatosis with diffuse cavitary lung lesions.
+?
+['Child', 'Female', '*Fluorodeoxyglucose F18', 'Hodgkin Disease/*diagnosis', 'Humans', 'Lung Neoplasms/*diagnosis', 'Positron-Emission Tomography/*methods', 'Radiopharmaceuticals', 'Subtraction Technique', 'Tomography, X-Ray Computed/*methods']

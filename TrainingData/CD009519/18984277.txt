@@ -1,0 +1,3 @@
+False-positive finding on FDG-PET/CT after injectable elastomere implant (Vox implant) for vocal cord paralysis.
+?
+['*Dimethylpolysiloxanes', 'False Positive Reactions', 'Fluorodeoxyglucose F18', 'Humans', 'Laryngeal Neoplasms/*diagnosis', '*Larynx, Artificial', 'Lung Neoplasms/diagnostic imaging/secondary', 'Male', 'Middle Aged', '*Positron-Emission Tomography', 'Radiopharmaceuticals', '*Silicone Elastomers', '*Tomography, X-Ray Computed', 'Vocal Cord Paralysis/diagnostic imaging/therapy']

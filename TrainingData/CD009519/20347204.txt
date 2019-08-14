@@ -1,0 +1,3 @@
+[Micronodular X-ray pattern as a manifestation of a lung adenocarcinoma].
+?
+['Adenocarcinoma/*diagnostic imaging/secondary', 'Aged', 'Bone Neoplasms/secondary', 'Comorbidity', 'Dyspnea/etiology', 'Female', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Lymphatic Metastasis', 'Pleural Effusion, Malignant/etiology', 'Polypharmacy', 'Positron-Emission Tomography', 'Radiography', 'Thoracoscopy']

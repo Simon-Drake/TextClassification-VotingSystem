@@ -1,0 +1,1 @@
+MeSHAflatoxin MeSHAminoAcidSequence MeSHAspergillu MeSHDNA-BindingProtein MeSHFungalProtein MeSHGenes MeSHFunga MeSHGenes MeSHRegulator MeSHMolecularSequenceData MeSHSaccharomycescerevisia MeSHSequenceAlignment MeSHTranscriptionFactors

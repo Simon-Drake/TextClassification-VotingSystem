@@ -1,0 +1,3 @@
+Antenatal diagnosis of chromosomal disorders.
+?
+['Abortion, Spontaneous/genetics', 'Adult', 'Amniocentesis', 'Amniotic Fluid/cytology', 'Aneuploidy', 'Chromosome Aberrations/*diagnosis/genetics', 'Chromosome Disorders', 'Chromosome Inversion', 'Chromosomes, Human/drug effects/radiation effects', 'Clomiphene/adverse effects', 'Down Syndrome/genetics', 'Female', 'Fertilization', 'Genetic Techniques', 'Gestational Age', 'Humans', 'Infant, Newborn', 'Karyotyping', 'Male', 'Maternal Age', 'Metabolic Diseases/complications', 'Middle Aged', 'Pregnancy', '*Prenatal Diagnosis', 'Risk', 'Sex Chromosome Aberrations/genetics', 'Translocation, Genetic']

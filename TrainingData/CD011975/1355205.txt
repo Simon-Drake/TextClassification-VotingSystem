@@ -1,0 +1,3 @@
+Semi-quantitative detection of Down's syndrome with PCR.
+?
+['Down Syndrome/*diagnosis', 'Female', 'Humans', 'Polymerase Chain Reaction', 'Pregnancy', 'Prenatal Diagnosis/*methods']

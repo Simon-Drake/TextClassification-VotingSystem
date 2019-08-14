@@ -1,0 +1,3 @@
+Solitary plasmacytoma of the lung with coexisting sarcoid-like lesions.
+?
+['Adult', 'Glucose-6-Phosphate/analogs & derivatives', 'Humans', 'Immunoglobulin kappa-Chains/metabolism', 'Incidental Findings', 'Lung Neoplasms/diagnostic imaging/*pathology', 'Male', 'Plasmacytoma/diagnostic imaging/*pathology', 'Positron-Emission Tomography', 'Radiopharmaceuticals']

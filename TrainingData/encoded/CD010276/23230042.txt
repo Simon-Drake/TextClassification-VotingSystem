@@ -1,0 +1,1 @@
+MeSHAdult MeSHAlcoholDrinkin MeSHBodyMassIndex MeSHCaffein MeSHCoffee MeSHDiet MeSHDose-ResponseRelationship MeSHDrug MeSHFemale MeSHHealthBehavior MeSHHumans MeSHMale MeSHMiddleAged MeSHMouthNeoplasm MeSHPharyngealNeoplasm MeSHProportionalHazardsModels MeSHProspectiveStudies MeSHSmokin MeSHTea MeSHUnitedState

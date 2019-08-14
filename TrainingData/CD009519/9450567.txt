@@ -1,0 +1,3 @@
+PET scans approved for detecting metastatic non-small-cell lung cancer.
+?
+['Breast Neoplasms/diagnostic imaging/drug therapy', 'Carcinoma, Non-Small-Cell Lung/*diagnostic imaging', 'Female', 'Humans', 'Lung Neoplasms/*diagnostic imaging/pathology', 'Medicare', '*Tomography, Emission-Computed/economics', 'United States']

@@ -1,0 +1,3 @@
+Nasal bone and trisomy 21: prenatal ultrasound and postmortem morphohistological study.
+?
+['Autopsy', 'Down Syndrome/*diagnostic imaging', 'Female', 'Gestational Age', 'Humans', 'Nasal Bone/*abnormalities', 'Pregnancy', 'Ultrasonography, Prenatal/methods']

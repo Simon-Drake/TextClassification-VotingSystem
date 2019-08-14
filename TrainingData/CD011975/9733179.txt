@@ -1,0 +1,3 @@
+Echogenic fetal bowel and calcified meconium in a fetus with trisomy 21.
+?
+['Adult', 'Calcinosis/*diagnostic imaging', 'Down Syndrome/*diagnostic imaging', 'Female', 'Fetal Diseases/diagnostic imaging', 'Humans', 'Intestines/*diagnostic imaging', '*Meconium', 'Pregnancy', '*Ultrasonography, Prenatal']

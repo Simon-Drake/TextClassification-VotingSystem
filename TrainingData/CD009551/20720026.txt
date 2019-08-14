@@ -1,0 +1,3 @@
+Critical stages of extracting DNA from Aspergillus fumigatus in whole-blood specimens.
+A standardized protocol for extracting DNA from Aspergillus fumigatus has been proposed by the European Aspergillus PCR Initiative (EAPCRI). Using meta-regression analysis, the EAPCRI showed certain stages of the process to be critical to providing a satisfactory analytical sensitivity. The study investigated each step of the EAPCRI protocol by elimination and monitored the influence on Aspergillus PCR performance.
+['Aspergillosis/*diagnosis/microbiology', 'Aspergillus fumigatus/*genetics', 'Blood/*microbiology', 'DNA, Fungal/*isolation & purification', 'Humans', 'Mycology/*methods/standards', 'Polymerase Chain Reaction/*methods/standards', 'Sensitivity and Specificity']

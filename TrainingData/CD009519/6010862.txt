@@ -1,0 +1,3 @@
+[On the value of the thorax survey picture and tomographic study for demonstrating intrathoracic lymph node metastases of bronchial carcinoma].
+?
+['Bronchial Neoplasms/*diagnostic imaging', 'Humans', 'Lymphatic Metastasis/*diagnostic imaging', 'Radiography', 'Thoracic Neoplasms/*diagnostic imaging', 'Tomography']

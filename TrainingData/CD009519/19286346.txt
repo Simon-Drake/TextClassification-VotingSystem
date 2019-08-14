@@ -1,0 +1,3 @@
+Pulmonary artery sarcoma, a paradigm of orphan thoracic oncology.
+?
+['Adult', 'Biopsy', 'Blood Vessel Prosthesis', 'Female', 'Fluorodeoxyglucose F18', 'Humans', 'Intraoperative Care', 'Magnetic Resonance Imaging', 'Pneumonectomy', 'Pulmonary Artery/metabolism/*pathology/*surgery', 'Radiopharmaceuticals', 'Sarcoma/metabolism/*pathology/*surgery', 'Thoracic Neoplasms/metabolism/*pathology/*surgery', 'Vascular Neoplasms/metabolism/*pathology/*surgery']

@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHBiopsy MeSHColonoscopy MeSHFiberOpticTechnology MeSHHumans MeSHImmunohistochemistry MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPneumonectomy MeSHPositron-EmissionTomography MeSHRectalNeoplasm MeSHTimeFactors MeSHTomography MeSHX-RayComputed MeSHTreatmentOutcome

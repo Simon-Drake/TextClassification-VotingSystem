@@ -1,0 +1,3 @@
+[Warning signs of trisomy 21. Screening during fetal life].
+?
+['Down Syndrome/blood/diagnostic imaging/*prevention & control', 'Female', 'Fetal Diseases/*prevention & control', 'Humans', 'Mass Screening', 'Pregnancy', 'Prenatal Diagnosis', 'Ultrasonography']

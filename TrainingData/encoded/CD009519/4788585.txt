@@ -1,0 +1,1 @@
+MeSHAdult MeSHAged MeSHBronchography MeSHCarcinoma MeSHSquamousCel MeSHDiagnosis MeSHDifferential MeSHFemale MeSHHamartom MeSHHumans MeSHLungNeoplasm MeSHLymphaticMetastasis MeSHMale MeSHMassChestX-Ray MeSHMiddleAged MeSHSolitaryPulmonaryNodul MeSHTimeFactors MeSHTomography MeSHTuberculom MeSHTuberculosis MeSHPulmonar

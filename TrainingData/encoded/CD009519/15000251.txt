@@ -1,0 +1,1 @@
+MeSHDataInterpretation MeSHStatistical MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHeadandNeckNeoplasm MeSHHumans MeSHLungNeoplasm MeSHMale MeSHNeoplasm MeSHTomography MeSHEmission-Compute

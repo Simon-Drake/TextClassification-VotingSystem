@@ -1,0 +1,3 @@
+[Is screening radiography for cancer of the lung still current?].
+?
+['Carcinoma, Bronchogenic/*diagnostic imaging/mortality/pathology', 'Humans', 'Lung/diagnostic imaging/pathology', 'Lung Neoplasms/*diagnostic imaging/mortality/pathology', '*Mass Screening', 'Neoplasm Staging', 'Randomized Controlled Trials as Topic', 'Sensitivity and Specificity', 'Survival Rate', '*Tomography, Spiral Computed']

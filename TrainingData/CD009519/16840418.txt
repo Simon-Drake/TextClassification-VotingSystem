@@ -1,0 +1,3 @@
+Impact of positron emission tomography on clinical decision making.
+?
+['Decision Making', 'Humans', 'Lung Neoplasms/*diagnostic imaging', '*Positron-Emission Tomography', 'Predictive Value of Tests']

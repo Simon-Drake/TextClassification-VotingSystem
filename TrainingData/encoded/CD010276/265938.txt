@@ -1,0 +1,1 @@
+MeSHAdult MeSHBiopsy MeSHCarcinoma MeSHSquamousCel MeSHCytodiagnosis MeSHFalseNegativeReactions MeSHFemale MeSHHumans MeSHMale MeSHMelanom MeSHMiddleAged MeSHMouthNeoplasm MeSHPalatalNeoplasm MeSHPrecancerousCondition MeSHTongueNeoplasm

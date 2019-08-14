@@ -1,0 +1,3 @@
+Triploidy and trisomies in the offspring of a mother with a balanced translocation.
+?
+['Abortion, Habitual', 'Adult', '*Aneuploidy', 'Diagnosis, Differential', 'Female', 'Humans', 'Pregnancy', 'Pregnancy Trimester, First', '*Prenatal Diagnosis', '*Translocation, Genetic', 'Trisomy/diagnosis']

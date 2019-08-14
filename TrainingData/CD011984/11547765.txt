@@ -1,0 +1,3 @@
+Ductus venosus blood velocity in myeloproliferative disorders.
+?
+['Blood Flow Velocity', 'Down Syndrome', 'Echocardiography, Doppler', 'Female', 'Fetal Diseases/pathology', 'Humans', 'Myeloproliferative Disorders/etiology/*physiopathology', 'Pregnancy', 'Pulsatile Flow', 'Ultrasonography, Prenatal', 'Veins/*physiopathology']

@@ -1,0 +1,1 @@
+MeSHAdult MeSHArtifacts MeSHFemale MeSHFour-DimensionalComputedTomography MeSHHumans MeSHImaging MeSHThree-Dimensional MeSHMale MeSHMiddleAged MeSHMovement MeSHMultimodalImaging MeSHPositron-EmissionTomography MeSHRespiratory-GatedImagingTechniques MeSHThoracicNeoplasm MeSHTomography MeSHX-RayComputed

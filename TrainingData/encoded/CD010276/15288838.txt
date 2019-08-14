@@ -1,0 +1,1 @@
+MeSHBiops MeSHDiagnosis MeSHComputer-Assiste MeSHFemale MeSHHumans MeSHLeukoplakia MeSHOra MeSHLichenPlanus MeSHOra MeSHLikelihoodFunctions MeSHMale MeSHMiddleAged MeSHMouthMucos MeSHMouthNeoplasm MeSHSensitivityandSpecificity

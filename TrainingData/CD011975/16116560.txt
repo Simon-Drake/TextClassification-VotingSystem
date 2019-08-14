@@ -1,0 +1,3 @@
+Prenatal ultrasound diagnosis of Down syndrome. After major malformations, soft markers, nuchal translucency and skeletal signs, a new vascular sign?
+?
+['Cardiovascular Abnormalities/*diagnostic imaging', 'Down Syndrome/*diagnostic imaging', 'Female', 'Fetal Diseases/*diagnostic imaging', 'Humans', 'Musculoskeletal Abnormalities/diagnostic imaging', 'Nuchal Translucency Measurement', 'Pregnancy', 'Ultrasonography, Prenatal/*methods']

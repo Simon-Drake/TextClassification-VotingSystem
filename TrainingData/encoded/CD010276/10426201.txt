@@ -1,0 +1,1 @@
+MeSHDiagnosticError MeSHEvaluationStudiesasTopic MeSHHumans MeSHLichenPlanus MeSHOra MeSHObserverVariation MeSHReproducibilityofResults MeSHTimeFactors

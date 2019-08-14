@@ -1,0 +1,3 @@
+Three years' diagnostic experience with direct karyotyping of neonatal blood.
+Three years' experience with direct karyotyping of cord blood and neonatal venous blood is recorded. Fifty cord blood samples have been processed and 39 yielded satisfactory diagnostic results. Eight of 14 neonatal venous blood samples yielded diagnostic chromosome results after direct karyotyping. Factors which affected success are discussed.
+['Chromosome Aberrations/diagnosis/*genetics', 'Chromosome Disorders', 'Congenital Abnormalities/diagnosis/*genetics', 'Down Syndrome/diagnosis/*genetics', 'Fetal Blood/*cytology', 'Humans', 'Infant, Newborn', 'Karyotyping/*methods']

@@ -1,0 +1,1 @@
+MeSHBiomarkers MeSHTumor MeSHDiagnosis MeSHDifferential MeSHFemale MeSHGenitalNeoplasms MeSHFemale MeSHHumans MeSHImmunohistochemistry MeSHNeoplasmProteins MeSHNeoplasms MeSHSquamousCell MeSHPolymeraseChainReaction MeSHTrophoblasticNeoplasms

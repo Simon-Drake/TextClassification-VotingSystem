@@ -1,0 +1,1 @@
+MeSHCellTransformation MeSHNeoplastic MeSHDiagnosticImagin MeSHFluorescence MeSHHumans MeSHMouthMucos MeSHMouthNeoplasm MeSHPrecancerousCondition MeSHRiskFactors

@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdult MeSHAntigens MeSHCD3 MeSHAntigens MeSHCD3 MeSHBiopsy MeSHDiagnosis MeSHDifferential MeSHFollow-UpStudies MeSHHemangioendothelioma MeSHEpithelioi MeSHHumans MeSHLun MeSHLungNeoplasm MeSHMale MeSHMesotheliom MeSHMiddleAged MeSHMultimodalImaging MeSHPositron-EmissionTomography MeSHThoracoscopy MeSHTomography MeSHX-RayComputed MeSHTuberculosis MeSHPulmonar

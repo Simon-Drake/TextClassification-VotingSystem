@@ -1,0 +1,3 @@
+PULMONARY INFARCTION SIMULATING PULMONARY NEOPLASM.
+?
+['*Diagnosis, Differential', 'Humans', '*Lung Neoplasms', '*Pulmonary Embolism', '*Pulmonary Infarction', '*Radiography, Thoracic', '*Tomography', '*Tomography, X-Ray Computed']

@@ -1,0 +1,3 @@
+Pleural effusion in aneuploidy.
+Three consecutive cases of isolated pleural effusion in aneuploid fetuses are reported. The presence of pleural effusion in trisomy 13 had not been described in the literature previously. Early development of pleural effusion is usually associated with fetal hydrops and carries a poor prognosis. Late development of pleural effusion can be treated in utero. A karyotype should be performed in all cases of pleural effusion prior to in utero pleuroamniotic shunting.
+['Adult', '*Aneuploidy', 'Congenital Abnormalities', 'Down Syndrome/complications', 'Female', 'Fetal Diseases/*genetics', 'Humans', 'Pleural Effusion/complications/diagnostic imaging/*genetics', 'Pregnancy', 'Ultrasonography, Prenatal']

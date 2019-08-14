@@ -1,0 +1,1 @@
+MeSHAdenocarcinoma MeSHBronchiolo-Alveola MeSHAdenocarcinoma MeSHFollicula MeSHBiopsy MeSHCombinedModalityTherapy MeSHDiagnosis MeSHDifferential MeSHHumans MeSHIodineRadioisotope MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHThyroidNeoplasm MeSHTomography MeSHX-RayComputed MeSHWholeBodyImaging

@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHNon-Small-CellLun MeSHFluorodeoxyglucoseF1 MeSHHumans MeSHLungNeoplasm MeSHLymphNode MeSHNeoplasmStagin MeSHPositron-EmissionTomograph MeSHProspectiveStudies MeSHRadiopharmaceutical MeSHRadiotherapyPlanning MeSHComputer-Assiste MeSHRegressionAnalysis MeSHTomography MeSHX-RayCompute MeSHTumorBurden

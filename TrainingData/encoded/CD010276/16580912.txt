@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSquamousCel MeSHDiagnosis MeSHDifferential MeSHHumans MeSHMassScreenin MeSHMouthMucos MeSHMouthNeoplasm MeSHPhysicalExamination MeSHPrecancerousCondition MeSHStainingandLabeling MeSHTimeFactors

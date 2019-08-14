@@ -1,0 +1,1 @@
+MeSHBreastNeoplasm MeSHCarcinoma MeSHNon-Small-CellLun MeSHColorectalNeoplasm MeSHEsophagealNeoplasm MeSHHeadandNeckNeoplasm MeSHHumans MeSHLungNeoplasm MeSHLymphom MeSHMelanom MeSHNeoplasmStaging MeSHNeoplasm MeSHPhysicalPhenomena MeSHPhysics MeSHPrognosis MeSHThyroidNeoplasm MeSHTomography MeSHEmission-Computed

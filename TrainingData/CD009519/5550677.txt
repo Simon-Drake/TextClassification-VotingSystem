@@ -1,0 +1,3 @@
+[On the detectability of cancer metastases from the lungs to the brain].
+?
+['Adult', 'Angiography', 'Brain Neoplasms/*diagnosis', 'Bronchography', 'Humans', '*Lung Neoplasms', 'Male', 'Middle Aged', 'Neoplasm Metastasis/*diagnosis', 'Radionuclide Imaging', 'Sex Factors', 'Tomography']

@@ -1,0 +1,3 @@
+[Lung cancer: Progress in diagnosis and treatment. II. Diagnostic imaging: 4. Radioisotope diagnosis of lung cancer].
+?
+['Animals', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Tomography, Emission-Computed']

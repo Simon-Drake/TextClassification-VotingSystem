@@ -1,0 +1,1 @@
+MeSHBronchialDisease MeSHBronchialNeoplasm MeSHDiagnosis MeSHDifferential MeSHFemale MeSHHumans MeSHMale MeSHMiddleAged MeSHTomography MeSHSpiralCompute MeSHTuberculosi

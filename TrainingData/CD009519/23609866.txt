@@ -1,0 +1,3 @@
+[Role of diagnostic imaging in thoracic surgery].
+?
+['Humans', 'Lung Neoplasms/*diagnosis/*surgery', 'Lymphatic Metastasis/diagnosis', 'Molecular Targeted Therapy', 'Multimodal Imaging', 'Positron-Emission Tomography', 'Postoperative Period', 'Tomography, X-Ray Computed']

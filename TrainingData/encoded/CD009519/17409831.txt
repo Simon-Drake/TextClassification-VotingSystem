@@ -1,0 +1,1 @@
+MeSHDiagnosis MeSHDifferential MeSHHumans MeSHLungNeoplasm MeSHPositron-EmissionTomograph MeSHPracticeGuidelinesasTopic MeSHReproducibilityofResults MeSHTomography MeSHX-RayCompute

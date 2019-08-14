@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHFatalOutcome MeSHFemale MeSHHomeodomainProtein MeSHHumans MeSHLungNeoplasm MeSHMandibularNeoplasm MeSHMiddleAged MeSHNuclearProtein MeSHSkullNeoplasm MeSHTranscriptionFactor

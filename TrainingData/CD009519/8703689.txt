@@ -1,0 +1,3 @@
+PET scanning said to save money and improve staging of lung cancer.
+?
+['Carcinoma, Non-Small-Cell Lung/diagnostic imaging/pathology/surgery', 'Cost Savings', 'Deoxyglucose/analogs & derivatives', 'Fluorine Radioisotopes', 'Fluorodeoxyglucose F18', 'Hospital Costs', 'Humans', 'Lung Neoplasms/*diagnostic imaging/pathology/surgery', 'Mediastinal Neoplasms/diagnostic imaging/secondary', 'Neoplasm Staging/economics', 'Solitary Pulmonary Nodule/diagnostic imaging/pathology/surgery', '*Tomography, Emission-Computed/economics']

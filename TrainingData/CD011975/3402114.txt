@@ -1,0 +1,3 @@
+Ethical issues in prenatal diagnosis.
+?
+['Abortion, Induced/psychology', '*Ethics, Medical', 'Female', 'Genetic Diseases, Inborn', 'Health Policy', 'Humans', 'Mandatory Programs', 'Maternal-Fetal Relations', 'Moral Obligations', 'Patient Participation', 'Personal Autonomy', 'Pregnancy', 'Pregnancy Outcome/psychology', 'Pregnant Women', '*Prenatal Diagnosis/psychology', 'Resource Allocation', 'Risk Assessment', 'Sex Determination Analysis', 'Voluntary Programs', "Women's Rights"]

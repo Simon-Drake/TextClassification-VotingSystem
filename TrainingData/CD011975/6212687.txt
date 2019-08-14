@@ -1,0 +1,3 @@
+Prenatal diagnostic services in a community hospital.
+?
+['Adult', '*Amniocentesis', 'Chromosome Aberrations/*diagnosis', 'Chromosome Disorders', 'Down Syndrome/*diagnosis', 'Female', 'Genetic Counseling', 'Hospitals, Community', 'Humans', 'Male', 'New Jersey', 'Prenatal Diagnosis/*methods']

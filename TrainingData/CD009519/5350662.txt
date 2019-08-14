@@ -1,0 +1,3 @@
+The multiple presentations of bronchial adenomas.
+?
+['Adenoma/*diagnostic imaging', 'Angiography', 'Bronchial Neoplasms/*diagnostic imaging', 'Bronchography', 'Carcinoma, Bronchogenic/*diagnostic imaging', 'Female', 'Humans', 'Male', 'Tomography']

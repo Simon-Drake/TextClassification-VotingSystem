@@ -1,0 +1,3 @@
+Invited commentary. The accuracy in detecting pulmonary metastases.
+?
+['Humans', 'Lung Neoplasms/*diagnostic imaging/pathology/*secondary/surgery', 'Pneumonectomy', 'Tomography, Spiral Computed/*methods']

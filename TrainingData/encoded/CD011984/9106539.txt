@@ -1,0 +1,1 @@
+MeSHCells MeSHCultured MeSHFemale MeSHFetalGrowthRetardation MeSHGeneticMarkers MeSHHumans MeSHInfant MeSHNewborn MeSHKaryotyping MeSHMale MeSHMeiosis MeSHMosaicism MeSHPlacenta MeSHPregnancy MeSHPregnancyOutcome MeSHTrisomy

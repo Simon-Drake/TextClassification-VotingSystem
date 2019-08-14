@@ -1,0 +1,1 @@
+MeSHBiomarkers MeSHTumo MeSHCarcinoma MeSHSquamousCel MeSHCellLine MeSHTumor MeSHCytodiagnosi MeSHGeneExpressionRegulation MeSHHumans MeSHKeratin-1 MeSHKeratin-1 MeSHKeratin-2 MeSHLymphaticMetastasi MeSHMouthMucos MeSHMouthNeoplasm MeSHNeoplasmStaging MeSHRNA MeSHMessenge MeSHReverseTranscriptasePolymeraseChainReaction

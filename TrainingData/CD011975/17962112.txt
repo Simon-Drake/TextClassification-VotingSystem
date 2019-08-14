@@ -1,0 +1,3 @@
+Prenatal magnetic resonance imaging evaluation of a digynic triploid fetus.
+?
+['Adult', '*Aneuploidy', 'Chromosome Disorders/*pathology', 'Female', 'Fetal Diseases/*pathology', 'Humans', '*Magnetic Resonance Imaging', '*Polyploidy', 'Pregnancy', '*Prenatal Diagnosis']

@@ -1,0 +1,3 @@
+Fluorodeoxyglucose F 18 positron emission tomography scanning in thoracic disease.
+?
+['*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/diagnostic imaging', '*Positron-Emission Tomography', 'Solitary Pulmonary Nodule/diagnostic imaging', 'Thoracic Diseases/*diagnostic imaging']

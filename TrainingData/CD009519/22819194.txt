@@ -1,0 +1,3 @@
+FDG-PET/CT in pulmonary and cardiac Langerhans' cell histiocytosis and metastatic non-small cell lung cancer.
+?
+['Female', '*Fluorodeoxyglucose F18', 'Histiocytosis, Langerhans-Cell/*diagnostic imaging', 'Humans', 'Male', 'Positron-Emission Tomography/*methods', 'Tomography, X-Ray Computed/*methods']

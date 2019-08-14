@@ -1,0 +1,3 @@
+Use of sonographic markers to determine the risk of Down syndrome in second-trimester fetuses.
+?
+['Down Syndrome/*diagnostic imaging/genetics', 'Female', 'Humans', 'Ilium/*abnormalities/*diagnostic imaging', 'Karyotyping', 'Pregnancy', 'Pregnancy Trimester, Second', '*Ultrasonography, Prenatal']

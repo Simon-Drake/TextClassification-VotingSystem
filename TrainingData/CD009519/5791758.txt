@@ -1,0 +1,3 @@
+[Hemartochondroma of the lung].
+?
+['*Chondroma', 'Female', '*Hamartoma', 'Humans', '*Lung Neoplasms', 'Middle Aged', 'Pneumonectomy', 'Radiography, Thoracic', 'Tomography']

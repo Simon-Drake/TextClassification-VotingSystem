@@ -1,0 +1,3 @@
+[Triple test: problem or enhancement of prenatal diagnosis].
+?
+['Chorionic Gonadotropin/*blood', 'Chromosome Aberrations/blood/*diagnosis', 'Chromosome Disorders', 'Down Syndrome/blood/*diagnosis', 'Estriol/*blood', 'Female', 'Gestational Age', 'Humans', 'Infant, Newborn', 'Maternal Age', 'Neural Tube Defects/blood/*diagnosis', 'Predictive Value of Tests', 'Pregnancy', 'Pregnancy, High-Risk', '*Prenatal Diagnosis', 'Reference Values', 'alpha-Fetoproteins/*metabolism']

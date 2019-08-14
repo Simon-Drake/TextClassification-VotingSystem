@@ -1,0 +1,3 @@
+Benign metastasizing leiomyoma identified using 18F-FDG PET/CT.
+?
+['Female', '*Fluorodeoxyglucose F18', 'Humans', 'Leiomyoma/*diagnostic imaging/pathology', 'Lung Neoplasms/*diagnostic imaging/secondary', 'Middle Aged', 'Pelvic Neoplasms/*diagnostic imaging/secondary', 'Positron-Emission Tomography', 'Uterine Neoplasms/pathology']

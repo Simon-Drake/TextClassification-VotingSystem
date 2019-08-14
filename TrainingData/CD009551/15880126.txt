@@ -1,0 +1,3 @@
+The mechanism for low yield of blood culture in invasive aspergillosis; the clinical importance of antigen detection tests revisited.
+?
+['Antigens, Fungal/*blood', 'Aspergillosis/*diagnosis', 'Aspergillus/*isolation & purification', 'Fungemia/*diagnosis', 'Hematologic Neoplasms/microbiology', 'Humans', 'Immunoenzyme Techniques/standards', 'Microbiological Techniques/methods/standards', 'Polymerase Chain Reaction/standards', 'Sensitivity and Specificity']

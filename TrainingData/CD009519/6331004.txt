@@ -1,0 +1,3 @@
+[Roentgeno-morphological comparisons in lung cancer].
+An analysis of the clinical and X-ray data on 2,107 cases of morphologically-confirmed lung cancer showed a relationship between roentgenologic and histologic patterns of both central and peripheral forms of the lesion. Main roentgenologic symptoms versus histologic pattern of both forms of lung cancer are discussed.
+['Adenocarcinoma/diagnostic imaging/*pathology', 'Bronchography', 'Carcinoma, Small Cell/diagnostic imaging/*pathology', 'Carcinoma, Squamous Cell/diagnostic imaging/*pathology', 'Humans', 'Lung Neoplasms/diagnostic imaging/*pathology', 'Tomography']

@@ -1,0 +1,3 @@
+[On primary malignant tumors of the pleura (clinico-radiological contribution)].
+?
+['Adult', 'Bronchography', '*Carcinoma', 'Female', 'Head and Neck Neoplasms', 'Humans', 'Lung Neoplasms', '*Lymphoma', 'Male', 'Mediastinal Neoplasms', '*Mesothelioma', 'Middle Aged', '*Neoplasm Metastasis', '*Pleural Neoplasms', 'Radiography, Thoracic', '*Sarcoma', 'Thoracic Neoplasms', 'Tomography']

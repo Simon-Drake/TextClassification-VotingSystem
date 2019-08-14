@@ -1,0 +1,3 @@
+[Costal involvement due to proximity of an unknown pulmonary neoplasm diagnosed by SPECT-CT].
+?
+['Aged', 'Bone Remodeling', 'Carcinoma, Squamous Cell/*diagnostic imaging/pathology', 'Chest Pain/etiology', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Neoplasm Invasiveness/diagnostic imaging', 'Neoplasms, Unknown Primary/*diagnostic imaging', 'Osteolysis/*diagnostic imaging', 'Ribs/*diagnostic imaging', '*Tomography, Emission-Computed, Single-Photon', '*Tomography, X-Ray Computed']

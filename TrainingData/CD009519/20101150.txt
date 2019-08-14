@@ -1,0 +1,3 @@
+Intraparenchymal pulmonary artery aneurysm from ipsilobar non-small cell lung cancer.
+?
+['Aged', 'Aneurysm/diagnosis/*etiology', 'Bronchoalveolar Lavage', 'Bronchoscopy', 'Carcinoma, Non-Small-Cell Lung/*complications/surgery', 'Diagnosis, Differential', 'Humans', 'Lung Neoplasms/*complications/surgery', 'Male', '*Pulmonary Artery', 'Tomography, Emission-Computed', 'Tomography, X-Ray Computed']

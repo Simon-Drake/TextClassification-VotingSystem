@@ -1,0 +1,3 @@
+On methodological issues regarding 47,+21 paternal age data.
+?
+['Adolescent', 'Down Syndrome/*genetics', 'Female', 'Humans', 'Male', 'Middle Aged', '*Paternal Age', 'Pregnancy', '*Prenatal Diagnosis', 'Risk Factors', 'Statistics as Topic']

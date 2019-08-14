@@ -1,0 +1,3 @@
+Tar-nished reputations.
+?
+['Biomedical Research/*economics/ethics', 'Charities/*economics/ethics', 'Conflict of Interest', 'Disclosure', 'Humans', 'Lung Neoplasms/*diagnostic imaging/mortality/therapy', 'Mass Screening/*methods', 'Predictive Value of Tests', 'Public Opinion', 'Reproducibility of Results', 'Research Design', 'Research Support as Topic/*ethics', 'Tobacco Industry/*economics/ethics', '*Tomography, Spiral Computed']

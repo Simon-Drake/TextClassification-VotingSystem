@@ -1,0 +1,3 @@
+[The relationship of GLUT1 and lung cancer and its PET imaging].
+?
+['Glucose Transporter Type 1/*metabolism', 'Humans', 'Lung Neoplasms/*metabolism/pathology', '*Positron-Emission Tomography']

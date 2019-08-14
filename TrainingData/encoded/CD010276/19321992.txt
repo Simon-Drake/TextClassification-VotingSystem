@@ -1,0 +1,1 @@
+MeSHAdult MeSHAreaUnderCurve MeSHBiopsy MeSHDentalCarie MeSHDentalEname MeSHDentalFissure MeSHDenti MeSHDiagnosis MeSHDifferential MeSHFluorescence MeSHHardness MeSHHumans MeSHLasers MeSHMola MeSHROCCurve MeSHSensitivityandSpecificity MeSHToothCrow MeSHToothDiscoloratio MeSHYoungAdult

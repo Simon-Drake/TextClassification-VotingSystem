@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHBiomarkers MeSHTumo MeSHCA-19-9Antige MeSHGlucoseTransporterType MeSHGlucose-6-Phosphat MeSHHumans MeSHIntegrinalpha MeSHPancreaticNeoplasm MeSHPositron-EmissionTomography MeSHSpectrometry MeSHMass MeSHMatrix-AssistedLaserDesorption-Ionization MeSHTomography MeSHX-RayComputed

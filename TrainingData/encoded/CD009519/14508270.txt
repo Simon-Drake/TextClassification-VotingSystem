@@ -1,0 +1,1 @@
+MeSHAdult MeSHCarcinoma MeSHPapillar MeSHHumans MeSHIncidentalFindings MeSHIodineRadioisotopes MeSHLungNeoplasm MeSHMale MeSHPostoperativeCare MeSHRadiopharmaceuticals MeSHThyroidGlan MeSHThyroidNodul MeSHThyroidectomy MeSHTomography MeSHEmission-Compute

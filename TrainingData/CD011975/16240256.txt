@@ -1,0 +1,3 @@
+[The fetal nasal bone in the first trimester -- precise assessment using 3D sonography].
+?
+['Female', 'Functional Laterality', 'Humans', 'Nasal Bone/*diagnostic imaging/*embryology', 'Pregnancy', '*Pregnancy Trimester, First', 'Reproducibility of Results', 'Ultrasonography, Prenatal/*methods']

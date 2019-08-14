@@ -1,0 +1,3 @@
+Natural history of Down's syndrome: a brief review for those involved in antenatal screening.
+?
+['Abortion, Spontaneous/epidemiology', 'Alzheimer Disease/epidemiology/genetics', 'Comorbidity', 'Congenital Abnormalities/epidemiology/genetics', 'Down Syndrome/*diagnosis/*epidemiology/genetics', 'Female', 'Fetal Diseases/*diagnosis/*epidemiology/genetics', 'Genetic Testing', 'Humans', 'Intellectual Disability/genetics', 'Leukemia/epidemiology/genetics', 'Life Expectancy', 'Pregnancy', '*Prenatal Diagnosis', 'Prevalence', 'Thyroid Diseases/epidemiology/genetics']

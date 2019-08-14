@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHNeedle MeSHFollow-UpStudies MeSHHumans MeSHImmunohistochemistry MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPneumonectom MeSHPositron-EmissionTomography MeSHRadiography MeSHThoracic MeSHRareDiseases MeSHRiskAssessment MeSHSolitaryFibrousTumor MeSHTomography MeSHX-RayComputed MeSHTreatmentOutcome

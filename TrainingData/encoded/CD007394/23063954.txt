@@ -1,0 +1,1 @@
+MeSHAspergillusoryzae MeSHGeneExpressionProfiling MeSHGeneExpressionRegulation MeSHFungal MeSHGeneKnockoutTechniques MeSHMannans MeSHMicroarrayAnalysis MeSHMutagenesis MeSHInsertional MeSHTrans-Activators

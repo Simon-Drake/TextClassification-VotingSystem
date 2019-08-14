@@ -1,0 +1,3 @@
+[Utility of [18F] FDG PET to differentiate malignancy and benignancy in lung tumours].
+?
+['Adult', 'Diagnosis, Differential', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', '*Positron-Emission Tomography', '*Radiopharmaceuticals']

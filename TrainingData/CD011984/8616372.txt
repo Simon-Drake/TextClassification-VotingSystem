@@ -1,0 +1,3 @@
+Ethnic differences in outcome of serum screening for Down's syndrome. For appreciable ethnic differences in false positive rates, use different cut off points.
+?
+['Asia/ethnology', 'Data Collection', 'Down Syndrome/*ethnology', 'False Positive Reactions', 'Female', 'Humans', 'Pregnancy', '*Prenatal Diagnosis', 'United Kingdom']

@@ -1,0 +1,1 @@
+MeSHAdult MeSHGastrectomy MeSHGastrointestinalStromalTumor MeSHHamartom MeSHHumans MeSHLungDisease MeSHLymphNodeExcision MeSHMale MeSHNeoplasms MeSHMultiplePrimary MeSHPara-AorticBodies MeSHParaganglioma MeSHExtra-Adrena MeSHPneumonectomy MeSHPositron-EmissionTomography MeSHSyndrome MeSHTomography MeSHX-RayComputed

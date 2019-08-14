@@ -1,0 +1,3 @@
+[Prenatal cytogenetic diagnosis in the 2d trimester in older pregnant women].
+?
+['Adult', '*Amniocentesis', 'Chromosome Aberrations/*diagnosis', 'Chromosome Disorders', 'Down Syndrome/diagnosis', 'Female', 'Humans', 'Karyotyping', '*Maternal Age', 'Pregnancy', 'Pregnancy Trimester, Second', '*Pregnancy, High-Risk']

@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHCarcinoma MeSHSquamousCel MeSHCytodiagnosi MeSHEsophagealNeoplasm MeSHHumans MeSHImageProcessing MeSHComputer-Assisted MeSHMicroscopy MeSHVideo MeSHMouthNeoplasm MeSHNeuralNetworks(Computer) MeSHSpecimenHandling MeSHStomachNeoplasm MeSHTherapeuticIrrigation

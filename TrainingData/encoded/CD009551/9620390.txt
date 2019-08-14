@@ -1,0 +1,1 @@
+MeSHChloroform MeSHDNA MeSHFunga MeSHFung MeSHMitosporicFung MeSHMycolog MeSHPhenol MeSHPolymeraseChainReaction MeSHPolymorphism MeSHRestrictionFragmentLength MeSHRandomAmplifiedPolymorphicDNATechnique MeSHVibration MeSHYeast

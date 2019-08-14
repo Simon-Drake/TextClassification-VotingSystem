@@ -1,0 +1,3 @@
+Maternal serum screening for fetal Down syndrome: clinical aspects.
+?
+['Decision Trees', 'Down Syndrome/genetics/*prevention & control', 'Female', '*Genetic Testing', 'Humans', 'Maternal Age', 'Pregnancy/*blood', 'Pregnancy, High-Risk', '*Prenatal Diagnosis', 'Risk Factors', 'alpha-Fetoproteins/*metabolism']

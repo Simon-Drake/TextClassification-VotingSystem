@@ -1,0 +1,3 @@
+[Non invasive prenatal diagnosis of trisomy 21: dream or reality?].
+?
+['DNA/genetics', 'Down Syndrome/diagnosis/*embryology', 'Female', 'Fetal Diseases/diagnosis/genetics', 'Humans', 'Placenta/physiology', 'Pregnancy', '*Prenatal Diagnosis', 'Transcription, Genetic']

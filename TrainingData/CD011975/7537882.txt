@@ -1,0 +1,3 @@
+The stability of blood samples for the measurement of the free beta subunit of chorionic gonadotrophin.
+?
+['Blood Specimen Collection', 'Chorionic Gonadotropin/*blood', 'Chorionic Gonadotropin, beta Subunit, Human', 'Down Syndrome/*diagnosis', 'False Positive Reactions', 'Female', 'Humans', 'Peptide Fragments/*blood', 'Pregnancy', '*Prenatal Diagnosis']

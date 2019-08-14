@@ -1,0 +1,3 @@
+[Circumstances for the cytogenetic diagnosis of trisomy 21].
+?
+['Adolescent', 'Adult', 'Age Factors', 'Child', 'Down Syndrome/*genetics', 'Humans', 'Infant, Newborn', '*Karyotyping', 'Prenatal Diagnosis']

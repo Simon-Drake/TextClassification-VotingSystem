@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHDiagnosis MeSHDifferential MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHMiddleAged MeSHPositron-EmissionTomography MeSHTomography MeSHX-RayCompute

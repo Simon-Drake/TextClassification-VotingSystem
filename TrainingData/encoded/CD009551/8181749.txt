@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAscomycot MeSHBaseSequence MeSHCloning MeSHMolecular MeSHDNA MeSHFungal MeSHGeneExpression MeSHGenes MeSHFungal MeSHMolecularSequenceData MeSHMultigeneFamily MeSHPolysaccharide-Lyase MeSHSaccharomycescerevisiae MeSHSequenceHomology MeSHAminoAcid

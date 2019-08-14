@@ -1,0 +1,3 @@
+A 46,XY/46,XX mosaicism diagnosed at amniocentesis: another case report.
+?
+['Adult', '*Amniocentesis', 'Chromosomes, Human, X/*genetics', 'Chromosomes, Human, Y/genetics', 'Cordocentesis', 'DNA/analysis', 'Female', 'Fetal Blood/chemistry', 'Gestational Age', 'Humans', 'Karyotyping', 'Mosaicism/*embryology', 'Polymerase Chain Reaction', 'Ultrasonography, Prenatal']

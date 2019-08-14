@@ -1,0 +1,1 @@
+MeSHAged MeSHCarcinoma MeSHSquamousCel MeSHCase-ControlStudies MeSHDNA MeSHVira MeSHFemale MeSHGenes MeSHp53 MeSHHumans MeSHLymphaticMetastasis MeSHMale MeSHMiddleAged MeSHMouthMucos MeSHMouthNeoplasm MeSHPapillomavirida MeSHPapillomavirusInfection MeSHPointMutation MeSHRetrospectiveStudies MeSHSurvivalAnalysis

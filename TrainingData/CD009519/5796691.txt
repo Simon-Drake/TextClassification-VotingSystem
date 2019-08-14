@@ -1,0 +1,3 @@
+Leiomyoma of the lung. Report of a case.
+?
+['Adult', 'Humans', 'Leiomyoma/*diagnosis/diagnostic imaging/pathology', 'Lung Neoplasms/*diagnosis/diagnostic imaging/pathology', 'Male', 'Radiography', 'Solitary Pulmonary Nodule/diagnosis', 'Tomography']

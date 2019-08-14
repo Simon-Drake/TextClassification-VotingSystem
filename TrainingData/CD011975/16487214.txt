@@ -1,0 +1,3 @@
+Community-based screening for Down syndrome in the first trimester using ultrasound and maternal serum biochemistry.
+?
+['Community Health Services', 'Data Collection/standards', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Pregnancy', 'Pregnancy Trimester, First', 'Prenatal Diagnosis/*methods']

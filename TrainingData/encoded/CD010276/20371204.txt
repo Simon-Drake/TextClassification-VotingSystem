@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSquamousCel MeSHColoringAgents MeSHFemale MeSHHumans MeSHLuminescence MeSHMale MeSHMouthMucos MeSHMouthNeoplasm MeSHNeoplasmStaging MeSHPhysicalExamination MeSHPrecancerousCondition MeSHSaliv MeSHSensitivityandSpecificity MeSHToloniumChloride

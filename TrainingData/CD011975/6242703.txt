@@ -1,0 +1,3 @@
+Cytogenetic diseases.
+?
+['Amniocentesis', 'Chromosome Aberrations/*genetics', 'Chromosome Deletion', 'Chromosome Disorders', 'Down Syndrome/genetics', 'Female', 'Humans', 'Immunologic Deficiency Syndromes/genetics', 'Karyotyping', 'Male', 'Prader-Willi Syndrome/genetics', 'Pregnancy', '*Prenatal Diagnosis', 'Sex Chromosome Aberrations/genetics', 'Trisomy']

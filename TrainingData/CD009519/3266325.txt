@@ -1,0 +1,3 @@
+[Evaluation of SPECT with 67Ga and 201Tl in patients with primary lung cancer].
+?
+['Adenocarcinoma/*diagnostic imaging', 'Aged', 'Evaluation Studies as Topic', 'Female', '*Gallium Radioisotopes', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', '*Thallium Radioisotopes', '*Tomography, Emission-Computed']

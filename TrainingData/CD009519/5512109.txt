@@ -1,0 +1,3 @@
+[Acute onset of a bronchopneumonic disorder in an unusual case of malignant bronchial mesenchymal neoplasm].
+?
+['Adult', 'Bronchial Neoplasms/*complications', 'Bronchography', 'Bronchopneumonia/*etiology', 'Bronchoscopy', 'Humans', 'Male', 'Radiography, Thoracic', 'Radionuclide Imaging', 'Respiratory Function Tests', 'Sarcoma/*complications', 'Tomography']

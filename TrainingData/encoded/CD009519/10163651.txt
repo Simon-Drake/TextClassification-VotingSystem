@@ -1,0 +1,1 @@
+MeSHColorectalNeoplasm MeSHCost-BenefitAnalysis MeSHHumans MeSHLungNeoplasm MeSHMyocardialIschemi MeSHTomography MeSHEmission-Compute

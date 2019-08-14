@@ -1,0 +1,3 @@
+Antenatal detection of hereditary disorders, by Henry L. Nadler, MD, Pediatrics, 1968;42:912-918.
+?
+['Amniocentesis/*history', 'Down Syndrome/diagnosis/history', 'Female', 'Galactosemias/diagnosis/history', 'Genetic Diseases, Inborn/diagnosis/*history', 'History, 20th Century', 'Humans', 'Mucopolysaccharidoses/diagnosis/history', 'Pregnancy']

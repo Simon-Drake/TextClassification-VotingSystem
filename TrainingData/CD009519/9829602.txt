@@ -1,0 +1,3 @@
+SPECT imaging with technetium-99m-tetrofosmin for pulmonary nodules.
+?
+['Humans', 'Lung Neoplasms/diagnostic imaging', '*Organophosphorus Compounds', '*Organotechnetium Compounds', '*Radiopharmaceuticals', 'Sensitivity and Specificity', 'Solitary Pulmonary Nodule/*diagnostic imaging', '*Tomography, Emission-Computed, Single-Photon']

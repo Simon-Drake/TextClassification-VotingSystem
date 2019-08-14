@@ -1,0 +1,3 @@
+Multiple positron-emission tomography false positives in a patient with malignant melanoma.
+?
+['Aged', 'Carcinoma, Non-Small-Cell Lung/diagnosis', 'Cholecystitis/diagnosis', 'False Positive Reactions', 'Humans', 'Lung Neoplasms/*diagnosis/secondary', 'Lymphatic Metastasis', 'Male', 'Melanoma/*diagnosis/secondary', '*Positron-Emission Tomography', 'Sentinel Lymph Node Biopsy']

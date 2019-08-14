@@ -1,0 +1,3 @@
+Radiofrequency ablation of liver and lung tumors.
+Radiofrequency ablation (RFA) is a procedure in which radiofrequency energy is used to heat and destroy abnormal tissue. This article discusses the evolution of RFA and its use to treat liver and lung tumors.
+['Catheter Ablation/adverse effects/*methods', 'Humans', 'Liver Neoplasms/diagnostic imaging/*surgery', 'Lung Neoplasms/diagnostic imaging/*surgery', '*Radiography, Interventional', 'Safety', 'Tomography, Emission-Computed']

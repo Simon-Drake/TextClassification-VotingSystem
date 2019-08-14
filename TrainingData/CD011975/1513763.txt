@@ -1,0 +1,3 @@
+Mosaic trisomy 15 found at amniocentesis.
+?
+['*Amniocentesis', '*Chromosomes, Human, Pair 15', 'Female', 'Fetal Growth Retardation/diagnostic imaging', 'Heart Defects, Congenital/*diagnostic imaging', 'Humans', 'Maternal Age', 'Mosaicism', 'Oligohydramnios/diagnostic imaging', 'Pregnancy', '*Trisomy', 'Ultrasonography, Prenatal']

@@ -1,0 +1,3 @@
+Second-trimester maternal serum screening for Down syndrome in twin-to-twin transfusion syndrome.
+?
+['Adult', 'Biomarkers/*blood', 'Chorionic Gonadotropin, beta Subunit, Human/*blood', 'Down Syndrome/*blood/complications', 'Female', 'Fetofetal Transfusion/*blood/complications', 'Humans', 'Mass Screening/methods', 'Predictive Value of Tests', 'Pregnancy', 'Pregnancy Outcome', 'Pregnancy Trimester, Second/*blood', 'Retrospective Studies', 'alpha-Fetoproteins/analysis']

@@ -1,0 +1,3 @@
+Replacement of the intrathoracic trachea and both stem bronchi with a molded Silastic prosthesis.
+?
+['Bronchi/pathology', 'Bronchial Neoplasms/diagnostic imaging/pathology/*surgery', 'Bronchography', 'Carcinoma, Adenoid Cystic/diagnostic imaging/pathology/*surgery', 'Female', 'Humans', '*Prostheses and Implants', '*Silicones', 'Tomography', 'Trachea/pathology', 'Tracheal Neoplasms/diagnostic imaging/pathology/*surgery']

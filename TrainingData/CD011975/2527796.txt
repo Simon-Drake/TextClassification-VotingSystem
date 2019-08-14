@@ -1,0 +1,3 @@
+[When the admitting physician is accused of a false decision in the hospital... Guiding decision for amniocentesis--some flaws].
+?
+['Adult', '*Amniocentesis', 'Down Syndrome/*diagnosis', 'Female', 'Germany, West', 'Humans', 'Infant, Newborn', 'Malpractice/*legislation & jurisprudence', 'Medical Staff, Hospital/*legislation & jurisprudence', 'Pregnancy', '*Prenatal Diagnosis']

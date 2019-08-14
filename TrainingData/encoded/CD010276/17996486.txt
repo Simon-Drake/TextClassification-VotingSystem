@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHColoringAgents MeSHFalsePositiveReactions MeSHFemale MeSHHumans MeSHInVitroTechniques MeSHLuminescence MeSHMale MeSHMouthMucos MeSHMouthNeoplasm MeSHPrecancerousCondition MeSHSensitivityandSpecificity MeSHToloniumChloride

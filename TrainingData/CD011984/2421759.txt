@@ -1,0 +1,3 @@
+Cord serum alpha-fetoprotein and Down's syndrome.
+?
+['Down Syndrome/*blood', 'Female', 'Fetal Blood/*analysis', 'Humans', 'Infant, Newborn', 'Pregnancy', 'alpha-Fetoproteins/*analysis']

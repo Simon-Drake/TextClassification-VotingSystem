@@ -1,0 +1,3 @@
+Radiotherapy for NSCLC: review of conventional and new treatment techniques.
+Radiotherapy is an essential modality in the management of lung cancer. It is used as a single modality or in combination with other modalities and aimed at cure or palliation. Recent advances in the simulation techniques or more precise targeting of the tumor made radiotherapy more effective tool in the fight against lung cancer. Using PET scan and better gating for tumor motion are examples of these advances. This brief review will present summary of the role of radiotherapy in management of lung cancer.
+['Carcinoma, Non-Small-Cell Lung/*radiotherapy', 'Humans', 'Lung Neoplasms/*radiotherapy', 'Radiotherapy/trends']

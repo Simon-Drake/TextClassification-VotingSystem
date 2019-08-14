@@ -1,0 +1,1 @@
+MeSHAntineoplasticAgent MeSHApoptosi MeSHAspergillusfumigatu MeSHCellProliferatio MeSHDose-ResponseRelationship MeSHDrug MeSHDrugScreeningAssays MeSHAntitumor MeSHHumans MeSHMCF-7Cells MeSHModels MeSHMolecular MeSHMolecularStructure MeSHNaphthalene MeSHStructure-ActivityRelationship

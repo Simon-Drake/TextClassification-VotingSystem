@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHCarcinoma MeSHSquamousCel MeSHColoringAgents MeSHHumans MeSHLeukoplaki MeSHLymphaticMetastasis MeSHMouthNeoplasm MeSHPalatalNeoplasm MeSHPharyngealNeoplasm MeSHThiazines MeSHTongueNeoplasm

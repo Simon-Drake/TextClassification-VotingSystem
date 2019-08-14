@@ -1,0 +1,3 @@
+CT, MR, and PET imaging in staging of non-small-cell lung cancer.
+?
+['Carcinoma, Non-Small-Cell Lung/*pathology', 'Diagnosis, Differential', 'Humans', 'Lung Neoplasms/*pathology', 'Lymphatic Metastasis/pathology', 'Magnetic Resonance Imaging/*methods', '*Neoplasm Staging', 'Practice Guidelines as Topic', 'Tomography, Emission-Computed/*methods', 'Tomography, X-Ray Computed/*methods']

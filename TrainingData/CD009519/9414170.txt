@@ -1,0 +1,3 @@
+New techniques catch lung cancers earlier.
+?
+['Cell Transformation, Neoplastic', 'Humans', 'Lung Neoplasms/pathology/*prevention & control', 'Mass Screening/*methods', 'Predictive Value of Tests', 'Sensitivity and Specificity', 'Sputum/cytology', 'Time Factors', 'Tomography, Emission-Computed', 'Tomography, Emission-Computed, Single-Photon']

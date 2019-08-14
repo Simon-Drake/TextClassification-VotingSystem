@@ -1,0 +1,3 @@
+[Significance of adenoma in bronchological patients].
+?
+['Adenoma/*diagnosis/diagnostic imaging/epidemiology/pathology/surgery', 'Adult', 'Bronchial Neoplasms/*diagnosis/diagnostic imaging/epidemiology/pathology/surgery', 'Bronchography', 'Female', 'Humans', 'Middle Aged', 'Tomography']

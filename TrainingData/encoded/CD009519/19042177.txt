@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHNon-Small-CellLun MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHMuscleNeoplasm MeSHNeoplasmMetastasi MeSHPositron-EmissionTomography MeSHRadiopharmaceuticals MeSHTomography MeSHX-RayComputed

@@ -1,0 +1,3 @@
+Decision analysis for medical managers.
+?
+['Anxiety', 'Cystic Fibrosis/prevention & control', '*Decision Support Techniques', 'Decision Trees', 'Down Syndrome/prevention & control', 'Ethical Theory', 'Female', 'Genetic Diseases, Inborn', 'Health Care Costs', 'Hospitals, Public/*organization & administration', 'Humans', 'Mass Screening', '*Outcome and Process Assessment (Health Care)', '*Pregnant Women', 'Probability', 'Risk Assessment', 'Risk Factors', 'Toxoplasmosis/prevention & control']

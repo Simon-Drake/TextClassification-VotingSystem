@@ -1,0 +1,3 @@
+PET-CT in chest diseases: a short overview.
+?
+['Contrast Media', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Neoplasm Staging', 'Tomography, Emission-Computed/*methods', 'Tomography, X-Ray Computed/*methods']

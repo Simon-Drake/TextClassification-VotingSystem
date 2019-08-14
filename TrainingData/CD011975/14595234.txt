@@ -1,0 +1,3 @@
+Nuchal translucency-based screening.
+?
+['Biomarkers/blood', 'Down Syndrome/*diagnostic imaging', 'Female', 'Humans', 'Neck/*diagnostic imaging/*embryology', 'Practice Guidelines as Topic', 'Pregnancy', 'Pregnancy Trimesters', 'Prenatal Diagnosis/methods', '*Ultrasonography, Prenatal']

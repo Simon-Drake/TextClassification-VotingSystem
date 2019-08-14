@@ -1,0 +1,3 @@
+Serum screening for Down's syndrome. ...but time consuming and expensive.
+?
+['Down Syndrome/*diagnosis', 'Female', 'Fetal Diseases/*diagnosis', 'Humans', 'Informed Consent', 'Mass Screening/*economics', 'Pregnancy', 'Prenatal Diagnosis/*economics', 'United Kingdom']

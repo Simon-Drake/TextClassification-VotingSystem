@@ -1,0 +1,3 @@
+Markers for Down's syndrome in early pregnancy.
+?
+['Biomarkers/*blood', 'Chorionic Gonadotropin, beta Subunit, Human/blood', 'Female', 'Gestational Age', 'Humans', 'Pregnancy', 'Pregnancy-Associated Plasma Protein-A/analysis', 'Prenatal Diagnosis/*methods', 'Ultrasonography, Prenatal']

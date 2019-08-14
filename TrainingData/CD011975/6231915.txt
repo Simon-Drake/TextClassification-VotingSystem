@@ -1,0 +1,3 @@
+The effect of prenatal diagnosis on the incidence of Down syndrome in Western Australia.
+This paper compares the incidence rates of Down syndrome livebirths in Western Australia during two 5-year periods before and after the advent of prenatal cytogenetic diagnosis. A statistically significant fall in the incidence of liveborn Down syndrome is demonstrated and the relevance of amniocentesis screening is discussed in the light of possible future demographic change.
+['Adult', '*Amniocentesis', 'Australia', 'Cytodiagnosis', 'Down Syndrome/*diagnosis/epidemiology', 'Evaluation Studies as Topic', 'Female', 'Humans', 'Maternal Age', 'Pregnancy', 'Pregnancy, High-Risk']

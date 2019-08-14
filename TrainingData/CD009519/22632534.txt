@@ -1,0 +1,3 @@
+Pulmonary ossifications seen centrally in a lung tumor.
+Pulmonary ossifications are classified as either dendriform or nodular, according to their histologic appearance. Both seem to be distributed similarly and are often confined to the lower lobes of the lung. These ossifications may be included in the differential diagnosis of a solitary pulmonary nodule.
+['Adenocarcinoma/diagnosis/*pathology/surgery', 'Aged', 'Diagnosis, Differential', 'Humans', 'Lung/pathology/surgery', 'Lung Diseases/diagnosis/*pathology/surgery', 'Lung Neoplasms/diagnosis/*pathology/surgery', 'Male', 'Ossification, Heterotopic/diagnosis/*pathology/surgery', 'Positron-Emission Tomography', 'Solitary Pulmonary Nodule/diagnosis/*pathology/surgery', 'Thoracotomy', 'Tomography, X-Ray Computed']

@@ -1,0 +1,3 @@
+[High dose Tl-201 single photon emission computed tomography in primary lung cancer].
+?
+['Aged', 'Female', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', '*Thallium/administration & dosage', '*Thallium Radioisotopes/administration & dosage', 'Tomography, Emission-Computed/*methods']

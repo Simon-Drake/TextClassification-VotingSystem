@@ -1,0 +1,3 @@
+Prenatal diagnosis of mosaicism for deletion 22q13.3.
+?
+['*Chromosomes, Human, Pair 22', 'Female', '*Gene Deletion', 'Humans', '*Mosaicism', 'Pregnancy', '*Prenatal Diagnosis']

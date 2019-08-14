@@ -1,0 +1,3 @@
+Aneuploidy risk with isolated choroid plexus cysts.
+?
+['*Aneuploidy', 'Brain Diseases/*genetics', '*Choroid Plexus', 'Cysts/*genetics', 'Down Syndrome/genetics', 'Female', 'Humans', 'Pregnancy', 'Risk Factors', 'Ultrasonography, Prenatal']

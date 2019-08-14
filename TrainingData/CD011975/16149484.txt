@@ -1,0 +1,3 @@
+[Pituitary glycoprotein hormone alpha subunit].
+?
+['Biomarkers/blood', 'Diagnostic Techniques, Endocrine', 'Down Syndrome/diagnosis', 'Female', 'Fluorescent Antibody Technique', '*Glycoprotein Hormones, alpha Subunit/blood/physiology', 'Gonadal Disorders/diagnosis', 'Humans', 'Male', 'Pituitary Neoplasms/diagnosis', 'Pregnancy', 'Prenatal Diagnosis', 'Radioimmunoassay/methods', 'Thyroid Diseases/diagnosis', 'Trisomy/diagnosis']

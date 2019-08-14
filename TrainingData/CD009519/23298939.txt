@@ -1,0 +1,3 @@
+Pulmonary nodules with cavitary mass in a flour mill worker.
+?
+['Chronic Disease', 'Dust', 'Flour', '*Fluorodeoxyglucose F18', 'Humans', 'Lung/*diagnostic imaging', 'Male', 'Middle Aged', 'Multiple Pulmonary Nodules/*diagnostic imaging', 'Occupational Diseases/*diagnostic imaging', 'Positron-Emission Tomography', 'Radiography, Thoracic', 'Silicosis/*diagnostic imaging', 'Spirometry', 'Tomography, X-Ray Computed', 'Workplace']

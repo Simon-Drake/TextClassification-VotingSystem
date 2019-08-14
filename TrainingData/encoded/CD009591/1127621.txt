@@ -1,0 +1,1 @@
+MeSHAcuteDisease MeSHAdult MeSHAged MeSHAppendicitis MeSHCecum MeSHChronicDisease MeSHColon MeSHColon MeSHSigmoid MeSHColonicNeoplasms MeSHDiagnosis MeSHDifferential MeSHDiagnosticErrors MeSHDiagnosticTechniques MeSHSurgical MeSHFemale MeSHHumans MeSHIntestinalDiseases MeSHIntestine MeSHLarge MeSHMale MeSHMiddleAged MeSHPancreatitis MeSHRadiography

@@ -1,0 +1,1 @@
+MeSHAbdominalPain MeSHAdult MeSHChestPain MeSHCysts MeSHEndometriosis MeSHFemale MeSHHumans MeSHOmentum MeSHPelvis MeSHPeritonealDiseases MeSHPleuralDiseases MeSHPneumothorax MeSHRareDiseases MeSHRecurrence MeSHTomography MeSHX-RayComputed

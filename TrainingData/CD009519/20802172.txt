@@ -1,0 +1,3 @@
+Does lung cancer screening with low-dose CT remain promising despite disappointing DANTE results?
+?
+['Aged', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Mass Screening/methods', 'Middle Aged', 'Radiography, Thoracic', 'Randomized Controlled Trials as Topic', 'Tomography, Spiral Computed']

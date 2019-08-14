@@ -1,0 +1,1 @@
+MeSHBloodFlowVelocity MeSHCarcinoma MeSHBronchogeni MeSHHumans MeSHLungNeoplasm MeSHModels MeSHStructural MeSHOrganotechnetiumCompounds MeSHOximes MeSHTechnetiumTc99mExametazime MeSHTomography MeSHEmission-Computed MeSHSingle-Photon

@@ -1,0 +1,1 @@
+MeSHAged MeSHCarcinoma MeSHNon-Small-CellLun MeSHCost-BenefitAnalysis MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHospitalCost MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHModels MeSHEconometric MeSHNeoplasmStagin MeSHNetherlands MeSHPreoperativeCar MeSHPrognosis MeSHRadiopharmaceuticals MeSHRetrospectiveStudies MeSHTomography MeSHEmission-Compute

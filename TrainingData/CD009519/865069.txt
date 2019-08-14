@@ -1,0 +1,3 @@
+Malignant melanoma metastatic to the lung in a pet hamster.
+?
+['Animals', '*Cricetinae', 'Eye Neoplasms/pathology/*veterinary', 'Lung/pathology', 'Lung Neoplasms/pathology/*veterinary', 'Lymph Nodes/pathology', 'Male', 'Melanoma/pathology/*veterinary', 'Mesocricetus', 'Neoplasm Metastasis', 'Rodent Diseases/*pathology']

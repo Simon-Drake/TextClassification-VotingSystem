@@ -1,0 +1,3 @@
+[Bronchoalveolar carcinoma].
+?
+['Adenocarcinoma, Bronchiolo-Alveolar/*diagnostic imaging', 'Aged', 'Diagnosis, Differential', 'Female', 'Humans', 'Lung/diagnostic imaging', 'Lung Neoplasms/*diagnostic imaging', '*Tomography, Spiral Computed']

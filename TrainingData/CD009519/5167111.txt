@@ -1,0 +1,3 @@
+Panel discussion. Hypophysectomy.
+?
+['Acromegaly/radiotherapy/surgery', 'Adrenalectomy', 'Bone Neoplasms', 'Breast Neoplasms/therapy', 'Bronchial Neoplasms', 'Cushing Syndrome/surgery', 'Diabetic Retinopathy/therapy', 'Growth Hormone/blood', 'Humans', '*Hypophysectomy', 'Male', 'Methods', 'Neoplasm Metastasis', '*Pituitary Irradiation/adverse effects', 'Pituitary Neoplasms/diagnostic imaging/surgery', 'Pneumoencephalography', 'Prostatic Neoplasms/therapy', 'Remission, Spontaneous', 'Sinusitis', 'Tomography', 'Yttrium Isotopes/therapeutic use']

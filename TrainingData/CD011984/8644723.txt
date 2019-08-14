@@ -1,0 +1,3 @@
+Prenatal diagnosis of 45,X/46,XX.
+?
+['Female', 'Humans', '*Mosaicism', '*Prenatal Diagnosis', 'Sex Chromosome Aberrations/*diagnosis']

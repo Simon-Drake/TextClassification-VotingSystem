@@ -1,0 +1,3 @@
+Echogenic foci in the fetal heart: a marker of chromosomal abnormality.
+?
+['Adult', '*Aneuploidy', 'Echocardiography', 'Female', 'Fetal Heart/*diagnostic imaging', 'Genetic Markers', 'Gestational Age', 'Heart Defects, Congenital/*diagnostic imaging/genetics', 'Humans', 'Pregnancy', 'Ultrasonography, Prenatal']

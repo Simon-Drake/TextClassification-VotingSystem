@@ -1,0 +1,3 @@
+Trisomy 20 mosaicism in amniotic fluid cells.
+?
+['Adult', 'Amniocentesis', 'Amniotic Fluid/*cytology', '*Chromosomes, Human, 19-20', 'Female', 'Humans', '*Mosaicism', 'Pregnancy', '*Prenatal Diagnosis', '*Trisomy']

@@ -1,0 +1,3 @@
+A candid look at Down syndrome.
+?
+['Down Syndrome/*diagnosis', 'Female', '*Genetic Counseling/methods', 'Genetics, Medical/education', 'Humans', 'Male', 'Pregnancy', '*Prenatal Diagnosis']

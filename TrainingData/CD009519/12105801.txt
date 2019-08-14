@@ -1,0 +1,3 @@
+(18)F-fluorodeoxyglucose positron emission tomography: false-positive lung scan.
+?
+['False Positive Reactions', '*Fluorodeoxyglucose F18', 'Humans', 'Lung/diagnostic imaging', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', '*Radiopharmaceuticals', '*Tomography, Emission-Computed']

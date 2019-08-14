@@ -1,0 +1,3 @@
+Serum screening for Down's syndrome between 8 and 14 weeks of pregnancy.
+?
+['Down Syndrome/*diagnosis', 'Female', 'Humans', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy-Associated Plasma Protein-A/analysis', '*Prenatal Diagnosis']

@@ -1,0 +1,3 @@
+Rotational tomography.
+?
+['Bronchial Diseases/*diagnosis', 'Bronchial Neoplasms/diagnosis', 'Humans', 'Lung Neoplasms/*diagnosis', 'Thoracic Diseases/*diagnosis', '*Tomography', '*Trachea']

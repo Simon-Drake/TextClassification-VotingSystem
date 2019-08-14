@@ -1,0 +1,3 @@
+Antenatal diagnosis of mirror-image dextrocardia in association with situs inversus and Turner's mosaicism.
+We describe the antenatal diagnosis of a fetus with mirror-image dextrocardia, complete situs inversus and Turner's mosaicism (45,XO/46,XY) that was artificially terminated at 19 weeks. Autopsy confirmed our initial findings. This case represents an unusual combination of anomalies rarely encountered in clinical practice.
+['Abnormalities, Multiple/*diagnosis/pathology', 'Abortion, Induced', 'Adult', 'Autopsy', 'Dextrocardia/*diagnosis/pathology', 'Female', 'Humans', 'Male', 'Noonan Syndrome/*diagnosis/pathology', 'Pregnancy', 'Situs Inversus/*diagnosis/pathology', 'Spleen/*abnormalities', '*Ultrasonography, Prenatal']

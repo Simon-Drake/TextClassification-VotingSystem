@@ -1,0 +1,3 @@
+Preferred method for the diagnostic evaluation of ground-glass opacities.
+?
+['Female', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Diseases/*diagnosis', 'Lung Neoplasms/*diagnosis', 'Male', '*Positron-Emission Tomography', '*Radiopharmaceuticals', 'Solitary Pulmonary Nodule/*diagnosis', '*Tomography, X-Ray Computed']

@@ -1,0 +1,3 @@
+Kinetic analysis of 18F-FLT PET in lung tumors.
+?
+['Dideoxynucleosides/*pharmacokinetics', 'Female', 'Fluorodeoxyglucose F18/*pharmacology', 'Humans', 'Image Enhancement/*methods', 'Image Interpretation, Computer-Assisted/*methods', 'Imaging, Three-Dimensional/*methods', 'Lung Neoplasms/*diagnostic imaging', 'Male', '*Models, Biological', 'Neoplasms/*diagnostic imaging/*metabolism/*pathology', 'Positron-Emission Tomography/*methods', '*Radioisotope Dilution Technique', 'Thoracic Neoplasms/*diagnostic imaging', 'Thymidine Kinase/*biosynthesis', 'Tomography, Emission-Computed/*methods/*standards']

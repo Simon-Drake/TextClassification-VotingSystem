@@ -1,0 +1,3 @@
+[Embryonic mortality as a biological regulatory factor].
+?
+['Aneuploidy', 'Animals', 'Chromosome Aberrations', 'Embryo, Mammalian/*physiology', 'Female', 'Fetal Death/epidemiology/veterinary', 'Humans', 'Male', 'Mortality', 'Pregnancy', '*Reproduction', 'Selection, Genetic', 'Species Specificity', 'Spermatozoa/abnormalities']

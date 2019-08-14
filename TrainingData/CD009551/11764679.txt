@@ -1,0 +1,3 @@
+The art of Aspergillus and Penicillium speciation.
+?
+['Aspergillus/*classification', 'Carbohydrate Metabolism', 'Chromatography, Gas', 'Classification', 'DNA, Fungal/analysis', 'Fatty Acids/metabolism', 'Penicillium/*classification', 'Polymerase Chain Reaction']

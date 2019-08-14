@@ -1,0 +1,3 @@
+[APROPOS OF FRONTO-OBLIQUE TOMOGRAPHY. TECHNICAL VARIANTS, INDICATIONS AND RESULTS IN THE DIAGNOSIS AND TREATMENT OF BRONCHO-PULMONARY CANCERS].
+?
+['*Bronchial Neoplasms', 'Humans', '*Lung Neoplasms', 'Neoplasms/*diagnosis', '*Radiography, Thoracic', '*Tomography', '*Tomography, X-Ray Computed']

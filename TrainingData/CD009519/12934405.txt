@@ -1,0 +1,3 @@
+[Clinical application of fused imaging with SPECT HAWKEYE].
+?
+['Bone and Bones/*diagnostic imaging', 'Diagnosis, Differential', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', 'Radiography', 'Tomography, Emission-Computed, Single-Photon', 'Tuberculoma/*diagnostic imaging', 'Tuberculosis, Pulmonary/diagnostic imaging']

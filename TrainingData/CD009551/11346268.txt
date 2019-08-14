@@ -1,0 +1,3 @@
+Afut2, a new family of degenerate gypsy-like retrotransposon from Aspergillus fumigatus.
+Four recombinant lambda clones containing non-ribosomal repetitive DNA sequences useful for fingerprinting Aspergillus fumigatus strains contained a new member of the gypsy family of retrotransposons, Afut2. It is 5810 bp in length with long terminal repeats of 245 bp and is defective. All non-ribosomal repetitive DNA sequences isolated so far in A. fumigatus are defective retrotransposons of the gypsy family.
+['Aspergillus fumigatus/*genetics', 'Base Sequence', 'Molecular Sequence Data', 'Polymerase Chain Reaction', 'RNA-Directed DNA Polymerase/genetics', '*Retroelements', 'Ribonuclease H/genetics', '*Terminal Repeat Sequences']

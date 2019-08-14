@@ -1,0 +1,3 @@
+Corrections to maternal age-specific live birth prevalence of Down's syndrome.
+?
+['Age Factors', 'Down Syndrome/*epidemiology', 'Epidemiologic Methods', 'Female', 'Humans', 'Live Birth/*epidemiology', '*Maternal Age', 'Pregnancy', 'Prenatal Diagnosis', 'Prevalence', 'Risk Assessment', 'Risk Factors']

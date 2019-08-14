@@ -1,0 +1,3 @@
+Conventional gamma and high energy probe for radioguided dissection of metastases in a patient with recurrent thyroid carcinoma with (99m)Tc-MIBI and (18)F-FDG.
+?
+['*Fluorodeoxyglucose F18', 'Humans', 'Iodine Radioisotopes/therapeutic use', 'Lung Neoplasms/diagnostic imaging/secondary', 'Male', 'Mediastinal Neoplasms/diagnostic imaging/secondary', 'Middle Aged', 'Neoplasm Recurrence, Local/diagnostic imaging', 'Neoplasm Staging', 'Radionuclide Imaging', 'Radiopharmaceuticals/therapeutic use', 'Radiosurgery/*methods', '*Technetium Tc 99m Sestamibi', 'Thyroid Neoplasms/*diagnostic imaging/pathology/radiotherapy/*surgery', 'Thyroidectomy', 'Treatment Outcome', 'Ultrasonography']

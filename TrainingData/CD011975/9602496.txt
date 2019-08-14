@@ -1,0 +1,3 @@
+The accuracy of assigned risks in maternal serum screening.
+?
+['Down Syndrome/*blood/*diagnosis', 'Female', 'Humans', 'Pregnancy', '*Prenatal Diagnosis', 'Risk Factors', 'Sensitivity and Specificity']

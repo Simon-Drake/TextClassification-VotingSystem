@@ -1,0 +1,3 @@
+Screening for nuchal translucency: expect or expedite?
+?
+['Adult', 'Chromosome Aberrations/diagnostic imaging', 'Chromosome Disorders', 'Down Syndrome/*diagnostic imaging', 'Female', 'Fetal Diseases/*diagnostic imaging', 'Humans', 'Maternal Age', 'Neck/*diagnostic imaging', 'Pregnancy', '*Ultrasonography, Prenatal']

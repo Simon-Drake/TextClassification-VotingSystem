@@ -1,0 +1,3 @@
+OSTEOGENIC SARCOMA.
+?
+['Adolescent', '*Amputation', '*Bone Neoplasms', 'Child', '*Femoral Neoplasms', '*Fibrous Dysplasia of Bone', 'Humans', '*Lung Neoplasms', '*Neoplasm Metastasis', 'Neoplasms/*diagnosis/*epidemiology/*radiotherapy', '*Osteitis Deformans', '*Osteitis Fibrosa Cystica', '*Osteosarcoma', '*Radiography', '*Radiography, Thoracic', '*Shoulder', '*Spinal Neoplasms', '*Surgical Procedures, Operative', '*Thoracic Vertebrae', '*Tibia', '*Tomography']

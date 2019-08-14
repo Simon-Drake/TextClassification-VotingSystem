@@ -1,0 +1,3 @@
+Detection rates and false positive rates for Down syndrome screening: how precisely can they be estimated?
+?
+['Down Syndrome/*diagnosis', 'False Positive Reactions', 'Female', 'Humans', 'Pregnancy', 'Prenatal Diagnosis/*statistics & numerical data', 'Sensitivity and Specificity']

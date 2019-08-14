@@ -1,0 +1,3 @@
+[Statistico-clinical and radiotherapeutic considerations on 131 cases of bronchogenic malignant neoplasms].
+?
+['Adult', 'Age Factors', 'Aged', 'Bronchial Neoplasms/*radiotherapy', 'Bronchography', 'Female', 'Humans', 'Lung Neoplasms/diagnostic imaging/epidemiology/*radiotherapy', 'Male', 'Middle Aged', 'Radiography, Thoracic', '*Radiotherapy Dosage', 'Sex Factors', 'Smoking', 'Tomography']

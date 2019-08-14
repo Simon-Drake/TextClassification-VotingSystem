@@ -1,0 +1,3 @@
+Pathologic complete responses after chemotherapy plus figitumumab in stage IV non-small-cell lung cancer.
+?
+['Antibodies, Monoclonal/*administration & dosage', 'Antineoplastic Combined Chemotherapy Protocols/*administration & dosage', 'Biopsy, Needle', 'Carcinoma, Non-Small-Cell Lung/*drug therapy/etiology/*pathology/surgery', 'Chemotherapy, Adjuvant', 'Female', 'Follow-Up Studies', 'Humans', 'Immunoglobulins, Intravenous', 'Immunohistochemistry', 'Lung Neoplasms/*drug therapy/etiology/*pathology/surgery', 'Middle Aged', 'Neoplasm Staging', 'Pneumonectomy/methods', 'Positron-Emission Tomography', 'Remission Induction/methods', 'Smoking/adverse effects', 'Tomography, X-Ray Computed']

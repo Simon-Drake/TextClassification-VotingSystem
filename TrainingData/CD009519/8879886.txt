@@ -1,0 +1,3 @@
+Tc-99m sestamibi SPECT imaging of a brain metastasis in a man with lung tumor and increased sexual activity.
+?
+['Adenocarcinoma/complications/*diagnostic imaging/*secondary', 'Aged', 'Brain/diagnostic imaging', 'Brain Neoplasms/complications/*diagnostic imaging/*secondary', 'Hemiplegia/etiology', 'Humans', 'Lung Neoplasms/*pathology', 'Male', 'Radionuclide Imaging', 'Sexual Behavior', '*Technetium Tc 99m Sestamibi']

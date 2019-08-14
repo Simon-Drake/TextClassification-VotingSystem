@@ -1,0 +1,3 @@
+Prenatal diagnosis of low-level mosaic trisomy 6 by amniocentesis.
+?
+['Abnormalities, Multiple/genetics', 'Abortion, Eugenic', 'Adult', '*Amniocentesis', '*Chromosomes, Human, Pair 6', 'Female', 'Humans', 'Maternal Age', 'Mosaicism', '*Prenatal Diagnosis', 'Trisomy/*diagnosis']

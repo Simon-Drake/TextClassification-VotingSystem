@@ -1,0 +1,3 @@
+Fetal DNA analyzed in plasma from a mother's three consecutive pregnancies to detect paternally inherited aneuploidy.
+?
+['*Aneuploidy', 'DNA/*blood', 'Fathers', 'Female', 'Fetus/*chemistry', 'Genetic Markers', 'Genotype', 'Humans', 'Male', 'Polymerase Chain Reaction', 'Pregnancy', '*Prenatal Diagnosis']

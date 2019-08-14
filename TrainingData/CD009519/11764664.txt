@@ -1,0 +1,3 @@
+Comparison of early pulmonary changes in 18FDG-PET and CT after combined radiochemotherapy for advanced non-small-cell lung cancer: a study in 15 patients.
+?
+['Antineoplastic Combined Chemotherapy Protocols/*therapeutic use', 'Carboplatin/administration & dosage', 'Carcinoma, Non-Small-Cell Lung/diagnostic imaging/*drug therapy/*radiotherapy', 'Cohort Studies', 'Combined Modality Therapy', 'Drug Administration Schedule', 'Fluorodeoxyglucose F18', 'Humans', 'Lung/drug effects/radiation effects', 'Lung Neoplasms/diagnostic imaging/*drug therapy/*radiotherapy', 'Radiation Pneumonitis/*diagnosis', 'Radiopharmaceuticals', 'Retrospective Studies', 'Tomography, Emission-Computed', 'Tomography, X-Ray Computed', 'Vinblastine/administration & dosage/*analogs & derivatives']

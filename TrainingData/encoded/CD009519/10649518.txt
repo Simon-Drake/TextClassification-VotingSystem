@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHNeedl MeSHCarcinom MeSHCarcinoma MeSHBronchogeni MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHMiddleAged MeSHRetrospectiveStudies MeSHSensitivityandSpecificity MeSHThoracicNeoplasm MeSHTomography MeSHEmission-Compute

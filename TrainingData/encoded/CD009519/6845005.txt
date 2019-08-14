@@ -1,0 +1,1 @@
+MeSHAdrenalGlandNeoplasm MeSHCarcinoma MeSHBronchogeni MeSHHumans MeSHLungNeoplasm MeSHMagneticResonanceSpectroscopy MeSHMaxillarySinus MeSHMediastinalNeoplasm MeSHParanasalSinusNeoplasm MeSHPheochromocytom MeSHTomograph

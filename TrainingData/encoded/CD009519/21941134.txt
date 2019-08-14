@@ -1,0 +1,1 @@
+MeSHAntineoplasticCombinedChemotherapyProtocol MeSHCarcinoma MeSHSquamousCel MeSHChild MeSHFatalOutcome MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMuscleNeoplasm MeSHTomography MeSHEmission-Computed

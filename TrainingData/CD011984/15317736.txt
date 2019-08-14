@@ -1,0 +1,3 @@
+Prenatal origin of GATA1 mutations may be an initiating step in the development of megakaryocytic leukemia in Down syndrome.
+?
+['DNA-Binding Proteins/*genetics', 'Down Syndrome/*complications/*genetics', 'Erythroid-Specific DNA-Binding Factors', 'GATA1 Transcription Factor', 'Humans', 'Leukemia, Megakaryoblastic, Acute/*complications/*genetics', 'Mutation', 'Transcription Factors/*genetics']

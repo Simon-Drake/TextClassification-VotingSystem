@@ -1,0 +1,1 @@
+MeSHCarcinom MeSHCarcinoma MeSHSquamousCel MeSHCellMovement MeSHCellTransformation MeSHNeoplastic MeSHHumans MeSHImmunohistochemistry MeSHLeukocytes MeSHMononuclea MeSHMouthNeoplasm MeSHPrecancerousCondition MeSHTongu

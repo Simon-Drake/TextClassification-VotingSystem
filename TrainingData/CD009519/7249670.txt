@@ -1,0 +1,3 @@
+The resectability of primary lung carcinoma: a diagnostic staging review.
+?
+['Gallium Radioisotopes', 'Humans', 'Lung Neoplasms/diagnosis/*pathology/surgery', 'Mediastinal Neoplasms/secondary', 'Neoplasm Staging', 'Tomography', 'Tomography, X-Ray Computed']

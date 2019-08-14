@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHNeedl MeSHCarcinoma MeSHBronchogeni MeSHCooperativeBehavior MeSHHemothora MeSHHodgkinDiseas MeSHHumans MeSHLun MeSHLungNeoplasm MeSHMediastinalNeoplasm MeSHMediastinu MeSHPatientCareTeam MeSHPneumothora MeSHRadiology MeSHInterventiona MeSHTomography MeSHSpiralCompute

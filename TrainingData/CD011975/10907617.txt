@@ -1,0 +1,3 @@
+Integrated screening for Down's syndrome.
+?
+['Down Syndrome/*diagnosis', 'False Positive Reactions', 'Female', 'Fetal Diseases/*diagnosis', 'Humans', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy Trimester, Second', 'Prenatal Diagnosis/*methods/*standards', 'Reproducibility of Results', 'Sensitivity and Specificity']

@@ -1,0 +1,3 @@
+The dilemma of the asymptomatic pulmonary nodule in the young and not-so-young adult. Clinical conference in pulmonary disease from Northwestern University--McGaw Medical Center, Chicago.
+?
+['Adenocarcinoma/diagnostic imaging', 'Adolescent', 'Adult', 'Age Factors', 'Aged', 'Coccidioidomycosis/diagnostic imaging', 'Diagnosis, Differential', 'Granuloma/diagnostic imaging', 'Hamartoma/diagnostic imaging', 'Histiocytoma, Benign Fibrous/diagnostic imaging', 'Histoplasmosis/diagnostic imaging', 'Humans', 'Lung Diseases, Fungal/diagnostic imaging', 'Lung Neoplasms/diagnostic imaging', 'Male', 'Middle Aged', 'Radiography', 'Skin Tests', 'Solitary Pulmonary Nodule/diagnosis/diagnostic imaging/*etiology/surgery', 'Tomography', 'Tuberculosis, Pulmonary/diagnostic imaging']

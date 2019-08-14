@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAminoAcids MeSHAscomycota MeSHBlotting MeSHWestern MeSHCrossReactions MeSHGlycosylation MeSHHydrogen-IonConcentration MeSHIsoelectricPoint MeSHMolecularSequenceData MeSHMolecularWeight MeSHPolygalacturonase MeSHTemperature

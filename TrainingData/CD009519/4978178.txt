@@ -1,0 +1,3 @@
+[On the changes of the radiological aspect of the thorax after high-energy radiotherapy of tumors of the lung].
+?
+['Adult', 'Aged', 'Humans', 'Lung Neoplasms/*radiotherapy', 'Male', 'Middle Aged', 'Neoplasm Metastasis/*diagnostic imaging', '*Radiography, Thoracic', '*Radiotherapy, High-Energy', 'Tomography']

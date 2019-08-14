@@ -1,0 +1,3 @@
+[Early ultrasonic amniocentesis. 147 cases].
+The results of 147 amniocenteses are analysed. The authors found chromosome abnormalities in 1.4% of the cases (two Down's syndromes were diagnosed) and no short and/or long-term materno-foetal complications were encountered.
+['Adult', 'Amniocentesis/*methods', 'Down Syndrome/*diagnosis/genetics', 'Female', 'Humans', 'Karyotyping', 'Middle Aged', 'Pregnancy', 'Prenatal Diagnosis/*methods', 'Time Factors', '*Ultrasonography']

@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSquamousCel MeSHCellNucleu MeSHCytodiagnosi MeSHDNA MeSHNeoplas MeSHEpitheliu MeSHHumans MeSHImageProcessing MeSHComputer-Assisted MeSHMouthMucos MeSHMouthNeoplasm MeSHPrecancerousCondition MeSHSensitivityandSpecificity MeSHTelevision

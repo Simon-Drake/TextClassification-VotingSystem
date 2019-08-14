@@ -1,0 +1,3 @@
+Truncation limits for CT marker ratios in prenatal screening for Down syndrome.
+?
+['Adult', 'Biomarkers/blood', 'Down Syndrome/blood/*diagnosis/economics/*embryology', 'Endpoint Determination/*methods', 'False Positive Reactions', 'Female', '*Gestational Age', 'Humans', 'Likelihood Functions', 'Predictive Value of Tests', 'Pregnancy', 'Pregnancy Trimester, First/blood', 'Pregnancy Trimester, Second/blood', 'Prenatal Diagnosis/economics/*methods']

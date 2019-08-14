@@ -1,0 +1,3 @@
+[Therapeutic possibilities in tracheal tumors].
+?
+['Adult', 'Aged', 'Amyloidosis/surgery', 'Carcinoma/surgery', 'Carcinoma, Adenoid Cystic/surgery', 'Chondrosarcoma/surgery', 'Cobalt Isotopes/therapeutic use', 'Cysts/surgery', 'Esophageal Neoplasms', 'Female', 'Hodgkin Disease', 'Humans', 'Leiomyoma/surgery', 'Lung Neoplasms', 'Male', 'Middle Aged', 'Neoplasm Metastasis', 'Radiotherapy, High-Energy', 'Skin Transplantation', 'Thyroid Neoplasms', 'Tomography', 'Tracheal Diseases/surgery', 'Tracheal Neoplasms/radiotherapy/surgery/*therapy', 'Transplantation, Autologous']

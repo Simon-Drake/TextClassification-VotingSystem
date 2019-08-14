@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHNon-Small-CellLun MeSHFalsePositiveReactions MeSHHumans MeSHInjections MeSHIntralesional MeSHLaryngealNeoplasm MeSHLungNeoplasm MeSHPolytetrafluoroethylen MeSHTomography MeSHEmission-Computed MeSHTomography MeSHX-RayComputed MeSHVocalCordParalysi

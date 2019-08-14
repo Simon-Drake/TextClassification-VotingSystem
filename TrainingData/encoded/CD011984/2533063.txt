@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAnimals MeSHBaseSequence MeSHBrain MeSHDNA MeSHDownSyndrome MeSHHumans MeSHLiver MeSHMice MeSHMolecularSequenceData MeSHMuscles MeSHPhosphofructokinase-1 MeSHRNA MeSHMessenger MeSHRabbits MeSHSequenceHomology MeSHNucleicAcid

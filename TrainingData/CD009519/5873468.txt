@@ -1,0 +1,3 @@
+[On the value of tomography in the differential diagnosis between pulmonary tumors and the inflammatory processes].
+?
+['Adult', 'Diagnosis, Differential', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Middle Aged', 'Pneumonia/*diagnostic imaging', 'Pulmonary Atelectasis/*diagnostic imaging', 'Radiography', 'Tomography']

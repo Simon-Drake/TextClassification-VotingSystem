@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAscomycot MeSHBaseSequence MeSHCloning MeSHMolecular MeSHCodon MeSHDNA MeSHFungal MeSHGlyceraldehyde-3-PhosphateDehydrogenase MeSHIntrons MeSHMolecularSequenceData MeSHPlant MeSHSequenceHomology MeSHAminoAcid

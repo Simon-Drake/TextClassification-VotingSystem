@@ -1,0 +1,3 @@
+THE RADIOLOGICAL MANIFESTATIONS OF SUPRASELLAR METASTATIC TISSUE.
+?
+['*Brain Neoplasms', '*Breast Neoplasms', '*Carcinoma', '*Diabetes Insipidus', '*Diagnosis, Oral', '*Eye Diseases', 'Humans', '*Lung Neoplasms', '*Neoplasm Metastasis', '*Pathology', '*Pituitary Neoplasms', '*Stomach Neoplasms', '*Tomography', '*Tomography, X-Ray Computed']

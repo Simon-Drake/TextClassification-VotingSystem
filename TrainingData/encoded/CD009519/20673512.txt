@@ -1,0 +1,1 @@
+MeSHGlucoseTransporterType MeSHHumans MeSHLungNeoplasm MeSHPositron-EmissionTomography

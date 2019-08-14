@@ -1,0 +1,1 @@
+MeSHAntigens MeSHNeoplasm MeSHBiomarkers MeSHTumo MeSHCarcinoma MeSHSquamousCel MeSHCase-ControlStudies MeSHCellAdhesionMolecule MeSHCellMovement MeSHCellTransformation MeSHNeoplastic MeSHHumans MeSHImmunohistochemistry MeSHIntegrin MeSHMouthMucos MeSHMouthNeoplasm MeSHReceptors MeSHVitronecti

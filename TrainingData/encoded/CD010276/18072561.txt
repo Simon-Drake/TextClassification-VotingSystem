@@ -1,0 +1,1 @@
+MeSHBloodCoagulation MeSHCarcinoma MeSHSquamousCell MeSHFemale MeSHFibrinogen MeSHHumans MeSHMale MeSHMiddleAged MeSHMouthNeoplasms MeSHNeoplasms MeSHPartialThromboplastinTime MeSHProthrombinTime MeSHThrombinTime

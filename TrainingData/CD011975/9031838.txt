@@ -1,0 +1,3 @@
+Prenatal screening for Down syndrome: should first trimester ultrasound replace maternal serum screening?
+?
+['Adult', 'Chorionic Gonadotropin/blood', 'Down Syndrome/blood/*diagnosis/diagnostic imaging', 'Female', 'Humans', 'Pregnancy', 'Prenatal Diagnosis/*methods', 'Prospective Studies', '*Ultrasonography, Prenatal']

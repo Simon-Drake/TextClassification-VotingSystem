@@ -1,0 +1,3 @@
+Cost-effectiveness of screening for lung cancer.
+?
+['Cost-Benefit Analysis', 'Humans', 'Lung Neoplasms/*diagnostic imaging/mortality', '*Mass Screening/economics', 'Risk Assessment', '*Tomography, Spiral Computed/economics']

@@ -1,0 +1,1 @@
+MeSHBiomarkers MeSHTumor MeSHBiopsy MeSHCarcinoma MeSHEndometrioid MeSHEndometrialNeoplasms MeSHFemale MeSHHistiocytes MeSHHumans MeSHHyperplasia MeSHHysterectomy MeSHImmunohistochemistry MeSHLaparoscopy MeSHMiddleAged MeSHNeoplasmStaging

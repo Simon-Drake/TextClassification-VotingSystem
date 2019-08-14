@@ -1,0 +1,3 @@
+[Tomographic aspects of mediastinal invasion of bronchial carcinoma].
+?
+['Bronchial Neoplasms/*diagnostic imaging', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Lymphatic Metastasis/diagnostic imaging', 'Mediastinal Neoplasms/*diagnostic imaging', 'Neoplasm Metastasis/diagnostic imaging', 'Radiography, Thoracic', '*Tomography']

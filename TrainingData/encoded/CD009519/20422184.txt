@@ -1,0 +1,1 @@
+MeSHArtifacts MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHImageProcessing MeSHComputer-Assiste MeSHMale MeSHMiddleAged MeSHNeoplasm MeSHPhantoms MeSHImaging MeSHPositron-EmissionTomograph MeSHReproducibilityofResults MeSHTumorBurden MeSHWholeBodyImaging

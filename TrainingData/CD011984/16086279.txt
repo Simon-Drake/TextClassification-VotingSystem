@@ -1,0 +1,3 @@
+[Study on the mechanism of oocyte aneuploidy by spectral karyotyping].
+OBJECTIVE: To establish the method of detecting oocyte aneuploidy by spectral karyotyping (SKY). METHODS: The unfertilized oocytes were fixed 1-2 days after oocyte retrieval. Spectral karyotyping was performed according to the protocol. RESULTS: 64% of oocytes were normal, 36% of oocytes were aneuploidy, of which 22% were due to nondisjunction and 14% unbalanced predivision. CONCLUSION: SKY is an effective method for detecting oocyte aneuploidy. Both nondisjunction and unbalanced predivision are involved in oocyte aneuploidy formation.
+['*Aneuploidy', 'Female', 'Humans', 'Male', 'Oocytes/cytology/*metabolism', 'Pregnancy', 'Reproducibility of Results', 'Spectral Karyotyping/*methods']

@@ -1,0 +1,1 @@
+MeSHAdult MeSHCarpalBone MeSHFemale MeSHFluoroscopy MeSHHumans MeSHJointDislocation MeSHMale MeSHRadiographicImageInterpretation MeSHComputer-Assisted MeSHRangeofMotion MeSHArticula MeSHReferenceValues MeSHSensitivityandSpecificity MeSHWristInjurie MeSHWristJoin

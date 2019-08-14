@@ -1,0 +1,1 @@
+MeSHClinicalLaboratoryTechniques MeSHDiagnosticImaging MeSHDiagnosticTechniques MeSHSurgical MeSHEndometriosis MeSHFemale MeSHHumans MeSHPhysicalExamination

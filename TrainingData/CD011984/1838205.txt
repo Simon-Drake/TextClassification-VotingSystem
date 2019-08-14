@@ -1,0 +1,3 @@
+[Round table discussion. Does echography allow detection of trisomy 21?].
+?
+['Anthropometry', 'Down Syndrome/*diagnostic imaging/epidemiology/prevention & control', 'Female', 'Humans', 'Incidence', 'Mass Screening/*standards', 'Pregnancy', 'Sensitivity and Specificity', 'Ultrasonography, Prenatal/*standards']

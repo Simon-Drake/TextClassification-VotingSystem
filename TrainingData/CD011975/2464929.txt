@@ -1,0 +1,3 @@
+1987 ASHG workshop: low maternal serum AFP screening for Down syndrome.
+?
+['Down Syndrome/*diagnosis', 'Female', 'Humans', 'Mass Screening', 'Pregnancy/*blood', '*Prenatal Diagnosis', 'United Kingdom', 'United States', 'alpha-Fetoproteins/*analysis']

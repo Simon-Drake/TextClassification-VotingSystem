@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSmallCell MeSHCushingSyndrome MeSHDiagnosis MeSHDifferential MeSHEndometrialNeoplasms MeSHFatalOutcome MeSHFemale MeSHHumans MeSHHysterectomy MeSHImmunohistochemistry MeSHMagneticResonanceImaging MeSHMiddleAged MeSHTomography MeSHX-RayComputed

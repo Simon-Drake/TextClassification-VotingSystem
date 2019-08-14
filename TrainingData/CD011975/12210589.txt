@@ -1,0 +1,3 @@
+Improved methodology for evaluating nuchal thickness in the second trimester.
+?
+['Down Syndrome/diagnostic imaging', 'Female', 'Gestational Age', 'Humans', 'Neck/*diagnostic imaging/*embryology', 'Pregnancy', 'Pregnancy Trimester, Second', 'Ultrasonography, Prenatal/*methods']

@@ -1,0 +1,3 @@
+Pleural metastases of thymoma.
+?
+['Adult', 'Female', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Neoplasm Metastasis', 'Radiography, Thoracic', 'Thymoma/*diagnostic imaging', 'Thymus Neoplasms/*diagnostic imaging', 'Tomography']

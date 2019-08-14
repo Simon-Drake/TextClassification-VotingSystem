@@ -1,0 +1,3 @@
+F-18 FDG PET evaluation of bronchial plasmacytoma with CT and MRI correlation.
+?
+['Bronchial Neoplasms/*diagnosis', 'Diagnosis, Differential', '*Fluorodeoxyglucose F18', 'Humans', '*Magnetic Resonance Imaging', 'Male', 'Middle Aged', 'Plasmacytoma/*diagnosis', '*Positron-Emission Tomography', 'Radiopharmaceuticals', 'Statistics as Topic', '*Tomography, X-Ray Computed']

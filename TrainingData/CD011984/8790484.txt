@@ -1,0 +1,3 @@
+Assessing value for money in medical screening.
+?
+['Cost-Benefit Analysis', 'Cystic Fibrosis/diagnosis/prevention & control', 'Down Syndrome/diagnosis/prevention & control', 'Female', 'Genetic Testing/economics', 'Hepatitis B/diagnosis/epidemiology/prevention & control', 'Humans', 'Mass Screening/*economics', 'Neural Tube Defects/diagnosis/prevention & control', 'Pregnancy', 'Prenatal Diagnosis/economics', 'Risk Factors', 'United Kingdom']

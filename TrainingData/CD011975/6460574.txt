@@ -1,0 +1,3 @@
+Antenatal diagnosis of cytogenetic abnormalities.
+?
+['Abortion, Spontaneous/genetics', 'Adult', 'Amniotic Fluid/cytology', 'Chromosome Aberrations/*diagnosis', 'Chromosome Disorders', 'Chromosome Inversion', 'Down Syndrome/chemically induced/diagnosis', 'Female', 'Fertilization', 'Fetal Death/genetics', 'Fetal Growth Retardation/diagnosis', 'Fetus/radiation effects', 'Humans', 'In Vitro Techniques', 'Male', 'Maternal Age', 'Metabolic Diseases/diagnosis', 'Ovulation', 'Pregnancy', 'Pregnancy, High-Risk', 'Prenatal Diagnosis/*methods', 'Risk', 'Sex Chromosome Aberrations/diagnosis', 'Translocation, Genetic', 'X Chromosome']

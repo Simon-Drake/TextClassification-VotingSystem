@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAged MeSHAnginaPectori MeSHDiagnosis MeSHDifferential MeSHFatalOutcome MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMyocardialIschemi MeSHRadiopharmaceuticals MeSHThalliumRadioisotopes MeSHTomography MeSHEmission-Computed MeSHSingle-Photon MeSHTomography MeSHX-RayComputed

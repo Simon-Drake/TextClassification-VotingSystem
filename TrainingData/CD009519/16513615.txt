@@ -1,0 +1,3 @@
+PET evaluation of lung cancer.
+?
+['*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/*secondary', 'Positron-Emission Tomography/*methods/trends', 'Practice Guidelines as Topic', "Practice Patterns, Physicians'/trends", 'Radiopharmaceuticals', 'Risk Assessment/*methods', 'Risk Factors', 'Solitary Pulmonary Nodule/*diagnostic imaging/*secondary']

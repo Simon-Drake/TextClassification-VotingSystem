@@ -1,0 +1,3 @@
+[Imaging diagnosis: Q & A].
+?
+['Female', 'Humans', 'Lung Neoplasms/*diagnosis/diagnostic imaging', 'Middle Aged', 'Positron-Emission Tomography', 'Pulmonary Sclerosing Hemangioma/*diagnosis/diagnostic imaging', 'Tomography, X-Ray Computed']

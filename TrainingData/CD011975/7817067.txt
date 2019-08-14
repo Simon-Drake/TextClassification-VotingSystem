@@ -1,0 +1,3 @@
+[Genetic aspects of fetal hydrops and cystic hygroma].
+?
+['*Chromosome Aberrations', '*Chromosome Disorders', 'Down Syndrome/genetics', 'Head and Neck Neoplasms/diagnosis/*genetics', 'Humans', 'Hydrops Fetalis/diagnosis/*genetics', 'Infant, Newborn', 'Lymphangioma, Cystic/diagnosis/*genetics', 'Prenatal Diagnosis', 'Turner Syndrome/genetics']

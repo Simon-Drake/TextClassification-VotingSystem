@@ -1,0 +1,1 @@
+MeSHAdult MeSHAlleles MeSHAneuploidy MeSHChorionicVilli MeSHChorionicVilliSampling MeSHChromosomes MeSHHuman MeSHPair16 MeSHCytogenetics MeSHDNA MeSHFemale MeSHGeneticMarkers MeSHHumans MeSHInfant MeSHNewborn MeSHKaryotyping MeSHMale MeSHMosaicism MeSHPlacenta MeSHPregnancy MeSHTrisomy MeSHZygote

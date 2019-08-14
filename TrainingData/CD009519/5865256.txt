@@ -1,0 +1,3 @@
+[Transverse axial tomography in preparation of the plan of treatment of lung tumors].
+?
+['Humans', 'Lung Neoplasms/*radiotherapy', 'Technology, Radiologic', '*Tomography']

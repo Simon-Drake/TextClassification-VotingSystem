@@ -1,0 +1,3 @@
+Discrepancy between Tc-99m HMDP bone scan and F-18 FDG positron emission tomographic images in a patient with small cell lung cancer.
+?
+['Bone Marrow Neoplasms/*diagnostic imaging/pathology/secondary', 'Carcinoma, Small Cell/*diagnostic imaging/pathology/secondary', '*Fluorodeoxyglucose F18', 'Humans', 'Ilium/diagnostic imaging/pathology', 'Lung Neoplasms/diagnostic imaging/secondary', 'Predictive Value of Tests', 'Radiopharmaceuticals', 'Technetium Tc 99m Medronate/*analogs & derivatives', 'Tomography, Emission-Computed/methods']

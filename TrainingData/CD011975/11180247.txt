@@ -1,0 +1,3 @@
+Measuring serum markers once or twice in each assay in antenatal screening for Down syndrome and neural tube defects.
+?
+['Biomarkers/*blood', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Neural Tube Defects/*diagnosis', 'Pregnancy', 'Prenatal Diagnosis/*methods', 'Quality Control']

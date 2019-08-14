@@ -1,0 +1,1 @@
+MeSHAdult MeSHBiopsy MeSHBronchoscopy MeSHChemotherapy MeSHAdjuvant MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHMale MeSHPneumonectomy MeSHPositron-EmissionTomography MeSHRadiotherapy MeSHAdjuvant MeSHSarcoma MeSHSynovia MeSHTomography MeSHX-RayComputed MeSHTreatmentOutcome MeSHYoungAdult

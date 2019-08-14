@@ -1,0 +1,3 @@
+The cardiac echogenic focus.
+?
+['Chromosome Aberrations/genetics', 'Chromosome Disorders', 'Down Syndrome/diagnostic imaging/genetics', 'Fetal Heart/abnormalities/*diagnostic imaging', 'Heart Ventricles/abnormalities/*diagnostic imaging', 'Humans', 'Incidence', 'Karyotyping', '*Ultrasonography, Prenatal']

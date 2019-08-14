@@ -1,0 +1,3 @@
+[Value of tomography in oblique projection in the study of hilus-mediastinal pathology].
+?
+['Humans', 'Lung Neoplasms/*diagnostic imaging', 'Lymphatic Metastasis', 'Mediastinal Neoplasms/*diagnostic imaging', 'Methods', 'Radiography', '*Tomography']

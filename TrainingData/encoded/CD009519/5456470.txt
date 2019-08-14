@@ -1,0 +1,1 @@
+MeSHAbdominalNeoplasm MeSHDiagnosis MeSHDifferential MeSHHumans MeSHLipom MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHRadiography MeSHThoracic MeSHThoracicNeoplasm MeSHTomography

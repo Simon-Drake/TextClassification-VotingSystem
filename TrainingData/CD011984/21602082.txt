@@ -1,0 +1,3 @@
+[Quality control of first trimester ultrasonography for Down syndrome screening: more questions than answers].
+?
+['Down Syndrome/*diagnosis/diagnostic imaging', 'Female', 'France', 'Humans', 'Mass Screening', 'Pregnancy', 'Pregnancy Trimester, First', 'Quality Control', 'Ultrasonography, Prenatal']

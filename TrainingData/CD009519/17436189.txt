@@ -1,0 +1,3 @@
+[Early arterial enhancement of the liver: a pitfall in obstructions of the superior vena cava].
+?
+['Adult', 'Azygos Vein/diagnostic imaging', 'Breast Neoplasms/*diagnostic imaging', 'Collateral Circulation', 'Contrast Media', 'Device Removal', 'Diagnosis, Differential', 'Equipment Failure', 'Female', 'Humans', '*Image Processing, Computer-Assisted', 'Infusion Pumps, Implantable', 'Liver/*blood supply', 'Liver Neoplasms/blood supply/diagnostic imaging/*secondary', 'Lung Neoplasms/blood supply/diagnostic imaging/*secondary', '*Phlebography', 'Superior Vena Cava Syndrome/*diagnostic imaging/surgery', '*Tomography, Spiral Computed']

@@ -1,0 +1,3 @@
+Fetal nuchal translucency test for Down's syndrome.
+?
+['Down Syndrome/blood/*diagnostic imaging', 'Ethics, Medical', 'Female', 'Humans', 'Neck/diagnostic imaging/embryology', 'Pregnancy', 'Pregnancy Trimester, First', '*Ultrasonography, Prenatal']

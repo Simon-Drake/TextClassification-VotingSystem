@@ -1,0 +1,1 @@
+MeSHAlcoholDrinking MeSHCD4-CD8Ratio MeSHCD4-PositiveT-Lymphocyte MeSHCandidiasis MeSHOra MeSHFemale MeSHHIVInfection MeSHHumans MeSHLeukocyteCount MeSHLeukoplakia MeSHOra MeSHMale MeSHMouthDisease MeSHProspectiveStudies MeSHSmoking MeSHT-LymphocyteSubset MeSHUlce

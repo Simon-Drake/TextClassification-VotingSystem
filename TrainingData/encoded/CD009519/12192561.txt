@@ -1,0 +1,1 @@
+MeSHAdenocarcinoma MeSHBronchiolo-Alveola MeSHAdult MeSHAged MeSHAged MeSH80andover MeSHBiologicalTransport MeSHFemale MeSHFluorodeoxyglucoseF1 MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHRadiopharmaceutical MeSHSensitivityandSpecificity MeSHTomography MeSHEmission-Computed MeSHTomography MeSHX-RayComputed

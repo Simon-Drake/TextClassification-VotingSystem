@@ -1,0 +1,1 @@
+MeSHAdult MeSHBiomarkers MeSHTumo MeSHBiopsy MeSHGingiv MeSHGingivalNeoplasm MeSHHumans MeSHMale MeSHMandibularNeoplasm MeSHNeoplasms MeSHMuscleTissu MeSHOsteosarcom MeSHOsteotomy MeSHPositron-EmissionTomography MeSHRadiography MeSHPanoramic MeSHTomography MeSHX-RayComputed

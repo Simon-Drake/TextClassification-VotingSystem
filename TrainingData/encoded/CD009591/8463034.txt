@@ -1,0 +1,1 @@
+MeSHDiagnosis MeSHDifferential MeSHEndometriosis MeSHFallopianTubeDiseases MeSHFemale MeSHGenitalDiseases MeSHFemale MeSHGenitalNeoplasms MeSHFemale MeSHHumans MeSHImmunohistochemistry MeSHMullerianDucts MeSHPeritonealDiseases MeSHPeritonealNeoplasms

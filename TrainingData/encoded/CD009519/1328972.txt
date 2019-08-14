@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdult MeSHAged MeSHAged MeSH80andover MeSHBoneMarro MeSHBoneNeoplasm MeSHCarcinoma MeSHNon-Small-CellLun MeSHCarcinoma MeSHSmallCel MeSHCarcinoma MeSHSquamousCel MeSHFemale MeSHHumans MeSHLiverNeoplasm MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHProspectiveStudies MeSHTechnetiumTc99mAggregatedAlbumin MeSHTomography MeSHEmission-Computed MeSHSingle-Photon

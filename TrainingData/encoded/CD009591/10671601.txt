@@ -1,0 +1,1 @@
+MeSHAbdominalPain MeSHAdult MeSHBariumSulfate MeSHBiopsy MeSHContrastMedia MeSHEndometriosis MeSHEnema MeSHFemale MeSHHumans MeSHIlealDiseases MeSHIleocecalValve MeSHLaparotomy MeSHMenstruation MeSHPelvicPain MeSHRadiography MeSHRectalDiseases MeSHRetrospectiveStudies MeSHSigmoidDiseases

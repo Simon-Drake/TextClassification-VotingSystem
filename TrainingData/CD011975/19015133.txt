@@ -1,0 +1,3 @@
+Perspectives on the efficacy and indications for preimplantation genetic screening: where are we now?
+?
+['Adult', 'Aneuploidy', 'Chromosome Disorders/etiology/prevention & control', 'Female', 'Fertilization in Vitro', '*Genetic Testing', 'Humans', 'In Situ Hybridization, Fluorescence', 'Maternal Age', 'Pregnancy', 'Pregnancy Outcome', '*Preimplantation Diagnosis/adverse effects', 'Randomized Controlled Trials as Topic']

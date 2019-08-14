@@ -1,0 +1,3 @@
+[Chromosome preparation technics and chromosome analysis of chorionic epithelium].
+?
+['Cells, Cultured', 'Chorionic Villi/*ultrastructure', 'Chorionic Villi Sampling/*methods', 'Chromosome Aberrations/diagnosis', 'Chromosome Banding/*methods', 'Chromosome Disorders', 'Diagnosis, Differential', 'Female', 'Humans', 'Mosaicism', 'Pregnancy', 'Prenatal Diagnosis']

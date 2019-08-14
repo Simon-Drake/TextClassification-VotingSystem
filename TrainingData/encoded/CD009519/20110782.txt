@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHRenalCel MeSHHumans MeSHIndole MeSHKidneyNeoplasm MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHProteinKinaseInhibitor MeSHProtein-TyrosineKinase MeSHPyrrole MeSHRadiography MeSHSmoking MeSHThrombocytopeni MeSHTreatmentOutcome

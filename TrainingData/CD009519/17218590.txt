@@ -1,0 +1,3 @@
+A localized pleural based mass with intense uptake on positron emission tomography scan.
+?
+['Aged', 'Diagnosis, Differential', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Mesothelioma/*diagnostic imaging', 'Myocardial Infarction/diagnostic imaging/therapy', 'Radiography, Thoracic', '*Tomography, Emission-Computed', 'Tomography, X-Ray Computed']

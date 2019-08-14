@@ -1,0 +1,3 @@
+Can the risk for Down syndrome be reliably modified by second-trimester ultrasonography?
+?
+['Down Syndrome/*diagnostic imaging/embryology/epidemiology', 'False Positive Reactions', 'Female', 'Humans', 'Pregnancy', 'Pregnancy Trimester, Second', 'Research Design', 'Risk Factors', '*Ultrasonography, Prenatal']

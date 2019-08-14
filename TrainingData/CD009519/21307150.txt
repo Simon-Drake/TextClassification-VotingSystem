@@ -1,0 +1,3 @@
+Asymptomatic muscle metastasis from pulmonary adenocarcinoma.
+?
+['Adenocarcinoma/diagnostic imaging/*secondary', 'Diagnosis, Differential', 'Female', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Middle Aged', 'Muscle Neoplasms/diagnostic imaging/*secondary', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed']

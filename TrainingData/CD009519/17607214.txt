@@ -1,0 +1,3 @@
+[Abdominal pain during the course of lung cancer].
+INTRODUCTION: Metastatic involvement of the peritoneum from a lung cancer is infrequently encountered. METHODS: We present the case report of a patient with bronchial adenocarcinoma whose course is complicated by the occurrence of a peritoneal carcinomatosis, as documented by FDG-PET. CONCLUSION: Unexplained abdominal pain in a lung cancer patient may be a peritoneal carcinomatosis. The diagnosis can be helped by PET-scan. However, the therapeutic opportunities are very limited.
+['Abdominal Pain/etiology', 'Adenocarcinoma/complications/*secondary', 'Fatal Outcome', 'Humans', 'Lung Neoplasms/*pathology', 'Male', 'Middle Aged', 'Peritoneal Neoplasms/complications/*secondary']

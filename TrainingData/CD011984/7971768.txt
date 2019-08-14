@@ -1,0 +1,3 @@
+Why karyotype cystic hygroma cells?
+?
+['Adult', 'Amniotic Fluid/cytology', 'Down Syndrome/*diagnosis/genetics', 'Female', 'Humans', '*Karyotyping', 'Lymphangioma, Cystic/*genetics', 'Mosaicism', 'Pregnancy', '*Prenatal Diagnosis']

@@ -1,0 +1,3 @@
+Imaging characteristics of a mucinous colorectal pulmonary metastasis.
+?
+['Adenocarcinoma, Mucinous/*diagnosis/pathology/*secondary/surgery', 'Biopsy', 'Bronchoscopy', 'Colorectal Neoplasms/pathology', 'Humans', 'Lung Neoplasms/*diagnosis/pathology/*secondary/surgery', 'Male', 'Middle Aged', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed']

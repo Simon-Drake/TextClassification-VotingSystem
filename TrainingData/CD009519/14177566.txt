@@ -1,0 +1,3 @@
+[THE BEHAVIOR OF THE DIAPHRAGM IN PRIMARY CANCER OF THE LUNG. CLINICO-RADIOLOGICAL STUDY OF 1128 CASES].
+?
+['*Bronchial Neoplasms', '*Diaphragm', 'Humans', '*Lung Neoplasms', '*Mediastinal Neoplasms', '*Neoplasm Metastasis', '*Neoplasms', '*Pathology', '*Phrenic Nerve', '*Radiography', '*Radiography, Thoracic', '*Tomography']

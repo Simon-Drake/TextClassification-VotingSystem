@@ -1,0 +1,3 @@
+The doctor's dilemma: tuberculosis or lung cancer?
+?
+['Aged', 'Antitubercular Agents/therapeutic use', 'Bronchoscopy', 'Diagnosis, Differential', 'Female', 'Humans', 'Lung Neoplasms/*diagnosis', 'Male', 'Middle Aged', 'Pneumonectomy', 'Radiography, Thoracic', 'Tomography', 'Tuberculosis, Pulmonary/*diagnosis']

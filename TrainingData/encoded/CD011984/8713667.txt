@@ -1,0 +1,1 @@
+MeSHChromosomes MeSHHuman MeSHPair13 MeSHChromosomes MeSHHuman MeSHPair18 MeSHChromosomes MeSHHuman MeSHPair21 MeSHCytogenetics MeSHDNAProbes MeSHDownSyndrome MeSHFemale MeSHHumans MeSHInSituHybridization MeSHFluorescence MeSHInfant MeSHNewborn MeSHPregnancy MeSHPrenatalDiagnosis MeSHXChromosome

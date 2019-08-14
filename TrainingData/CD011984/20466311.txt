@@ -1,0 +1,3 @@
+Abnormally flat facial profile on two- and three-dimensional ultrasound and array comparative genomic hybridization for the diagnosis of Pallister-Killian syndrome.
+?
+['Abnormalities, Multiple/genetics', 'Abortion, Induced', 'Adult', '*Chromosomes, Human, Pair 12', '*Comparative Genomic Hybridization', 'Craniofacial Abnormalities/*diagnostic imaging/genetics', 'Female', 'Humans', '*Imaging, Three-Dimensional', '*Mosaicism', 'Pregnancy', 'Syndrome', '*Ultrasonography, Prenatal']

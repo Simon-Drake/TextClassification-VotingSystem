@@ -1,0 +1,3 @@
+Rep-PCR and RAPD-PCR fingerprinting of Aspergillus terreus.
+We compared two PCR methods for molecular typing the medically important filamentous fungus Aspergillus terreus. In a set of 46 strains investigated we found 19 and 12 different fingerprinting types obtained by random amplified polymorphic DNA PCR (RAPD) and semi-automated repetitive element PCR (rep-PCR), respectively.
+['Aspergillosis/epidemiology/microbiology', 'Aspergillus/*classification/*genetics/isolation & purification', 'DNA Fingerprinting/methods', 'DNA, Fungal/genetics', 'Humans', 'Interspersed Repetitive Sequences', 'Molecular Epidemiology/methods', 'Molecular Typing/*methods', 'Mycological Typing Techniques/*methods']

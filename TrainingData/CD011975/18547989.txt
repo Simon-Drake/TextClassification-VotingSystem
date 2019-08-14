@@ -1,0 +1,3 @@
+Biochemical screenings in twin medically treated pregnancies: assessment of trisomy and prothrombotic risk.
+?
+['Adolescent', 'Adult', 'Biomarkers', 'Chorionic Gonadotropin, beta Subunit, Human/blood', '*Down Syndrome/blood/diagnosis/immunology', 'Female', 'Humans', 'Immunoglobulin G/immunology', 'Immunoglobulin M/immunology', 'Mass Screening/methods', 'Pregnancy', 'Pregnancy Complications/*drug therapy', '*Trisomy', '*Twins']

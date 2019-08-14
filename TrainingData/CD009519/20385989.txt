@@ -1,0 +1,3 @@
+Diffuse large B-cell lymphoma presenting as pancoast tumor.
+?
+['Antibodies, Monoclonal/administration & dosage', 'Antibodies, Monoclonal, Murine-Derived', 'Antineoplastic Combined Chemotherapy Protocols', 'Biopsy, Needle', 'Cyclophosphamide', 'Diagnosis, Differential', 'Doxorubicin', 'Female', 'Follow-Up Studies', 'Humans', 'Immunohistochemistry', 'Lymph Nodes/*pathology', 'Lymphoma, Large B-Cell, Diffuse/*diagnosis/*therapy', 'Magnetic Resonance Imaging/methods', 'Middle Aged', 'Pancoast Syndrome/*diagnosis', 'Positron-Emission Tomography/methods', 'Prednisolone', 'Radiotherapy, Adjuvant', 'Risk Assessment', 'Rituximab', 'Severity of Illness Index', 'Tomography, X-Ray Computed/methods', 'Treatment Outcome', 'Vincristine']

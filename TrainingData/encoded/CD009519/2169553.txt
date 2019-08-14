@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAged MeSHCarcinoma MeSHSmallCel MeSHCarcinoma MeSHSquamousCel MeSHDiagnosis MeSHDifferential MeSHFemale MeSHHumans MeSHLungDisease MeSHLungNeoplasm MeSHLymphaticMetastasis MeSHMale MeSHMediastinalNeoplasm MeSHMiddleAged MeSHThallium MeSHThalliumRadioisotopes MeSHTomography MeSHEmission-Computed MeSHSingle-Photon

@@ -1,0 +1,3 @@
+[Current status of 18F-FDG PET in predicting outcome of cancer therapy].
+?
+['Breast Neoplasms/diagnostic imaging', 'Carcinoma, Non-Small-Cell Lung/*diagnostic imaging/pathology/therapy', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/pathology/therapy', 'Lymphoma/diagnostic imaging', 'Neoplasm Recurrence, Local/diagnostic imaging', 'Neoplasm Staging', 'Neoplasm, Residual', '*Positron-Emission Tomography', 'Treatment Outcome']

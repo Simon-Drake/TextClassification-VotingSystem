@@ -1,0 +1,3 @@
+[Resection of the tracheal bifucation].
+?
+['Arteriovenous Anastomosis/diagnostic imaging/surgery', 'Atrophy/etiology', 'Blood Circulation', 'Bronchial Arteries', 'Bronchial Neoplasms/diagnostic imaging/*surgery', 'Bronchography', 'Carcinoma, Adenoid Cystic/diagnostic imaging/*surgery', 'Humans', 'Male', 'Methods', 'Middle Aged', 'Palliative Care', 'Postoperative Complications', 'Tomography', 'Trachea/*surgery']

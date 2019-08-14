@@ -1,0 +1,3 @@
+Pulmonary cryptococcosis mimicking solitary lung cancer in an immunocompetent patient.
+?
+["Agricultural Workers' Diseases/*diagnosis/drug therapy", 'Antifungal Agents/therapeutic use', 'Cryptococcosis/*diagnosis/drug therapy', 'Diagnosis, Differential', 'Dyspnea/microbiology', 'Humans', 'Immunocompetence', 'Itraconazole/therapeutic use', 'Lung Diseases, Fungal/*diagnosis/drug therapy', 'Lung Neoplasms/*diagnosis', 'Male', 'Middle Aged', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed']

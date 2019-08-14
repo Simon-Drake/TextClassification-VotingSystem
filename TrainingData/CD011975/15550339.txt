@@ -1,0 +1,3 @@
+Biochemical screening for congenital defects.
+This article discusses biochemical screening for congenital defects. Biochemical screening remains the standard for estimating the risk of aneuploidy in pregnancy. The combination of first and second trimester markers promises to further improve diagnostic accuracy for anomaly detection.
+['Abdominal Wall/abnormalities', 'Biomarkers/blood', 'Chorionic Gonadotropin/blood', 'Chromosomes, Human, Pair 18', 'Down Syndrome/*blood/diagnosis', 'Female', 'Humans', 'Inhibins/blood', 'Neural Tube Defects/blood', 'Pregnancy', 'Pregnancy Trimesters', 'Pregnancy-Associated Plasma Protein-A/analysis', '*Prenatal Diagnosis', 'Trisomy/*diagnosis']

@@ -1,0 +1,3 @@
+Potential early diagnosis of cancer with radioactive compounds.
+?
+['Bone Neoplasms/diagnosis', 'Brain Neoplasms/diagnosis', 'Carbon Isotopes', 'Cesium Isotopes', 'Diagnosis, Differential', 'Fluorine', 'Gallium', 'Gold Colloid, Radioactive', 'Humans', 'Indium', 'Iodine Radioisotopes', 'Kidney Neoplasms/diagnosis', 'Liver Neoplasms/diagnosis', 'Lung Neoplasms/diagnosis', 'Mercury Isotopes', 'Neoplasms/*diagnosis', 'Pancreatic Neoplasms/diagnosis', '*Radioisotopes', '*Radionuclide Imaging', 'Selenium', 'Strontium Isotopes', 'Technetium', 'Thyroid Neoplasms/diagnosis', 'Tomography', 'Xenon']

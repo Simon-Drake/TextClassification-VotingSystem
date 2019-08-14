@@ -1,0 +1,3 @@
+Serum screening for Down's syndrome. Counselling should emphasise possible outcomes of screening.
+?
+['Counseling', 'Down Syndrome/*diagnosis', 'Female', 'Fetal Diseases/*diagnosis', 'Humans', 'Pregnancy', '*Prenatal Diagnosis']

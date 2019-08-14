@@ -1,0 +1,3 @@
+Pure mucinous breast carcinoma with lung metastasis in a young male patient.
+?
+['Adenocarcinoma, Mucinous/diagnosis/*secondary/surgery', 'Adult', 'Biopsy', 'Breast Neoplasms, Male/diagnostic imaging/*pathology/surgery', 'Bronchoscopy', 'Diagnosis, Differential', 'Humans', 'Lung Neoplasms/diagnostic imaging/*secondary/surgery', 'Male', 'Mastectomy/methods', 'Pneumonectomy', 'Positron-Emission Tomography', 'Radiography']

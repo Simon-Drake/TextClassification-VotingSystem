@@ -1,0 +1,3 @@
+[Lung cancer--a technological challenge I. Diagnostics and staging].
+?
+['Diagnostic Imaging/*methods', 'Endosonography', 'Humans', 'Lung Neoplasms/*diagnosis/pathology/surgery', 'Neoplasm Staging', 'Positron-Emission Tomography', 'Thoracic Surgery, Video-Assisted', 'Tomography, Spiral Computed']

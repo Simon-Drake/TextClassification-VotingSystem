@@ -1,0 +1,3 @@
+[Problems of the bronchologic methods of examination in bronchial cancer and bronchial foreign body detection. (On the value of bronchography and the dependency of its information value on the procedures with practical indications)].
+?
+['Adult', '*Bronchi', 'Bronchial Neoplasms/*diagnostic imaging/surgery', '*Bronchography', 'Bronchoscopy', 'Carcinoma, Squamous Cell/*diagnostic imaging/surgery', 'Child', 'Diagnosis, Differential', 'Female', 'Foreign Bodies/*diagnostic imaging', 'Humans', 'Male', 'Methods', 'Middle Aged', 'Pneumonectomy', 'Tomography']

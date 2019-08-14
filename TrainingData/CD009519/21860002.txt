@@ -1,0 +1,3 @@
+Prediction of response to targeted therapies in lung cancer using dynamic imaging: still far from clinical implementation.
+?
+['Carcinoma, Non-Small-Cell Lung/*diagnosis', '*Dideoxynucleosides', 'Female', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnosis', 'Male', 'Positron-Emission Tomography/*methods', 'Quinazolines/*therapeutic use']

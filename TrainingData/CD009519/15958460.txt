@@ -1,0 +1,3 @@
+Lung cancer screening: panacea or pipe dream?
+?
+['Humans', 'Lung Neoplasms/*diagnostic imaging/*pathology', '*Mass Screening', 'Radiography, Thoracic', 'Randomized Controlled Trials as Topic', 'Sensitivity and Specificity', 'Sputum/cytology', 'Tomography, Spiral Computed']

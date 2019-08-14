@@ -1,0 +1,3 @@
+[Radiological aspects of pulmonary emphysema].
+?
+['Angiography', 'Asthma/complications', 'Bronchiectasis/complications', 'Bronchitis/complications', 'Bronchography', 'Cystic Fibrosis/complications', 'Humans', 'Lung Diseases/complications', 'Lung Neoplasms/complications', 'Pulmonary Atelectasis/complications', 'Pulmonary Emphysema/*diagnostic imaging/etiology', 'Pulmonary Fibrosis/complications', 'Radiography, Thoracic', 'Tomography']

@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHContrastMedia MeSHDiagnosis MeSHDifferential MeSHEndometriosis MeSHFemale MeSHHumans MeSHIothalamicAcid MeSHNeoplasms MeSHGermCellandEmbryonal MeSHOvarianNeoplasms MeSHRetrospectiveStudies MeSHSensitivityandSpecificity MeSHTomography MeSHX-RayComputed

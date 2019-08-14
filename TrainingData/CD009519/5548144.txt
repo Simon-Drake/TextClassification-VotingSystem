@@ -1,0 +1,3 @@
+[Intrapulmonary round images in brucellosis].
+?
+['Anti-Bacterial Agents/therapeutic use', 'Brucellosis/complications/*diagnostic imaging/drug therapy', 'Diagnosis, Differential', 'Humans', 'Liver Cirrhosis/*complications', 'Lung Diseases/*diagnostic imaging', 'Lung Neoplasms/diagnosis', 'Male', 'Middle Aged', 'Radiography', 'Solitary Pulmonary Nodule/*etiology', 'Tomography']

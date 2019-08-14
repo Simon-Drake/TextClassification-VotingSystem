@@ -1,0 +1,1 @@
+MeSHAlgorithms MeSHBiopsy MeSHColor MeSHDiagnosis MeSHDifferential MeSHHumans MeSHIatrogenicDisease MeSHMedicalHistoryTaking MeSHMelanocyte MeSHMouthDisease MeSHMouthMucos MeSHMouthNeoplasm MeSHPhysicalExamination MeSHPigmentationDisorder MeSHVascularDisease

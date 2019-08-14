@@ -1,0 +1,3 @@
+Low maternal serum alpha-fetoprotein at 10 weeks gestation and fetal Down's syndrome.
+?
+['Adult', 'Down Syndrome/*diagnosis', 'Female', 'Fetal Diseases/*diagnosis', 'Humans', 'Pregnancy', 'Pregnancy Trimester, First', 'Prenatal Diagnosis/*methods', 'alpha-Fetoproteins/*analysis']

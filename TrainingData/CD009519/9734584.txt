@@ -1,0 +1,3 @@
+Positron emission tomography in assessing response to neoadjuvant chemotherapy for non-small-cell lung cancer.
+?
+['Aged', 'Carcinoma, Non-Small-Cell Lung/diagnostic imaging/*drug therapy/surgery', 'Chemotherapy, Adjuvant', 'Combined Modality Therapy', 'Energy Metabolism/drug effects', 'Humans', 'Lung Neoplasms/diagnostic imaging/*drug therapy/surgery', 'Male', 'Middle Aged', 'Pneumonectomy', '*Tomography, Emission-Computed', 'Treatment Outcome']

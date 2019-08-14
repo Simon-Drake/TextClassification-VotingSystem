@@ -1,0 +1,1 @@
+MeSHColorectalNeoplasm MeSHFluorodeoxyglucoseF18 MeSHHeadandNeckNeoplasm MeSHHumans MeSHLungNeoplasm MeSHLymphom MeSHMelanom MeSHNeoplasm MeSHRadiopharmaceuticals MeSHTomography MeSHEmission-Compute

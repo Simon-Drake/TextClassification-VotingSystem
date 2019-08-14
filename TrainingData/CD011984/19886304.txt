@@ -1,0 +1,3 @@
+[Share with women. Prenatal tests for Down syndrome].
+?
+['Amniocentesis/adverse effects/*utilization', 'Chorionic Villi Sampling/adverse effects/*utilization', 'Down Syndrome/*diagnosis/genetics', 'Female', 'Humans', 'Pregnancy', '*Prenatal Diagnosis']

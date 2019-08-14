@@ -1,0 +1,3 @@
+QF-PCR for prenatal diagnosis of common aneuploides in women of advanced maternal age.
+?
+['*Aneuploidy', 'Female', 'Genetic Testing/methods', 'Humans', '*Maternal Age', 'Polymerase Chain Reaction/*methods', 'Pregnancy', '*Prenatal Diagnosis']

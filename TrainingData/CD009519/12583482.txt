@@ -1,0 +1,3 @@
+Virtual bronchoscopy in carcinoma of lung.
+A 55 years female presented with a malignant pleural effusion. Post-paracentesis, a lobular mass was seen which was biopsied after virtual bronchoscopy.
+['Adenocarcinoma/*diagnostic imaging', 'Bronchoscopy/*methods', 'Female', 'Humans', 'Image Processing, Computer-Assisted', '*Imaging, Three-Dimensional', 'Lung Neoplasms/*diagnostic imaging', 'Middle Aged', 'Tomography, Spiral Computed/*methods', 'User-Computer Interface']

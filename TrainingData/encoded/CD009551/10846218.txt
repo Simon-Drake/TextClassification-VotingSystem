@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAspergillusnidulan MeSHBaseSequence MeSHCoenzyme MeSHDNA MeSHFunga MeSHGenes MeSHFungal MeSHMutagenesis MeSHSite-Directed MeSHMutation MeSHNA MeSHNAD MeSHNitrateReductase(NAD(P)H) MeSHNitrateReductase MeSHNitricAci MeSHPhenotype MeSHSubstrateSpecificity

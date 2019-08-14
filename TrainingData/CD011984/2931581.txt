@@ -1,0 +1,3 @@
+Prenatal cytogenetic diagnosis.
+?
+['Australia', 'Down Syndrome/complications/*diagnosis', 'Female', 'Humans', 'Infant, Newborn', '*Maternal Age', 'Pregnancy', '*Prenatal Diagnosis']

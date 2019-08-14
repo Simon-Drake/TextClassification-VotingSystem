@@ -1,0 +1,3 @@
+[Clinical significance of decreased serum levels of AFP in the detection of fetal trisomy in screening examinations of pregnant women].
+?
+['Chromosomes, Human, Pair 13', 'Chromosomes, Human, Pair 18', 'Down Syndrome/diagnosis', 'Female', 'Fetal Diseases/diagnosis', 'Humans', 'Pregnancy', '*Prenatal Diagnosis', 'Retrospective Studies', '*Trisomy', 'alpha-Fetoproteins/*analysis']

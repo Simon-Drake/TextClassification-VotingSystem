@@ -1,0 +1,3 @@
+[Tuberculosis in an FDG PET-TC study in a patient with suspected tumour recurrence of a pulmonary neoplasm].
+?
+['Carcinoma, Squamous Cell/*diagnostic imaging/surgery', 'Diagnosis, Differential', 'Fluorine Radioisotopes', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/surgery', 'Male', 'Middle Aged', 'Neoplasm Recurrence, Local/*diagnostic imaging', '*Positron-Emission Tomography', 'Radiopharmaceuticals', '*Tomography, X-Ray Computed', 'Tuberculosis, Pulmonary/*diagnostic imaging']

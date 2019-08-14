@@ -1,0 +1,1 @@
+MeSHBiomarkers MeSHTumor MeSHCarcinoma MeSHEndometrioid MeSHEndometrialHyperplasia MeSHEndometrialNeoplasms MeSHEpidermalGrowthFactor MeSHFemale MeSHHumans MeSHImmunohistochemistry MeSHKi-67Antigen MeSHPrognosis MeSHReceptors MeSHEstrogen MeSHReceptors MeSHProgesterone

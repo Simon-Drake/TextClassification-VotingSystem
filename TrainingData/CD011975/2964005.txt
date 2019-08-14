@@ -1,0 +1,3 @@
+Maternal age and amniocentesis.
+?
+['*Amniocentesis/economics', 'Down Syndrome/diagnosis', 'Female', 'Humans', '*Maternal Age', 'Pregnancy', 'Risk Factors']

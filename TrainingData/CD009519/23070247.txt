@@ -1,0 +1,3 @@
+Positron emission tomography and circulating tumor cells to monitor a dramatic response to gefitinib.
+?
+['Adenocarcinoma/drug therapy/genetics/*secondary', 'Adult', 'Antineoplastic Agents/*therapeutic use', 'Humans', 'Lung Neoplasms/drug therapy/genetics/*pathology', 'Male', 'Mutation/genetics', 'Neoplastic Cells, Circulating/*pathology', '*Positron-Emission Tomography', 'Prognosis', 'Quinazolines/*therapeutic use', 'Receptor, Epidermal Growth Factor/antagonists & inhibitors/genetics']

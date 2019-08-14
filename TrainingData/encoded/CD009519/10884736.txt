@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHNon-Small-CellLun MeSHHeartAtri MeSHHeartNeoplasm MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPulmonaryVein MeSHTomography MeSHEmission-Computed MeSHTomography MeSHX-RayComputed MeSHVascularNeoplasm

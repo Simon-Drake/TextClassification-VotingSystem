@@ -1,0 +1,1 @@
+MeSHAlgorithms MeSHAnimals MeSHBiomarkers MeSHBrain MeSHBrainNeoplasms MeSHEndometriosis MeSHFemale MeSHHumans MeSHMesocricetus MeSHModels MeSHStatistical MeSHMultivariateAnalysis MeSHReproducibilityofResults MeSHSpectroscopy MeSHFourierTransformInfrared

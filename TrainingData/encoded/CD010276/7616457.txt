@@ -1,0 +1,1 @@
+MeSHClinicalCompetence MeSHDiagnosis MeSHOra MeSHHumans MeSHLeukoplakia MeSHOra MeSHObserverVariation MeSHPathology MeSHOra

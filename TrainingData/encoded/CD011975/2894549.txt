@@ -1,0 +1,1 @@
+MeSHAdult MeSHAmnioticFluid MeSHCells MeSHCultured MeSHChromosomeAberrations MeSHChromosomes MeSHHuman MeSHPair20 MeSHFemale MeSHFetalBlood MeSHFibroblasts MeSHHumans MeSHInfant MeSHNewborn MeSHKaryotyping MeSHMale MeSHMosaicism MeSHPregnancy MeSHSexChromosomeAberrations MeSHTranslocation MeSHGenetic MeSHTrisomy MeSHTrophoblasts MeSHUltrasonography

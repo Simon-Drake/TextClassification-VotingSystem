@@ -1,0 +1,3 @@
+First-trimester sonographic screening for Down syndrome.
+?
+['Down Syndrome/*diagnostic imaging', 'Female', 'Humans', 'Neck/diagnostic imaging/embryology', 'Pregnancy', 'Pregnancy Trimester, First', 'Reproducibility of Results', '*Ultrasonography, Prenatal']

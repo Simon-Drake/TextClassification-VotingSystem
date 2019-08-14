@@ -1,0 +1,1 @@
+MeSHBiomarkers MeSHCase-ControlStudies MeSHEndometriosis MeSHFemale MeSHHumans MeSHLikelihoodFunctions MeSHPolychlorinatedBiphenyls MeSHROCCurve MeSHSensitivityandSpecificity

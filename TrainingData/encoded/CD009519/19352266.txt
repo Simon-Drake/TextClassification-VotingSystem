@@ -1,0 +1,1 @@
+MeSHAdrenalGlandNeoplasm MeSHChild MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLiverNeoplasm MeSHLungNeoplasm MeSHMale MeSHNeoplasms MeSHGermCellandEmbryona MeSHPositron-EmissionTomography MeSHSarcom MeSHTomography MeSHX-RayComputed

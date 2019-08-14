@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdult MeSHAntineoplasticAgent MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMutatio MeSHNeoplasticCells MeSHCirculatin MeSHPositron-EmissionTomography MeSHPrognosis MeSHQuinazoline MeSHReceptor MeSHEpidermalGrowthFacto

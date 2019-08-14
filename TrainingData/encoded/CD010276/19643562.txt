@@ -1,0 +1,1 @@
+MeSHAdult MeSHBiopsy MeSHCarcinoma MeSHSquamousCel MeSHFemale MeSHHumans MeSHLeukoplakia MeSHOra MeSHMale MeSHMiddleAged MeSHMotivation MeSHMouthDisease MeSHMouthMucos MeSHMouthNeoplasm MeSHPrecancerousCondition MeSHSmokin MeSHSmokingCessatio MeSHSurveysandQuestionnaires MeSHToothDiscoloratio

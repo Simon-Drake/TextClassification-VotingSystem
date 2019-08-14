@@ -1,0 +1,3 @@
+Bronchopulmonary carcinoid tumor and related cervical vertebral metastasis with PET-positive and octreotide-negative scintigraphy.
+?
+['Aged', 'Bronchial Neoplasms/*diagnostic imaging', 'Carcinoid Tumor/*diagnostic imaging/*secondary', 'Cervical Vertebrae/*diagnostic imaging', 'False Negative Reactions', '*Fluorodeoxyglucose F18', 'Humans', 'Incidental Findings', 'Male', 'Octreotide/analogs & derivatives', 'Positron-Emission Tomography', 'Radiopharmaceuticals', 'Spinal Neoplasms/*diagnostic imaging/*secondary']

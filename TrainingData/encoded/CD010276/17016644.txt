@@ -1,0 +1,1 @@
+MeSHBiomarkers MeSHTumo MeSHCarcinoma MeSHSquamousCel MeSHCellCultureTechniques MeSHChemokineCXCL12 MeSHChemokines MeSHCX MeSHDown-Regulation MeSHEpitheliu MeSHHumans MeSHLymphaticMetastasis MeSHMesoder MeSHMouthNeoplasm MeSHPhosphatidylinositol3-Kinase MeSHProteinKinaseInhibitor MeSHProto-OncogeneProteinsc-ak MeSHReceptors MeSHCXCR MeSHUp-Regulation MeSHVimenti

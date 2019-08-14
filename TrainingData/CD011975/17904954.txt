@@ -1,0 +1,3 @@
+Nasal bone in screening for trisomy 21: defining hypoplasia.
+?
+['Down Syndrome/*diagnostic imaging', 'Female', 'Humans', 'Nasal Bone/*diagnostic imaging', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy Trimester, Second', '*Ultrasonography, Prenatal']

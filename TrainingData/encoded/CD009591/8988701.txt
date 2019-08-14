@@ -1,0 +1,1 @@
+MeSHBiomarkers MeSHTumor MeSHCA-125Antigen MeSHCysts MeSHEndometriosis MeSHFemale MeSHHumans MeSHLeiomyomatosis MeSHPelvicInflammatoryDisease MeSHPredictiveValueofTests MeSHSensitivityandSpecificity MeSHTrypsinInhibitor MeSHKazalPancreatic MeSHUterineNeoplasms

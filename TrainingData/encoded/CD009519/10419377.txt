@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHBiopsy MeSHBronchoscopy MeSHCoug MeSHDiseaseProgression MeSHFemale MeSHForcedExpiratoryVolume MeSHHumans MeSHLungNeoplasm MeSHMiddleAged MeSHNeoplasmStaging MeSHSmokin MeSHTimeFactors MeSHTomography MeSHEmission-Computed MeSHTomography MeSHX-RayComputed MeSHVentilation-PerfusionRatio

@@ -1,0 +1,3 @@
+[Role of positron emission tomography in geriatric medicine].
+?
+['Aged', 'Aged, 80 and over', 'Alzheimer Disease/diagnostic imaging', 'Brain/*diagnostic imaging', 'Dementia/*diagnostic imaging', 'Female', '*Geriatrics', 'Humans', 'Liver Neoplasms/diagnostic imaging', 'Lung Neoplasms/diagnostic imaging', 'Male', '*Positron-Emission Tomography']

@@ -1,0 +1,3 @@
+Lung metastases from rectal adenocarcinoma: about the best diagnostic strategy.
+A case of suspected lung metastases from colorectal adenocarcinoma is discussed. A diagnostic approach for follow-up of resected patients is proposed. It includes available diagnostic imaging for the characterization of metastatic pulmonary nodules together with methods for the differential diagnosis between primary malignant nodules and benign nodules.
+['Adenocarcinoma/*pathology', 'Aged', 'Algorithms', 'Contrast Media', 'Female', 'Humans', 'Lung Neoplasms/*diagnosis/*secondary', 'Positron-Emission Tomography', 'Rectal Neoplasms/*pathology', 'Tomography, X-Ray Computed']

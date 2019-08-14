@@ -1,0 +1,3 @@
+Pulmonary light and heavy chain deposition disease: a pitfall for lung cancer evaluation with F-18 FDG PET/CT.
+?
+['Diagnosis, Differential', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', '*Positron-Emission Tomography', '*Tomography, X-Ray Computed']

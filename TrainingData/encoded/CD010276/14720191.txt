@@ -1,0 +1,1 @@
+MeSHAlcoholDrinking MeSHBiopsy MeSHCarcinom MeSHCarcinomainSit MeSHFemale MeSHHumans MeSHHyperplasi MeSHInflammatio MeSHLeukoplakia MeSHOra MeSHMale MeSHMiddleAged MeSHMouthMucos MeSHMouthNeoplasm MeSHObserverVariation MeSHPathology MeSHOra MeSHPrecancerousCondition MeSHRiskFactors MeSHSmoking

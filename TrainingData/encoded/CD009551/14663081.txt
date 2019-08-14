@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAspergillusochraceu MeSHBaseSequence MeSHDNA MeSHFunga MeSHGenes MeSHFungal MeSHMolecularSequenceData MeSHMultienzymeComplexe MeSHMutation MeSHOchratoxin MeSHPolymeraseChainReactio MeSHSequenceHomology MeSHAminoAcid

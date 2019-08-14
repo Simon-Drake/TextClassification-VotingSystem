@@ -1,0 +1,1 @@
+MeSHBreastNeoplasm MeSHCarcinom MeSHColorectalNeoplasm MeSHFemale MeSHHeadandNeckNeoplasm MeSHHumans MeSHLungNeoplasm MeSHLymphaticMetastasi MeSHMale MeSHMelanom MeSHSensitivityandSpecificity MeSHTomography MeSHEmission-Computed

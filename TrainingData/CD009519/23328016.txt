@@ -1,0 +1,3 @@
+[A man with persisting dyspnea].
+A 67-year-old male was diagnosed with pulmonary embolism and treated with anticoagulants. Half a year later CT of the chest showed growth of the embolism and that pleural fluid and pleural noduli had appeared. A 18FDG-PET-CT showed uptake in these abnormalities and in several bones. Bone biopsy showed a leiomyosarcoma. The patient was diagnosed with metastasized pulmonary artery sarcoma.
+['Aged', 'Humans', 'Leiomyosarcoma/diagnosis/*pathology/surgery', 'Male', 'Pleural Neoplasms/diagnosis/*secondary/surgery', 'Prognosis', 'Pulmonary Artery/*pathology', 'Vascular Neoplasms/diagnosis/*pathology/surgery']

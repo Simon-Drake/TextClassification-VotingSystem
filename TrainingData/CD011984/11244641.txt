@@ -1,0 +1,3 @@
+[Controversy: systemic amniocentesis for women 38 years and more? Is it still lawful to recommend amniocentesis with the sole criterion being maternal age of 38 years or more?].
+?
+['Adult', '*Amniocentesis/adverse effects', '*Chromosome Aberrations', 'Down Syndrome/diagnosis', 'Female', 'Humans', '*Maternal Age', 'Middle Aged', 'Neck/diagnostic imaging/embryology', 'Obstetric Labor, Premature/etiology', 'Pregnancy', '*Pregnancy, High-Risk', 'Risk Factors', 'Ultrasonography']

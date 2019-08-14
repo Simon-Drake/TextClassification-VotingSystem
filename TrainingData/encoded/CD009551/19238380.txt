@@ -1,0 +1,1 @@
+MeSHBaseSequence MeSHFungalProtein MeSHFung MeSHGeneExpression MeSHGenes MeSHReporter MeSHMembraneProtein MeSHMolecularSequenceData MeSHPromoterRegions MeSHGenetic MeSHSequenceDeletion

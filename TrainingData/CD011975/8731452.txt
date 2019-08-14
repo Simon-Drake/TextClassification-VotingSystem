@@ -1,0 +1,3 @@
+Dilated subarachnoid cisterna ambiens: a potential sonographic sign predicting cerebellar hypoplasia.
+?
+['Adult', 'Brain/*abnormalities', 'Dilatation, Pathologic', 'Down Syndrome/*diagnostic imaging', 'Fatal Outcome', 'Female', 'Fetal Diseases/*diagnostic imaging', 'Humans', 'Pregnancy', 'Subarachnoid Space/*diagnostic imaging/pathology', '*Ultrasonography, Prenatal']

@@ -1,0 +1,3 @@
+Maternal serum screening for Down syndrome before 15 weeks.
+?
+['Chorionic Gonadotropin/blood', 'Chorionic Gonadotropin, beta Subunit, Human', 'Down Syndrome/*diagnosis', 'Estriol/*blood', 'Female', 'Humans', 'Peptide Fragments/blood', 'Pregnancy', 'Pregnancy Trimester, First', 'Prenatal Diagnosis/*methods', 'alpha-Fetoproteins/*analysis']

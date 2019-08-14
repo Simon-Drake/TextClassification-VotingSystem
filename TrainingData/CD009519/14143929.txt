@@ -1,0 +1,3 @@
+[COEXISTENCE OF AN EPIDERMOID CANCER ON A PULMONARY ABSCESS RESIDUAL CAVITY AND AN INTRACAVITARY ASPERGILLOMA].
+?
+['*Aspergillosis', '*Bronchography', '*Carcinoma, Squamous Cell', 'Humans', '*Lung Abscess', '*Lung Diseases, Fungal', '*Lung Neoplasms', 'Neoplasms/*diagnosis', '*Pathology', '*Pneumonectomy', '*Radiography, Thoracic', '*Tomography', '*Tomography, X-Ray Computed']

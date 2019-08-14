@@ -1,0 +1,3 @@
+Synchronous bilateral lung carcinoid tumors: a rare entity?
+?
+['Carcinoid Tumor/diagnostic imaging/*surgery', 'Humans', 'Lung Neoplasms/diagnostic imaging/*surgery', 'Lymph Node Excision', 'Neoplasms, Multiple Primary/diagnostic imaging/*surgery', 'Tomography, Emission-Computed']

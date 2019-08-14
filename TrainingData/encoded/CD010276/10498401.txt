@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSquamousCel MeSHCyclinD MeSHCytochromeP-450EnzymeSyste MeSHFemale MeSHGenotype MeSHGerman MeSHGlutathioneTransferas MeSHHumans MeSHLaryngealNeoplasm MeSHMale MeSHMiddleAged MeSHMultivariateAnalysis MeSHOropharyngealNeoplasm MeSHPolymeraseChainReaction

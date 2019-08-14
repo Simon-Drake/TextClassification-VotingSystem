@@ -1,0 +1,3 @@
+Case of the season: primary pulmonary collision tumor consisting of carcinoid and high-grade spindle-cell sarcoma.
+?
+['Carcinoid Tumor/*diagnostic imaging/pathology/surgery', 'Diagnosis, Differential', 'Humans', 'Lung Neoplasms/*diagnostic imaging/pathology/surgery', 'Lymph Node Excision', 'Magnetic Resonance Imaging', 'Male', 'Middle Aged', 'Neoplasm Metastasis', 'Neoplasm Staging', 'Positron-Emission Tomography', 'Sarcoma/*diagnostic imaging/pathology/surgery', 'Thoracic Surgery, Video-Assisted', 'Tomography, X-Ray Computed']

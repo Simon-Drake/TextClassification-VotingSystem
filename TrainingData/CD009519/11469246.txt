@@ -1,0 +1,3 @@
+Radicalism in treatment of lung cancer.
+?
+['Bias (Epidemiology)', 'Cost-Benefit Analysis', '*Decision Trees', 'Humans', 'Lung Neoplasms/*diagnosis/*surgery', 'Neoplasm Staging/economics/*methods/standards', '*Patient Selection', 'Reproducibility of Results', 'Sensitivity and Specificity', 'Thoracotomy/economics/*statistics & numerical data', 'Tomography, Emission-Computed/economics/*methods/standards', 'Unnecessary Procedures/economics/*utilization']

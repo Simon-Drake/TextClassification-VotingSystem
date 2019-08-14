@@ -1,0 +1,1 @@
+MeSHDiagnosticTechniques MeSHRespiratorySyste MeSHHumans MeSHLungDisease MeSHLungNeoplasm MeSHMagneticResonanceImagin MeSHPulmonaryEmbolis MeSHTomography MeSHEmission-Compute MeSHTomography MeSHX-RayCompute

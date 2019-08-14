@@ -1,0 +1,3 @@
+Prenatal diagnosis of low-level mosaic trisomy 7 by amniocentesis.
+?
+['Adult', 'Amniocentesis', 'Chromosomes, Human, Pair 7', 'Female', 'Humans', '*Mosaicism', 'Pregnancy', '*Prenatal Diagnosis', 'Trisomy/*diagnosis']

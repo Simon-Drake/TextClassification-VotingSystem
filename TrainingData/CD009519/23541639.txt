@@ -1,0 +1,3 @@
+Time in radiation oncology - keep it short!
+?
+['Carcinoma, Non-Small-Cell Lung/*therapy', '*Chemoradiotherapy', 'Esophageal Neoplasms/*radiotherapy', 'Female', '*Fluorodeoxyglucose F18', 'Humans', 'Male', 'Multimodal Imaging/*methods', 'Positron-Emission Tomography/*methods', '*Radiopharmaceuticals', '*Radiotherapy Planning, Computer-Assisted', '*Time-to-Treatment', '*Tomography, X-Ray Computed']

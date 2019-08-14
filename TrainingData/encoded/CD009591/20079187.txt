@@ -1,0 +1,1 @@
+MeSHAdult MeSHBiomarkers MeSHTumor MeSHCarcinoma MeSHEndometrioid MeSHEndometrialHyperplasia MeSHEndometrialNeoplasms MeSHFemale MeSHGlucoseTransporterType1 MeSHHumans MeSHImmunohistochemistry MeSHMiddleAged MeSHPTENPhosphohydrolase MeSHbetaCatenin

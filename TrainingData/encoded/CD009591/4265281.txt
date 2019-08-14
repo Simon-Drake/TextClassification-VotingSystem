@@ -1,0 +1,1 @@
+MeSHAbdominalMuscles MeSHAbdominalNeoplasms MeSHAdult MeSHBiopsy MeSHCicatrix MeSHDiagnosis MeSHDifferential MeSHEndometriosis MeSHFemale MeSHHumans MeSHIntestinalDiseases MeSHIntestinalNeoplasms MeSHLungDiseases MeSHLungNeoplasms MeSHMiddleAged MeSHSigmoidNeoplasms MeSHUmbilicus

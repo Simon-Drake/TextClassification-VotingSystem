@@ -1,0 +1,1 @@
+MeSHBronchoscopy MeSHCarcinom MeSHDiagnosis MeSHDifferential MeSHFollow-UpStudies MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPneumonectom MeSHPositron-EmissionTomography MeSHRobotic MeSHTomography MeSHX-RayComputed

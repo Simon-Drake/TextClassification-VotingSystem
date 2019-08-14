@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdenom MeSHAsthm MeSHBronchialNeoplasm MeSHBronchitis MeSHBronchography MeSHBronchoscopy MeSHCarcinom MeSHCarcinoma MeSHSquamousCel MeSHHamartom MeSHHemoptysi MeSHHumans MeSHLipom MeSHMesotheliom MeSHPneumoni MeSHSputu MeSHTomography

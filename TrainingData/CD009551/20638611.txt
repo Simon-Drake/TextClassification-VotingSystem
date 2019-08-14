@@ -1,0 +1,3 @@
+Aspergillus DNA contamination in blood collection tubes.
+Fungal polymerase chain reaction (PCR)-based diagnostic methods are at risk for contamination. Sample collection containers were investigated for fungal DNA contamination using real-time PCR assays. Up to 18% of blood collection tubes were contaminated with fungal DNA, probably Aspergillus fumigatus. Lower proportions of contamination in other vessels were observed.
+['Aspergillus/*genetics', 'Blood/*microbiology', 'DNA, Fungal/genetics/*isolation & purification', 'Humans', 'Polymerase Chain Reaction', '*Specimen Handling']

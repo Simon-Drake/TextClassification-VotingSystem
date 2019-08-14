@@ -1,0 +1,3 @@
+[Prenatal diagnosis of chromosomal abnormalities (author's transl)].
+?
+['Adult', 'Amniotic Fluid/cytology', 'Cells, Cultured', 'Chromosome Aberrations', 'Down Syndrome/genetics', 'Female', 'Heterozygote Detection', 'Humans', 'Infant, Newborn', 'Male', 'Maternal Age', 'Pregnancy', 'Prenatal Diagnosis/*methods']

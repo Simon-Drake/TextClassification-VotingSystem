@@ -1,0 +1,1 @@
+MeSHAzureStains MeSHBiopsy MeSHColon MeSHSigmoid MeSHColonicNeoplasms MeSHColoringAgents MeSHDiagnosis MeSHDifferential MeSHEndometriosis MeSHEpithelialCells MeSHFemale MeSHHumans MeSHMethyleneBlue MeSHMiddleAged MeSHXanthenes

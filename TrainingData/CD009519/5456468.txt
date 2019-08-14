@@ -1,0 +1,3 @@
+[Problems in the diagnosis and therapy of benign lung tumors].
+?
+['Adenoma/surgery', 'Adolescent', 'Adult', 'Aged', 'Child', 'Child, Preschool', 'Female', 'Fibroma/surgery', 'Hamartoma/surgery', 'Humans', 'Infant', 'Infant, Newborn', 'Lung Neoplasms/diagnostic imaging/*surgery', 'Male', 'Middle Aged', 'Paraganglioma/surgery', 'Radiography', 'Tomography']

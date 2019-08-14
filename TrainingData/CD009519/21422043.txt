@@ -1,0 +1,3 @@
+Imaging in lung cancer: recent advances in PET-CT and screening.
+?
+['Early Detection of Cancer/methods', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Positron-Emission Tomography', 'Sensitivity and Specificity', 'Tomography, X-Ray Computed']

@@ -1,0 +1,3 @@
+Unsuspected endobronchial tumor detected by PET/CT: a patient with 3 synchronous squamous cell cancers.
+?
+['Bronchial Neoplasms/*diagnosis/diagnostic imaging', 'Humans', 'Male', 'Middle Aged', 'Neoplasms, Multiple Primary/*diagnosis/diagnostic imaging', 'Neoplasms, Squamous Cell/*diagnosis/diagnostic imaging', '*Positron-Emission Tomography', '*Tomography, X-Ray Computed']

@@ -1,0 +1,3 @@
+Interstitial deletion of chromosome 7q and the lack of association with Down syndrome screening markers.
+?
+['Abnormalities, Multiple/*diagnostic imaging/genetics', 'Adult', 'Biomarkers', '*Chromosome Deletion', 'Chromosome Disorders/*diagnosis/diagnostic imaging', '*Chromosomes, Human, Pair 7', 'Down Syndrome/*diagnosis/genetics', 'Female', 'Genetic Testing/methods', 'Humans', 'Karyotyping', 'Pregnancy', 'Pregnancy Trimester, First', 'Prenatal Diagnosis/methods', 'Ultrasonography']

@@ -1,0 +1,3 @@
+Extent of correlation between first and second trimester markers for Down's syndrome screening.
+?
+['Biomarkers/blood', 'Chorionic Gonadotropin, beta Subunit, Human/blood', 'Estradiol/blood', 'Female', 'Humans', '*Mass Screening', 'Pregnancy', '*Pregnancy Trimester, First', '*Pregnancy Trimester, Second', 'Pregnancy-Associated Plasma Protein-A/analysis', '*Prenatal Diagnosis', 'Reproducibility of Results', 'alpha-Fetoproteins/analysis']

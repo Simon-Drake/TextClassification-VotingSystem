@@ -1,0 +1,3 @@
+Comment on Cho et al.: Usefulness of FDG PET/CT in determining benign from malignant endobronchial obstruction.
+?
+['Female', 'Fluorodeoxyglucose F18/*pharmacology', 'Humans', 'Lung Neoplasms/*diagnosis', 'Male', 'Positron-Emission Tomography/*methods', 'Pulmonary Atelectasis/*diagnosis', 'Tomography, X-Ray Computed/*methods']

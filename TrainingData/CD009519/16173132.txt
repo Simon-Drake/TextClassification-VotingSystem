@@ -1,0 +1,3 @@
+18F-FDG PET of clear cell (sugar) tumour of the lung.
+?
+['Adolescent', 'Female', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/metabolism/pathology', 'Positron-Emission Tomography', 'Radiopharmaceuticals']

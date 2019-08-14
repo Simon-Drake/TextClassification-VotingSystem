@@ -1,0 +1,3 @@
+[Differential diagnosis of destructive forms of cancer and tuberculosis of the lungs].
+?
+['Adult', 'Aged', 'Carcinoma/*diagnosis/diagnostic imaging', 'Diagnosis, Differential', 'Female', 'Humans', 'Lung Neoplasms/*diagnosis/diagnostic imaging', 'Male', 'Middle Aged', 'Radiography', 'Tomography', 'Tuberculosis, Pulmonary/*diagnosis/diagnostic imaging']

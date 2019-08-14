@@ -1,0 +1,3 @@
+Time for total shift to first-trimester screening for Down's syndrome.
+?
+['Down Syndrome/*diagnosis', 'Female', 'Humans', 'Pregnancy', 'Pregnancy Trimester, First', 'Prenatal Diagnosis/*methods', 'alpha-Fetoproteins/isolation & purification']

@@ -1,0 +1,1 @@
+MeSHAntitubercularAgent MeSHBacteriologicalTechnique MeSHDose-ResponseRelationship MeSHDrug MeSHDrugResistance MeSHBacterial MeSHGenotype MeSHIsoniazi MeSHMycobacteriumtuberculosi MeSHRifampi

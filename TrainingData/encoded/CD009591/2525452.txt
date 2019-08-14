@@ -1,0 +1,1 @@
+MeSHAdult MeSHCarcinoma MeSHEndometriosis MeSHFemale MeSHHumans MeSHLeiomyoma MeSHLymphoma MeSHMagneticResonanceImaging MeSHOvarianCysts MeSHOvarianNeoplasms MeSHPolycysticOvarySyndrome MeSHTomography MeSHX-RayComputed MeSHUterineCervicalNeoplasms MeSHUterineNeoplasms

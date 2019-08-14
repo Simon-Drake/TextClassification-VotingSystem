@@ -1,0 +1,3 @@
+Low maternal serum alpha-fetoprotein and Down syndrome.
+?
+['Down Syndrome/*diagnosis', 'Female', 'Humans', 'Infant, Newborn', 'Pregnancy', 'Pregnancy Complications, Hematologic/*blood', '*Prenatal Diagnosis', 'alpha-Fetoproteins/*deficiency']

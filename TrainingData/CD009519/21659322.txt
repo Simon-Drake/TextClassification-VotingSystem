@@ -1,0 +1,3 @@
+The standardize uptake value: light and shade of positron emission tomography.
+?
+['Carcinoma, Non-Small-Cell Lung/*diagnostic imaging/secondary', 'Equipment Design', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/pathology', 'Lymph Nodes/*diagnostic imaging/pathology', 'Lymphatic Metastasis', 'Neoplasm Staging', 'Observer Variation', 'Positron-Emission Tomography/instrumentation/*standards', 'Predictive Value of Tests', 'Quality of Health Care/*standards', '*Radiopharmaceuticals', 'Reproducibility of Results']

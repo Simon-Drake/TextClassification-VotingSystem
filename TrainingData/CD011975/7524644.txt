@@ -1,0 +1,3 @@
+Doubts using family history, age, alpha-fetoprotein and total human chorionic gonadotrophin in screening for Down's syndrome.
+?
+['Adult', 'Age Factors', 'Body Weight', 'Chorionic Gonadotropin/analysis', 'Down Syndrome/blood/*prevention & control', 'Family', 'Female', 'Humans', 'Prenatal Diagnosis/methods/standards', 'Risk Factors', 'Sensitivity and Specificity', 'alpha-Fetoproteins/analysis']

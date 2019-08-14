@@ -1,0 +1,1 @@
+MeSHAbdominalNeoplasms MeSHAbdominalWall MeSHAdult MeSHDiagnosis MeSHDifferential MeSHDiseaseProgression MeSHEndometriosis MeSHFemale MeSHHumans MeSHMagneticResonanceImaging MeSHSoftTissueNeoplasms

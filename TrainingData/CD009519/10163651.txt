@@ -1,0 +1,3 @@
+PET begins to prove itself in cancer care.
+?
+['Colorectal Neoplasms/*diagnostic imaging/economics', 'Cost-Benefit Analysis', 'Humans', 'Lung Neoplasms/*diagnostic imaging/economics', 'Myocardial Ischemia/*diagnostic imaging/economics', '*Tomography, Emission-Computed/economics/utilization']

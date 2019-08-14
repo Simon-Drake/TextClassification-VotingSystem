@@ -1,0 +1,3 @@
+[Characteristics and peculiarities of pulmonary sarcoidosis in the radiographic picture].
+?
+['Diagnosis, Differential', 'Humans', 'Lung Diseases/*diagnostic imaging', 'Lung Neoplasms/diagnostic imaging', 'Lymphoma/diagnostic imaging', 'Pleural Diseases/complications', 'Pulmonary Atelectasis/complications', 'Radiography', 'Sarcoidosis/complications/*diagnostic imaging', 'Tomography', 'Tuberculosis, Pulmonary/complications']

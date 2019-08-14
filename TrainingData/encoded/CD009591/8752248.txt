@@ -1,0 +1,1 @@
+MeSHAdult MeSHBiomarkers MeSHTumor MeSHCA-125Antigen MeSHCA-19-9Antigen MeSHDiagnosis MeSHDifferential MeSHEndometriosis MeSHFemale MeSHHumans MeSHLaparoscopy MeSHLaparotomy MeSHOvarianDiseases MeSHOvary MeSHPredictiveValueofTests MeSHProspectiveStudies MeSHSensitivityandSpecificity MeSHUltrasonography

@@ -1,0 +1,3 @@
+God, like the Devil, is in the details.
+?
+['Artificial Intelligence', 'Guideline Adherence', 'Humans', 'Image Processing, Computer-Assisted/standards', 'Lung Neoplasms/*diagnostic imaging', 'Patient Participation', '*Program Development/standards', 'Quality Control', 'Radiography, Thoracic/standards', '*Radiology Information Systems/standards', 'Technology Assessment, Biomedical', 'Tomography, Spiral Computed/standards', 'User-Computer Interface']

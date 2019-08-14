@@ -1,0 +1,3 @@
+[Prenatal cytogenetic diagnosis of a 69,XXX/46,XX fetus].
+?
+['Abnormalities, Multiple/genetics', '*Aneuploidy', 'Female', 'Humans', 'Karyotyping', 'Middle Aged', 'Polymorphism, Genetic', 'Pregnancy', '*Prenatal Diagnosis', 'Sex Chromosome Aberrations/*diagnosis']

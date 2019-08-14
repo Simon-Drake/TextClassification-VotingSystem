@@ -1,0 +1,1 @@
+MeSHAspergillus MeSHCarbohydrateSequence MeSHCellWall MeSHEurotiales MeSHMannans MeSHMolecularSequenceData MeSHNuclearMagneticResonance MeSHBiomolecular MeSHSpectrometry MeSHMass MeSHMatrix-AssistedLaserDesorption-Ionization

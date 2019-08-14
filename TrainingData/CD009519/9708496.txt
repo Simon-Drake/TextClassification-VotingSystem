@@ -1,0 +1,3 @@
+Nuclear medicine: the road to smart medicine and surgery.
+?
+['Brain Diseases/diagnostic imaging', 'Colorectal Neoplasms/diagnostic imaging', 'Fluorine Radioisotopes', 'Fluorodeoxyglucose F18', 'Head and Neck Neoplasms/diagnostic imaging', 'Heart Diseases/diagnostic imaging', 'Humans', 'Lung Neoplasms/diagnostic imaging', 'Nuclear Medicine/*trends', 'Radionuclide Imaging', 'Radiopharmaceuticals', 'Stomach Neoplasms/diagnostic imaging', 'Thyroid Diseases/diagnostic imaging']

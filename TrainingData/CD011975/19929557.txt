@@ -1,0 +1,3 @@
+Processing effects and storage conditions on A Disintegrin And Metalloprotease (ADAM12s), a maternal serum marker for adverse pregnancy outcome.
+?
+['ADAM Proteins/*blood', 'ADAM12 Protein', 'Biomarkers/*blood', 'Down Syndrome/diagnosis', 'Female', 'Humans', 'Membrane Proteins/*blood', 'Pregnancy', '*Pregnancy Outcome', 'Specimen Handling']

@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHCarcinom MeSHCarcinoma MeSHSquamousCel MeSHHumans MeSHLungDisease MeSHLungNeoplasm MeSHLymphNode MeSHLymphaticMetastasis MeSHSensitivityandSpecificity MeSHThalliumRadioisotope MeSHTomography MeSHEmission-Computed MeSHTomography MeSHX-RayComputed

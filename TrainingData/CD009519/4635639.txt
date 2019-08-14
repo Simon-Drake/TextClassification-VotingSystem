@@ -1,0 +1,3 @@
+[Possibilities and limits in the radiologic diagnosis of pathological processes in the median pulmonary lobe].
+?
+['Adult', 'Bronchial Diseases/diagnostic imaging', 'Bronchial Neoplasms/diagnostic imaging', 'Bronchography', 'Diagnosis, Differential', 'Female', 'Humans', 'Lung Diseases/*diagnostic imaging', 'Lung Neoplasms/diagnostic imaging', 'Male', 'Middle Aged', 'Tomography']

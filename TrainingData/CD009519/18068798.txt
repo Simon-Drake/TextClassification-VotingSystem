@@ -1,0 +1,3 @@
+Re: 'PET-CT in non-small cell lung cancer staging-promises and problems'.
+?
+['Carcinoma, Non-Small-Cell Lung/*diagnosis', 'Humans', 'Lung Neoplasms/*diagnosis', 'Neoplasm Staging', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed']

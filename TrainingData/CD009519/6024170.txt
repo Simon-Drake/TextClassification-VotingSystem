@@ -1,0 +1,3 @@
+Case records of the Massachusetts General Hospital. Weekly clinicopathological exercises. Case 21-1967.
+?
+['*Adenocarcinoma', 'Female', 'Humans', 'Immunoelectrophoresis', '*Lung Neoplasms', 'Middle Aged', '*Multiple Myeloma', 'Radiography, Thoracic', 'Tomography']

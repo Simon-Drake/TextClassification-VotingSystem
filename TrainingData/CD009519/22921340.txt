@@ -1,0 +1,3 @@
+[Fever and persistent cough in a 65-year-old patient].
+?
+['Aged', 'Cough/*complications/diagnostic imaging/etiology', 'Fever/*complications/diagnostic imaging/etiology', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*complications/diagnostic imaging', 'Lymphoma, Large B-Cell, Diffuse/*complications/diagnostic imaging', 'Male', 'Positron-Emission Tomography', 'Vascular Neoplasms/*complications/diagnostic imaging']

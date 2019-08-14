@@ -1,0 +1,3 @@
+[Diagnosis and surgeon's tactics in "round" pulmonary formations].
+?
+['Adult', 'Angiography', 'Bronchography', 'Endoscopy', 'Female', 'Humans', 'Lung/*surgery', 'Lung Diseases/*diagnostic imaging', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', 'Tomography']

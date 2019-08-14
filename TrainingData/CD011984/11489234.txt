@@ -1,0 +1,3 @@
+Re: Trisomy 21: 91% detection rate using second-trimester ultrasound markers.
+?
+['Down Syndrome/*diagnostic imaging', 'Female', 'Humans', 'Likelihood Functions', 'Predictive Value of Tests', 'Pregnancy', '*Ultrasonography, Prenatal']

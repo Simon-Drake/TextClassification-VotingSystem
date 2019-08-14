@@ -1,0 +1,3 @@
+Key developments in respiratory medicine.
+?
+['Anti-Inflammatory Agents/therapeutic use', 'Forced Expiratory Volume/drug effects', 'Home Care Services, Hospital-Based', 'Humans', 'Hypertension, Pulmonary/*drug therapy/etiology', 'Interferon-gamma/therapeutic use', 'Lung Neoplasms/*diagnosis', 'Pulmonary Disease, Chronic Obstructive/*drug therapy', 'Pulmonary Fibrosis/*drug therapy', 'Recombinant Proteins', 'Smoking Cessation', 'Steroids', 'Tomography, Emission-Computed', 'Tomography, X-Ray Computed', 'Vasodilator Agents/therapeutic use']

@@ -1,0 +1,3 @@
+[The problem of cicatricial lung carcinoma].
+?
+['Adenocarcinoma, Bronchiolo-Alveolar/diagnostic imaging/*etiology/pathology', 'Adult', 'Aged', 'Carcinoma/diagnostic imaging/*etiology/pathology', 'Cell Transformation, Neoplastic', 'Cicatrix/*complications/diagnostic imaging', 'Female', 'Humans', 'Lung Neoplasms/diagnostic imaging/*etiology/pathology', 'Male', 'Middle Aged', 'Pneumonectomy', 'Radiography', 'Retrospective Studies', 'Sex Factors', 'Tomography', 'Tuberculosis, Pulmonary/complications']

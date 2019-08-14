@@ -1,0 +1,3 @@
+[Clinical importance of direct azygography].
+?
+['Aged', 'Azygos Vein/*diagnostic imaging', 'Bronchial Neoplasms/diagnostic imaging', 'Esophageal Neoplasms/diagnostic imaging', 'Female', 'Humans', 'Kidney Neoplasms/diagnostic imaging', 'Lung Neoplasms/diagnostic imaging', 'Lymphatic Metastasis/diagnostic imaging', 'Male', 'Methods', 'Middle Aged', 'Phlebography', 'Stomach Neoplasms/diagnostic imaging', 'Technology, Radiologic', 'Tomography']

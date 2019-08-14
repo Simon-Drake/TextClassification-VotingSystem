@@ -1,0 +1,3 @@
+[Diagnosis of lung cancer with positron emission tomography (PET)].
+?
+['Diagnosis, Differential', 'Health Care Costs', 'Humans', 'Lung Neoplasms/*diagnostic imaging/economics/pathology', 'Neoplasm Staging', 'Prognosis', 'Sensitivity and Specificity', '*Tomography, Emission-Computed/economics']

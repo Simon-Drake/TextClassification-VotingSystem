@@ -1,0 +1,3 @@
+Prenatal exclusion of UPD from cytogenetic slides: a simple method.
+?
+['*Aneuploidy', 'Cytogenetics/*methods', 'Female', 'Humans', 'Polymerase Chain Reaction', 'Pregnancy', '*Prenatal Diagnosis']

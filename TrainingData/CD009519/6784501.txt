@@ -1,0 +1,3 @@
+Full lung linear and pluridirectional tomography: a preliminary evaluation of nodule detection.
+?
+['Evaluation Studies as Topic', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Radiography', 'Retrospective Studies', 'Tomography/*methods']

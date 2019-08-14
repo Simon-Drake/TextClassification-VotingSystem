@@ -1,0 +1,1 @@
+MeSHDiagnosis MeSHDifferential MeSHDiagnosticImaging MeSHHumans MeSHJointDisease MeSHLigaments MeSHArticula MeSHOrthopedicProcedures MeSHPhysicalExamination MeSHTriangularFibrocartilag MeSHWristInjurie MeSHWristJoin

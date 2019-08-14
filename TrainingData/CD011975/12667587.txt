@@ -1,0 +1,3 @@
+Accuracy of transvaginal sonography for diagnosis of complete atrioventricular septal defect in early pregnancy.
+?
+['Adult', 'Autopsy', 'Down Syndrome/diagnosis', 'False Positive Reactions', 'Female', 'Fetus/pathology', 'Heart Septal Defects, Atrial/*diagnostic imaging/pathology', 'Heart Septal Defects, Ventricular/*diagnostic imaging/pathology', 'Humans', 'Maternal Welfare', 'Pregnancy', 'Pregnancy Complications, Cardiovascular/*diagnostic imaging/pathology', 'Pregnancy Trimester, First', 'Pregnancy Trimester, Second', '*Ultrasonography, Prenatal', 'Vagina/*diagnostic imaging']

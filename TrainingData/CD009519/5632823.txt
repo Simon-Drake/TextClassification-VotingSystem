@@ -1,0 +1,3 @@
+[Radiologic aspects of the 1st stages of bronchogenic carcinoma].
+?
+['Adult', 'Aged', 'Bronchography', 'Bronchoscopy', 'Carcinoma, Bronchogenic/*diagnostic imaging', 'Female', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', 'Tomography']

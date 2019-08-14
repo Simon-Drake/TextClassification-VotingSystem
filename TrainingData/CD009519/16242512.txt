@@ -1,0 +1,3 @@
+Relearning the lessons of the past: are we making progress?
+?
+['Carcinoma, Non-Small-Cell Lung/*diagnostic imaging/pathology', 'Humans', 'Lung Neoplasms/*diagnostic imaging/pathology', 'Mediastinoscopy', '*Positron-Emission Tomography', '*Tomography, X-Ray Computed']

@@ -1,0 +1,3 @@
+[Why are some trisomy 21 pregnancies carried to term?].
+?
+['Abortion, Induced', 'Adult', 'Chorionic Gonadotropin/blood', 'Chromosome Aberrations/blood/*diagnosis', 'Chromosome Disorders', 'Down Syndrome/blood/*diagnosis', 'Ethics, Medical', 'Female', 'Humans', 'Infant, Newborn', 'Informed Consent', 'Pregnancy', 'Prenatal Diagnosis']

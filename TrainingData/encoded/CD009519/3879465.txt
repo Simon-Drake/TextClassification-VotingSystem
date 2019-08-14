@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHBronchogeni MeSHGalliumRadioisotopes MeSHHumans MeSHLungDisease MeSHLungNeoplasm MeSHPneumoni MeSHPulmonaryFibrosi MeSHSarcoidosi MeSHTomography MeSHEmission-Computed

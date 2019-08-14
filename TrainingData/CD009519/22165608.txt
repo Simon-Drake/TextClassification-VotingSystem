@@ -1,0 +1,3 @@
+[More cases discovered, but mortality not reduced. What is the value of CT screening in bronchial carcinoma?].
+?
+['Carcinoma, Bronchogenic/*diagnostic imaging/*mortality', 'Early Diagnosis', 'Humans', 'Lung Neoplasms/*diagnostic imaging/*mortality', 'Male', '*Mass Screening', 'Smoking/adverse effects', 'Survival Analysis', '*Tomography, Spiral Computed']

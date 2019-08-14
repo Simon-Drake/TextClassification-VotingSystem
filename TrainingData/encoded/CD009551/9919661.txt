@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAscomycot MeSHBaseSequence MeSHBlotting MeSHNorthern MeSHBlotting MeSHSouthern MeSHChitinSynthas MeSHDNA MeSHFunga MeSHGenes MeSHFungal MeSHIntrons MeSHMolecularSequenceData MeSHMyosin MeSHOryz MeSHPlantDisease MeSHPolymeraseChainReactio MeSHRestrictionMapping MeSHSequenceAnalysis MeSHDNA

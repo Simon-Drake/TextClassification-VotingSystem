@@ -1,0 +1,3 @@
+Assessment of fetal nuchal translucency test for Down's syndrome.
+?
+['Down Syndrome/*diagnostic imaging', 'Female', 'Humans', 'Neck/diagnostic imaging/embryology', 'Pregnancy', 'Sensitivity and Specificity', '*Ultrasonography, Prenatal']

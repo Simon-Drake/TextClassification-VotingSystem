@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHClassification MeSHCytodiagnosis MeSHHumans MeSHMouthNeoplasms MeSHNeoplasm MeSHPathology MeSHSpecimenHandling

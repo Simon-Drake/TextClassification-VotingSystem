@@ -1,0 +1,3 @@
+Is there a definitive answer to the question of involved-field radiotherapy for inoperable non-small-cell lung cancer?
+?
+['Carcinoma, Non-Small-Cell Lung/drug therapy/pathology/*radiotherapy', 'Chemotherapy, Adjuvant', 'Humans', 'Lung Neoplasms/drug therapy/pathology/*radiotherapy', 'Lymph Nodes/pathology/radiation effects', 'Lymphatic Metastasis', 'Neoplasm Staging', '*Patient Selection', 'Positron-Emission Tomography', 'Radiotherapy Dosage', '*Radiotherapy, Conformal', 'Treatment Outcome']

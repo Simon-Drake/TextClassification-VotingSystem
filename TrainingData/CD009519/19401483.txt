@@ -1,0 +1,3 @@
+Change in smoking status after low-dose spiral chest CT screening for lung cancer: opportunity for smoking intervention.
+?
+['Humans', 'Lung Neoplasms/*diagnostic imaging/prevention & control', 'Mass Screening', 'Smoking/*prevention & control', 'Tomography, Spiral Computed/methods']

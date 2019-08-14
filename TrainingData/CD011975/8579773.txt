@@ -1,0 +1,3 @@
+Maternal age and gestational age-specific risk for chromosomal defects.
+This study provides estimates of risks for a wide range of chromosomal defects taking into account maternal age as well as the gestation at assessment. The estimates make it possible to counsel patients presenting at different stages of pregnancy. At the same time, they offer the possibility of evaluating the efficacy of biochemical and ultrasonographic markers in identifying fetuses with chromosomal defects.
+['Adult', '*Chromosome Aberrations/etiology', '*Chromosome Disorders', 'Female', '*Gestational Age', 'Humans', '*Maternal Age', 'Pregnancy', '*Pregnancy, High-Risk', 'Prenatal Diagnosis', 'Risk Assessment']

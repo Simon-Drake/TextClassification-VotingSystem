@@ -1,0 +1,3 @@
+The glucoamylase-encoding gene (glaB) is expressed in solid-state culture with a low water content.
+Solid-state culture encourages high-level enzyme secretion by Aspergillus oryzae. Using the real-time quantitative reverse transcriptase-polymerase chain reaction, we confirmed that expression of the glucoamylase-encoding gene in A. oryzae cultured in solid-state culture depends on the water content of the culture.
+['Aspergillus oryzae/enzymology/genetics', '*Culture Media', 'Gene Expression/*physiology', 'Glucan 1,4-alpha-Glucosidase/biosynthesis/*genetics', '*Water']

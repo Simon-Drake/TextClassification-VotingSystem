@@ -1,0 +1,3 @@
+Usefulness of SPECT in evaluating osteosarcoma metastases to the lung.
+The differentiation of osteosarcoma metastases to the lung vs the ribs with bone scanning agents is not always clear. Single photon emission computed tomography is useful in such differentiation.
+['Adolescent', 'Bone Neoplasms/diagnostic imaging/*secondary', 'Diagnosis, Differential', 'Female', 'Humans', 'Lung Neoplasms/diagnostic imaging/*secondary', '*Osteosarcoma/diagnostic imaging', '*Ribs/diagnostic imaging', '*Tomography, Emission-Computed']

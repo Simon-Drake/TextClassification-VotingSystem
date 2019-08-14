@@ -1,0 +1,3 @@
+RADIOLOGY AND THE PRACTITIONER. IX. THE CHEST. II.
+?
+['*Angiocardiography', '*Bronchial Neoplasms', '*Bronchography', '*Cardiac Catheterization', '*Family Practice', '*General Practice', '*Heart Diseases', 'Humans', '*Lung Neoplasms', '*Neoplasm Metastasis', 'Neoplasms/*diagnosis', '*Radiography, Thoracic', '*Tomography']

@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHLymphaticMetastasis MeSHMale MeSHMiddleAged MeSHNeoplasmInvasiveness MeSHPredictiveValueofTests MeSHRadiopharmaceuticals MeSHTomography MeSHEmission-Computed

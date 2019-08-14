@@ -1,0 +1,1 @@
+MeSHAbdominalWall MeSHAdult MeSHArtifacts MeSHDiagnosis MeSHDifferential MeSHEndometriosis MeSHFemale MeSHHumans MeSHImageEnhancement MeSHImageProcessing MeSHComputer-Assisted MeSHMagneticResonanceImaging MeSHSensitivityandSpecificity MeSHTomography MeSHX-RayComputed

@@ -1,0 +1,1 @@
+MeSHAcupuncturePoints MeSHAcupunctureTherapy MeSHAdult MeSHClinicalProtocols MeSHEndometriosis MeSHFemale MeSHFocusGroups MeSHHumans MeSHMiddleAged MeSHPainMeasurement MeSHPelvicPain MeSHPilotProjects MeSHRandomizedControlledTrialsasTopic MeSHTreatmentOutcome MeSH"WomensHealth"

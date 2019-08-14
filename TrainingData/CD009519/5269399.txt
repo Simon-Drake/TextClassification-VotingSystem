@@ -1,0 +1,3 @@
+[Double carcinoma of the main bronchus with infiltrating growing carcinoid of the small intestine].
+?
+['Adenoma/*complications/surgery', 'Autopsy', 'Bronchi/surgery', 'Bronchial Neoplasms/*complications/surgery', 'Bronchoscopy', 'Carcinoid Tumor/*complications', 'Carcinoma, Basosquamous/surgery', 'Carcinoma, Squamous Cell/complications', 'Female', 'Hemorrhage/mortality', 'Humans', 'Intestinal Neoplasms/*complications', '*Intestine, Small', 'Middle Aged', 'Neoplasms, Multiple Primary', 'Postoperative Complications', 'Tomography']

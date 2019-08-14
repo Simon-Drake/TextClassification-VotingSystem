@@ -1,0 +1,3 @@
+[Paternalism and prenatal diagnosis].
+?
+['Down Syndrome/diagnosis', 'Female', 'Humans', 'Nuchal Translucency Measurement/ethics', '*Paternalism', 'Pregnancy', 'Prenatal Diagnosis/*ethics']

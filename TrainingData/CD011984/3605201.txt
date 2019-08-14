@@ -1,0 +1,3 @@
+Trisomy 20 mosaicism in amniotic fluid culture.
+?
+['Amniotic Fluid/*cytology', '*Chromosomes, Human, Pair 20', 'Female', 'Humans', 'Infant, Newborn', 'Male', '*Mosaicism', 'Phenotype', 'Pregnancy', 'Prenatal Diagnosis', '*Trisomy']

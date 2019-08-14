@@ -1,0 +1,3 @@
+[Bronchioloalveolar carcinoma as potencial cause of false negative with PET-FDG].
+?
+['Adenocarcinoma, Bronchiolo-Alveolar/*diagnostic imaging', 'Adenocarcinoma, Mucinous/*diagnostic imaging', 'Carcinoma, Transitional Cell/pathology/secondary', 'Diagnosis, Differential', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', 'Neoplasms, Second Primary/*diagnostic imaging', '*Positron-Emission Tomography', '*Radiopharmaceuticals', 'Urinary Bladder Neoplasms/pathology']

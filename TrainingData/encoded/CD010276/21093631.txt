@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSquamousCel MeSHCytodiagnosis MeSHEarlyDiagnosis MeSHHumans MeSHMouthNeoplasm MeSHPrecancerousCondition MeSHSpectrumAnalysis MeSHTomography MeSHOpticalCoherence

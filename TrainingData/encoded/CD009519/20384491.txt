@@ -1,0 +1,1 @@
+MeSHAntithyroidAgent MeSHBoneNeoplasm MeSHCarcinoma MeSHPapillary MeSHFollicula MeSHFemale MeSHHumans MeSHHyperthyroidis MeSHIodineRadioisotope MeSHLungNeoplasm MeSHMiddleAged MeSHPositron-EmissionTomography MeSHThyroidFunctionTests MeSHThyroidNeoplasm MeSHThyrotoxicosi

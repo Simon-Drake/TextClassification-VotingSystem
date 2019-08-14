@@ -1,0 +1,3 @@
+What's new in fetal DNA testing.
+?
+['Aneuploidy', 'Cytogenetic Analysis/*methods', 'DNA/*analysis', 'Female', 'Humans', 'Pregnancy', 'Prenatal Diagnosis/*methods', 'Rh-Hr Blood-Group System', 'Sex Determination Analysis']

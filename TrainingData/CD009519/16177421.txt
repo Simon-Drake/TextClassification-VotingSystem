@@ -1,0 +1,3 @@
+Percutaneous lung biopsy in a patient with a cavitating lung mass: indications, technique, and complications.
+?
+['Aged', '*Biopsy, Needle', 'Humans', 'Lung Neoplasms/diagnostic imaging/*pathology', 'Male', 'Radiography, Interventional', 'Tomography, Emission-Computed', 'Tomography, X-Ray Computed']

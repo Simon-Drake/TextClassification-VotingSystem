@@ -1,0 +1,3 @@
+AXIAL TRANSVERSE TOMOGRAPHY.
+?
+['*Bronchial Neoplasms', 'Humans', '*Radiography, Thoracic', '*Technology, Radiologic', '*Tomography', '*Tomography, X-Ray Computed', '*Tongue Neoplasms', '*Urinary Bladder Neoplasms']

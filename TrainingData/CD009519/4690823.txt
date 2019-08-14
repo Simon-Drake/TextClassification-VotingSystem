@@ -1,0 +1,3 @@
+Multiple circumscribed pulmonary hematomas masquerading as metastatic carcinoma.
+?
+['Adult', 'Diagnosis, Differential', 'Hematoma/*diagnosis/diagnostic imaging/etiology', 'Humans', 'Lung Diseases/*diagnosis/diagnostic imaging/etiology', 'Lung Neoplasms/*diagnosis', 'Male', 'Neoplasm Metastasis', 'Radiography', 'Thoracic Injuries/complications', 'Tomography']

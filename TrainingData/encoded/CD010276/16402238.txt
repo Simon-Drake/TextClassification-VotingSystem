@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHFine-Needle MeSHBoneNeoplasm MeSHCarcinoma MeSHRenalCel MeSHCombinedModalityTherapy MeSHDiagnosis MeSHDifferential MeSHDiseaseProgression MeSHFemale MeSHHumans MeSHKidne MeSHKidneyNeoplasm MeSHMaxill MeSHMaxillaryNeoplasm MeSHMiddleAged MeSHPelvicNeoplasm

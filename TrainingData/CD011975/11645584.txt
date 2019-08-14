@@ -1,0 +1,3 @@
+Indiana clergy: a survey of their human genetics/bioethics educational needs.
+?
+['Abortion, Eugenic', '*Attitude', 'Bioethical Issues', 'Bioethics', 'Biology', 'Catholicism', 'Christianity', '*Clergy', 'DNA, Recombinant', 'Data Collection', 'Down Syndrome', '*Education', 'Faculty', '*Genetic Counseling', 'Genetic Diseases, Inborn', '*Genetic Engineering', 'Genetic Research', 'Genetic Testing', '*Genetics', 'Humans', 'Indiana', 'Mentally Disabled Persons', '*Pastoral Care', 'Prenatal Diagnosis', 'Prevalence', 'Professional Competence', 'Protestantism', 'Reproduction', 'Reproductive Techniques, Assisted', 'Risk', 'Schools', 'Social Values', 'Statistics as Topic', 'Sterilization, Reproductive', 'Wrongful Life']

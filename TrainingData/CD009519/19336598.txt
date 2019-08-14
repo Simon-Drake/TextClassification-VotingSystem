@@ -1,0 +1,3 @@
+No lung cancer at resection of PET positive lesions: an audit of the lung cancer multidisciplinary team.
+?
+['Adult', 'Aged', 'Aged, 80 and over', 'Bronchoscopy', 'Contrast Media', 'Female', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/pathology/surgery', 'Male', 'Middle Aged', 'Neoplasm Staging', 'Patient Care Team', 'Radiopharmaceuticals', 'Retrospective Studies', 'Sensitivity and Specificity', '*Tomography, Emission-Computed', 'Tomography, X-Ray Computed']

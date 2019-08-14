@@ -1,0 +1,3 @@
+[Mediastinoscopy].
+?
+['Adolescent', 'Adult', 'Aged', 'Biopsy', 'Bronchial Neoplasms/diagnosis', 'Bronchoscopy', 'Carcinoma/*diagnosis', 'Carcinoma, Squamous Cell/*diagnosis', '*Endoscopy/adverse effects', 'Female', 'Granuloma/*diagnosis', 'Hodgkin Disease/*diagnosis', 'Humans', 'Lymphadenitis/*diagnosis', 'Lymphoma, Large B-Cell, Diffuse/*diagnosis', 'Male', 'Mediastinal Diseases/*diagnosis/*diagnostic imaging', 'Mediastinal Neoplasms/*diagnosis', '*Mediastinum', 'Methods', 'Middle Aged', 'Neoplasm Metastasis/diagnosis', 'Pneumoconiosis/*diagnosis', 'Radiography', 'Sarcoidosis/*diagnosis', 'Tomography']

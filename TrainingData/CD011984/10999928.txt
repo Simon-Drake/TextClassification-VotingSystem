@@ -1,0 +1,3 @@
+Screening for Down's syndrome. A large independent trial would be useful.
+?
+['Adult', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Predictive Value of Tests', 'Pregnancy', 'Prenatal Diagnosis/*methods', 'Randomized Controlled Trials as Topic', 'Ultrasonography, Prenatal']

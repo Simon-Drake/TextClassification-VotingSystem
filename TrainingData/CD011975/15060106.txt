@@ -1,0 +1,3 @@
+Detection of cell free placental DNA in maternal plasma: direct evidence from three cases of confined placental mosaicism.
+?
+['Alleles', 'DNA/*blood', 'Female', 'Humans', 'Male', '*Maternal-Fetal Exchange', '*Mosaicism', '*Placenta', 'Placenta Diseases/diagnosis', 'Pregnancy']

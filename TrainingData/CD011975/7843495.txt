@@ -1,0 +1,3 @@
+Down syndrome screening. ACOG Committee Opinion: Committee on Obstetric Practice. Number 141--August 1994 (replaces No. 76, December 1989).
+?
+['Adult', '*Chromosomes, Human, Pair 18', 'Down Syndrome/*prevention & control', 'Female', '*Genetic Testing', 'Humans', 'Male', '*Mass Screening', 'Maternal Age', 'Pregnancy', 'Pregnancy, High-Risk', '*Prenatal Diagnosis', 'Risk Factors', '*Trisomy']

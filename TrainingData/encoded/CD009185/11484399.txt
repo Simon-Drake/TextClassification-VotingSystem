@@ -1,0 +1,1 @@
+MeSHAdult MeSHBloodSedimentation MeSHC-ReactiveProtei MeSHCalcitoni MeSHCalcitoninGene-RelatedPeptide MeSHCommunity-AcquiredInfection MeSHFemale MeSHFibrinoge MeSHHumans MeSHInflammation MeSHLeukocyteCount MeSHMale MeSHMiddleAged MeSHPneumonia MeSHBacteria MeSHProteinPrecursor MeSHPyelonephriti MeSHReferenceValues

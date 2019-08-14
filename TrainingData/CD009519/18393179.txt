@@ -1,0 +1,3 @@
+[Lung neoplasms--ultrasonic endoscopy as a first diagnostic tool].
+?
+['Aged', 'Aged, 80 and over', 'Biopsy, Fine-Needle/*methods', 'Carcinoma, Non-Small-Cell Lung/*diagnosis/mortality/pathology', 'Carcinoma, Small Cell/*diagnosis/mortality/pathology', '*Endosonography', 'Female', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnosis/mortality/pathology', 'Lymphatic Metastasis/diagnosis', 'Male', 'Middle Aged', 'Neoplasm Metastasis/diagnosis', 'Positron-Emission Tomography', 'Proportional Hazards Models', 'Prospective Studies', 'Radiopharmaceuticals', 'Survival Analysis', 'Tomography, X-Ray Computed']

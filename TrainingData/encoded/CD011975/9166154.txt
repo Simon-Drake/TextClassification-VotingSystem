@@ -1,0 +1,1 @@
+MeSHAneuploidy MeSHChorionicVilliSampling MeSHChromosomes MeSHHuman MeSHPair18 MeSHCrown-RumpLength MeSHDownSyndrome MeSHFemale MeSHFetalGrowthRetardation MeSHGestationalAge MeSHHumans MeSHLogisticModels MeSHPregnancy MeSHTrisomy

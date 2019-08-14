@@ -1,0 +1,3 @@
+Ipilimumab in cancer patients: the issue of early metabolic response.
+?
+['Aged, 80 and over', 'Antibodies, Monoclonal/*adverse effects/*therapeutic use', 'Antineoplastic Agents/*therapeutic use', 'Bone Neoplasms/drug therapy/secondary', 'Dermatitis/etiology', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/drug therapy/secondary', 'Male', 'Melanoma/*drug therapy/pathology', 'Positron-Emission Tomography/methods', 'Radiopharmaceuticals', 'Treatment Outcome']

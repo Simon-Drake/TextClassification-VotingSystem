@@ -1,0 +1,1 @@
+MeSHAdult MeSHAlleles MeSHCase-ControlStudies MeSHEndometriosis MeSHFemale MeSHGeneFrequency MeSHGenotype MeSHHLA-DPAntigens MeSHHLA-DPbeta-Chains MeSHHLA-DQAntigens MeSHHLA-DQbeta-Chains MeSHHistocompatibilityAntigensClassII MeSHHumans MeSHPolymeraseChainReaction MeSHPolymorphism MeSHRestrictionFragmentLength

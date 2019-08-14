@@ -1,0 +1,1 @@
+MeSHAlgorithms MeSHCapsuleEndoscop MeSHDiagnosis MeSHDifferential MeSHEsophagealandGastricVarice MeSHEsophagoscop MeSHHumans MeSHOddsRatio MeSHPredictiveValueofTests MeSHSensitivityandSpecificity

@@ -1,0 +1,1 @@
+MeSHAbdominalPain MeSHBiopsy MeSHNeedle MeSHCysts MeSHDiaphragm MeSHEndometriosis MeSHFemale MeSHFollow-UpStudies MeSHHumans MeSHHysterectomy MeSHImmunohistochemistry MeSHLaparotomy MeSHLeiomyoma MeSHLiverDiseases MeSHMiddleAged MeSHRiskAssessment MeSHTimeFactors MeSHTomography MeSHX-RayComputed MeSHUltrasonography MeSHDoppler MeSHUterineNeoplasms

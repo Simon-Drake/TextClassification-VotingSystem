@@ -1,0 +1,3 @@
+Re: Devic et al. (Int J Radiat Oncol Biol Phys 2010;78:1555-1562).
+?
+['*Carcinoma, Non-Small-Cell Lung', '*Carcinoma, Squamous Cell', 'Humans', '*Lung Neoplasms', 'Positron-Emission Tomography/*methods', 'Tomography, X-Ray Computed/*methods', '*Tumor Burden']

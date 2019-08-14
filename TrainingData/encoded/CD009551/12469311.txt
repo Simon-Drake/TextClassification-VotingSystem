@@ -1,0 +1,1 @@
+MeSHAspergillu MeSHBaseSequence MeSHColor MeSHDNA MeSHFunga MeSHDNA MeSHIntergeni MeSHEvolution MeSHMolecular MeSHGenes MeSHFunga MeSHGenes MeSHrRN MeSHMolecularSequenceData MeSHPhylogeny MeSHPolymeraseChainReaction MeSHRNA MeSHRibosomal MeSH5.8 MeSHSequenceAlignment MeSHSequenceAnalysis MeSHDNA MeSHUbiquinon

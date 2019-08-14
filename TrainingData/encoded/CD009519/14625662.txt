@@ -1,0 +1,1 @@
+MeSHBoneNeoplasm MeSHDiagnosis MeSHDifferential MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHMale MeSHProstaticNeoplasm MeSHRadiopharmaceuticals MeSHTechnetiumTc99mMedronate MeSHTomography MeSHEmission-Compute

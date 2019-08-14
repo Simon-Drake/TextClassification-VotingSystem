@@ -1,0 +1,3 @@
+[Prenatal genetic diagnosis and Down's syndrome].
+?
+['Adult', 'Down Syndrome/*diagnosis', 'Female', 'Humans', '*Karyotyping', 'Maternal Age', 'Middle Aged', 'Pregnancy', 'Pregnancy, High-Risk', '*Prenatal Diagnosis']

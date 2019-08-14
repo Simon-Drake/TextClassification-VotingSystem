@@ -1,0 +1,1 @@
+MeSHAntineoplasticAgent MeSHCarcinoma MeSHNon-Small-CellLun MeSHGeneDeletion MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHMutation MeSHPleuralEffusion MeSHMalignan MeSHPolymeraseChainReaction MeSHPositron-EmissionTomography MeSHQuinazoline MeSHReceptor MeSHEpidermalGrowthFacto MeSHTreatmentOutcome

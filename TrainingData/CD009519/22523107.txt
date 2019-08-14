@@ -1,0 +1,3 @@
+Recent progress in positron emission tomography concerning diagnosis and treatment of lung cancer.
+?
+['Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/pathology/*therapy', 'Lymph Nodes/diagnostic imaging', 'Lymphatic Metastasis', 'Multimodal Imaging/*trends', 'Neoplasm Staging/trends', '*Positron-Emission Tomography', 'Predictive Value of Tests', 'Prognosis', 'Radiopharmaceuticals', '*Tomography, X-Ray Computed']

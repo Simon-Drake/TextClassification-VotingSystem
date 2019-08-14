@@ -1,0 +1,3 @@
+True integrity for the maternal-fetal medicine physician.
+?
+['*Abortion, Eugenic', '*Abortion, Induced', '*Attitude', '*Beginning of Human Life', 'Child', '*Complicity', '*Congenital, Hereditary, and Neonatal Diseases and Abnormalities', '*Conscience', 'Counseling', 'Decision Making', 'Disclosure', 'Down Syndrome', 'Education, Medical', '*Ethics', 'Humans', 'Information Dissemination', 'Information Services', '*Life', '*Morals', 'Obstetrics', 'Philosophy', '*Physicians', 'Pregnancy', 'Pregnant Women', '*Prenatal Diagnosis', 'Religion', 'Secularism', 'Social Values', '*Value of Life']

@@ -1,0 +1,1 @@
+MeSHCapsuleEndoscop MeSHCost-BenefitAnalysis MeSHDecisionSupportTechniques MeSHEndoscopy MeSHDigestiveSyste MeSHEsophagealandGastricVarice MeSHHumans MeSHLiverCirrhosi MeSHMarkovChains MeSHMassScreenin MeSHMiddleAged

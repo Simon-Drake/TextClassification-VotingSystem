@@ -1,0 +1,3 @@
+Prenatally diagnosed mosaic trisomy 17: a case report with two-year follow-up.
+?
+['Adult', 'Chromosomes, Human, Pair 17/*genetics', 'Female', 'Humans', '*Mosaicism', 'Pregnancy', '*Prenatal Diagnosis', 'Trisomy/*diagnosis']

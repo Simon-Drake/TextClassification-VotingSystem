@@ -1,0 +1,3 @@
+Down syndrome and femur length.
+?
+['Down Syndrome/*diagnosis/pathology', 'Female', 'Femur/*pathology', 'Fetal Diseases/diagnosis', 'Fetus/anatomy & histology', 'Humans', 'Pregnancy', '*Prenatal Diagnosis', '*Ultrasonography']

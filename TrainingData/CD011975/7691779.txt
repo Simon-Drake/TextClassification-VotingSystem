@@ -1,0 +1,3 @@
+Prevention of Down syndrome: the Jerusalem experience.
+?
+['Adolescent', 'Adult', 'Amniocentesis', 'Chorionic Gonadotropin/*blood', 'Chorionic Villi Sampling', 'Down Syndrome/blood/diagnosis/epidemiology/*prevention & control', 'Female', 'Genetic Counseling', 'Humans', 'Immunoradiometric Assay', 'Israel/epidemiology', 'Mass Screening/*methods', 'Maternal Age', 'Pregnancy', 'Pregnancy Trimester, Second', 'Prenatal Diagnosis/*methods', 'Program Evaluation', 'Risk Factors', 'alpha-Fetoproteins/*analysis']

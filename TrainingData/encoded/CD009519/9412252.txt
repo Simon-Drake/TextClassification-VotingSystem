@@ -1,0 +1,1 @@
+MeSHBrainNeoplasm MeSHBreastNeoplasm MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHMale MeSHNeoplasm MeSHRadiopharmaceuticals MeSHTomography MeSHEmission-Computed

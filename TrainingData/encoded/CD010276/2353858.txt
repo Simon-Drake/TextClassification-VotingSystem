@@ -1,0 +1,1 @@
+MeSHAdult MeSHCandidiasis MeSHOra MeSHFemale MeSHHIVInfection MeSHHumans MeSHLeukocyteCount MeSHLeukoplakia MeSHOra MeSHLymphocytes MeSHMale MeSHMiddleAged MeSHMouthDisease MeSHMouthMucos MeSHMouthNeoplasm MeSHPeriodontalDisease MeSHSarcoma MeSHKapos

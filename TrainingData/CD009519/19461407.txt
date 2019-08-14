@@ -1,0 +1,3 @@
+EBUS-TBNA for the mediastinal staging of non-small cell lung cancer.
+?
+['Biopsy, Fine-Needle', 'Carcinoma, Non-Small-Cell Lung/*pathology', '*Endosonography', 'Humans', 'Lung Neoplasms/*pathology', 'Mediastinal Neoplasms/*pathology/*secondary', 'Neoplasm Staging', 'Positron-Emission Tomography']

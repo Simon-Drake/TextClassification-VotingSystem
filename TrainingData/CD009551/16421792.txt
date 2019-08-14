@@ -1,0 +1,3 @@
+Polymerase chain reaction for diagnosing invasive aspergillosis: getting closer but still a ways to go.
+?
+['Aspergillosis/*diagnosis', 'Aspergillus/*isolation & purification', 'Blood/*microbiology', 'Enzyme-Linked Immunosorbent Assay', 'Humans', 'Mannans/analysis', 'Mycology/methods', '*Polymerase Chain Reaction', 'Sensitivity and Specificity', 'Tomography, X-Ray Computed', 'beta-Glucans/analysis']

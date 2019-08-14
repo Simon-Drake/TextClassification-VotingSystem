@@ -1,0 +1,1 @@
+MeSHBronchialNeoplasm MeSHHumans MeSHLungNeoplasm MeSHLymphaticMetastasi MeSHMediastinalNeoplasm MeSHNeoplasmMetastasi MeSHRadiography MeSHThoracic MeSHTomography

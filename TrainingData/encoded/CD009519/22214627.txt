@@ -1,0 +1,1 @@
+MeSHDiagnosis MeSHDifferential MeSHFatalOutcome MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLeiomyosarcom MeSHMale MeSHMiddleAged MeSHNeoplasm MeSHResidua MeSHPositron-EmissionTomography MeSHPulmonaryArter MeSHPulmonaryEmbolis MeSHRadiopharmaceuticals MeSHVascularNeoplasm

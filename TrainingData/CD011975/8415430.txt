@@ -1,0 +1,3 @@
+Bilateral pleural effusion at 8.5 weeks' gestation with Down syndrome and Turner syndrome.
+?
+['Adult', 'Down Syndrome/*diagnostic imaging/genetics', 'Female', 'Gestational Age', 'Humans', 'Pleural Effusion/*diagnostic imaging/genetics', 'Pregnancy', 'Prenatal Diagnosis/*methods', 'Turner Syndrome/*diagnostic imaging/genetics', 'Ultrasonography']

@@ -1,0 +1,3 @@
+Osteoblastic healing response: discordant PET/CT findings.
+?
+['Aged', 'Bone Neoplasms/*diagnostic imaging/drug therapy/pathology/*secondary', 'Carcinoma, Non-Small-Cell Lung/pathology', 'Erlotinib Hydrochloride', 'Fluorodeoxyglucose F18/metabolism', 'Humans', 'Lung Neoplasms/pathology', 'Male', '*Multimodal Imaging', 'Osteoblasts/*diagnostic imaging/*drug effects/metabolism/pathology', '*Positron-Emission Tomography', 'Quinazolines/pharmacology/therapeutic use', '*Tomography, X-Ray Computed', 'Treatment Outcome']

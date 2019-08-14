@@ -1,0 +1,3 @@
+Birth prevalence of Down's syndrome in England and Wales 1990 to 1997.
+?
+['Abortion, Induced/statistics & numerical data', 'Down Syndrome/*epidemiology', 'England/epidemiology', 'Female', 'Humans', 'Infant, Newborn', 'Maternal Age', 'Pregnancy', 'Prenatal Diagnosis', 'Prevalence', 'Wales/epidemiology']

@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHChemotherapy MeSHAdjuvant MeSHCombinedModalityTherapy MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHMiddleAged MeSHNeoplasms MeSHSecondPrimar MeSHPancreaticNeoplasm MeSHPancreaticoduodenectomy MeSHPneumonectomy MeSHTreatmentOutcome

@@ -1,0 +1,1 @@
+MeSHAntineoplasticAgent MeSHColorectalNeoplasm MeSHHumans MeSHLungNeoplasm MeSHNeoplasmRecurrence MeSHLoca MeSHPatientSelection MeSHPneumonectom MeSHSurvivalAnalysis MeSHThoracicSurgery MeSHVideo-Assisted MeSHThoracotomy

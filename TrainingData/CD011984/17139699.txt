@@ -1,0 +1,3 @@
+Second-trimester maternal serum screening for Down syndrome in Mainland China.
+?
+['Adult', 'Biomarkers/blood', 'China/epidemiology', 'Chorionic Gonadotropin, beta Subunit, Human/blood', 'Down Syndrome/*diagnosis/epidemiology', 'False Positive Reactions', 'Female', 'Gestational Age', 'Humans', 'Mass Screening', 'Pregnancy/*blood', '*Pregnancy Trimester, Second', 'Prenatal Diagnosis/*methods', 'alpha-Fetoproteins/analysis']

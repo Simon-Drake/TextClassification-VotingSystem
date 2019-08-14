@@ -1,0 +1,3 @@
+Spontaneous pneumothorax secondary to bronchial chondroma.
+?
+['Bronchial Neoplasms/*complications/diagnosis/diagnostic imaging', 'Chondroma/*complications/diagnosis/diagnostic imaging', 'Female', 'Humans', 'Pneumothorax/diagnosis/diagnostic imaging/*etiology', 'Tomography, Spiral Computed', 'Young Adult']

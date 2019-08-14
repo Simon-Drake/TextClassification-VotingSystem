@@ -1,0 +1,3 @@
+Recent advances: Respiratory medicine.
+?
+['Asthma/therapy', 'Glucocorticoids/contraindications', 'Humans', 'Leukotriene Antagonists/therapeutic use', 'Lung Diseases/*therapy', 'Lung Neoplasms/diagnosis', 'Lung Transplantation', 'Pneumonectomy', 'Pulmonary Disease, Chronic Obstructive/drug therapy/surgery', 'Tomography, Emission-Computed', 'Tomography, X-Ray Computed', 'Treatment Outcome', 'Unnecessary Procedures']

@@ -1,0 +1,3 @@
+Synchronous bilateral typical carcinoid of the lung.
+?
+['Carcinoid Tumor/*diagnosis/surgery', 'Follow-Up Studies', 'Humans', 'Lung Neoplasms/*diagnosis/surgery', 'Lymph Node Excision', 'Tomography, Emission-Computed']

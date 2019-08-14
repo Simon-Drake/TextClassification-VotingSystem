@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHColon MeSHSigmoid MeSHColonicDiseases MeSHEndometriosis MeSHFemale MeSHHumans MeSHIntestinalDiseases MeSHPeritonealNeoplasms MeSHRadiography MeSHRectum MeSHRetroperitonealNeoplasms

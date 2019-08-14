@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHEnzymeActivation MeSHHumans MeSHMolecularSequenceData MeSHPeroxidas MeSHPeroxidase MeSHProteinConformation MeSHSaliv MeSHSalivaryGland MeSHStructure-ActivityRelationship

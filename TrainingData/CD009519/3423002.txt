@@ -1,0 +1,3 @@
+Benign endotracheobronchial tumors (report of 20 cases).
+?
+['Adolescent', 'Adult', 'Bronchial Neoplasms/*diagnostic imaging/pathology/surgery', 'Bronchoscopy', 'Child', 'Humans', 'Middle Aged', 'Radiography, Thoracic', 'Tomography', 'Tracheal Neoplasms/*diagnostic imaging/pathology/surgery']

@@ -1,0 +1,3 @@
+Images in emergency medicine. Adult female with malignant pain. Horner's syndrome as a result of a Pancoast tumor.
+?
+['Back Pain/diagnostic imaging/*etiology', 'Emergency Service, Hospital', 'Female', 'Horner Syndrome/*diagnosis/diagnostic imaging/etiology', 'Humans', 'Middle Aged', 'Pancoast Syndrome/*complications/diagnostic imaging', 'Positron-Emission Tomography', 'Shoulder Pain/diagnostic imaging/*etiology']

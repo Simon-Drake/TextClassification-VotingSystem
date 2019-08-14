@@ -1,0 +1,1 @@
+MeSHBreastNeoplasm MeSHDigestiveSystemNeoplasm MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHPositron-EmissionTomograph MeSHSensitivityandSpecificity

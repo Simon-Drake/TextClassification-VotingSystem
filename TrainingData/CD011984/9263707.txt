@@ -1,0 +1,3 @@
+Management of multiple gestations complicated by a single anomalous fetus.
+?
+['Adult', 'Amniocentesis', 'Chromosome Aberrations/diagnosis', 'Chromosome Disorders', 'Diseases in Twins/etiology/*therapy', 'Down Syndrome/diagnostic imaging', 'Female', 'Fetal Diseases/etiology/*therapy', 'Gestational Age', 'Humans', 'Infant, Newborn', 'Labor, Induced', 'Lymphangioma, Cystic/diagnostic imaging', 'Pregnancy', '*Pregnancy Outcome', '*Twins', 'Ultrasonography, Prenatal']

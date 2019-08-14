@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHLargeCel MeSHCarcinoma MeSHNon-Small-CellLun MeSHCombinedModalityTherapy MeSHCough MeSHDiagnosis MeSHDifferential MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHLymphaticMetastasis MeSHMiddleAged MeSHNeoplasmStaging MeSHTomography MeSHEmission-Computed MeSHTomography MeSHX-RayComputed

@@ -1,0 +1,3 @@
+Typing of Aspergillus species and Aspergillus fumigatus isolates by interrepeat polymerase chain reaction.
+Polymerase chain reaction amplification of repetitive DNA motifs allows discrimination of Aspergillus species. In a preliminary survey, the DNA fingerprints appear to be identical when isolates of Aspergillus fumigatus are compared. When a primer deduced from a prokaryotic repeat motif is used, Aspergillus fumigatus isolates originating from different patients or different anatomical locations can be typed individually.
+['Aspergillus/*classification/genetics', 'Aspergillus fumigatus/*classification/genetics', 'Base Sequence', 'DNA, Fungal/analysis', 'Humans', 'Molecular Sequence Data', '*Polymerase Chain Reaction', 'Repetitive Sequences, Nucleic Acid']

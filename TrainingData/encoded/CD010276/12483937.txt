@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHDentalRecords MeSHFollow-UpStudies MeSHHumans MeSHImageProcessing MeSHComputer-Assiste MeSHMassScreening MeSHMedicalRecordsSystems MeSHComputerized MeSHMouthDisease MeSHMouthNeoplasm MeSHPatientCarePlanning MeSHPatientCompliance MeSHPhotography MeSHDenta MeSHPrognosis

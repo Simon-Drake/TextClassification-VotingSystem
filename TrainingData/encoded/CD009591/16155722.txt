@@ -1,0 +1,1 @@
+MeSHBroadLigament MeSHColon MeSHSigmoid MeSHDiagnosis MeSHDifferential MeSHEndometriosis MeSHFemale MeSHHumans MeSHImageProcessing MeSHComputer-Assisted MeSHMagneticResonanceImaging MeSHOvary MeSHRectum MeSHSensitivityandSpecificity MeSHUltrasonography MeSHUrinaryBladder MeSHUterus MeSHVagina

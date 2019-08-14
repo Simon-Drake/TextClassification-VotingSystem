@@ -1,0 +1,1 @@
+MeSHAdult MeSHAlbumins MeSHBloodCellCount MeSHC-ReactiveProtein MeSHCA-125Antigen MeSHCarcinoma MeSHEndometrioid MeSHEndometrialNeoplasms MeSHFemale MeSHHumans MeSHLymphNodes MeSHLymphaticMetastasis MeSHMiddleAged MeSHRetrospectiveStudies MeSHSystemicInflammatoryResponseSyndrome

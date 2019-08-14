@@ -1,0 +1,1 @@
+MeSH6-Phytas MeSHAspergillusnige MeSHCatalysis MeSHCatalyticDomain MeSHGenes MeSHFungal MeSHKinetics MeSHModels MeSHMolecular MeSHMutagenesis MeSHSite-Directed MeSHMutation MeSHPhyticAci MeSHPolymeraseChainReaction MeSHProteinConformation MeSHSequenceAnalysis MeSHDNA MeSHStructure-ActivityRelationship MeSHSubstrateSpecificity

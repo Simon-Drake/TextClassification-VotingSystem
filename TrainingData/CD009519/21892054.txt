@@ -1,0 +1,3 @@
+Congenital triple kidney in a patient evaluated by F-18 FDG PET/CT for oncologic reason.
+?
+['Aged', '*Fluorodeoxyglucose F18', 'Humans', 'Kidney/*abnormalities/*diagnostic imaging', 'Lung Neoplasms/*diagnostic imaging', 'Male', '*Multimodal Imaging', '*Positron-Emission Tomography', '*Tomography, X-Ray Computed']

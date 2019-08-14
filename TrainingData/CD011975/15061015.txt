@@ -1,0 +1,3 @@
+[Prenatal diagnosis of Down syndrome].
+?
+['Down Syndrome/*diagnosis/epidemiology', 'Female', 'Finland/epidemiology', 'Genetic Testing/*standards/statistics & numerical data', 'Gestational Age', 'Health Services Needs and Demand/*organization & administration', 'Humans', 'Incidence', 'Pregnancy', '*Prenatal Diagnosis/standards/trends', 'Risk Assessment']

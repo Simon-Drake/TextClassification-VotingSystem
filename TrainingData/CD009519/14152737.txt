@@ -1,0 +1,3 @@
+[ISOLATED PULMONARY LYMPHOCYTOSARCOMAS].
+?
+['*Bronchoscopy', '*Chlorambucil', '*Cyclophosphamide', 'Humans', '*Lung', '*Lung Neoplasms', '*Lymphoma, Non-Hodgkin', '*Pathology', 'Prognosis', '*Radiography, Thoracic', '*Surgical Procedures, Operative', '*Tomography', '*Tomography, X-Ray Computed', '*Tuberculosis', '*Tuberculosis, Pulmonary']

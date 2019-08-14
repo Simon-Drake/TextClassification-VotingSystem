@@ -1,0 +1,3 @@
+Incidental finding of ultrasound markers for Down syndrome in the second trimester of pregnancy: a case study.
+?
+['Adult', 'Down Syndrome/*diagnostic imaging/genetics', 'Female', 'Genetic Counseling', 'Genetic Testing/*psychology', 'Humans', 'Nuchal Translucency Measurement', 'Pregnancy', 'Pregnancy Trimester, Second', '*Ultrasonography, Prenatal']

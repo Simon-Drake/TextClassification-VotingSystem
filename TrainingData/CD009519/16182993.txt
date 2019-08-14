@@ -1,0 +1,3 @@
+Pulmonary tumor embolism--diagnosis in the ED.
+?
+['Adult', 'Anticoagulants/therapeutic use', 'Carcinoma, Hepatocellular/*complications', 'Dyspnea/etiology', 'Emergency Medicine/methods', 'Heparin, Low-Molecular-Weight/therapeutic use', 'Humans', 'Liver Neoplasms/*complications', 'Male', 'Neoplastic Cells, Circulating', 'Pulmonary Embolism/*diagnosis/drug therapy/*etiology', 'Tomography, Spiral Computed', 'Treatment Outcome']

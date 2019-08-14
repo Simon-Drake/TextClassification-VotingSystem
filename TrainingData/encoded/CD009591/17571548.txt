@@ -1,0 +1,1 @@
+MeSHDiagnosis MeSHDifferential MeSHDrugTherapy MeSHCombination MeSHEndometriosis MeSHEstrogens MeSHFemale MeSHGonadotropin-ReleasingHormone MeSHHematuria MeSHHumans MeSHProgesterone MeSHProgestins MeSHTreatmentOutcome MeSHUreter MeSHUreteralDiseases MeSHUreteralObstruction

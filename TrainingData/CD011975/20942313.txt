@@ -1,0 +1,3 @@
+[What do early childhood movements tell us?].
+?
+['Cerebral Palsy/diagnosis/*nursing', 'Child', 'Child Development Disorders, Pervasive/diagnosis/nursing', 'Child, Preschool', 'Down Syndrome/diagnosis/nursing', 'Female', '*Fetal Movement', 'Gestational Age', 'Humans', 'Infant', 'Infant, Newborn', 'Infant, Premature, Diseases/diagnosis/*nursing', 'Male', '*Motor Activity', '*Neurologic Examination', 'Pregnancy', 'Rett Syndrome/diagnosis/nursing', '*Ultrasonography, Prenatal']

@@ -1,0 +1,3 @@
+Pet birds as a risk factor for lung cancer.
+?
+['Animals', '*Animals, Domestic', '*Birds', 'Humans', 'Lung Neoplasms/*etiology', 'Risk Factors']

@@ -1,0 +1,1 @@
+MeSHBronch MeSHBronchialNeoplasm MeSHBronchoscopy MeSHGranularCellTumo MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPneumonectomy MeSHPositron-EmissionTomography MeSHRadiography MeSHThoracic MeSHTomography MeSHX-RayComputed MeSHTreatmentOutcome

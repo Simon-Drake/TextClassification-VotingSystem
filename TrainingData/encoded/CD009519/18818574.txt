@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSquamousCel MeSHHumans MeSHLymphaticMetastasis MeSHMale MeSHMiddleAged MeSHNeoplasms MeSHUnknownPrimary MeSHPositron-EmissionTomography MeSHRadiography MeSHThoracic MeSHThoracotomy MeSHTomography MeSHX-RayComputed MeSHTreatmentOutcome

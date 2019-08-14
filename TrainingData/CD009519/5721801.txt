@@ -1,0 +1,3 @@
+[Primary bronchial cancers with double unilateral localization].
+?
+['*Bronchial Neoplasms', '*Carcinoma, Squamous Cell', 'Humans', 'Male', 'Middle Aged', 'Tomography']

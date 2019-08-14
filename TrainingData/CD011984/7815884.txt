@@ -1,0 +1,3 @@
+When amniotic fluid cells do not grow.
+?
+['*Amniocentesis', 'Amniotic Fluid/*cytology', '*Aneuploidy', 'Cells, Cultured', 'Chromosome Aberrations/*diagnosis', 'Chromosome Disorders', 'Female', 'Fetal Diseases/diagnosis', 'Humans', 'Pregnancy']

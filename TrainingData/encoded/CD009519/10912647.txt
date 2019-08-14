@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHNeedle MeSHBronchoscopy MeSHHumans MeSHLungNeoplasm MeSHSensitivityandSpecificity MeSHSolitaryPulmonaryNodul MeSHThoracotomy MeSHTomography MeSHEmission-Computed MeSHTomography MeSHX-RayComputed

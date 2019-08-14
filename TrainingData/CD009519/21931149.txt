@@ -1,0 +1,3 @@
+Evaluation of pulmonary nodules: area-detector CT versus other multi-detector row CT.
+?
+['Female', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Positron-Emission Tomography/*methods', 'Solitary Pulmonary Nodule/*diagnostic imaging', 'Tomography, X-Ray Computed/*methods']

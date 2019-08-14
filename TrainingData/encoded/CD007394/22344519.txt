@@ -1,0 +1,1 @@
+MeSHAnimals MeSHGeneExpressionRegulation MeSHImmunologicFactors MeSHInterleukin-12 MeSHInterleukin-6 MeSHLeukocytes MeSHMononuclear MeSHMacrophages MeSHPeritoneal MeSHMale MeSHMice MeSHMice MeSHInbredBALBC MeSHSterigmatocystin MeSHTumorNecrosisFactor-alpha

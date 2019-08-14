@@ -1,0 +1,3 @@
+[Practical problems in tomography].
+?
+['Carcinoma, Bronchogenic/diagnostic imaging', 'Humans', 'Jaw Fractures/diagnostic imaging', 'Kidney/diagnostic imaging', 'Lumbar Vertebrae/diagnostic imaging', 'Models, Biological', 'Radiography', 'Television', '*Tomography', 'Vocal Cord Paralysis/diagnostic imaging']

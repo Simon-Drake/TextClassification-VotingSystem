@@ -1,0 +1,1 @@
+MeSHAged MeSHBiopsy MeSHNeedle MeSHFemale MeSHGranulom MeSHHamartom MeSHHumans MeSHLungDisease MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPneumoni MeSHPrevalence MeSHRetrospectiveStudies MeSHRiskFactors MeSHSmokin MeSHThoracicSurgery MeSHVideo-Assisted MeSHThoracotomy MeSHTomography MeSHX-RayComputed

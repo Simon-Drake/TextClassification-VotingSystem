@@ -1,0 +1,3 @@
+Inflammatory myofibroblastic tumour.
+?
+['Humans', 'Lung Neoplasms/*diagnostic imaging', 'Neoplasms, Muscle Tissue/*diagnostic imaging', 'Pneumonia/*diagnostic imaging', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed']

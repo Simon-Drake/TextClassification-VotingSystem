@@ -1,0 +1,3 @@
+[Mediastino-pericardial celomic cyst. Description of 2 cases. Differential radiological aspects].
+?
+['Adult', 'Bronchial Neoplasms/diagnostic imaging', 'Bronchography', 'Cysts/*diagnostic imaging', 'Diagnosis, Differential', 'Diaphragmatic Eventration/diagnostic imaging', 'Electrocardiography', 'Female', 'Hernia, Diaphragmatic/diagnostic imaging', 'Humans', 'Mediastinal Cyst/*diagnostic imaging', 'Middle Aged', '*Pericardium', 'Pleurisy/diagnostic imaging', 'Pulmonary Atelectasis/diagnostic imaging', 'Tomography']

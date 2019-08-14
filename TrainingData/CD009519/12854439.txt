@@ -1,0 +1,3 @@
+Multidetector-row CT of the solitary pulmonary nodule.
+?
+['Contrast Media', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/diagnostic imaging', 'Radiopharmaceuticals', 'Solitary Pulmonary Nodule/*diagnostic imaging', 'Tomography, Emission-Computed', 'Tomography, X-Ray Computed/*methods']

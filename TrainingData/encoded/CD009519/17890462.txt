@@ -1,0 +1,1 @@
+MeSHAdult MeSHAged MeSHBiopsy MeSHBronchoscopy MeSHContrastMedia MeSHCryptogenicOrganizingPneumoni MeSHFemale MeSHHumans MeSHMale MeSHMiddleAged MeSHRadiography MeSHThoracic MeSHRespiratoryFunctionTests MeSHRetrospectiveStudies MeSHRiskFactors MeSHTomography MeSHX-RayComputed MeSHTreatmentOutcome

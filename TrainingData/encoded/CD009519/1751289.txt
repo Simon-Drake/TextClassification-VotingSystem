@@ -1,0 +1,1 @@
+MeSHBoneNeoplasm MeSHHeadandNeckNeoplasm MeSHHumans MeSHLungNeoplasm MeSHMale MeSHProstaticNeoplasm MeSHRadionuclideImaging

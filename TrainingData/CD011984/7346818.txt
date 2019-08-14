@@ -1,0 +1,3 @@
+Trisomy 20 mosaicism in a foetus.
+?
+['Adult', 'Amniotic Fluid/*cytology', 'Chromosome Aberrations/diagnosis', 'Chromosome Disorders', '*Chromosomes, Human, 19-20', 'Female', 'Humans', 'Karyotyping', '*Mosaicism', 'Pregnancy', 'Prenatal Diagnosis', '*Trisomy']

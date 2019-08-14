@@ -1,0 +1,1 @@
+MeSHDiagnosis MeSHDifferential MeSHElectrocardiography MeSHFemale MeSHHumans MeSHInfant MeSHNewborn MeSHLungNeoplasm MeSHPericarditi MeSHRadiography MeSHThoracicSurgery MeSHThora MeSHTomography

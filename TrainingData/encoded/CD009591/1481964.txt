@@ -1,0 +1,1 @@
+MeSHDiagnosis MeSHDifferential MeSHEndometriosis MeSHFalseNegativeReactions MeSHFemale MeSHHumans MeSHOvarianNeoplasms MeSHRectalNeoplasms MeSHSigmoidNeoplasms MeSHTomography MeSHX-RayComputed MeSHUterineNeoplasms

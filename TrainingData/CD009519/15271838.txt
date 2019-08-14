@@ -1,0 +1,3 @@
+Bone scanning in lung cancer: evidence is not sufficient to justify routine bone scanning.
+?
+['Bone Neoplasms/*diagnostic imaging', '*Diagnostic Tests, Routine', 'Humans', '*Lung Neoplasms', 'Magnetic Resonance Imaging', 'Tomography, Emission-Computed']

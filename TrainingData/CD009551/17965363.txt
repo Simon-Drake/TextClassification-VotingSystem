@@ -1,0 +1,3 @@
+Identification of pathogenic Aspergillus species by a PCR-restriction enzyme method.
+?
+['Aspergillosis/*diagnosis/microbiology', 'Aspergillus/*classification/genetics/*isolation & purification', 'DNA Fingerprinting/*methods', 'DNA, Fungal/genetics', 'DNA, Ribosomal Spacer/genetics', 'Humans', 'Polymerase Chain Reaction/*methods', '*Polymorphism, Restriction Fragment Length']

@@ -1,0 +1,3 @@
+Update: NCCN small cell and non-small cell lung cancer Clinical Practice Guidelines.
+?
+['Carcinoma, Non-Small-Cell Lung/diagnostic imaging/*therapy', 'Carcinoma, Small Cell/diagnostic imaging/*therapy', 'Chemotherapy, Adjuvant', 'Humans', 'Lung Neoplasms/diagnostic imaging/*therapy', 'Pneumonectomy', 'Positron-Emission Tomography', 'Practice Guidelines as Topic', 'Radiotherapy, Adjuvant', 'Smoking Cessation', 'United States']

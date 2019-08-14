@@ -1,0 +1,3 @@
+Monozygotic twins: chorionicity and more.
+?
+['Chorion/pathology', 'Female', 'Humans', 'Mosaicism/embryology', 'Polymerase Chain Reaction/methods', 'Pregnancy', '*Prenatal Diagnosis', 'Sex Determination Analysis/*methods', 'Turner Syndrome/*diagnosis/pathology', 'Twins, Monozygotic/*physiology']

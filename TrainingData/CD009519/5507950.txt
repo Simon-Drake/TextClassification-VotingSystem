@@ -1,0 +1,3 @@
+Right apical lesion with respiratory symptoms.
+?
+['Adenocarcinoma/complications/*diagnostic imaging', 'Dyspnea/etiology', 'Humans', 'Lung Neoplasms/complications/*diagnostic imaging', 'Male', 'Middle Aged', 'Radiography', 'Tomography']

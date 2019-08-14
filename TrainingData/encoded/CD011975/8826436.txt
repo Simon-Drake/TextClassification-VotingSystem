@@ -1,0 +1,1 @@
+MeSHAdult MeSHChild MeSHChromosomes MeSHHuman MeSHPair21 MeSHConsanguinity MeSHDownSyndrome MeSHFemale MeSHGeneticMarkers MeSHHomozygote MeSHHumans MeSHInSituHybridization MeSHInfant MeSHNewborn MeSHIntellectualDisability MeSHKaryotyping MeSHMale MeSHMiddleAged MeSHPedigree MeSHPhenotype MeSHPregnancy

@@ -1,0 +1,3 @@
+[Serum screening in pregnant women for Down syndrome and open neural tube defects; testing of Health Council's criteria for genetic screening].
+?
+['Down Syndrome/*genetics', 'Female', '*Genetic Testing', 'Humans', 'Neural Tube Defects/*genetics', 'Pregnancy', 'Prenatal Diagnosis']

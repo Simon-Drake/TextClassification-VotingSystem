@@ -1,0 +1,3 @@
+Outcome in Down syndrome fetuses with cardiac anomalies.
+?
+['Adult', 'Decision Making', 'Down Syndrome/*complications/*mortality', 'Female', 'Heart Defects, Congenital/*mortality', 'Humans', '*Life Expectancy', 'Middle Aged', 'Pregnancy', '*Prenatal Diagnosis', 'Prognosis', 'Reproducibility of Results']

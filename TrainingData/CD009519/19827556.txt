@@ -1,0 +1,3 @@
+[Primary nodular pulmonary amyloidosis].
+A 58-year-old woman presented with nodule in the upper lung field on chest roentgenography. Computed tomography (CT) showed irregular nodule in the right upper lobe. The nodule was no accumulation on fluorodeoxyglucose positron emission tomography (FDG-PET). Video-assisted thoracic surgery (VATS) was done to be distinguished from primary lung cancer. Histologic examination showed that pulmonary nodule was consisted of amyloid protein.
+['Amyloidosis/*diagnosis', 'Diagnosis, Differential', 'Female', 'Humans', 'Lung Diseases/*diagnosis', 'Middle Aged']

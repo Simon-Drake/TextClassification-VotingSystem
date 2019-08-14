@@ -1,0 +1,3 @@
+Screening in the presence of a vanished twin: nuchal translucency or combined screening test?
+?
+['*Abortion, Spontaneous/diagnostic imaging', 'Adult', 'Chromosomes, Human, Pair 18', 'Diagnosis, Differential', 'Down Syndrome/diagnosis', 'Female', 'Humans', 'Mass Screening/methods', 'Nuchal Translucency Measurement/*methods', 'Pregnancy', '*Pregnancy, Multiple', 'Trisomy/diagnosis', '*Twins', 'Ultrasonography, Prenatal/*methods']

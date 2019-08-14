@@ -1,0 +1,1 @@
+MeSHAdult MeSHAnimals MeSHBaseSequence MeSHChromosomeMapping MeSHChromosomes MeSHHuman MeSHPair21 MeSHDNA MeSHDownSyndrome MeSHExons MeSHFemale MeSHHumans MeSHMale MeSHMice MeSHMolecularSequenceData MeSHOpenReadingFrames MeSHProteins MeSHSequenceHomology MeSHAminoAcid

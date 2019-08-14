@@ -1,0 +1,3 @@
+[PSEUDO-TUMORAL FORMS OF INFECTIOUS PNEUMOPATHIES].
+?
+['*Diagnosis, Differential', '*Lung Diseases', '*Lung Neoplasms', '*Radiography, Thoracic', '*Respiratory Tract Infections', '*Tomography']

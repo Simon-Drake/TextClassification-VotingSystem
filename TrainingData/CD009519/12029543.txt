@@ -1,0 +1,3 @@
+PET/CT: a new road map.
+?
+['Bronchial Neoplasms/diagnostic imaging', 'Esophageal Neoplasms/diagnostic imaging', 'Humans', 'Neoplasms/*diagnostic imaging', 'Tomography, Emission-Computed/methods/*trends', 'Tomography, X-Ray Computed/methods/*trends']

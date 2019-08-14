@@ -1,0 +1,3 @@
+A 46,XX,der(13;14)(q10;q10),+21 child born after a 45,XX,der(13;14)(q10;q10) chromosomal finding in CVS.
+?
+['Adult', '*Chorionic Villi Sampling', '*Chromosomes, Human, Pair 13', '*Chromosomes, Human, Pair 14', '*Down Syndrome', 'False Negative Reactions', 'Female', 'Humans', 'Predictive Value of Tests', 'Pregnancy', '*Translocation, Genetic']

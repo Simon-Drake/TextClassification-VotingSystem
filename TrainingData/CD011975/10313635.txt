@@ -1,0 +1,3 @@
+Genetic screening: some of the issues.
+?
+['Adult', 'Amniocentesis/*psychology/utilization', 'Down Syndrome/prevention & control', 'Female', 'Genetic Testing/*trends/utilization', 'Humans', 'Malpractice/legislation & jurisprudence', 'Pregnancy', 'Risk', 'United States']

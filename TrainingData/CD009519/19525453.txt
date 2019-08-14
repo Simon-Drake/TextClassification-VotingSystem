@@ -1,0 +1,3 @@
+Molecular imaging of EGFR: it's time to go beyond receptor expression.
+?
+['Adult', '*Carbon Radioisotopes/administration & dosage/pharmacokinetics', 'Carcinoma, Non-Small-Cell Lung/diagnostic imaging/metabolism', 'Female', 'Humans', 'Ligands', 'Lung Neoplasms/diagnostic imaging/metabolism', 'Male', 'Metabolic Clearance Rate', '*Molecular Probe Techniques', 'Positron-Emission Tomography', '*Quinazolines/administration & dosage/pharmacokinetics', 'Radiometry', '*Radiopharmaceuticals/administration & dosage/pharmacokinetics', 'Receptor, Epidermal Growth Factor/*metabolism', 'Tissue Distribution', 'Tomography, X-Ray Computed', 'Young Adult']

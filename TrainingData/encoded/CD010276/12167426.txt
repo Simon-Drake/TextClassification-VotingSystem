@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHCarcinoma MeSHAdenoidCysti MeSHCarcinoma MeSHSquamousCel MeSHCarcinoma MeSHTransitionalCel MeSHDiagnosis MeSHDifferential MeSHHumans MeSHImmunohistochemistry MeSHKeratin MeSHMouthNeoplasm

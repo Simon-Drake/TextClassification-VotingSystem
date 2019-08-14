@@ -1,0 +1,3 @@
+[On the radiologic diagnosis of bronchopulmonary cancer].
+?
+['Bronchial Neoplasms/*diagnostic imaging', 'Bronchoscopy', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Radiography', 'Tomography']

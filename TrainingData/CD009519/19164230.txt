@@ -1,0 +1,3 @@
+PET for the evaluation of solitary pulmonary nodules.
+?
+['Fluorine Radioisotopes', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging', '*Positron-Emission Tomography', 'Radiopharmaceuticals', 'Solitary Pulmonary Nodule/*diagnostic imaging', 'Tomography, X-Ray Computed']

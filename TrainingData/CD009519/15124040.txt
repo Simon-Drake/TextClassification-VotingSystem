@@ -1,0 +1,3 @@
+Helical computed tomography has a role in the screening of lung cancer--the pro argument.
+?
+['Humans', 'Lung Neoplasms/*diagnostic imaging', 'Mass Screening/*methods', 'Sensitivity and Specificity', '*Tomography, Spiral Computed']

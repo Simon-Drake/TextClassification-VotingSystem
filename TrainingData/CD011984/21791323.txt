@@ -1,0 +1,3 @@
+Prenatal diagnosis and molecular cytogenetic characterization of a small marker chromosome derived from Y chromosome.
+?
+['Adult', '*Chromosomes, Human, X', '*Chromosomes, Human, Y', '*Cytogenetic Analysis', 'Female', 'Humans', 'Live Birth', 'Male', 'Monosomy', 'Mosaicism', 'Pregnancy', 'Ring Chromosomes', 'Ultrasonography, Prenatal']

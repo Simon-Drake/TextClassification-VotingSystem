@@ -1,0 +1,1 @@
+MeSHChronicDisease MeSHDiagnosis MeSHDifferential MeSHHumans MeSHLun MeSHLungDisease MeSHLungNeoplasm MeSHPneumoni MeSHSensitivityandSpecificity MeSHTomography MeSHSpiralComputed

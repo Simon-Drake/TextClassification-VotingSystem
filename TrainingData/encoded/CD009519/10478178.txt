@@ -1,0 +1,1 @@
+MeSHBoneNeoplasm MeSHFluorodeoxyglucoseF1 MeSHHumans MeSHIodineRadioisotope MeSHLungNeoplasm MeSHRadionuclideImagin MeSHTechnetiu MeSHThyroidNeoplasm MeSHTomography MeSHEmission-Computed

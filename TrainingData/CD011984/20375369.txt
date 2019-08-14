@@ -1,0 +1,3 @@
+What does the patient really have to know about the presence of minor markers on the second-trimester sonogram?
+?
+['Down Syndrome/*diagnostic imaging', 'False Positive Reactions', 'Female', 'Heart Defects, Congenital/*diagnostic imaging', 'Humans', 'Pregnancy', 'Pregnancy Trimester, Second', '*Ultrasonography, Prenatal']

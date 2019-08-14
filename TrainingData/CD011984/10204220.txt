@@ -1,0 +1,3 @@
+Adjusting the risk for trisomy 21 using multiple sonographic markers.
+?
+['Adult', 'Down Syndrome/*etiology', 'Female', 'Forecasting', 'Humans', 'Likelihood Functions', 'Logistic Models', '*Maternal Age', 'Multivariate Analysis', 'Odds Ratio', 'Pregnancy', 'Pregnancy, High-Risk', 'Risk Factors', '*Ultrasonography, Prenatal']

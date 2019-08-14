@@ -1,0 +1,3 @@
+Cost utility of prenatal diagnosis.
+?
+['Abortion, Spontaneous/epidemiology/etiology', 'Chorionic Villi Sampling/adverse effects/*economics/standards', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Infant, Newborn', 'Predictive Value of Tests', 'Pregnancy', 'Technology Assessment, Biomedical/methods', 'United Kingdom']

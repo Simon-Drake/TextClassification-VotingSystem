@@ -1,0 +1,3 @@
+Recurrences of trisomy 18 and trisomy 13 after trisomy 21.
+Between 40 years and 43 years of age, a woman had three consecutive pregnancies with different prenatally diagnosed autosomal trisomies. This is compatible with the view that the predisposition to non-disjunction is not chromosome-specific.
+['Adult', '*Chromosomes, Human, Pair 13', '*Chromosomes, Human, Pair 18', '*Down Syndrome', 'Female', 'Humans', 'Maternal Age', 'Pregnancy', 'Pregnancy, High-Risk', 'Recurrence', '*Trisomy']

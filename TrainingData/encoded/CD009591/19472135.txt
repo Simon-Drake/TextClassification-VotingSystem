@@ -1,0 +1,1 @@
+MeSHAbdominalPain MeSHAdult MeSHBiopsy MeSHNeedle MeSHCystoscopy MeSHEndometriosis MeSHFemale MeSHFollow-UpStudies MeSHHumans MeSHImmunohistochemistry MeSHRiskAssessment MeSHTreatmentOutcome MeSHUltrasonography MeSHDoppler MeSHUrinaryBladderDiseases MeSHUrinationDisorders

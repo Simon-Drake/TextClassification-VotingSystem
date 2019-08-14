@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHCapsuleEndoscopy MeSHColonoscopy MeSHElectricStimulation MeSHHumans

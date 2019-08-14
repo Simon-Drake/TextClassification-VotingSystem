@@ -1,0 +1,3 @@
+Broncholithiasis mimicking a bronchial carcinoid tumour.
+?
+['Adult', 'Bronchial Diseases/*diagnosis', 'Bronchial Neoplasms/*diagnosis', 'Carcinoid Tumor/*diagnosis', 'Diagnosis, Differential', 'Female', 'Humans', 'Lithiasis/*diagnosis', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed']

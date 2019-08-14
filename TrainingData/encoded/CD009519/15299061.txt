@@ -1,0 +1,1 @@
+MeSHEquipmentFailureAnalysis MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHGammaCameras MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHNeoplasmStagin MeSHRadiopharmaceuticals MeSHSensitivityandSpecificity MeSHSingle-BlindMethod MeSHTomography MeSHEmission-Compute

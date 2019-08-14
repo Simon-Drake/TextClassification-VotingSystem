@@ -1,0 +1,1 @@
+MeSHAdult MeSHAsciticFluid MeSHBodyMassIndex MeSHCytokines MeSHEndometriosis MeSHFemale MeSHGhrelin MeSHHumans MeSHInterleukin-1beta MeSHInterleukin-6 MeSHNeovascularization MeSHPathologic MeSHSeverityofIllnessIndex MeSHTumorNecrosisFactor-alpha MeSHVascularEndothelialGrowthFactorA

@@ -1,0 +1,1 @@
+MeSHAdult MeSHAgeFactors MeSHBiopsy MeSHDiagnosis MeSHDifferential MeSHDiagnosticImaging MeSHEndometriosis MeSHFemale MeSHGonadalSteroidHormones MeSHHumans MeSHHysterectomy MeSHLaparoscopy MeSHMiddleAged MeSHMyometrium MeSHSurvivalRate MeSHTreatmentOutcome MeSHUterineDiseases

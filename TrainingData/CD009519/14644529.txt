@@ -1,0 +1,3 @@
+The use of positron emission tomography in initial staging and follow-up evaluation in NSCLC.
+?
+['Carcinoma, Non-Small-Cell Lung/*diagnostic imaging', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Neoplasm Recurrence, Local', 'Neoplasm Staging/*methods', 'Prognosis', '*Tomography, Emission-Computed', 'Treatment Outcome']

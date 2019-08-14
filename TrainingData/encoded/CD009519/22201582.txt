@@ -1,0 +1,1 @@
+MeSHArtifacts MeSHHumans MeSHLungNeoplasm MeSHMovement MeSHMultimodalImagin MeSHPositron-EmissionTomography MeSHRespiration MeSHTherapy MeSHComputer-Assisted MeSHTomography MeSHX-RayComputed

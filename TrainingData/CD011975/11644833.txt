@@ -1,0 +1,3 @@
+Ethical issues in genetic service provision: attitudes of human geneticists in Germany.
+?
+['Adult', 'Alcoholism', '*Attitude', 'Child', 'Confidentiality', 'Data Collection', 'Disclosure', 'Down Syndrome', 'Euthanasia, Passive', 'Family', 'Freedom', '*Genetic Counseling', 'Genetic Diseases, Inborn', 'Genetic Predisposition to Disease', 'Genetic Services', '*Genetic Testing', 'Germany', '*Health Personnel', 'Humans', 'Huntington Disease', 'Informed Consent', 'Neoplasms', 'Personal Autonomy', 'Prenatal Diagnosis', 'Referral and Consultation', 'Reproductive Techniques, Assisted', 'Spinal Dysraphism']

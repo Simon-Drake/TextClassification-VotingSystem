@@ -1,0 +1,3 @@
+Utility of unconjugated estriol in screening for Down syndrome is not proven.
+?
+['Down Syndrome/*diagnosis', 'Estriol/*blood', 'Female', 'Humans', 'Mass Screening', 'Pregnancy', 'Prenatal Diagnosis/*methods']

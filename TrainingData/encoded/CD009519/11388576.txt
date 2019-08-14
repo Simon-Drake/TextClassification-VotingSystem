@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdult MeSHAged MeSHFemale MeSHHumans MeSHLun MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHRadiopharmaceutical MeSHTechnetiumTc99mSestamib MeSHThalliumRadioisotope MeSHTissueDistribution MeSHTomography MeSHEmission-Computed MeSHSingle-Photon MeSHTomography MeSHX-RayComputed

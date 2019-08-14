@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAntiphospholipidSyndrom MeSHBrainInfarctio MeSHBrainIschemi MeSHDiagnosis MeSHDifferential MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHLymphaticMetastasi MeSHMiddleAged MeSHPulmonaryEmbolis MeSHRecurrence MeSHStrok MeSHThrombosi MeSHVenousThrombosi

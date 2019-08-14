@@ -1,0 +1,1 @@
+MeSHBiomarker MeSHCarcinoma MeSHSquamousCel MeSHCase-ControlStudies MeSHFemale MeSHHeadandNeckNeoplasm MeSHHumans MeSHLeukoplaki MeSHMale MeSHMicronuclei MeSHChromosome-Defectiv MeSHMicronucleusTest MeSHMiddleAged MeSHMouthMucos MeSHOddsRatio MeSHPredictiveValueofTests MeSHRiskFactors MeSHSmokin

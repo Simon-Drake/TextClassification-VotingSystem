@@ -1,0 +1,3 @@
+Prenatal diagnosis now and in the future, in a genetic perspective.
+?
+['Congenital Abnormalities/diagnosis/genetics', 'Down Syndrome/*diagnosis/genetics', 'Female', 'Genetic Diseases, Inborn/diagnosis', '*Genetic Testing', 'Humans', 'Pregnancy', 'Prenatal Diagnosis/methods/*trends', 'Specimen Handling']

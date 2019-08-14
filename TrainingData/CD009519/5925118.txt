@@ -1,0 +1,3 @@
+Pneumomediastinography.
+?
+['Adult', 'Bronchial Neoplasms/*diagnostic imaging', 'Female', 'Humans', 'Hypothyroidism/*diagnostic imaging', 'Male', 'Mediastinal Diseases/*diagnostic imaging', 'Middle Aged', '*Pneumomediastinum, Diagnostic', 'Radiography', 'Thymus Hyperplasia/*diagnostic imaging', 'Thymus Neoplasms/*diagnostic imaging', 'Tomography']

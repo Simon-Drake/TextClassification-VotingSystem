@@ -1,0 +1,3 @@
+Instability of the (CTG)n repeat in congenital myotonic dystrophy.
+?
+['Adolescent', 'Adult', 'Age Factors', 'Child', 'Child, Preschool', 'DNA Mutational Analysis', 'Fetal Diseases/genetics', 'Gestational Age', 'Humans', 'Infant, Newborn', 'Leukocytes/ultrastructure', 'Mosaicism', 'Myotonic Dystrophy/congenital/embryology/*genetics', 'Myotonin-Protein Kinase', 'Organ Specificity', 'Protein Kinases/*genetics', '*Protein-Serine-Threonine Kinases', '*Trinucleotide Repeats']

@@ -1,0 +1,3 @@
+Terminal rearrangement of chromosomes 21 detected in amniotic fluid, resulting in a trisomy 21.
+?
+['Adult', 'Amniocentesis', 'Amniotic Fluid/*cytology', 'Chromosomes, Human, 21-22 and Y/*ultrastructure', 'Down Syndrome/*genetics', 'Female', 'Humans', 'Karyotyping', 'Pregnancy']

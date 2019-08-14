@@ -1,0 +1,3 @@
+[Multislice CT of pulmonary arterial diseases].
+This paper reviews the current state of the technique of multislice CT (MSCT) scan and imaging postprocessing of CT pulmonary angiography, as well as the CT features of different pulmonary arterial diseases. Investigations demonstrate that MSCT and CTA are available means to visualize pulmonary artery structures and the anatomic correlation between pulmonary artery and adjacent structures. They are fast, effective and noninvasive methods for diagnosing pulmonary arterial diseases.
+['Humans', 'Hypertension, Pulmonary/*diagnostic imaging', 'Lung Diseases/diagnostic imaging', 'Lung Neoplasms/blood supply', 'Pulmonary Artery/*diagnostic imaging', 'Pulmonary Embolism/*diagnostic imaging', '*Tomography, Spiral Computed']

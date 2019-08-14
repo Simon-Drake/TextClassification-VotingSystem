@@ -1,0 +1,3 @@
+Positron-emission tomography (PET) superior to computed tomography for staging and detecting metastasis.
+?
+['Carcinoma, Non-Small-Cell Lung/*diagnostic imaging/secondary', 'Humans', 'Lung Neoplasms/*diagnostic imaging/pathology', 'Neoplasm Staging/*methods', 'Sensitivity and Specificity', 'Tomography, Emission-Computed/*methods']

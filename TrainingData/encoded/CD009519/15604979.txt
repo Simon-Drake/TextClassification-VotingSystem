@@ -1,0 +1,1 @@
+MeSHBoneNeoplasm MeSHHumans MeSHLungNeoplasm MeSHOrganotechnetiumCompound MeSHRadionuclideImaging MeSHRadiopharmaceutical MeSHSolitaryPulmonaryNodul MeSHSomatostati MeSHTechnetiumTc99mMedronat MeSHWhole-BodyCountin

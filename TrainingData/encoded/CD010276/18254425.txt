@@ -1,0 +1,1 @@
+MeSHAgeFactors MeSHChild MeSHDiagnosis MeSHDifferential MeSHFemale MeSHHumans MeSHLeukoplakia MeSHOra MeSHLichenPlanus MeSHOra MeSHMouthMucos MeSHOralUlce MeSHTongueDisease

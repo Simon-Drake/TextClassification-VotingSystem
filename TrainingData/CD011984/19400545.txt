@@ -1,0 +1,3 @@
+Intracardiac echogenic focus and cytogenetic abnormalities.
+?
+['Adult', 'Aneuploidy', 'Calcinosis/*diagnostic imaging', 'Cardiomyopathies/*diagnostic imaging', 'Chromosome Disorders/epidemiology/*prevention & control', 'Female', 'Fetal Diseases/*diagnostic imaging', 'Humans', 'Papillary Muscles/diagnostic imaging/embryology', 'Turkey/epidemiology', '*Ultrasonography, Prenatal']

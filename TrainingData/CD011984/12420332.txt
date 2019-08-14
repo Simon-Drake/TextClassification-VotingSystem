@@ -1,0 +1,3 @@
+Antenatal screening policies for Down's syndrome. Serum screening for Down's syndrome is better than age screening.
+?
+['Adult', 'Biomarkers/blood', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Maternal Age', 'Pregnancy', 'Pregnancy, High-Risk', 'Prenatal Diagnosis/*methods', 'Sensitivity and Specificity']

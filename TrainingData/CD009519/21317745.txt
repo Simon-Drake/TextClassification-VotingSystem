@@ -1,0 +1,3 @@
+First case of A859T epidermal growth factor receptor mutation responding to erlotinib.
+?
+['Adenocarcinoma/*drug therapy/genetics/secondary', 'Adrenal Gland Neoplasms/*drug therapy/genetics/secondary', 'Carcinoma, Non-Small-Cell Lung/*drug therapy/genetics/secondary', 'DNA, Neoplasm/genetics', 'Erlotinib Hydrochloride', 'Exons/genetics', 'Humans', 'Lung Neoplasms/*drug therapy/genetics/pathology', 'Middle Aged', 'Mutation/*genetics', 'Polymerase Chain Reaction', 'Positron-Emission Tomography', 'Protein Kinase Inhibitors/therapeutic use', 'Quinazolines/*therapeutic use', 'Receptor, Epidermal Growth Factor/*genetics', 'Tomography, X-Ray Computed', 'Treatment Outcome']

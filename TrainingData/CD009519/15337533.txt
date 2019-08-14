@@ -1,0 +1,3 @@
+High-tech will improve radiotherapy of NSCLC: a hypothesis waiting to be validated.
+?
+['Algorithms', 'Carcinoma, Non-Small-Cell Lung/diagnostic imaging/*radiotherapy', 'Humans', 'Lung Neoplasms/diagnostic imaging/*radiotherapy', 'Radiotherapy Dosage', 'Tomography, Emission-Computed', 'Tomography, X-Ray Computed']

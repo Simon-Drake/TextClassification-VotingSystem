@@ -1,0 +1,3 @@
+[A case of fetal 46,XX in a woman with trisomy 21].
+?
+['Abortion, Induced', 'Adolescent', 'Adult', 'Down Syndrome/*genetics', 'Female', 'Humans', 'Pregnancy', '*Pregnancy Complications', 'Pregnancy in Adolescence', 'Prenatal Diagnosis']

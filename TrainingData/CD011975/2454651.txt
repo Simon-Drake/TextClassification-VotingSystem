@@ -1,0 +1,3 @@
+Amniotic fluid alpha-fetoprotein subfractions in fetal Trisomy 21 affected pregnancies.
+The percentage contribution to the total AFP concentration in amniotic fluid from the yolk sac derived AFP was measured at 15-17 weeks gestation in 15 pregnancies affected by fetal Trisomy 21 and compared with that in 75 pregnancies with a normal outcome. The yolk sac form of AFP was reduced in parallel to the total AFP and differentiation of the subfraction from the yolk sac would offer no increase in diagnostic efficiency.
+['Adult', 'Amniotic Fluid/*analysis', 'Down Syndrome/*metabolism', 'Female', 'Fetal Diseases/*metabolism', 'Humans', 'Pregnancy', 'Pregnancy Trimester, Second', 'Yolk Sac/metabolism', 'alpha-Fetoproteins/*analysis/biosynthesis']

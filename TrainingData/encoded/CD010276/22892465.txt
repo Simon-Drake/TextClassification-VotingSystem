@@ -1,0 +1,1 @@
+MeSHDentalCarie MeSHDentalEname MeSHEarlyDiagnosis MeSHFluorescence MeSHHumans MeSHLight MeSHMicroscopy MeSHPolarization MeSHPhotography MeSHDental MeSHPhotomicrography MeSHSurfaceProperties

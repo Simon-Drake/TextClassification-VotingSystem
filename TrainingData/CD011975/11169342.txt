@@ -1,0 +1,3 @@
+Fetal echogenic bowel: a complex scenario.
+?
+['Amniotic Fluid', 'Cystic Fibrosis/diagnostic imaging', 'Down Syndrome/diagnostic imaging', 'Female', 'Fetal Diseases/*diagnostic imaging', 'Humans', 'Infection/diagnostic imaging', 'Intestines/abnormalities/*diagnostic imaging', 'Placental Insufficiency/diagnostic imaging', 'Pregnancy', 'Pregnancy Outcome', '*Ultrasonography, Prenatal']

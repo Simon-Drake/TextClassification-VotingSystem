@@ -1,0 +1,3 @@
+Case records of the Massachusetts General Hospital. Case 36-2009. A 23-year-old man with cough, hoarseness, and abnormalities on chest imaging.
+?
+['Bone Neoplasms/complications/*diagnosis', 'Cough/etiology', 'Diagnosis, Differential', 'Fatal Outcome', 'Hoarseness/etiology', 'Humans', 'Ilium/*diagnostic imaging', 'Lung Neoplasms/diagnostic imaging/*secondary', 'Lymph Nodes/diagnostic imaging/*pathology', 'Lymphatic Metastasis', 'Male', 'Mediastinal Neoplasms/diagnostic imaging/*secondary', 'Positron-Emission Tomography', 'Radiography, Thoracic', 'Sarcoma, Ewing/complications/*diagnosis/secondary', 'Tomography, X-Ray Computed', 'Young Adult']

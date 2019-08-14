@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdult MeSHCarcinoma MeSHNon-Small-CellLun MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHNeoplasmStaging MeSHPositron-EmissionTomography MeSHPrognosis MeSHRadiopharmaceuticals MeSHSurvivalRate MeSHTomography MeSHX-RayComputed

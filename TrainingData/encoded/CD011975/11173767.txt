@@ -1,0 +1,1 @@
+MeSHEchocardiography MeSHFemale MeSHFetalHeart MeSHGestationalAge MeSHHeartDefects MeSHCongenital MeSHHemodynamics MeSHHumans MeSHInfant MeSHNewborn MeSHKaryotyping MeSHMyocardialContraction MeSHPregnancy MeSHReferenceValues MeSHTranspositionofGreatVessels

@@ -1,0 +1,1 @@
+MeSHChromosomes MeSHHuman MeSHPair18 MeSHFemale MeSHFluoresceins MeSHFluorescentDyes MeSHGeneticMarkers MeSHHumans MeSHMale MeSHPolymeraseChainReaction MeSHPrenatalDiagnosis MeSHRepetitiveSequences MeSHNucleicAcid MeSHTimeFactors MeSHTrisomy

@@ -1,0 +1,3 @@
+[Combined functional and morphological imaging with PET/CT systems].
+?
+['Carcinoma, Bronchogenic/diagnostic imaging', 'Colorectal Neoplasms/diagnostic imaging', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/diagnostic imaging', 'Lymphatic Metastasis/diagnostic imaging', 'Neoplasms/*diagnostic imaging', 'Radiopharmaceuticals', 'Time Factors', '*Tomography, Emission-Computed', '*Tomography, X-Ray Computed']

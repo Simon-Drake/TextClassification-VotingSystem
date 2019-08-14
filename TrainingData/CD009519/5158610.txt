@@ -1,0 +1,3 @@
+[Usefulness of cytological examinations for the diagnosis of thoracic tumours and early detection of bronchial carcinoma. Experience over 17 years with 1588 thoracic tumours].
+?
+['Biopsy', 'Carcinoma, Squamous Cell/*diagnosis', 'Cytodiagnosis', 'Humans', 'Lung Neoplasms/diagnosis', 'Male', 'Mass Chest X-Ray', 'Middle Aged', 'Neoplasm Metastasis', 'Precancerous Conditions/diagnosis', 'Sputum/cytology', 'Thoracic Neoplasms/*diagnosis', 'Tomography']

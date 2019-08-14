@@ -1,0 +1,3 @@
+A supernumerary microchromosome in amniotic cell cultures and talipes equinovarus in a live born female.
+Amniocentesis for advanced maternal age resulted in the demonstration of a supernumerary microchromosome in the amniotic fluid cells. Cytogenetic analysis of peripheral blood from the female infant revealed a mosaic karyotype 46,XX/47,XX, + marker. The only anomaly noted in the infant was talipes equinovarus.
+['Chromosome Aberrations/*diagnosis', 'Chromosome Disorders', 'Clubfoot/*genetics', 'Female', 'Humans', 'Infant, Newborn', 'Maternal Age', 'Mosaicism', 'Pregnancy', 'Prenatal Diagnosis']

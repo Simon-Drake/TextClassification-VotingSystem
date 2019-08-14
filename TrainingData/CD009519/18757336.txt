@@ -1,0 +1,3 @@
+Neoadjuvant (induction) erlotinib response in stage IIIA non-small-cell lung cancer.
+?
+['Aged', 'Carcinoma, Non-Small-Cell Lung/*drug therapy', 'DNA Mutational Analysis', 'Erlotinib Hydrochloride', 'Female', 'Humans', 'Lung Neoplasms/*drug therapy', 'Lymphatic Metastasis', 'Neoadjuvant Therapy/*methods', 'Positron-Emission Tomography', 'Protein Kinase Inhibitors/*administration & dosage', 'Quinazolines/*administration & dosage', 'Receptor, Epidermal Growth Factor/genetics', 'Remission Induction', 'Tomography, X-Ray Computed/methods', 'Treatment Outcome']

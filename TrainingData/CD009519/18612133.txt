@@ -1,0 +1,3 @@
+Computed tomography screening for lung cancer in a high-risk population: update on current status.
+?
+['*Conflict of Interest', 'Disease-Free Survival', 'Foundations/economics', 'Humans', 'Lung Neoplasms/*diagnostic imaging/etiology/mortality/*prevention & control', '*Mass Screening/methods', '*Research Support as Topic', 'Risk Assessment', 'Risk Factors', 'Smoking/*adverse effects', 'Survival Analysis', 'Tobacco Industry', '*Tomography, Spiral Computed']

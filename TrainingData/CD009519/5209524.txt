@@ -1,0 +1,3 @@
+[Treatment situation in bronchial carcinoma].
+?
+['Bronchial Neoplasms/diagnosis/diagnostic imaging/epidemiology/pathology/radiotherapy/surgery/*therapy', 'Cytodiagnosis', 'Germany, East', 'Humans', 'Life Expectancy', 'Mass Chest X-Ray', 'Postoperative Complications', 'Prognosis', 'Tomography']

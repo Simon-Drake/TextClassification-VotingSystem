@@ -1,0 +1,3 @@
+[Thoracic imaging. "Not with grand innovation, but an equilibration between cross-sectional imaging (chiefly computed tomography) and nuclear medicine"].
+?
+['Anatomy, Cross-Sectional', 'Diagnosis, Differential', '*Diagnostic Imaging', 'Humans', 'Image Processing, Computer-Assisted/methods', 'Lung Neoplasms/diagnosis/diagnostic imaging', 'Magnetic Resonance Imaging', 'Pulmonary Embolism/diagnosis', 'Pulmonary Emphysema/diagnosis/surgery', 'Solitary Pulmonary Nodule/diagnosis', 'Thoracic Diseases/*diagnosis/diagnostic imaging', 'Thoracic Injuries/diagnosis', 'Tomography, Emission-Computed', '*Tomography, X-Ray Computed/methods']

@@ -1,0 +1,3 @@
+Lymphosarcoma of the lung with monoclonal (IgM) gammopathy. A clinicopathologic, histochemical, immunologic, and ultrastructural study.
+?
+['Adult', 'Blood Proteins/analysis', 'Humans', 'Immunoelectrophoresis', 'Lung Neoplasms/blood/*complications/diagnostic imaging/immunology/pathology', 'Lymphocytes/cytology', 'Lymphoma, Non-Hodgkin/blood/*complications/diagnostic imaging/immunology/pathology', 'Male', 'Microscopy, Electron', 'Microscopy, Fluorescence', 'Plasma Cells/cytology', 'Radiography', 'Reticulocytes/cytology', 'Tomography', 'Waldenstrom Macroglobulinemia/blood/*complications/immunology/pathology']

@@ -1,0 +1,1 @@
+MeSHAdenocarcinoma MeSHAlgorithms MeSHCellDivision MeSHDiagnosis MeSHDifferential MeSHEndometrialNeoplasms MeSHEndometrium MeSHFemale MeSHHumans MeSHHyperplasia MeSHKinetics MeSHMetaplasia MeSHNeoplasmInvasiveness MeSHRiskAssessment MeSHUterineDiseases

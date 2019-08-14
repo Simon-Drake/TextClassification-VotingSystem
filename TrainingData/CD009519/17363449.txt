@@ -1,0 +1,3 @@
+Early detection of local tumour recurrence and pulmonary metastasis in cardiac angiosarcoma with PET-CT and MRI.
+?
+['Early Diagnosis', 'Female', 'Heart Neoplasms/*diagnosis', 'Hemangiosarcoma/*diagnosis/*secondary', 'Humans', 'Lung Neoplasms/*secondary', 'Magnetic Resonance Angiography', 'Middle Aged', 'Neoplasm Recurrence, Local/diagnosis', 'Positron-Emission Tomography']

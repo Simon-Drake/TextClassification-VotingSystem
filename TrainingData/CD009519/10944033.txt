@@ -1,0 +1,3 @@
+Comparison of bone SPECT, magnetic resonance imaging, and computed tomography in the demonstration of vertebral metastases from bronchogenic carcinoma: an autopsy-documented case.
+?
+['Bone and Bones/*diagnostic imaging', 'Carcinoma, Bronchogenic/diagnosis/*secondary', 'Fatal Outcome', 'Humans', 'Lumbar Vertebrae/pathology', '*Magnetic Resonance Imaging', 'Male', 'Middle Aged', 'Retrospective Studies', 'Spinal Neoplasms/diagnosis/*secondary', 'Thoracic Vertebrae/pathology', '*Tomography, Emission-Computed, Single-Photon', '*Tomography, X-Ray Computed']

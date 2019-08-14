@@ -1,0 +1,1 @@
+MeSHBrainNeoplasms MeSHBreastNeoplasms MeSHCarcinoma MeSHEndometrioid MeSHCombinedModalityTherapy MeSHEndometrialNeoplasms MeSHFatalOutcome MeSHFemale MeSHHumans MeSHLungNeoplasms MeSHMiddleAged MeSHNeoplasms MeSHSecondPrimary MeSHRadiography MeSHalpha-Fetoproteins

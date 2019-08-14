@@ -1,0 +1,1 @@
+MeSHAbdominalPain MeSHAdult MeSHBariumSulfate MeSHColon MeSHSigmoid MeSHDiagnosis MeSHDifferential MeSHEndometriosis MeSHEnema MeSHFemale MeSHHumans MeSHIntestinalObstruction MeSHOvariectomy MeSHRadiography

@@ -1,0 +1,3 @@
+Sonography in the first trimester screening of trisomy 21 and other fetal aneuploidies.
+?
+['*Aneuploidy', 'Congenital Abnormalities/diagnostic imaging/genetics', 'Down Syndrome/*diagnostic imaging/embryology', 'Female', 'Fetal Diseases/*diagnostic imaging', 'Genetic Testing/*methods', 'Humans', 'Karyotyping', 'Neck/diagnostic imaging/embryology', 'Pregnancy', 'Pregnancy Trimester, First', 'Ultrasonography, Prenatal/*methods']

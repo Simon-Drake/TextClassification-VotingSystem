@@ -1,0 +1,3 @@
+Screening for early lung cancer with low-dose spiral computed tomography.
+?
+['Algorithms', 'Humans', 'Italy/epidemiology', 'Lung Neoplasms/*diagnostic imaging/epidemiology/prevention & control', 'Mass Screening/methods/*statistics & numerical data', 'Prevalence', 'Smoking/adverse effects/prevention & control', 'Tomography, Emission-Computed/statistics & numerical data', 'Tomography, Spiral Computed/*methods']

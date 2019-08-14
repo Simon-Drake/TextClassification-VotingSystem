@@ -1,0 +1,3 @@
+Detection of Aspergillus species DNA by PCR in bronchoalveolar lavage fluid.
+The usefulness of a nested PCR assay for detection of Aspergillus sp. DNA was evaluated in 177 bronchoalveolar lavage (BAL) fluid specimens. This test was accurate both to diagnose culture-negative BAL fluid specimens from patients with invasive pulmonary aspergillosis and to confirm culture-positive samples. However, it did not differentiate between infection and colonization.
+['Aspergillosis/*microbiology', 'Aspergillus/genetics/*isolation & purification', 'Bronchoalveolar Lavage Fluid/*microbiology', 'DNA, Fungal/analysis', 'Humans', 'Lung Diseases, Fungal/*microbiology', 'Polymerase Chain Reaction/*methods']

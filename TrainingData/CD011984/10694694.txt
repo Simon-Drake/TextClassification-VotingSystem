@@ -1,0 +1,3 @@
+Maternal age-specific rates of Down syndrome used in serum screening are biased low.
+?
+['Bias (Epidemiology)', 'Down Syndrome/blood/*diagnosis/*epidemiology', 'Female', 'Humans', '*Maternal Age', 'Pregnancy', '*Prenatal Diagnosis']

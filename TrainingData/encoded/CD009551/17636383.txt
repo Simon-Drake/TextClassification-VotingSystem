@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAspergillusnige MeSHCloning MeSHMolecular MeSHElectrophoresis MeSHPolyacrylamideGel MeSHEscherichiacol MeSHGeneExpression MeSHLipas MeSHMolecularSequenceData MeSHProteinFolding MeSHRecombinantProtein

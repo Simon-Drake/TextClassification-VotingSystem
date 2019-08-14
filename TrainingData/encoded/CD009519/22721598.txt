@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdult MeSHAged MeSHAged MeSH80andover MeSHColorectalNeoplasm MeSHFemale MeSHFollow-UpStudies MeSHHumans MeSHLun MeSHLungNeoplasm MeSHLymphNodeExcisio MeSHMale MeSHMiddleAged MeSHMinnesot MeSHPneumonectom MeSHPositron-EmissionTomography MeSHPrognosis MeSHRetrospectiveStudies MeSHSurvivalRat MeSHTomography MeSHX-RayComputed MeSHYoungAdult

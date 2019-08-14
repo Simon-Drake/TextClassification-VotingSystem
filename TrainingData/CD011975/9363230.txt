@@ -1,0 +1,3 @@
+Will PAPP-A be a biochemical marker for screening of Down's syndrome in the first trimester?
+?
+['Abortion, Spontaneous/blood', '*Biomarkers', 'Chromosome Aberrations', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy, Ectopic/blood', 'Pregnancy-Associated Plasma Protein-A/*analysis/chemistry/metabolism', '*Prenatal Diagnosis']

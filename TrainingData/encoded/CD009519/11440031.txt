@@ -1,0 +1,1 @@
+MeSHAdult MeSHBreastNeoplasm MeSHChemotherapy MeSHAdjuvant MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHMammography MeSHMiddleAged MeSHRadiopharmaceuticals MeSHReferenceStandards MeSHTechnetiumTc99mSestamibi MeSHTomography MeSHEmission-Computed MeSHTomography MeSHEmission-Computed MeSHSingle-Photon

@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHNeedle MeSHFemale MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMediastinoscopy MeSHNeoplasmStagin MeSHSensitivityandSpecificity MeSHThoracicSurgicalProcedure MeSHTomography MeSHEmission-Computed MeSHTomography MeSHX-RayComputed MeSHVideoRecording

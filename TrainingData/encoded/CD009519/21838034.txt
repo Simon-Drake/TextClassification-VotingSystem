@@ -1,0 +1,1 @@
+MeSHDiagnosis MeSHDifferential MeSHHumans MeSHLungNeoplasm MeSHPositron-EmissionTomography MeSHTomography MeSHX-RayComputed MeSHTuberculom

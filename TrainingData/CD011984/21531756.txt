@@ -1,0 +1,3 @@
+Regulating preimplantation genetic diagnosis: the case of Down's syndrome.
+?
+['Down Syndrome/*diagnosis/genetics/psychology', 'Family Relations', 'Female', 'Fertilization in Vitro/ethics/legislation & jurisprudence/standards', 'Genetic Testing/ethics/legislation & jurisprudence', 'Humans', 'Life Expectancy/trends', 'Pregnancy', 'Preimplantation Diagnosis/ethics/*standards', '*Quality of Life', '*Social Stigma', 'United Kingdom']

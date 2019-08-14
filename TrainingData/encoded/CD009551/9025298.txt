@@ -1,0 +1,1 @@
+MeSH6-Phytas MeSHAcidPhosphatas MeSHAminoAcidSequence MeSHAspergillu MeSHBaseSequence MeSHGeneLibrary MeSHGenes MeSHFungal MeSHMitosporicFung MeSHMolecularSequenceData MeSHPolymeraseChainReaction MeSHSequenceHomology MeSHAminoAcid MeSHSpeciesSpecificity

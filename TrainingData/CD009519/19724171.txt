@@ -1,0 +1,3 @@
+(68)Ga-DOTA-TOC/NOC in bronchial carcinoids.
+?
+['Aged', 'Aged, 80 and over', 'Autoradiography', 'Bronchial Neoplasms/*diagnostic imaging/surgery', 'Carcinoid Tumor/*diagnostic imaging/surgery', 'Female', 'Humans', 'Image Processing, Computer-Assisted', 'Male', 'Middle Aged', 'Neoplasm Metastasis', 'Octreotide/analogs & derivatives', '*Organometallic Compounds', 'Positron-Emission Tomography', '*Radiopharmaceuticals', 'Tomography, Emission-Computed']

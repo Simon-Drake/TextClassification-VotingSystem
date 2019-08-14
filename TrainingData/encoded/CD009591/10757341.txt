@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHEndometrioid MeSHDiagnosis MeSHDifferential MeSHDiseaseProgression MeSHEndometrialHyperplasia MeSHEndometrialNeoplasms MeSHFemale MeSHHumans MeSHMyometrium MeSHNeoplasmInvasiveness MeSHNeoplasmStaging

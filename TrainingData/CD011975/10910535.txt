@@ -1,0 +1,3 @@
+Cytogenetics: from aneuploidy to polymorphism.
+?
+['*Aneuploidy', 'Chromosome Aberrations/diagnosis/*genetics', 'Chromosome Disorders', 'Female', 'Humans', 'Infant, Newborn', 'Male', 'Polymerase Chain Reaction', 'Polymorphism, Genetic/*genetics', 'Pregnancy', '*Prenatal Diagnosis', 'Sex Chromosome Aberrations/genetics', 'Tandem Repeat Sequences']

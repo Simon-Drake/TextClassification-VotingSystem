@@ -1,0 +1,3 @@
+FDG PET/CT findings of epithelioid sarcoma in a pediatric patient.
+?
+['Child', 'Female', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/secondary', 'Pleural Effusion/diagnostic imaging', '*Positron-Emission Tomography', 'Sacrum/diagnostic imaging', 'Sarcoma/*diagnostic imaging/pathology', '*Tomography, X-Ray Computed']

@@ -1,0 +1,3 @@
+Tracheopathia osteoplastica.
+?
+['Biopsy', 'Bronchoscopy', 'Diagnosis, Differential', 'Humans', 'Lung Neoplasms/diagnostic imaging', 'Male', 'Middle Aged', 'Prognosis', 'Radiography', 'Tomography', 'Trachea/pathology', 'Tracheal Diseases/*diagnostic imaging/therapy']

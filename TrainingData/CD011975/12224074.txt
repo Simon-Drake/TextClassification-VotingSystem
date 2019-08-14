@@ -1,0 +1,3 @@
+The significance of the nuchal fold in the second trimester fetus.
+?
+['Adult', 'Down Syndrome/diagnostic imaging/*embryology/genetics', 'Female', 'Humans', 'Neck/*abnormalities/diagnostic imaging', 'Pregnancy', 'Pregnancy Trimester, Second', 'Risk Assessment', 'Ultrasonography, Prenatal']

@@ -1,0 +1,1 @@
+MeSHAspergillu MeSHBaseSequence MeSHCodon MeSHDNAPrimers MeSHElectrophoresis MeSHPolyacrylamideGel MeSHFermentation MeSHGlucan1 MeSH4-alpha-Glucosidas MeSHMitosis MeSHPlasmids MeSHPolymeraseChainReaction MeSHRecombination MeSHGenetic MeSHStarc

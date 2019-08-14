@@ -1,0 +1,3 @@
+Multiple primary lung cancers: comment on current opinions.
+?
+['DNA, Neoplasm/analysis', 'Humans', 'Lung Neoplasms/*pathology', 'Neoplasm Staging', '*Neoplasms, Multiple Primary', '*Neoplasms, Second Primary', 'Patient Care Planning', 'Prognosis', '*Terminology as Topic', 'Tomography, Emission-Computed', 'Tomography, X-Ray Computed']

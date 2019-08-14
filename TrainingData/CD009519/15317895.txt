@@ -1,0 +1,3 @@
+Case records of the Massachusetts General Hospital. Weekly clinicopathological exercises. Case 26-2004. A 56-year-old woman with cough and a lung nodule.
+?
+['Carcinoma, Large Cell/*diagnosis/therapy', 'Carcinoma, Non-Small-Cell Lung/*diagnosis/surgery/therapy', 'Combined Modality Therapy', 'Cough', 'Diagnosis, Differential', 'Female', 'Humans', 'Lung Neoplasms/*diagnosis/surgery/therapy', 'Lymphatic Metastasis', 'Middle Aged', 'Neoplasm Staging', 'Tomography, Emission-Computed', 'Tomography, X-Ray Computed']

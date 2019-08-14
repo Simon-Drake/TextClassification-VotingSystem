@@ -1,0 +1,3 @@
+Validating PCR for detecting invasive aspergillosis.
+?
+['Aspergillosis/*diagnosis', 'Aspergillus/*genetics', 'DNA, Fungal/*analysis', 'Humans', 'Polymerase Chain Reaction/methods', 'Sensitivity and Specificity']

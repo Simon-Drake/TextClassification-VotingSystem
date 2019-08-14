@@ -1,0 +1,1 @@
+MeSHBiomarkers MeSHTumo MeSHCarcinoma MeSHSquamousCel MeSHHumans MeSHLeukoplakia MeSHOra MeSHMassSpectrometry MeSHMolecularWeight MeSHMouthNeoplasm MeSHPeptideMappin MeSHProteomics MeSHSaliv MeSHSensitivityandSpecificity MeSHSpectrometry MeSHMass MeSHMatrix-AssistedLaserDesorption-Ionization

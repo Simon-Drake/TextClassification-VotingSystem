@@ -1,0 +1,1 @@
+MeSHBacterialInfection MeSHBiomarker MeSHCalcitoni MeSHCalcitoninGene-RelatedPeptide MeSHDiagnosis MeSHDifferential MeSHFemale MeSHFeve MeSHFollow-UpStudies MeSHGlycoproteins MeSHHumans MeSHImmunoassay MeSHInfant MeSHMale MeSHProspectiveStudies MeSHProteinPrecursor MeSHROCCurve

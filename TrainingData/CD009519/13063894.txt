@@ -1,0 +1,3 @@
+[The value of transverse tomography in the diagnosis of lung tumors].
+?
+['Humans', '*Lung Neoplasms', '*Radiography, Thoracic', '*Tomography', '*Tomography, X-Ray Computed']

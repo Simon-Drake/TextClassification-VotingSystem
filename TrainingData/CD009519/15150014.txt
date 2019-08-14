@@ -1,0 +1,3 @@
+Teflon injection for vocal cord paralysis: false-positive finding on FDG PET-CT in a patient with non-small cell lung cancer.
+?
+['Carcinoma, Non-Small-Cell Lung/*complications/diagnosis', 'False Positive Reactions', 'Humans', 'Injections, Intralesional', 'Laryngeal Neoplasms/*diagnosis', 'Lung Neoplasms/*complications/diagnosis', 'Polytetrafluoroethylene/*administration & dosage', '*Tomography, Emission-Computed', '*Tomography, X-Ray Computed', 'Vocal Cord Paralysis/complications/*therapy']

@@ -1,0 +1,3 @@
+Evaluation of two PCR methodologies for the detection of Aspergillus DNA.
+We investigated the application of two different nested PCR methodologies for the diagnosis of invasive aspergillosis, by studying the possible cross-reactions among different fungal species and genera. The sensitivity obtained using both techniques can be considered adequate, although we obtained amplified products from fungal genera other than Aspergillus, showing the presence of cross-reactions with fungal DNA.
+['Aspergillosis/diagnosis/microbiology', 'Aspergillus/*chemistry/isolation & purification', 'Cross Reactions', 'DNA, Fungal/*analysis', 'Fungi/chemistry/isolation & purification', 'Humans', 'Polymerase Chain Reaction/*methods', 'Sensitivity and Specificity', 'Species Specificity']

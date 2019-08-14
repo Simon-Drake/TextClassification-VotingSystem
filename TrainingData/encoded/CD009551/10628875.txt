@@ -1,0 +1,1 @@
+MeSHAlleles MeSHAminoAcidSequence MeSHAspergillusnidulan MeSHBaseSequence MeSHDNA MeSHFungal MeSHFungalProtein MeSHGenes MeSHRegulator MeSHMolecularSequenceData MeSHMutation MeSHPhenotype MeSHTranscriptionFactors MeSHZincFingers

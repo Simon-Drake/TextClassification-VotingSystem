@@ -1,0 +1,1 @@
+MeSHBronchialNeoplasm MeSHDiagnosis MeSHDifferential MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHMagneticResonanceImaging MeSHMale MeSHMiddleAged MeSHPlasmacytom MeSHPositron-EmissionTomography MeSHRadiopharmaceuticals MeSHStatisticsasTopic MeSHTomography MeSHX-RayComputed

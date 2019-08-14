@@ -1,0 +1,1 @@
+MeSHAbdominalPain MeSHAdult MeSHAscites MeSHCellTransformation MeSHNeoplastic MeSHChronicDisease MeSHEndometriosis MeSHFemale MeSHHumans MeSHLeiomyoma MeSHLeiomyomatosis MeSHTomography MeSHX-RayComputed MeSHUterineNeoplasms

@@ -1,0 +1,3 @@
+MicroRNAs and lung cancer: from markers to targets.
+?
+['Animals', 'Biomarkers/*metabolism', 'Early Detection of Cancer', 'Gene Expression Profiling', 'Humans', 'Lung Neoplasms/*diagnosis/*genetics/metabolism/pathology', 'MicroRNAs/genetics/*metabolism', 'Smoking/adverse effects', 'Tomography, Spiral Computed']

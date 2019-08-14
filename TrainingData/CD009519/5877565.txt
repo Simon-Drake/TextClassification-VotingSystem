@@ -1,0 +1,3 @@
+[Surgical treatment of bronchial carcinoma. Possibilities and opportunities].
+?
+['Aged', 'Bronchial Neoplasms/*surgery', 'Carcinoma, Bronchogenic/*surgery', 'Carcinoma, Squamous Cell/*surgery', 'Humans', 'Lung Neoplasms/diagnostic imaging', 'Male', 'Middle Aged', 'Pneumonectomy', 'Radiography', 'Smoking', 'Tomography']

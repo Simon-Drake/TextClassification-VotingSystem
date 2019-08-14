@@ -1,0 +1,1 @@
+MeSHAntineoplasticAgent MeSHCarcinoma MeSHNon-Small-CellLun MeSHFemale MeSHFluorodeoxyglucoseF1 MeSHHumans MeSHKaplan-MeierEstimate MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPositron-EmissionTomography MeSHQuinazoline MeSHRadiopharmaceutical MeSHRetrospectiveStudies MeSHTomography MeSHX-RayComputed MeSHTreatmentOutcome

@@ -1,0 +1,3 @@
+Absence of nasal bone and detection of trisomy 21.
+?
+['Down Syndrome/*diagnostic imaging/pathology', 'Female', 'Fetus/*abnormalities/pathology', 'Fragile X Syndrome/diagnostic imaging/pathology', 'Gestational Age', 'Humans', 'Nasal Bone/*diagnostic imaging/pathology', 'Pregnancy', 'Radiography']

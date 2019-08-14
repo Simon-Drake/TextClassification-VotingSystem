@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHDiagnosis MeSHDifferential MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLeiomyosarcom MeSHMiddleAged MeSHPneumonectomy MeSHPulmonaryArter MeSHTomography MeSHEmission-Computed MeSHVascularNeoplasm

@@ -1,0 +1,3 @@
+High-throughput genotyping of filamentous fungus Aspergillus oryzae based on colony direct polymerase chain reaction.
+High-throughput genotyping of Aspergillus oryzae was achieved using an FTA card for the extraction of a genomic DNA template for polymerase chain reaction from a fungal colony growing on an agar plate. This method was then applied to detect other fungal species from agar slants and food materials. This method offers a convenient tool for the genotyping of filamentous fungi without using an organic solvent or specialized equipment.
+['Aspergillus oryzae/*genetics/*isolation & purification', 'Chromosome Mapping/*methods', 'DNA, Fungal/*genetics', 'Genome, Fungal/*genetics', 'Genotype', 'Polymerase Chain Reaction/*methods']

@@ -1,0 +1,3 @@
+[Roentgen diagnostic possibilities in the early detection f intrathoracic tumors].
+?
+['Biopsy', 'Bronchial Neoplasms/*diagnosis', 'Bronchography', 'Humans', 'Lung Neoplasms/*diagnosis', '*Mass Chest X-Ray', 'Pneumomediastinum, Diagnostic', 'Tomography']

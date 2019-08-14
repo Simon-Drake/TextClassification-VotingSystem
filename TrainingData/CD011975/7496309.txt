@@ -1,0 +1,3 @@
+Decision analysis and screening for Down's syndrome. Costs were overestimated.
+?
+['Down Syndrome/*prevention & control', 'Female', 'Health Care Costs', 'Humans', 'Pregnancy', 'Prenatal Diagnosis/*economics', 'Prospective Studies', 'Wales']

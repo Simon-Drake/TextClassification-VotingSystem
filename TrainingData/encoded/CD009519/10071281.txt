@@ -1,0 +1,1 @@
+MeSHAbdominalNeoplasm MeSHAdult MeSHAged MeSHAged MeSH80andover MeSHColorectalNeoplasm MeSHFemale MeSHFluorineRadioisotopes MeSHHumans MeSHLiverNeoplasm MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHNeoplasmRecurrence MeSHLoca MeSHNeoplasmStaging MeSHRetrospectiveStudies MeSHTomography MeSHEmission-Compute MeSHWhole-BodyCounting

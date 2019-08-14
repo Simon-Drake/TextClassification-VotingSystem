@@ -1,0 +1,3 @@
+[Some aspects of the radiological diagnosis of cancer of the lung].
+?
+['*Angiography', '*Bronchography', 'Humans', 'Lung Neoplasms/*diagnosis', 'Radiography, Thoracic', '*Tomography']

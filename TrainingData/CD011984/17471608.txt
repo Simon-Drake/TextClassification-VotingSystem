@@ -1,0 +1,3 @@
+Expectations of care in different practice jurisdictions.
+?
+['Canada', '*Delivery of Health Care', 'Down Syndrome/diagnosis/*prevention & control', 'Female', 'Humans', 'Mass Screening/*utilization', '*Maternal Health Services', 'Pregnancy', 'Prenatal Care/*utilization', 'Prenatal Diagnosis/*utilization']

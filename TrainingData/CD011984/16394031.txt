@@ -1,0 +1,3 @@
+On the current dilemma of Down syndrome screening.
+?
+['Amniocentesis/methods', 'Down Syndrome/*diagnosis/*genetics', 'False Negative Reactions', 'False Positive Reactions', 'Female', 'Genetic Counseling', 'Genetic Testing/*standards/trends', 'Humans', 'Infant, Newborn', 'Male', 'Nuchal Translucency Measurement', 'Pregnancy', 'Pregnancy Trimester, First', 'Prenatal Diagnosis/*methods', 'Risk Factors', 'Sensitivity and Specificity', 'United States']

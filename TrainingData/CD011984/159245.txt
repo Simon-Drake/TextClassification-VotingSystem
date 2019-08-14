@@ -1,0 +1,3 @@
+[Possibilities of genetic counseling for prenatal diagnosis in pediatric practice].
+?
+['Adult', 'Chromosome Aberrations/diagnosis', 'Chromosome Disorders', 'Down Syndrome/genetics', 'Female', 'Fetal Blood', '*Genetic Counseling', 'Humans', 'Karyotyping', 'Male', 'Maternal Age', 'Metabolism, Inborn Errors/diagnosis', 'Middle Aged', 'Neural Tube Defects/diagnosis', 'Paternal Age', 'Pregnancy', 'Prenatal Diagnosis/*methods', 'Sex Determination Analysis', 'Thalassemia/diagnosis', 'Translocation, Genetic']

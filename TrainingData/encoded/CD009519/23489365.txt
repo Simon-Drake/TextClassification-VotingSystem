@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHCase-ControlStudies MeSHCellProliferation MeSHFluorodeoxyglucoseF1 MeSHGenotype MeSHHumans MeSHLungNeoplasm MeSHMutatio MeSHPositron-EmissionTomograph MeSHPredictiveValueofTests MeSHReceptor MeSHEpidermalGrowthFacto MeSHSurvivalRate

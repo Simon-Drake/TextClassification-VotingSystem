@@ -1,0 +1,1 @@
+MeSHAdult MeSHAged MeSHAlcoholDrinking MeSHCarcinoma MeSHSquamousCel MeSHCase-ControlStudies MeSHCatchmentArea(Health) MeSHCoffee MeSHDenmar MeSHFemale MeSHHumans MeSHIncidence MeSHLogisticModels MeSHMale MeSHMaritalStatus MeSHMiddleAged MeSHMouthNeoplasm MeSHMultivariateAnalysis MeSHOccupations MeSHOralHealth MeSHRiskFactors MeSHSmoking MeSHTea

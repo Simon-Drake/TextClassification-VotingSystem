@@ -1,0 +1,3 @@
+Five cases of triploidy identified through antenatal screening programme.
+?
+['Adult', 'China/epidemiology', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Mass Screening/*methods', '*Polyploidy', 'Pregnancy', 'Prenatal Diagnosis']

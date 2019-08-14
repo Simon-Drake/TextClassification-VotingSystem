@@ -1,0 +1,3 @@
+Maternal urinary free beta-subunit of human chorionic gonadotrophin: creatinine ratios and fetal chromosomal abnormalities in the second trimester of pregnancy.
+?
+['Adult', 'Chorionic Gonadotropin, beta Subunit, Human/*urine', '*Chromosome Aberrations', 'Chromosomes, Human, Pair 18', 'Chromosomes, Human, Pair 21', 'Female', 'Gestational Age', 'Humans', 'Karyotyping', 'Pregnancy', 'Pregnancy Trimester, Third', 'Prenatal Diagnosis/*methods', 'Trisomy', 'Turner Syndrome/diagnosis']

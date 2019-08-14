@@ -1,0 +1,1 @@
+MeSHBoneNeoplasm MeSHFatalOutcome MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHRadiopharmaceuticals MeSHTechnetiumTc99mMedronate MeSHTomography MeSHEmission-Computed

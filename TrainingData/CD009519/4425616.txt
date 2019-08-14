@@ -1,0 +1,3 @@
+Fibroxanthomatous pseudotumour of the lung.
+?
+['Adolescent', 'Body Weight', 'Bronchi/pathology', 'Bronchography', 'Cell Nucleus', 'Collagen/analysis', 'Cough/etiology', 'Cytoplasm', 'Eosinophils', 'Female', '*Fibroma/diagnosis/pathology/surgery', 'Hemoptysis/etiology', 'Histiocytes', 'Humans', 'Lung/diagnostic imaging/pathology', '*Lung Neoplasms/surgery', 'Lymphocytes', 'Plasma Cells', 'Tomography']

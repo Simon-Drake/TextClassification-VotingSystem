@@ -1,0 +1,1 @@
+MeSHBreastNeoplasm MeSHFemale MeSHFluorineRadioisotopes MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHImageProcessing MeSHComputer-Assisted MeSHLungNeoplasm MeSHMale MeSHMediastinalNeoplasm MeSHMiddleAged MeSHRadiopharmaceuticals MeSHTomography MeSHEmission-Compute

@@ -1,0 +1,1 @@
+MeSHCost-BenefitAnalysis MeSHDeoxyglucos MeSHDiagnosis MeSHDifferential MeSHFluorineRadioisotopes MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHJapan MeSHLungNeoplasm MeSHNeoplasmStagin MeSHRadiopharmaceuticals MeSHTomography MeSHEmission-Compute

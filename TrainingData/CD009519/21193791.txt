@@ -1,0 +1,3 @@
+Pulmonary coccidioidomycosis with peritoneal involvement mimicking lung cancer with peritoneal carcinomatosis.
+?
+['Antifungal Agents/therapeutic use', 'Biopsy', 'Carcinoma/*diagnosis', 'Coccidioides/*isolation & purification', 'Coccidioidomycosis/*diagnosis/drug therapy/microbiology', 'Diagnosis, Differential', 'Endoscopy, Gastrointestinal', 'Female', 'Humans', 'Lung Diseases, Fungal/complications/*diagnosis/drug therapy', 'Lung Neoplasms/*diagnosis', 'Middle Aged', 'Peritoneal Diseases/complications/*diagnosis/drug therapy', 'Peritoneal Neoplasms/*diagnosis', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed']

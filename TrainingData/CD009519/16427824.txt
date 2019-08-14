@@ -1,0 +1,3 @@
+Invited commentary.
+?
+['Adenocarcinoma/*diagnostic imaging/*pathology/surgery', 'Carcinoma, Non-Small-Cell Lung/*diagnostic imaging/*pathology/surgery', 'Humans', 'Lung Neoplasms/*diagnostic imaging/*pathology/surgery', '*Neoplasm Staging', 'Patient Care Planning', 'Pneumonectomy/methods', 'Tomography, Spiral Computed/*methods']

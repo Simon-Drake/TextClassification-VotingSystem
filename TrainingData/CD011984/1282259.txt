@@ -1,0 +1,3 @@
+Does fetal growth retardation explain the association between Down syndrome and low levels of maternal serum alpha-fetoprotein?
+?
+['Birth Weight', 'Down Syndrome/*blood', 'Female', 'Humans', 'Pregnancy', 'alpha-Fetoproteins/*metabolism']

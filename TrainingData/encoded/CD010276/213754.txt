@@ -1,0 +1,1 @@
+MeSHAdult MeSHCellAdhesion MeSHCytoplas MeSHDesmosome MeSHEpitheliu MeSHFemale MeSHGingiv MeSHGingivalDisease MeSHHumans MeSHInclusionBodie MeSHInfant MeSHIntercellularJunction MeSHKeratins MeSHMouthDisease MeSHMouthMucos MeSHMucousMembrane MeSHSyndrome MeSHVacuole

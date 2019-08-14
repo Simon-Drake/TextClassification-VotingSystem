@@ -1,0 +1,3 @@
+Estimating a woman's risk of having a pregnancy associated with Down's syndrome using her age and serum alpha-fetoprotein level.
+?
+['Down Syndrome/*diagnosis', 'Female', 'Humans', 'Pregnancy', '*Prenatal Diagnosis', 'Risk Factors', 'alpha-Fetoproteins/*analysis']

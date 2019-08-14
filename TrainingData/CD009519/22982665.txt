@@ -1,0 +1,3 @@
+Efficacy of positron emission tomography staging for small-cell lung cancer: a systematic review and cost analysis in the Australian setting.
+?
+['*Health Care Costs', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Positron-Emission Tomography/*economics', 'Small Cell Lung Carcinoma/*diagnostic imaging']

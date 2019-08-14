@@ -1,0 +1,3 @@
+Type III congenital cystic adenomatoid malformation of the lung detected through maternal serum screening positive for Down's syndrome.
+?
+['Abortion, Induced', 'Adult', 'Amniocentesis', 'Autopsy', 'Chorionic Gonadotropin/analysis', 'Cystic Adenomatoid Malformation of Lung, Congenital/complications/*diagnostic imaging/pathology', 'Down Syndrome/complications/*diagnostic imaging/pathology', 'Female', 'Gestational Age', 'Humans', 'Maternal Age', 'Pregnancy', 'Pregnancy Complications/*blood', 'Pregnancy Trimester, Second', 'Risk Factors', 'Ultrasonography, Prenatal', 'alpha-Fetoproteins/analysis']

@@ -1,0 +1,3 @@
+Increased nuchal translucency and fetal chromosomal defects.
+?
+['Adult', 'Down Syndrome/*diagnostic imaging', 'Female', 'Fetus/*abnormalities', 'Humans', 'Neck/*abnormalities/diagnostic imaging', 'Pregnancy', 'Pregnancy Trimester, First', 'Research Design', 'Risk Factors', '*Ultrasonography, Prenatal']

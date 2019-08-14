@@ -1,0 +1,1 @@
+MeSHAreaUnderCurve MeSHDentalCarie MeSHFluorescence MeSHHumans MeSHInVitroTechniques MeSHMola MeSHPhysicalExamination MeSHROCCurve MeSHRadiography MeSHBitewing MeSHReproducibilityofResults MeSHToothAttritio MeSHTooth MeSHDeciduou

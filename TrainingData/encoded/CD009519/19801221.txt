@@ -1,0 +1,1 @@
+MeSHBoneNeoplasm MeSHHumans MeSHKidneyNeoplasm MeSHLungNeoplasm MeSHMultipleMyelom MeSHNeuroendocrineTumor MeSHPositron-EmissionTomograph MeSHThyroidNeoplasm MeSHTomography MeSHEmission-Computed MeSHSingle-Photo

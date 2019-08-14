@@ -1,0 +1,3 @@
+[Simultaneous tomography in the diagnosis of lung diseases].
+?
+['Humans', 'Lung Abscess/diagnostic imaging', 'Lung Diseases/*diagnostic imaging', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Radiography', 'Tomography']

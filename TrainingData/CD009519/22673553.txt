@@ -1,0 +1,3 @@
+Preoperative pathological diagnosis of lung cancer: is it always necessary?
+?
+['Biopsy', 'Carcinoma, Non-Small-Cell Lung/*diagnosis/mortality/secondary/surgery', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnosis/mortality/pathology/surgery', 'Neoplasm Staging', 'Positron-Emission Tomography', 'Predictive Value of Tests', 'Preoperative Care', 'Prognosis', 'Radiopharmaceuticals', 'Tomography, X-Ray Computed']

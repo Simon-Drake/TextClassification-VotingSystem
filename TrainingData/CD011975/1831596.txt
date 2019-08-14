@@ -1,0 +1,3 @@
+Prenatal sonographic diagnosis of severe nonimmune hydrops in a Down syndrome fetus at 16 weeks of gestation.
+?
+['Adult', 'Down Syndrome/*complications', 'Female', 'Gestational Age', 'Humans', 'Hydrops Fetalis/complications/*diagnostic imaging', 'Pregnancy', 'Severity of Illness Index', '*Ultrasonography, Prenatal']

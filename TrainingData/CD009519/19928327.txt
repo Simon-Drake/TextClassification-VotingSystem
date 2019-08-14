@@ -1,0 +1,3 @@
+[Imaging diagnosis:Q & A. Pulmonary sclerosing hemangioma].
+?
+['Female', 'Humans', 'Lung/pathology', 'Middle Aged', 'Positron-Emission Tomography', 'Pulmonary Sclerosing Hemangioma/*diagnosis/pathology', 'Tomography, X-Ray Computed']

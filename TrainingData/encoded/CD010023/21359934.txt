@@ -1,0 +1,1 @@
+MeSHDiagnosis MeSHDifferential MeSHFemale MeSHFractures MeSHBon MeSHHumans MeSHMagneticResonanceImaging MeSHMale MeSHPredictiveValueofTests MeSHProspectiveStudies MeSHScaphoidBon MeSHSensitivityandSpecificity MeSHTomography MeSHX-RayCompute MeSHTrapezoidBon

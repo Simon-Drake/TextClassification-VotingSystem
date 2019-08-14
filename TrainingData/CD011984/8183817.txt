@@ -1,0 +1,3 @@
+Antenatal screening.
+?
+['Chromosome Aberrations/diagnosis', 'Chromosome Disorders', 'Counseling', 'Down Syndrome/diagnosis', 'Ethics, Medical', 'Female', 'Humans', 'Neural Tube Defects/diagnosis', 'Practice Guidelines as Topic', 'Pregnancy', '*Prenatal Diagnosis/standards']

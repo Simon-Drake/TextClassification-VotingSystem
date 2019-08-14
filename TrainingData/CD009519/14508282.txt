@@ -1,0 +1,3 @@
+Radiation-induced esophagitis on FDG PET imaging.
+?
+['Aged', 'Carcinoma, Non-Small-Cell Lung/diagnostic imaging/radiotherapy', 'Diagnosis, Differential', 'Esophagitis/*diagnostic imaging/*etiology', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging/*radiotherapy', 'Male', 'Radiopharmaceuticals', 'Radiotherapy/*adverse effects', 'Tomography, Emission-Computed/*methods']

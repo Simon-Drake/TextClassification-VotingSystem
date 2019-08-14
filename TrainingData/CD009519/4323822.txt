@@ -1,0 +1,3 @@
+[On bronchiolo-alveolar carcinoma of the lung].
+?
+['Adenocarcinoma, Bronchiolo-Alveolar/*diagnostic imaging/pathology', 'Aged', 'Bronchography', 'Diagnosis, Differential', 'Female', 'Humans', 'Lung Neoplasms/*diagnostic imaging/pathology', 'Male', 'Middle Aged', 'Pneumonectomy', 'Radiography, Thoracic', 'Tomography']

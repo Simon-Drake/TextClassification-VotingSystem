@@ -1,0 +1,3 @@
+[Non-invasive prenatal diagnosis: a tool for the future? Which consequences for our practices?].
+?
+['Aneuploidy', 'Chromosome Disorders/diagnosis', 'DNA/blood', 'Down Syndrome/diagnosis/genetics', 'Female', 'Fetal Blood/cytology', 'Fetus', 'Humans', 'Placenta/chemistry', 'Pregnancy', 'Pregnancy Proteins/genetics', 'Prenatal Diagnosis/*methods/*trends', 'RNA, Messenger/analysis']

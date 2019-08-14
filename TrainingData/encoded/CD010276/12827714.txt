@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHFine-Needl MeSHHumans MeSHInfant MeSHMale MeSHMouthFloor MeSHMouthNeoplasm MeSHPreoperativeCare MeSHTeratom MeSHTreatmentOutcome

@@ -1,0 +1,3 @@
+Genetic drift. A permanent bond.
+?
+['Amniocentesis', 'Down Syndrome/diagnosis/genetics', 'Female', '*Genetic Counseling', 'Humans', 'Male', "Physician's Role/*psychology", '*Physician-Patient Relations', 'Pregnancy', 'Time Factors', 'Ultrasonography, Prenatal']

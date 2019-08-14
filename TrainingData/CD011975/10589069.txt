@@ -1,0 +1,3 @@
+When are we allowed to use a marker in Down syndrome screening?
+?
+['Down Syndrome/*diagnosis', 'Female', 'Genetic Markers', '*Genetic Testing', 'Humans', 'Models, Statistical', 'Pregnancy']

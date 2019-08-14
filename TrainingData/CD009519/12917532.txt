@@ -1,0 +1,3 @@
+Differentiation of synchronous tumors using FDG positron emission tomography.
+?
+['Aged', 'Carcinoma, Non-Small-Cell Lung/*diagnostic imaging', '*Fluorodeoxyglucose F18', 'Humans', 'Liver Neoplasms/secondary', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Neoplasms, Multiple Primary/*diagnostic imaging', 'Pancreatic Neoplasms/*diagnostic imaging/pathology', '*Radiopharmaceuticals', 'Tomography, Emission-Computed']

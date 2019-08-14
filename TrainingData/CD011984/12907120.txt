@@ -1,0 +1,3 @@
+Incorporation of inhibin-A in second-trimester screening for Down syndrome.
+?
+['Biomarkers/blood', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Inhibins/*blood', 'Pregnancy', 'Pregnancy Trimester, Second', 'Prenatal Diagnosis/*methods', 'Sensitivity and Specificity', 'alpha-Fetoproteins/metabolism']

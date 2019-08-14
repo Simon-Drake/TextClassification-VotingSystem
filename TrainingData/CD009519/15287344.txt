@@ -1,0 +1,3 @@
+Population screening for lung cancer.
+The feasibility of diagnosing small stage 1 lung cancers using low-dose chest computed tomography in asymptomatic at-risk individuals has been demonstrated in multiple studies. However, it has yet to be proved that the introduction of a chest computed tomography screening programme would do more good than harm at an acceptable cost.
+['Algorithms', 'Bias (Epidemiology)', 'Humans', 'Lung Neoplasms/*diagnosis', 'Mass Screening/*methods', 'Randomized Controlled Trials as Topic', 'Risk Factors', 'Solitary Pulmonary Nodule/diagnosis', '*Tomography, Spiral Computed/methods']

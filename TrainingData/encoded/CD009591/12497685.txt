@@ -1,0 +1,1 @@
+MeSHAbdominalPain MeSHCA-125Antigen MeSHCervixUteri MeSHDiagnosis MeSHDifferential MeSHEndometriosis MeSHFallopianTubes MeSHFemale MeSHHumans MeSHHysterectomy MeSHLeiomyoma MeSHMiddleAged MeSHMullerianDucts MeSHOvarianDiseases MeSHOvariectomy MeSHUterineNeoplasms MeSHUterus

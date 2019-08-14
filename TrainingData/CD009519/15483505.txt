@@ -1,0 +1,3 @@
+Detection of a pulmonary epithelioid hemangioendothelioma by FDG PET scan.
+?
+['Aged', '*Fluorodeoxyglucose F18', 'Hemangioendothelioma, Epithelioid/*diagnostic imaging/pathology', 'Humans', 'Lung/pathology', 'Lung Neoplasms/*diagnostic imaging/pathology', 'Male', '*Positron-Emission Tomography', 'Radiopharmaceuticals']

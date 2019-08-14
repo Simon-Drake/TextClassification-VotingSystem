@@ -1,0 +1,1 @@
+MeSHAspergillu MeSHBaseSequence MeSHDNAPrimers MeSHDNA MeSHFunga MeSHDNA MeSHIntergeni MeSHDatabases MeSHNucleicAcid MeSHHumans MeSHMolecularSequenceData MeSHPolymeraseChainReaction MeSHRibosome MeSHTranscription MeSHGenetic

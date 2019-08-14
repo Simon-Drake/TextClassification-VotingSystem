@@ -1,0 +1,3 @@
+[ON THE METHOD AND TECHNIC OF SERIAL 1-STAGE TOMOGRAPHY].
+?
+['*Craniocerebral Trauma', '*Dermoid Cyst', 'Female', 'Humans', '*Lung Neoplasms', '*Lymphatic Metastasis', '*Neoplasm Metastasis', 'Neoplasms/*diagnosis', '*Occipital Bone', '*Ovary', '*Pelvic Bones', '*Radiation Effects', '*Radiation Protection', '*Radiography', '*Radiography, Thoracic', '*Tomography', '*Uterine Cervical Neoplasms']

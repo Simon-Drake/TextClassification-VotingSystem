@@ -1,0 +1,3 @@
+Intense fluorodeoxyglucose activity in pulmonary amyloid lesions on positron emission tomography.
+?
+['Aged', 'Amyloidosis/complications/*diagnostic imaging/metabolism', 'Diagnosis, Differential', '*Diagnostic Errors', 'Female', '*Fluorodeoxyglucose F18/pharmacokinetics', 'Humans', 'Lung/*diagnostic imaging/metabolism', 'Lung Neoplasms/*diagnostic imaging/metabolism', 'Pneumonia/*diagnostic imaging/etiology/metabolism', 'Radiopharmaceuticals/pharmacokinetics', 'Tomography, Emission-Computed/*methods']

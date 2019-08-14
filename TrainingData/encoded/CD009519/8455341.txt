@@ -1,0 +1,1 @@
+MeSHAdenocarcinom MeSHAdult MeSHAged MeSHBoneNeoplasm MeSHCarcinoma MeSHPapillar MeSHFemale MeSHHumans MeSHIodineRadioisotope MeSHLungNeoplasm MeSHLymphaticMetastasis MeSHMale MeSHMiddleAged MeSHPrognosis MeSHRadiotherapyDosage MeSHThyroidNeoplasm MeSHTomography MeSHEmission-Computed MeSHSingle-Photon MeSHTreatmentOutcome

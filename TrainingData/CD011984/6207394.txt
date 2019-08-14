@@ -1,0 +1,3 @@
+Alphafetoprotein and chorionic gonadotropin levels in relation to Down's syndrome.
+?
+['Chorionic Gonadotropin/*blood', 'Down Syndrome/*embryology', 'Female', 'Humans', 'Pregnancy', 'Pregnancy Trimester, Second', 'alpha-Fetoproteins/*analysis']

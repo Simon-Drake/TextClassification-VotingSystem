@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHFine-Needle MeSHCombinedModalityTherapy MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHMale MeSHMiddleAged MeSHPositron-EmissionTomograph MeSHPulmonaryArter MeSHRadiopharmaceuticals MeSHSarcom MeSHTunicaIntim MeSHVascularNeoplasm

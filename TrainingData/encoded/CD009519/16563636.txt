@@ -1,0 +1,1 @@
+MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHLymphNode MeSHNeoplasmStaging MeSHNeoplasm MeSHPatientCarePlanning MeSHPositron-EmissionTomograph MeSHRadiopharmaceuticals MeSHTomography MeSHX-RayCompute MeSHTreatmentOutcome

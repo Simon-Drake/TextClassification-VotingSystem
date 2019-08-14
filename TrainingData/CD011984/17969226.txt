@@ -1,0 +1,3 @@
+In vitro fertilization with preimplantation genetic screening.
+?
+['Aneuploidy', 'Chromosome Disorders/diagnosis', 'Embryo Transfer', 'Female', '*Fertilization in Vitro', '*Genetic Testing/methods', 'Humans', 'Maternal Age', 'Pregnancy', '*Pregnancy Rate', '*Preimplantation Diagnosis']

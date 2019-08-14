@@ -1,0 +1,1 @@
+MeSHHumans MeSHLungDisease MeSHLungNeoplasm MeSHMucociliaryClearanc MeSHPneumoni MeSHPulmonaryDiffusingCapacit MeSHRespiratoryFunctionTest MeSHTomography MeSHEmission-Computed MeSHVentilation-PerfusionRati

@@ -1,0 +1,3 @@
+Detection of aneuploidy with fetal nuchal translucency and maternal serum markers in Japanese women.
+?
+['Adult', '*Aneuploidy', 'Biomarkers/analysis', 'Extraembryonic Membranes/*diagnostic imaging', 'Female', 'Genetic Counseling', 'Humans', 'Pregnancy', '*Prenatal Diagnosis', 'Sensitivity and Specificity', '*Ultrasonography, Prenatal']

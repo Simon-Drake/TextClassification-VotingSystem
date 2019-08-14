@@ -1,0 +1,3 @@
+Modelling of decision analysis and costs.
+?
+['Adult', 'Breast Neoplasms/prevention & control', 'Cost of Illness', 'Decision Making', '*Decision Support Techniques', 'Diagnostic Imaging/economics/statistics & numerical data', 'Down Syndrome/diagnostic imaging', 'Female', 'Fetal Diseases/diagnostic imaging', 'Health Care Costs', 'Humans', 'Mammography/economics/statistics & numerical data', 'Mass Screening/economics/statistics & numerical data', '*Models, Economic', '*Models, Theoretical', 'Outcome Assessment (Health Care)', 'Policy Making', 'Predictive Value of Tests', 'Sensitivity and Specificity', 'Ultrasonography, Prenatal/economics/statistics & numerical data']

@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSquamousCel MeSHColoringAgents MeSHDiagnosis MeSHOra MeSHHumans MeSHLikelihoodFunctions MeSHMouthNeoplasm MeSHToloniumChloride

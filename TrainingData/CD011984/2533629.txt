@@ -1,0 +1,3 @@
+[Clinical significance of 3,4-dihydroxyphenyl acetic acid analysis in endocrine tests of the adrenal medulla and sympathetic nervous system].
+?
+['3,4-Dihydroxyphenylacetic Acid/blood/*urine', 'Addison Disease/diagnosis', 'Adrenal Gland Neoplasms/diagnosis', 'Adrenal Medulla/physiopathology', 'Adult', 'Aged', 'Amniotic Fluid/analysis', 'Chromatography, High Pressure Liquid', 'Down Syndrome/diagnosis', 'Female', 'Humans', 'Male', 'Middle Aged', 'Parkinson Disease/diagnosis', 'Phenylacetates/*urine', 'Pheochromocytoma/diagnosis', 'Pregnancy', 'Reference Values', 'Specimen Handling', 'Sympathetic Nervous System/physiopathology']

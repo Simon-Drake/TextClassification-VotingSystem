@@ -1,0 +1,3 @@
+Detection of a small lung cancer hidden in pneumoconiosis with progressive massive fibrosis using F-18 fluorodeoxyglucose PET/CT.
+?
+['Carcinoma, Squamous Cell/*diagnostic imaging', 'Diagnosis, Differential', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', 'Middle Aged', 'Pneumoconiosis/*diagnostic imaging', 'Radiopharmaceuticals', 'Tomography, Emission-Computed', 'Tomography, X-Ray Computed']

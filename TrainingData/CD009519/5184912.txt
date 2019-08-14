@@ -1,0 +1,3 @@
+[Re-evaluation of simple x-ray film from the standpoint of tomography and magnified film].
+?
+['Adult', 'Female', 'Humans', 'Lung Neoplasms/diagnostic imaging', 'Lymph Nodes/diagnostic imaging', 'Male', '*Radiography, Thoracic', 'Thymus Neoplasms/diagnostic imaging', '*Tomography']

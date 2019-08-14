@@ -1,0 +1,1 @@
+MeSHBiomarkers MeSHTumo MeSHBiops MeSHCarcinoma MeSHSquamousCel MeSHEpithelialCell MeSHHumans MeSHImmunoenzymeTechniques MeSHMouthMucos MeSHMouthNeoplasm MeSHNeoplasmInvasivenes MeSHProspectiveStudies MeSHSensitivityandSpecificity MeSHTenasci

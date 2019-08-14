@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHBronchography MeSHChronicDisease MeSHDiagnosis MeSHDifferential MeSHDiagnosticTechniques MeSHSurgical MeSHHumans MeSHLungNeoplasm MeSHPneumoni MeSHRadiography MeSHThoracic MeSHThoracicSurgery MeSHThora MeSHTomography

@@ -1,0 +1,3 @@
+The impact of prenatal diagnosis on the incidence of Down syndrome in Denmark.
+?
+['Adult', 'Denmark/epidemiology', 'Down Syndrome/*diagnosis/epidemiology', 'Female', 'Humans', 'Incidence', 'Infant, Newborn', 'Male', 'Maternal Age', 'Population Surveillance', 'Prenatal Diagnosis/methods/*standards/utilization', 'Registries', 'Sex Ratio']

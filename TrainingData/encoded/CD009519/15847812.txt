@@ -1,0 +1,1 @@
+MeSHDiagnosticImaging MeSHHumans MeSHLungNeoplasm MeSHLymphaticMetastasi MeSHNeoplasmRecurrence MeSHLoca MeSHNeoplasmStaging MeSHPleuralNeoplasm MeSHPositron-EmissionTomography MeSHTomography MeSHX-RayComputed

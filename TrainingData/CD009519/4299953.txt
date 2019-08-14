@@ -1,0 +1,3 @@
+[Compression of the esophagus by an inferior lobar cancer of the left lung].
+?
+['Aged', 'Antiemetics/therapeutic use', 'Bronchial Neoplasms/*complications/diagnostic imaging', 'Carcinoma, Squamous Cell/*complications/diagnostic imaging', 'Deglutition Disorders/*etiology', 'Esophageal Neoplasms/diagnostic imaging', 'Esophageal Stenosis/*etiology', 'Humans', 'Male', 'Neoplasm Metastasis', 'Radiography', 'Tomography', 'Vomiting/drug therapy/etiology']

@@ -1,0 +1,3 @@
+Pathology of chromosome abnormalities in the fetus--pathologic markers.
+?
+['Aneuploidy', 'Chromosome Aberrations/*embryology', 'Chromosome Disorders', 'Congenital Abnormalities/*genetics', 'Humans', 'Karyotyping', 'Phenotype', 'Polyploidy']

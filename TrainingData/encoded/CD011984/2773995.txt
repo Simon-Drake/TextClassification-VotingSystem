@@ -1,0 +1,1 @@
+MeSHAmniocentesis MeSHCells MeSHCultured MeSHChromosomeAberrations MeSHChromosomeBanding MeSHChromosomeDisorders MeSHFemale MeSHFetus MeSHFollow-UpStudies MeSHHumans MeSHKaryotyping MeSHMale MeSHMosaicism MeSHPhenotype MeSHPregnancy MeSHPregnancyOutcome MeSHPregnancyTrimester MeSHSecond MeSHSexChromosomes

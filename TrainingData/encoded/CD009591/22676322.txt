@@ -1,0 +1,1 @@
+MeSHAbdominalPain MeSHAnalgesia MeSHBiomarkers MeSHCecalDiseases MeSHEndometriosis MeSHFemale MeSHHospitalization MeSHHumans MeSHIlealDiseases MeSHImmunohistochemistry MeSHIntussusception MeSHKeratin-7 MeSHNeprilysin MeSHTomography MeSHX-RayComputed MeSHTreatmentOutcome MeSHYoungAdult

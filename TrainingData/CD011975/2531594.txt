@@ -1,0 +1,3 @@
+Detection of Down's syndrome in low risk patients.
+?
+['Adult', 'Down Syndrome/*diagnosis', 'Female', 'Fetus/pathology', 'Humans', 'Neck/pathology', '*Prenatal Diagnosis', 'Risk Factors', '*Ultrasonography']

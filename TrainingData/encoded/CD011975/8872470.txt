@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAnimals MeSHBaseSequence MeSHChromosomeMapping MeSHChromosomes MeSHHuman MeSHPair21 MeSHDNAPrimers MeSHDownSyndrome MeSHDrosophila MeSHDrosophilaProteins MeSHHumans MeSHMolecularSequenceData MeSHProtein-Serine-ThreonineKinases MeSHProtein-TyrosineKinases

@@ -1,0 +1,3 @@
+The price of progress.
+?
+['Abortion, Legal', 'Congenital Abnormalities/*diagnosis', 'Decision Making', 'Female', 'Humans', 'Pregnancy/*psychology', '*Prenatal Diagnosis']

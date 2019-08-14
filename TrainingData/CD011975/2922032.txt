@@ -1,0 +1,3 @@
+Chromosome analyses from urinary sediment: postnatal confirmation of a prenatally diagnosed trisomy 20 mosaicism.
+?
+['*Chromosomes, Human, Pair 20', 'Female', 'Humans', 'Infant', 'Male', '*Mosaicism', 'Pregnancy', 'Prenatal Diagnosis', '*Trisomy', 'Urine/*cytology']

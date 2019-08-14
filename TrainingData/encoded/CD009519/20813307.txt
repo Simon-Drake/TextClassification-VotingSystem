@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHDiagnosis MeSHDifferential MeSHFalsePositiveReactions MeSHFluorodeoxyglucoseF1 MeSHFollow-UpStudies MeSHGiantCells MeSHForeign-Bod MeSHGranulom MeSHHumans MeSHLun MeSHLungDisease MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPositron-EmissionTomograph MeSHRadiopharmaceutical MeSHTomography MeSHX-RayCompute

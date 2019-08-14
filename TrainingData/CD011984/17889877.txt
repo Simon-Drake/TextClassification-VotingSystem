@@ -1,0 +1,3 @@
+Down syndrome screening in Nigeria.
+?
+['Clinical Competence/*statistics & numerical data', 'Data Collection', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Mass Screening/utilization', 'Nigeria', 'Obstetrics/*education', 'Pregnancy', 'Prenatal Diagnosis/*methods']

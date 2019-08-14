@@ -1,0 +1,1 @@
+MeSHAnimals MeSHCellAdhesion MeSHCellAdhesionMolecules MeSHCellAggregation MeSHDNA MeSHComplementary MeSHDownSyndrome MeSHHumans MeSHLCells(CellLine) MeSHMembraneProteins MeSHMice MeSHProteins MeSHTransfection

@@ -1,0 +1,3 @@
+Second-trimester diagnosis of mosaic idic(20)(p11) confined to amniocytes without an abnormal phenotype.
+?
+['Adult', '*Amniocentesis', 'Amnion/cytology', 'Chromosomes, Human, Pair 20/*genetics', 'Female', 'Genetic Counseling', 'Humans', 'Isochromosomes/*genetics', 'Male', 'Mosaicism/*genetics', 'Pregnancy', 'Pregnancy Trimester, Second']

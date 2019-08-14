@@ -1,0 +1,3 @@
+[The significance of segmental bronchography and angiography in the differential diagnosis of the main groups of spherical formations of the lung].
+?
+['Angiography', 'Bronchography', 'Chronic Disease', 'Diagnosis, Differential', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Pneumonia/*diagnostic imaging', 'Solitary Pulmonary Nodule/*diagnostic imaging', 'Tomography', 'Tuberculoma/*diagnostic imaging']

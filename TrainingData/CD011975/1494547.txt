@@ -1,0 +1,3 @@
+Prenatal diagnosis of monosomy 18 and ring chromosome 18 mosaicism.
+The case of monosomy 18/ring chromosome 18 mosaicism which was detected prenatally by amniocentesis is presented. The pregnancy was terminated in week 18. Autopsy showed complex malformation of the fetus consisting of cebocephaly, hypotelorism, microphthalmia, severe defects of brain development, and arrest of placental maturation.
+['Adult', '*Amniocentesis', 'Brain/abnormalities', 'Chorionic Villi/ultrastructure', 'Chorionic Villi Sampling', '*Chromosomes, Human, Pair 18', 'Female', 'Humans', '*Monosomy', '*Mosaicism', 'Pregnancy', '*Ring Chromosomes']

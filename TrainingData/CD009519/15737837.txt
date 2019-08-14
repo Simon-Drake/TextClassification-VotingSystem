@@ -1,0 +1,3 @@
+Imaging bronchial carcinoma in situ: possible roles for combined positron emission tomography (PET)-CT.
+?
+['Aged', 'Carcinoma in Situ/*diagnostic imaging', 'Carcinoma, Bronchogenic/*diagnostic imaging', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Male', '*Positron-Emission Tomography']

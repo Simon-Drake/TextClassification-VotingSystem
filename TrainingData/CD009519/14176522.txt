@@ -1,0 +1,3 @@
+[THE DIAGNOSTIC PROBLEM IN CANCER OF THE LUNG].
+?
+['*Diagnosis', 'Humans', '*Lung Neoplasms', '*Neoplasms', '*Radiography', '*Tomography', '*Tomography, X-Ray Computed']

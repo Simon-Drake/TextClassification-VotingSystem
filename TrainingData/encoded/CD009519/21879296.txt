@@ -1,0 +1,1 @@
+MeSHDiagnosis MeSHDifferential MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHIncidence MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHMultimodalImaging MeSHPositron-EmissionTomography MeSHSolitaryPulmonaryNodul MeSHTomography MeSHX-RayComputed MeSHTuberculosis MeSHPulmonar MeSHTumorBurden

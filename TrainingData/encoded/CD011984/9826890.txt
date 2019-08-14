@@ -1,0 +1,1 @@
+MeSHAdult MeSHBloodFlowVelocity MeSHChorionicVilliSampling MeSHDiastole MeSHFatalOutcome MeSHFemale MeSHFetalDiseases MeSHHeartDefects MeSHCongenital MeSHHumans MeSHMale MeSHPregnancy MeSHUltrasonography MeSHDoppler MeSHUltrasonography MeSHPrenatal MeSHUmbilicalArteries

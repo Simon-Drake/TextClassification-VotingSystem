@@ -1,0 +1,3 @@
+[Diagnosis of bronchial cancer].
+?
+['Adenocarcinoma/*diagnosis/diagnostic imaging/pathology', 'Adenocarcinoma, Bronchiolo-Alveolar/*diagnosis/diagnostic imaging/pathology', 'Biopsy', 'Bronchial Neoplasms/*diagnosis/diagnostic imaging/pathology', 'Bronchoscopy', 'Carcinoma/*diagnosis/diagnostic imaging/pathology', 'Carcinoma, Squamous Cell/*diagnosis/diagnostic imaging/pathology', 'Endoscopy', 'Humans', 'Mediastinum', 'Radiography', 'Tomography']

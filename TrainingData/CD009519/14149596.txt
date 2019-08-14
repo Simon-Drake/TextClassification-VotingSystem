@@ -1,0 +1,3 @@
+[PECULIARITIES IN THE CLINICAL COURSE AND DIAGNOSIS OF LUNG CANCER IN SILICOSIS PATIENTS].
+?
+['*Bronchography', '*Diagnosis, Differential', 'Humans', '*Lung Neoplasms', 'Neoplasms/*diagnosis', '*Pneumonectomy', '*Radiography, Thoracic', '*Silicosis', '*Tomography']

@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHBronchialNeoplasm MeSHBronchoscopy MeSHCarcinom MeSHCatheterization MeSHHumans MeSHMalpractice MeSHPancoastSyndrom MeSHPrognosis MeSHRadiography MeSHSputu MeSHTimeFactors MeSHTomography

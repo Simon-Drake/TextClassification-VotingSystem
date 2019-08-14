@@ -1,0 +1,3 @@
+Do we need randomised trials to evaluate diagnostic procedures? For.
+?
+['Carcinoma, Non-Small-Cell Lung/*diagnostic imaging', '*Evaluation Studies as Topic', 'Evidence-Based Medicine/*methods', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Predictive Value of Tests', 'Randomized Controlled Trials as Topic/*methods', '*Research Design', 'Technology Assessment, Biomedical/methods', 'Tomography, Emission-Computed/*methods']

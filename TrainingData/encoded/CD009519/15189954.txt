@@ -1,0 +1,1 @@
+MeSHAnimals MeSHDiagnosis MeSHDifferential MeSHFemale MeSHHumans MeSHLungDisease MeSHLungNeoplasm MeSHMale MeSHSensitivityandSpecificity MeSHSolitaryPulmonaryNodul MeSHTomography MeSHEmission-Compute

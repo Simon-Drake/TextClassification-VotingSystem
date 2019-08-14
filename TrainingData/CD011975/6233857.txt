@@ -1,0 +1,3 @@
+Antenatal detection of Down syndrome by sonography.
+?
+['Adult', 'Down Syndrome/*diagnosis', 'Endocardial Cushion Defects/diagnosis', 'Female', 'Humans', 'Intestinal Obstruction/diagnosis', 'Intestine, Small', 'Pregnancy', '*Prenatal Diagnosis', '*Ultrasonography']

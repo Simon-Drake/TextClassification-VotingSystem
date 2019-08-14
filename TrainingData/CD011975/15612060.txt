@@ -1,0 +1,3 @@
+Potential trisomy 21 misdiagnosis by amniocentesis due to a resorbed twin.
+?
+['*Amniocentesis', '*Diseases in Twins', 'Down Syndrome/*diagnosis/*genetics', 'False Negative Reactions', 'Female', '*Fetal Resorption', 'Humans', 'Karyotyping', 'Male', 'Pregnancy']

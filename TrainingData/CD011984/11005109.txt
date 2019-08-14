@@ -1,0 +1,3 @@
+Should sonographic screening for fetal Down syndrome be applied to low risk women?
+?
+['Down Syndrome/*diagnostic imaging/genetics', 'Female', 'Humans', 'Pregnancy', 'Pregnancy Trimester, Second', 'Risk Factors', '*Ultrasonography, Prenatal']

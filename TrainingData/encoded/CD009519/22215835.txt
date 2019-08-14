@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHDiagnosis MeSHDifferential MeSHEndosonography MeSHHumans MeSHLangerhansCellSarcom MeSHLungNeoplasm MeSHMale MeSHMediastinalNeoplasm MeSHMiddleAged MeSHMultiplePulmonaryNodule MeSHNeoplasmInvasiveness MeSHPositron-EmissionTomography MeSHTomography MeSHX-RayComputed

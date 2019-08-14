@@ -1,0 +1,1 @@
+MeSHAlgorithms MeSHHeadandNeckNeoplasm MeSHHumans MeSHLungNeoplasm MeSHMonteCarloMethod MeSHPositron-EmissionTomography MeSHRadiometr MeSHRadiotherapyDosage MeSHRadiotherapyPlanning MeSHComputer-Assiste MeSHRadiotherapy MeSHIntensity-Modulate MeSHSoftware MeSHUncertainty

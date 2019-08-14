@@ -1,0 +1,3 @@
+[Color scintigraphy of the lung in bronchial carcinoma].
+?
+['Aged', 'Bronchial Neoplasms/*diagnosis/diagnostic imaging', 'Carcinoma, Basal Cell/*diagnosis/diagnostic imaging', 'Carcinoma, Squamous Cell/*diagnosis/diagnostic imaging', 'Color', 'Diagnosis, Differential', 'Humans', 'Male', 'Middle Aged', 'Radiography', '*Radionuclide Imaging', 'Serum Albumin, Radio-Iodinated', 'Tomography']

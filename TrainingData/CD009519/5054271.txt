@@ -1,0 +1,3 @@
+The roentgenologic aspects of metastatic pheochromocytoma.
+?
+['Adolescent', 'Adrenal Gland Neoplasms/*diagnostic imaging', 'Adult', 'Aged', 'Bone Neoplasms/*diagnostic imaging/radiotherapy', 'Cerebral Angiography', 'Female', 'Humans', 'Iodine Isotopes', 'Kidney/diagnostic imaging', 'Liver Neoplasms/*diagnosis', 'Lung Neoplasms/*diagnostic imaging', 'Lymphatic Metastasis', 'Male', 'Middle Aged', 'Myelography', 'Neoplasm Metastasis', 'Pheochromocytoma/*diagnostic imaging/radiotherapy', 'Radionuclide Imaging', 'Radiotherapy Dosage', 'Recurrence', 'Tomography', 'Urography']

@@ -1,0 +1,1 @@
+MeSHAgeFactors MeSHAnalgesia MeSHPatient-Controlled MeSHAnalgesics MeSHOpioi MeSHCarcinoma MeSHSquamousCel MeSHDeliriu MeSHFemale MeSHFentany MeSHHumans MeSHLogisticModels MeSHMale MeSHMiddleAged MeSHMorphin MeSHMouthNeoplasm MeSHOralSurgicalProcedure MeSHPostoperativeCare MeSHRetrospectiveStudies MeSHRiskFactors MeSHSexFactors

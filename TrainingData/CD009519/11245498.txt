@@ -1,0 +1,3 @@
+Evaluation of the role of positron emission tomography in oncology.
+?
+['Carcinoma, Non-Small-Cell Lung/*diagnosis', 'Humans', 'Lung Neoplasms/*diagnosis', 'Randomized Controlled Trials as Topic', '*Tomography, Emission-Computed']

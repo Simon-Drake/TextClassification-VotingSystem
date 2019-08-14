@@ -1,0 +1,3 @@
+Challenges across the life span for persons with disabilities.
+?
+['Abortion, Eugenic', 'Behavior', 'Behavior Control', 'Bioethical Issues', 'Bioethics', 'Civil Rights', 'Cognition', 'Comprehension', 'Decision Making', 'Deinstitutionalization', '*Disabled Persons', 'Down Syndrome', 'Euthanasia, Passive', 'Female', 'Humans', 'Infant, Low Birth Weight', 'Infant, Newborn', 'Informed Consent', 'Life Support Care', '*Mentally Disabled Persons', '*Patient Care', 'Prenatal Diagnosis', 'Quality of Life', 'Rape', 'Sterilization, Reproductive', 'United States', 'Women']

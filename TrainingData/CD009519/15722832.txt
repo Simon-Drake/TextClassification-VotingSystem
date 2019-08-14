@@ -1,0 +1,3 @@
+False negative F-18 FDG PET/CT in nonsmall cell lung cancer bone metastases.
+?
+['Bone Neoplasms/*diagnostic imaging/*secondary', 'Carcinoma, Non-Small-Cell Lung/*diagnostic imaging/*secondary', 'False Negative Reactions', 'Female', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Middle Aged', 'Positron-Emission Tomography/methods', 'Radiopharmaceuticals', '*Subtraction Technique', '*Technetium Tc 99m Medronate', 'Tomography, X-Ray Computed/methods']

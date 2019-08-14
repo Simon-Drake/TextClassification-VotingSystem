@@ -1,0 +1,3 @@
+Ethnic differences in outcome of serum screening for Down's syndrome. Differences in median values may account for differences in false positive rates.
+?
+['Asia/ethnology', 'Down Syndrome/*ethnology', 'False Positive Reactions', 'Female', 'Humans', 'Male', 'Pregnancy', '*Prenatal Diagnosis', 'United Kingdom']

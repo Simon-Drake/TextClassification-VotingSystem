@@ -1,0 +1,3 @@
+Diagnostic procedures in the evaluation of hepatic diseases. Nuclear magnetic resonance tomographic imaging.
+?
+['Adenocarcinoma/secondary', 'Carcinoma, Hepatocellular/diagnosis', 'Cholestasis/diagnosis', 'Humans', 'Liver Diseases/*diagnosis', 'Liver Neoplasms/diagnosis/secondary', 'Lung Neoplasms/diagnosis', '*Magnetic Resonance Spectroscopy', 'Rectal Neoplasms/diagnosis', 'Tomography/*methods']

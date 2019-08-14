@@ -1,0 +1,3 @@
+Maternal serum-AFP as screening test for Down syndrome.
+?
+['Down Syndrome/*diagnosis', 'Female', 'Humans', 'Pregnancy', '*Prenatal Diagnosis', 'alpha-Fetoproteins/*blood']

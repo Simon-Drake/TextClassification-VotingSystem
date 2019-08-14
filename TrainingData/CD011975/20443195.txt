@@ -1,0 +1,3 @@
+Genetic sonography: the historical and clinical role of fetal echocardiography.
+?
+['Amniocentesis/history', 'Down Syndrome/*diagnostic imaging/genetics', 'Echocardiography/history/*methods', 'Female', 'Heart Defects, Congenital/*diagnostic imaging', 'History, 20th Century', 'Humans', 'Pregnancy', 'Pregnancy Trimester, Second', 'Ultrasonography, Prenatal/history/*methods', 'alpha-Fetoproteins/analysis']

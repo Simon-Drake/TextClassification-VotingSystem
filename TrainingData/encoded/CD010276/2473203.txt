@@ -1,0 +1,1 @@
+MeSHCarcinoma MeSHSquamousCel MeSHDendriticCell MeSHEpidermi MeSHEpitheliu MeSHHLA-DRAntigen MeSHHumans MeSHImmunoenzymeTechniques MeSHKeratins MeSHLangerhansCell MeSHLeukoplakia MeSHOra MeSHLichenPlanu MeSHMouthDisease MeSHMouthMucos MeSHMouthNeoplasm

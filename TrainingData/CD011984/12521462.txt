@@ -1,0 +1,3 @@
+Serum screening for anomalies in pregnancy: reasons for acceptance or refusal of the test.
+?
+['Adult', 'Cohort Studies', 'Down Syndrome/blood/*diagnosis', 'England', 'Female', 'Genetic Counseling', '*Health Knowledge, Attitudes, Practice', 'Humans', 'Informed Consent', 'Maternal Age', '*Patient Acceptance of Health Care', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy, High-Risk', '*Prenatal Diagnosis', 'Surveys and Questionnaires']

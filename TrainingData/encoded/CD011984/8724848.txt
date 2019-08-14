@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHBaseSequence MeSHBlotting MeSHNorthern MeSHChromosomes MeSHHuman MeSHPair21 MeSHCloning MeSHMolecular MeSHDNA MeSHComplementary MeSHDownSyndrome MeSHExons MeSHHumans MeSHMicrosatelliteRepeats MeSHMolecularSequenceData MeSHProteins MeSHRestrictionMapping

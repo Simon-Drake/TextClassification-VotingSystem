@@ -1,0 +1,3 @@
+CT ratios: parameter estimates are inconsistent with SURUSS publications?
+?
+['Down Syndrome/*diagnosis', 'False Positive Reactions', 'Female', 'Humans', '*Models, Statistical', 'Normal Distribution', 'Predictive Value of Tests', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy Trimester, Second', '*Prenatal Diagnosis']

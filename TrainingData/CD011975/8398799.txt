@@ -1,0 +1,3 @@
+[The child with Down syndrome as a pre- and postnatal patient].
+?
+['Down Syndrome/*nursing', 'Education', 'Female', 'Humans', 'Infant, Newborn', 'Postnatal Care', 'Pregnancy', 'Prenatal Care', 'Prenatal Diagnosis']

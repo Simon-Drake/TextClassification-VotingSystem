@@ -1,0 +1,3 @@
+Chromosome abnormalities in amniotic and chorionic villus cells in Singapore.
+?
+['Amniocentesis', '*Amniotic Fluid/cytology', 'Cells, Cultured', '*Chorionic Villi/ultrastructure', 'Chorionic Villi Sampling', 'Chromosome Aberrations/*diagnosis/*genetics', 'Chromosome Disorders', 'Female', 'Humans', 'Mosaicism/genetics', 'Pregnancy', 'Singapore']

@@ -1,0 +1,3 @@
+Comparison of serum markers in first-trimester down syndrome screening.
+?
+['Biomarkers/blood', 'Chorionic Gonadotropin/*blood', 'Chorionic Gonadotropin, beta Subunit, Human/blood', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Pregnancy', 'Pregnancy Trimester, First']

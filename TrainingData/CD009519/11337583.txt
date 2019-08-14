@@ -1,0 +1,3 @@
+Clinical skills in conducting research studies on clinical applications of oncologic PET.
+?
+['Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*pathology', 'Lymph Nodes/*diagnostic imaging', 'Lymphatic Metastasis', 'Mediastinum/*diagnostic imaging', 'Radiopharmaceuticals', '*Tomography, Emission-Computed']

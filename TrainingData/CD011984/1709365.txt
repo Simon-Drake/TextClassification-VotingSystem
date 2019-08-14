@@ -1,0 +1,3 @@
+Low MSAFP and new biochemical markers for Down syndrome: implications for genetic counselors.
+?
+['Biomarkers/*blood', 'Down Syndrome/*diagnosis/epidemiology/genetics', 'Female', 'Genetic Counseling/*methods', 'Genetic Testing/*methods/standards/trends', 'Health Policy', 'Humans', 'Maternal Age', 'Pregnancy/*blood', 'Prenatal Diagnosis/*methods/standards/trends', 'Professional-Patient Relations', 'Risk Factors', 'Sensitivity and Specificity', 'alpha-Fetoproteins/*chemistry']

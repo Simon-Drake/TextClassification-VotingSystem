@@ -1,0 +1,3 @@
+[Clinical picture of cicatricial lung neoplasms].
+?
+['Biopsy', 'Bronchial Neoplasms/diagnosis/diagnostic imaging/epidemiology/*etiology/surgery', 'Bronchoscopy', 'Carcinoma/diagnosis/diagnostic imaging/epidemiology/*etiology/surgery', 'Catheterization', 'Cell Transformation, Neoplastic/complications', 'Cicatrix/*complications', 'Female', 'Humans', 'Lung', 'Lung Neoplasms/diagnosis/diagnostic imaging/epidemiology/*etiology/surgery', 'Male', 'Middle Aged', 'Radiography', 'Sex Factors', 'Sputum/cytology', 'Tomography']

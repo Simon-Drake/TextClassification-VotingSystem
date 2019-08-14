@@ -1,0 +1,3 @@
+Genetic disorders: methods of avoiding the birth of an affected child.
+?
+['Down Syndrome/diagnosis', 'Embryonic Development', 'Female', 'Genetic Diseases, Inborn/*diagnosis/genetics/*prevention & control', 'Humans', 'Pregnancy', 'Pregnancy, Multiple', '*Prenatal Diagnosis']

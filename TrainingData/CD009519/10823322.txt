@@ -1,0 +1,3 @@
+PET in oncology I--lung, breast, soft tissue sarcoma.
+?
+['Breast Neoplasms/*diagnostic imaging', 'Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*diagnostic imaging', 'Radiopharmaceuticals', 'Sarcoma/*diagnostic imaging', '*Tomography, Emission-Computed']

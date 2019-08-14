@@ -1,0 +1,3 @@
+[A case of non-tuberculosis mycobacterium and lung cancer showing solitary nodular shadow].
+?
+['Aged', 'Diagnosis, Differential', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/complications/*diagnostic imaging', 'Male', 'Mycobacterium avium-intracellulare Infection/complications/*diagnostic imaging', '*Positron-Emission Tomography', '*Radiopharmaceuticals', 'Tyrosine/*analogs & derivatives']

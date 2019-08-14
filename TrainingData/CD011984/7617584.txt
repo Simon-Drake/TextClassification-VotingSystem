@@ -1,0 +1,3 @@
+Down's syndrome screening in twin pregnancies.
+?
+['Chorionic Gonadotropin/*blood', 'Diseases in Twins/*diagnosis', 'Down Syndrome/*diagnosis', 'Ethics, Medical', 'Female', '*Genetic Testing', 'Humans', 'Pregnancy', '*Prenatal Diagnosis']

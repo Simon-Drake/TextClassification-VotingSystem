@@ -1,0 +1,1 @@
+MeSHBiomarkers MeSHTumo MeSHBiopsy MeSHNeedle MeSHHumans MeSHLungNeoplasm MeSHPneumonectomy MeSHPositron-EmissionTomography MeSHPredictiveValueofTests MeSHSolitaryFibrousTumor MeSHSolitaryPulmonaryNodul MeSHThoracotomy MeSHTomography MeSHX-RayComputed MeSHTreatmentOutcome

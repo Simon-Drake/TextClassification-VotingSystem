@@ -1,0 +1,3 @@
+Focal cerebral hypermetabolism due to nonconvulsive status epilepticus mimicking metastasis in staging a patient with lung cancer by FDG PET/CT.
+?
+['Aged', 'Brain Diseases, Metabolic/*diagnosis/diagnostic imaging/etiology', 'Brain Neoplasms/diagnostic imaging/*secondary', 'Diagnosis, Differential', 'Epilepsy, Generalized/*complications', '*Fluorodeoxyglucose F18', 'Humans', 'Lung Neoplasms/*pathology', 'Male', 'Neoplasm Staging', '*Positron-Emission Tomography', '*Tomography, X-Ray Computed']

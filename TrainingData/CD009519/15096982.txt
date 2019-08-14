@@ -1,0 +1,3 @@
+Hydropneumothorax on FDG PET imaging.
+?
+['Adult', '*Fluorodeoxyglucose F18', 'Humans', 'Hydropneumothorax/complications/*diagnostic imaging', 'Incidental Findings', 'Lung Neoplasms/complications/*diagnostic imaging', 'Male', 'Radiography', 'Radiopharmaceuticals', 'Tomography, Emission-Computed/*methods']

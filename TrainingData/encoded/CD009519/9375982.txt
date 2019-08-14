@@ -1,0 +1,1 @@
+MeSHBrainNeoplasm MeSHFluorodeoxyglucoseF18 MeSHHeadandNeckNeoplasm MeSHHumans MeSHLungNeoplasm MeSHNeoplasm MeSHRadiography MeSHTomography MeSHEmission-Computed

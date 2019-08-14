@@ -1,0 +1,3 @@
+Cancer research at CHEST 2012 conference.
+?
+['*Biomedical Research/trends', '*Bronchoalveolar Lavage Fluid/chemistry', 'Cancer Care Facilities/*trends', 'Carcinoma, Non-Small-Cell Lung/diagnosis/therapy', 'Connecticut', 'Humans', 'Hypoglycemic Agents/administration & dosage', 'Illinois', '*Lung Neoplasms/diagnosis/epidemiology/etiology/mortality/prevention & control/therapy', '*Mass Screening/methods/standards', 'Massachusetts', 'Metformin/administration & dosage', 'MicroRNAs/analysis', 'Radiation Dosage', 'Randomized Controlled Trials as Topic', 'Smoking/adverse effects', 'Time Factors', '*Tomography, Spiral Computed/methods', 'United States']

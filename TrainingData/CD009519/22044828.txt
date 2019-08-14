@@ -1,0 +1,3 @@
+A fatal case of pure giant cell carcinoma of the lung.
+?
+['*Carcinoma, Giant Cell/diagnosis/drug therapy/pathology/surgery', 'Chemotherapy, Adjuvant', 'Cisplatin/therapeutic use', 'Etoposide/therapeutic use', 'Fatal Outcome', 'Humans', '*Lung Neoplasms/diagnosis/drug therapy/pathology/surgery', 'Male', 'Middle Aged', 'Multimodal Imaging', 'Positron-Emission Tomography', 'Tomography, X-Ray Computed']

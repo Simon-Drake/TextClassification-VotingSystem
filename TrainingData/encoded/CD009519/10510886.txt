@@ -1,0 +1,1 @@
+MeSHBiologicalTransport MeSHCarcinoma MeSHBronchogeni MeSHFluorodeoxyglucoseF1 MeSHHumans MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPulmonaryAtelectasi MeSHRadiopharmaceutical MeSHThalliumRadioisotope MeSHTomography MeSHEmission-Computed MeSHTomography MeSHEmission-Computed MeSHSingle-Photon MeSHTomography MeSHX-RayComputed

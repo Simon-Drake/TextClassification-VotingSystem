@@ -1,0 +1,1 @@
+MeSHAged MeSHCarcinoma MeSHNon-Small-CellLun MeSHFemale MeSHFluorodeoxyglucoseF18 MeSHHumans MeSHKaplan-MeierEstimate MeSHLungNeoplasm MeSHMale MeSHMiddleAged MeSHPleuralEffusion MeSHMalignan MeSHPositron-EmissionTomography MeSHPredictiveValueofTests MeSHPrognosis MeSHRadiopharmaceuticals MeSHRetrospectiveStudies

@@ -1,0 +1,3 @@
+[Possibilities and limitations of transverso-axial tomography in diagnosis of pulmonary cancer].
+?
+['Humans', '*Lung Neoplasms', '*Tomography', '*Tomography, X-Ray Computed']

@@ -1,0 +1,1 @@
+MeSHCysts MeSHDiagnosis MeSHDifferential MeSHEndometrium MeSHFemale MeSHHumans MeSHHysterectomy MeSHLaparotomy MeSHMiddleAged MeSHTomography MeSHX-RayComputed MeSHTreatmentOutcome MeSHUltrasonography MeSHUterineCervicalNeoplasms MeSHUterineDiseases

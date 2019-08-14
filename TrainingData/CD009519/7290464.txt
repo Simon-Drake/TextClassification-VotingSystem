@@ -1,0 +1,3 @@
+[Preoperative evaluation of bronchogenic cancer by traditional and computerized tomography].
+The Authors verified the diagnostic incremental data furnished by computerized tomography in respect to traditional tomography in assessing and staging lung cancer. This comparative study was based on eight diagnostic parameters, analysed in 150 strongly suspected patients. It is concluded that computerized tomography allows to give a very accurate judgement about the stage of the cancer, reducing the need of diagnostic thoracotomies.
+['Adult', 'Aged', 'Carcinoma, Bronchogenic/diagnosis/*diagnostic imaging', 'Humans', 'Lung Neoplasms/diagnosis/*diagnostic imaging', 'Male', 'Middle Aged', 'Neoplasm Staging/*methods', '*Tomography', '*Tomography, X-Ray Computed']

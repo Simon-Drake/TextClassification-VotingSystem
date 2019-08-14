@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHDentists MeSHHumans MeSHMicronucleusTests MeSHMouthMucos MeSHMouthNeoplasm MeSHPhysicalExamination MeSHPhysicians MeSHFamily MeSHPrecancerousCondition MeSHStainingandLabelin MeSHTimeFactors

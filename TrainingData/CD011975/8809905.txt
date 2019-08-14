@@ -1,0 +1,3 @@
+Serum screening in complete triploidy 69,XXX.
+?
+['Adult', '*Amniocentesis', '*Aneuploidy', 'Female', 'Humans', 'Pregnancy']

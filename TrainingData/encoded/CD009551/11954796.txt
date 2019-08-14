@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAspergillusnige MeSHCloning MeSHMolecular MeSHEndoplasmicReticulu MeSHFungalProtein MeSHGlucoseOxidas MeSHHSP70Heat-ShockProtein MeSHHeat-ShockProtein MeSHMolecularSequenceData MeSHPichi MeSHRecombinantProtein MeSHSequenceHomology MeSHAminoAcid

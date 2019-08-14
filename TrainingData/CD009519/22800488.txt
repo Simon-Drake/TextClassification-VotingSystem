@@ -1,0 +1,3 @@
+[Clinicopathologic study of pulmonary epithelioid hemangioendothelioma in thoracoscopic biopsy].
+?
+['Adenocarcinoma/metabolism/pathology', 'Adult', 'Antigens, CD31/metabolism', 'Antigens, CD34/metabolism', 'Biopsy', 'Diagnosis, Differential', 'Follow-Up Studies', 'Hemangioendothelioma, Epithelioid/diagnostic imaging/metabolism/*pathology/surgery', 'Humans', 'Lung/metabolism/pathology', 'Lung Neoplasms/diagnostic imaging/metabolism/*pathology/surgery', 'Male', 'Mesothelioma/metabolism/pathology', 'Middle Aged', 'Multimodal Imaging', 'Positron-Emission Tomography', 'Thoracoscopy', 'Tomography, X-Ray Computed', 'Tuberculosis, Pulmonary/metabolism/pathology']

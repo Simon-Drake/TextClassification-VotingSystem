@@ -1,0 +1,3 @@
+[Roentgen diagnosis of lung cancer. Review of the most important examining methods].
+?
+['Bronchography', 'Carcinoma, Bronchogenic/*diagnostic imaging', 'Humans', 'Mass Chest X-Ray', 'Tomography']

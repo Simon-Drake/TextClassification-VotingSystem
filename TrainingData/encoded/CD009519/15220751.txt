@@ -1,0 +1,1 @@
+MeSHBiopsy MeSHNeedle MeSHDecisionSupportTechniques MeSHHumans MeSHLungNeoplasm MeSHMassChestX-Ray MeSHPositron-EmissionTomography MeSHProbability MeSHSolitaryPulmonaryNodul MeSHThoracotomy MeSHTomography MeSHX-RayComputed

@@ -1,0 +1,3 @@
+Confined placental mosaicism for chromosome 7 detected by comparative genomic hybridization.
+?
+['*Chromosomes, Human, Pair 7', 'Female', 'Fetal Growth Retardation/*genetics', 'Humans', '*Mosaicism', '*Nucleic Acid Hybridization', '*Placenta', 'Pregnancy']

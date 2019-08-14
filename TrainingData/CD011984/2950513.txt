@@ -1,0 +1,3 @@
+The effectiveness of genetic counseling psycho-social determinants.
+?
+['Adult', 'Decision Making', '*Down Syndrome/diagnosis', 'Female', '*Genetic Counseling', 'Humans', 'Middle Aged', 'Mothers/*psychology', 'Pregnancy', 'Prenatal Diagnosis', 'Recurrence', 'Risk']

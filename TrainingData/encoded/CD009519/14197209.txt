@@ -1,0 +1,1 @@
+MeSHBronchialNeoplasms MeSHCarcinoma MeSHCarcinoma MeSHSquamousCell MeSHHumans MeSHLungNeoplasms MeSHNeoplasm MeSHPleuralEffusion MeSHPulmonaryAtelectasis MeSHPulmonaryEmphysema MeSHRadiography MeSHThoracic MeSHTomography

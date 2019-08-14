@@ -1,0 +1,1 @@
+MeSHAdult MeSHCarcinoidTumo MeSHDiagnosis MeSHDifferential MeSHFollow-UpStudies MeSHHumans MeSHLungNeoplasm MeSHMale MeSHNeoplasmRecurrence MeSHLoca MeSHPneumonectom MeSHPositron-EmissionTomography MeSHTimeFactors MeSHTomography MeSHX-RayComputed

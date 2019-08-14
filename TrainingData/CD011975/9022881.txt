@@ -1,0 +1,3 @@
+Effects of gestation dating in Down's screening.
+?
+['Chorionic Gonadotropin/analysis', 'Down Syndrome/*diagnosis/*diagnostic imaging', 'Female', '*Gestational Age', 'Humans', 'Models, Statistical', 'Pregnancy', 'Prenatal Diagnosis/*methods', 'Risk Factors', 'Ultrasonography', 'alpha-Fetoproteins/analysis']

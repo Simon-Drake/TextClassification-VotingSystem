@@ -1,0 +1,3 @@
+[Growth disorders. Classification, diagnosis and therapy. 1. Constitutional dwarfism, dwarfism with unusual body proportions, intrauterine dwarfism, chromosome abnormalities].
+?
+['Achondroplasia/genetics', 'Chromosome Aberrations/classification', 'Chromosome Disorders', 'Down Syndrome/diagnosis', 'Dwarfism/*diagnosis/therapy', 'Female', 'Fetal Growth Retardation/diagnosis', 'Growth Disorders/*classification', 'Humans', 'Infant, Newborn', 'Mutation', 'Pregnancy', 'Turner Syndrome/diagnosis']

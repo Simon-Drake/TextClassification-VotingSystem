@@ -1,0 +1,3 @@
+FDG imaging of a pulmonary artery sarcoma.
+Fluorine-18-2-fluro-2-deoxy-D-glucose-positron emission tomographic tumor imaging was employed to aid in the diagnosis of a patient with a right hilar mass. Based on preoperative imaging and intraoperative findings, a right pneumonectomy was performed for what proved to be a pulmonary artery sarcoma.
+['Biopsy', 'Diagnosis, Differential', 'Female', '*Fluorodeoxyglucose F18', 'Humans', 'Leiomyosarcoma/*diagnostic imaging/pathology/surgery', 'Middle Aged', 'Pneumonectomy', 'Pulmonary Artery/*diagnostic imaging/pathology/surgery', '*Tomography, Emission-Computed', 'Vascular Neoplasms/*diagnostic imaging/pathology/surgery']

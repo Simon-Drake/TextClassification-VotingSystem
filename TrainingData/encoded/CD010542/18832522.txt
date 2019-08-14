@@ -1,0 +1,1 @@
+MeSHAdult MeSHAgeDistribution MeSHBiopsy MeSHBodyMassIndex MeSHElasticityImagingTechniques MeSHEpidemiologicMethods MeSHFemale MeSHHepatitisB MeSHChroni MeSHHongKon MeSHHumans MeSHLive MeSHLiverCirrhosi MeSHMale MeSHMetabolicSyndrome MeSHMiddleAged MeSHProspectiveStudies

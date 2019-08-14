@@ -1,0 +1,1 @@
+MeSHBiomarkers MeSHC-ReactiveProtein MeSHCA-125Antigen MeSHCA-19-9Antigen MeSHCase-ControlStudies MeSHEndometriosis MeSHFemale MeSHHumans MeSHInterleukin-6 MeSHInterleukin-8 MeSHLogisticModels MeSHTumorNecrosisFactor-alpha

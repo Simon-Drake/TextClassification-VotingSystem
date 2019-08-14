@@ -1,0 +1,1 @@
+MeSHAllergens MeSHAntigens MeSHFungal MeSHFungi MeSHHumans MeSHImmunoglobulinE MeSHImmunoglobulinG MeSHProteinBinding MeSHReagentKits MeSHDiagnostic MeSHSkinTests

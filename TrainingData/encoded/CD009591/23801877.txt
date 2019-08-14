@@ -1,0 +1,1 @@
+MeSHAbdominalPain MeSHAdult MeSHBiopsy MeSHCA-125Antigen MeSHCA-19-9Antigen MeSHCecalDiseases MeSHCrohnDisease MeSHDiagnosis MeSHDifferential MeSHDiarrhea MeSHEndometriosis MeSHEndoscopy MeSHGastrointestinal MeSHFemale MeSHHumans MeSHIlealDiseases MeSHIleus MeSHMembraneProteins MeSHPredictiveValueofTests MeSHTomography MeSHX-RayComputed MeSHTreatmentOutcome MeSHVomiting

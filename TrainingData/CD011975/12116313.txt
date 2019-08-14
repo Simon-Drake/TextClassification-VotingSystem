@@ -1,0 +1,3 @@
+Varix of the portal vein: prenatal diagnosis in a fetus with mosaic trisomy 9 syndrome.
+?
+['Adult', '*Chromosomes, Human, Pair 9', 'Craniofacial Abnormalities/genetics', 'Female', 'Gestational Age', 'Humans', 'Kidney/abnormalities', '*Mosaicism', '*Portal Vein', 'Pregnancy', '*Trisomy', 'Ultrasonography, Prenatal', 'Varicose Veins/*diagnosis/diagnostic imaging/*genetics']

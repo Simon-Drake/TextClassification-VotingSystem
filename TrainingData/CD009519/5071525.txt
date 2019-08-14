@@ -1,0 +1,3 @@
+Isolated bronchial papillomas.
+?
+['Bronchi/pathology', 'Bronchial Neoplasms/*diagnosis/pathology/surgery', 'Bronchoscopy', 'Carcinoma, Squamous Cell/diagnosis', 'Diagnosis, Differential', 'Humans', 'Middle Aged', 'Papilloma/*diagnosis/pathology/surgery', 'Tomography']

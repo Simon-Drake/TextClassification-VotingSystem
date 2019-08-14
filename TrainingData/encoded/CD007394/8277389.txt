@@ -1,0 +1,1 @@
+MeSHAgglutinationTests MeSHAnimals MeSHAntibodies MeSHProtozoan MeSHBiologicalAssay MeSHBrain MeSHEnzyme-LinkedImmunosorbentAssay MeSHFemale MeSHHeart MeSHHemagglutinationTests MeSHLatexFixationTests MeSHLiver MeSHMice MeSHMuscles MeSHPoultryDiseases MeSHToxoplasma MeSHToxoplasmosis MeSHAnimal MeSHTurkeys

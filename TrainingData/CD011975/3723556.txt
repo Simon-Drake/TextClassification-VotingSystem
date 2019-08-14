@@ -1,0 +1,3 @@
+Prenatal detection of monosomy 18p and trisomy 18q mosaicism with unexpected fetal phenotype.
+A mosaic karyotype 46,XX,del(18)(p11)/46,XX,-18,+?i(18q) was found in cultured amniotic cells. Fetal blood sampling confirmed the presence of both cell lines. The pregnancy was terminated and the two cell lines were demonstrated in varying proportions in the fetal tissues. The few abnormal features seen in the fetus may represent a mild expression of the 18p-- phenotype inhibiting the effects of the trisomy 18q.
+['Abortion, Induced', 'Adult', 'Amniotic Fluid/cytology', 'Chromosome Banding', '*Chromosome Deletion', '*Chromosomes, Human, 16-18', 'Female', 'Humans', 'Karyotyping', '*Mosaicism', 'Phenotype', 'Pregnancy', '*Prenatal Diagnosis', '*Trisomy']

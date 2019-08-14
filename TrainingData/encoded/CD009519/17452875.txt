@@ -1,0 +1,1 @@
+MeSHChild MeSHCryptococcosi MeSHDiagnosis MeSHDifferential MeSHFluorodeoxyglucoseF1 MeSHHumans MeSHLungNeoplasm MeSHMale MeSHNeoplasmMetastasis MeSHPneumoni MeSHPositron-EmissionTomograph MeSHRadiopharmaceuticals MeSHRhabdomyosarcom MeSHTomography MeSHX-RayCompute

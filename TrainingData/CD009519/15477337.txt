@@ -1,0 +1,3 @@
+Screening and diagnosis of NSCLC.
+?
+['Biopsy, Needle', 'Bronchoscopy', 'Carcinoma, Non-Small-Cell Lung/*diagnosis', 'Humans', 'Lung Neoplasms/*diagnosis', '*Mass Screening', 'Tomography, Spiral Computed']

@@ -1,0 +1,3 @@
+[Prenatal diagnosis of genetic illnesses. 500 cases].
+?
+['Adult', 'Amniocentesis', 'Down Syndrome/*diagnosis', 'Female', 'Humans', 'Karyotyping', 'Middle Aged', 'Pregnancy']

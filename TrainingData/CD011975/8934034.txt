@@ -1,0 +1,3 @@
+The sonographic detection of trisomies 13, 18, and 21.
+?
+['Anthropometry', 'Chromosome Aberrations/*diagnostic imaging', 'Chromosome Disorders', '*Chromosomes, Human, Pair 13', '*Chromosomes, Human, Pair 18', 'Down Syndrome/*diagnostic imaging', 'Female', 'Humans', 'Pregnancy', 'Pregnancy Trimester, First', 'Risk Factors', '*Trisomy', '*Ultrasonography, Prenatal']

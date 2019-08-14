@@ -1,0 +1,3 @@
+[A case of atypical course of lung neoplasm].
+?
+['*Carcinoma, Bronchogenic', 'Diagnosis, Differential', 'Female', 'Humans', 'Lung Neoplasms/surgery', 'Middle Aged', 'Neoplasm Metastasis', 'Tomography', 'Tuberculosis, Pulmonary/diagnosis']

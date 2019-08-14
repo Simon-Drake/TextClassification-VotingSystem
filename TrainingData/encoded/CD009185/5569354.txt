@@ -1,0 +1,1 @@
+MeSHAutopsy MeSHBloodGlucose MeSHBloodSedimentation MeSHBodyTemperature MeSHCandid MeSHCandidiasi MeSHCreatinin MeSHDiabetesComplications MeSHFemale MeSHHumans MeSHKidne MeSHKidneyDisease MeSHKidneyPelvi MeSHLeukocyteCount MeSHMiddleAged MeSHUremia MeSHUrinaryTractInfection

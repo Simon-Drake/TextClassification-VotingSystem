@@ -1,0 +1,1 @@
+MeSHBiomarkers MeSHTumo MeSHBiopsy MeSHCarcinoma MeSHSquamousCel MeSHCytodiagnosis MeSHHistocytochemistry MeSHHumans MeSHKeratin MeSHMouthNeoplasm MeSHPredictiveValueofTests MeSHSensitivityandSpecificity

@@ -1,0 +1,3 @@
+Non-invasive prenatal diagnosis--toward a new horizon.
+?
+['Down Syndrome/diagnosis', 'Female', 'Fetal Blood', '*Genotype', 'Humans', 'Pregnancy', '*Prenatal Diagnosis', 'Rh-Hr Blood-Group System/*genetics']

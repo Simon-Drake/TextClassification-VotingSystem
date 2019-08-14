@@ -1,0 +1,1 @@
+MeSHAminoAcidSequence MeSHAspergillusoryza MeSHBaseSequence MeSHCloning MeSHMolecular MeSHEscherichiacol MeSHGeneExpressionRegulation MeSHBacterial MeSHGenes MeSHBacterial MeSHLipas MeSHMolecularSequenceData MeSHSequenceAlignment
